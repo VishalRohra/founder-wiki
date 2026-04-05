@@ -14,17 +14,15 @@ Ryan Junee is the founder and CEO of [Parsable](http://www.parsable.com), an ind
 
 ## Worldview
 
-Junee reframes enterprise sales for technical founders. His central analogy: just as a hacker understands and influences complex computer systems, an enterprise salesperson understands and influences complex human systems. "Where a computer system is a complex network of hardware and software, a large enterprise is a complex network of people and processes."
+Junee reframes [[Enterprise Sales|enterprise sales]] for technical founders [1]. His central analogy: just as a hacker understands and influences complex computer systems, an enterprise salesperson understands and influences complex human systems. "Where a computer system is a complex network of hardware and software, a large enterprise is a complex network of people and processes" [1].
 
-Key principles:
+Key principles [1]:
 - Map the enterprise as a system: identify champions, detractors, IT, procurement, legal, and finance. Understand each player's motivations.
-- Early-stage sales requires "hackers," not "script kiddies." The worst mistake is hiring a process-oriented salesperson from a mature company when you need someone comfortable with uncertainty.
+- Early-stage sales requires "hackers," not "script kiddies." The worst mistake is [[Hiring|hiring]] a process-oriented salesperson from a mature company when you need someone comfortable with uncertainty.
 - Champions are "gold" -- build relationships strong enough that "you should be able to text them any time of night."
 - Instrument the sales process like using a packet sniffer or debugger.
 - "Friendships lead to partnerships" and "transcend the employer."
 
-## Source Inventory
+## References
 
-| Source | Role | Topic |
-|--------|------|-------|
-| 4m-enterprise-sales-for-hackers | Author | Enterprise as a system to hack: player types, tactical advice, hiring for stage |
+1. [Enterprise Sales for Hackers](https://www.ycombinator.com/library/4m-enterprise-sales-for-hackers) — Ryan Junee

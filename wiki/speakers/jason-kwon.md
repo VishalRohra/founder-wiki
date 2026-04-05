@@ -11,21 +11,19 @@ speakers_referenced: []
 
 # Jason Kwon
 
-Jason Kwon is the General Counsel of YC Continuity. He assembled the Series A diligence checklist "after being involved in hundreds of financings with nearly every law firm and VC fund in the valley."
+Jason Kwon is the General Counsel of YC Continuity. He assembled the Series A diligence checklist "after being involved in hundreds of financings with nearly every law firm and VC fund in the valley" [1].
 
 ## Worldview
 
-Kwon approaches fundraising from the legal and structural perspective. His work demystifies the two artifacts founders encounter for the first time at Series A: the term sheet and the diligence process. He focuses on making founders informed participants rather than passive recipients.
+Kwon approaches [[Fundraising|fundraising]] from the legal and structural perspective. His work demystifies the two artifacts founders encounter for the first time at Series A: the term sheet and the diligence process. He focuses on making founders informed participants rather than passive recipients [1][2].
 
 ## Key Contributions
 
-- **Standard Series A Term Sheet** (with [[Aaron Harris]]): Demonstrates what clean, standard terms look like. Key insight: "A contract allocates risks between the parties, so the terms the investor insists on can sometimes say a lot about the investor's perceived risks."
-- **Series A Diligence Checklist**: Comprehensive data room contents covering corporate records, business plan, IP, securities, material agreements, litigation, employees, and equity grants. Having everything ready before signing a term sheet "will cut as much as a week off of your closing process."
-- **Equity grants timing**: Warned that pending grants should be completed before fundraising because a term sheet may invalidate the current 409A valuation.
+- **Standard Series A Term Sheet** (with [[Aaron Harris]]): Demonstrates what clean, standard terms look like [2]. Key insight: "A contract allocates risks between the parties, so the terms the investor insists on can sometimes say a lot about the investor's perceived risks" [2].
+- **Series A Diligence Checklist**: Comprehensive data room contents covering corporate records, business plan, IP, securities, material agreements, litigation, employees, and equity grants [1]. Having everything ready before signing a term sheet "will cut as much as a week off of your closing process" [1].
+- **Equity grants timing**: Warned that pending grants should be completed before fundraising because a term sheet may invalidate the current 409A valuation [1]. See also [[Equity and Compensation]].
 
-## Source Inventory
+## References
 
-| Source | Role | Topic |
-|--------|------|-------|
-| 3h-series-a-diligence-checklist | Co-author (with Aaron Harris) | Complete Series A diligence document checklist |
-| 4P-a-standard-and-clean-series-a-term-sheet | Co-author (with Aaron Harris) | Standard term sheet; dirty terms; board control implications |
+1. [Series A Diligence Checklist](https://www.ycombinator.com/library/3h-series-a-diligence-checklist) — [[Aaron Harris]], Jason Kwon
+2. [A Standard and Clean Series A Term Sheet](https://www.ycombinator.com/library/4P-a-standard-and-clean-series-a-term-sheet) — [[Aaron Harris]], Jason Kwon
