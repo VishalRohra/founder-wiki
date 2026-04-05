@@ -3,95 +3,146 @@ title: Hiring
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["hiring", "first hires", "recruiting", "hiring engineers", "team building", "first engineer", "talent", "onboarding", "HR"]
-related: ["[[Management]]", "[[Financial Survival]]", "[[Early-Stage Tactics]]", "[[Cofounders]]", "[[Equity and Compensation]]", "[[Growth]]"]
-sources: ["4H-how-to-hire-your-first-engineer", "95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups", "2s-advice-for-new-managers", "4G-convincing-engineers-to-join-your-team", "4q-later-stage-advice-for-startups", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "Gu-snapdocs-aaron-king-on-navigating-market-cycles", "7N-building-an-engineering-team", "7g-how-to-build-and-manage-teams"]
-speakers_referenced: ["Harj Taggar", "Paul Graham", "Aaron Epstein", "Sam Altman", "Anu Hariharan", "Aaron King", "Ammon Bartram", "Vinod Khosla"]
+aliases: ["first hires", "recruiting", "hiring engineers", "team building", "talent", "onboarding", "convincing engineers", "recruiting engineers", "engineering hiring"]
+related: ["[[Management]]", "[[The Second Job of a Startup CEO]]", "[[Fundraising]]", "[[YC Essential Startup Advice]]"]
+sources: ["4H-how-to-hire-your-first-engineer", "4G-convincing-engineers-to-join-your-team", "2s-advice-for-new-managers", "4D-yc-s-essential-startup-advice", "3k-the-second-job-of-a-startup-ceo"]
+speakers_referenced: ["Harj Taggar", "Aaron Epstein", "Ali Rowghani", "Patrick Collison"]
 ---
 
 # Hiring
 
-Hiring is where many startups first encounter the tension between [[Growth]] ambition and [[Financial Survival|survival]]. Graham calls hiring too fast "by far the biggest killer of startups that raise money" ([Default alive or default dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead)). The YC canon treats hiring as a high-stakes decision that should be approached with caution, not speed.
+Hiring is one of the highest-leverage activities for a startup founder. [[Aaron Epstein]] states the principle bluntly: "hiring well is the most important thing you can possibly do to positively impact your business and your team." [[Harj Taggar]], cofounder of Triplebyte, has observed enormous variance in how effectively companies hire, with offer acceptance rates ranging from 10% to 90% across companies using the same platform.
 
-## When to Hire
+## Hiring Your First Engineer
 
-Graham argues that founders often hire to solve slow [[Growth|growth]], when the real problem is that the [[Product Development|product]] is not appealing enough. "There is surprisingly little connection between how much a startup spends and how fast it grows" ([Default alive or default dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead)). He cites Airbnb, which waited four months after [[Fundraising|raising money]] before hiring employee #1.
+[[Harj Taggar]] describes hiring the first engineer as "incredibly hard" because founders are already stretched thin. The process involves a lot of dead ends and frustration, and "isn't the kind of work that provides you constant dopamine hits."
 
-The right time to hire is when there is clearly more work than the founders can do and the type of work is well-understood. Hiring into ambiguity -- before the founders know what needs to be built -- creates more problems than it solves. This aligns with the [[Do Things That Don't Scale]] principle: founders should do the work themselves first to understand it deeply.
+### Define What You Are Looking For
 
-King at Snapdocs echoes this: "We didn't hire anyone until there was a clear and painful need. It made running the company harder because we were all spread thin, but ultimately made us incredibly productive, as it meant we were always working on the most important things" ([Snapdocs' Aaron King on navigating market cycles](https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles)).
+List all specific criteria for the ideal hire, both technical (engineering skill) and non-technical (productive working relationship). Mark each candidate against all criteria and "rigorously debate if you think they have enough strengths in some areas to make up for weaknesses in others."
 
-## Your First Engineering Hire
+Hiring decisions always involve tradeoffs: quality vs. speed (rejecting solid candidates to wait for the perfect one) or money vs. time (paying above market to close now).
 
-Taggar recommends focusing the first three engineering hires exclusively on personal network hiring ([How to hire your first engineer](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer)). His 7-step pipeline: list everyone you know who codes, invite them to try your product, ask if they would consider joining, follow up, ask for introductions to engineers they respect, and repeat.
+### Sourcing Channels, Ranked by Effectiveness
 
-He frames hiring as [[Sales and Distribution|sales]]: "Asking anyone to join as your first hire is asking for an order of magnitude greater commitment than pitching an investor to invest" ([Convincing engineers to join your team](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team)). The pitch to candidates is fundamentally different from the pitch to investors -- candidates care about [[Growth|growth]] opportunity, technical challenge, and the team they will work with, not market size.
+Taggar ranks sourcing strategies from most to least effective:
 
-Taggar ranks hiring channels in order of effectiveness: personal networks, marketplaces (Triplebyte, AngelList), inbound applications, cold outreach, recruiters, meetups, agencies. In a dedicated Startup School lecture on building engineering teams, he elaborates on the process: start by listing every good engineer you know (regardless of availability), meet with each, ask if they would join, and if they say no, ask who they would hire in their position. He recommends "sourcing parties" where the team brainstorms potential hires in a shared spreadsheet during a 30-45 minute session ([Building an engineering team](https://www.ycombinator.com/library/7N-building-an-engineering-team)).
+**1. Personal Networks (Best)**
+The most important source. Hiring someone you have already worked with is optimal because you already know the working relationship. You also have a better chance of convincing someone you know to take the risk of joining.
 
-Bartram (Triplebyte co-founder) adds data on interview reliability: inter-rater agreement among technical interviewers across companies scored just over 0.1 on a 0-to-1 scale -- roughly the same rate at which Netflix viewers agree about which movies are best. This means technical interviews are far noisier than most hiring managers believe. His advice: use structured interviews with defined criteria rather than freeform conversations, hide candidate credentials from technical interviewers to reduce bias, and use multi-step coding problems rather than insight-dependent puzzles ([Building an engineering team](https://www.ycombinator.com/library/7N-building-an-engineering-team)).
+Taggar is surprised by how often founders do not fully explore their networks: "It's easy to be quick in assuming that none of your friends are available before even asking them." His recommended process:
 
-## Hire for Hunger
+1. List the best engineers you know, whether you think they are available or not. Go through Facebook and LinkedIn to jog memory.
+2. Invite them to lunch or dinner to talk about the startup.
+3. Make the ask: "Would you consider joining us?"
+4. Whatever they answer, follow up: "If you did join us, which engineers would you most want to hire?"
+5. Ask for introductions to those people.
+6. Repeat with each introduction.
+7. "Repeat ad infinitum. I know public company founders who still do this. Expect to be spending at least a third of your time on this alone."
 
-Epstein argues in "Advice for New Managers" that startups should hire for hunger -- passion for the mission will drive more long-term impact than any specific skill set ([Advice for new managers](https://www.ycombinator.com/library/2s-advice-for-new-managers)). The "hire slow, fire fast" principle applies: take time to find the right person, but act quickly when a hire is not working. This principle also applies to choosing [[Cofounders]] -- look for commitment and drive over credentials.
+For the first three engineering hires, focus exclusively on personal network hiring. After that, supplement with other channels to improve team diversity.
 
-King adds: "I was generous with equity and shared everything about the potential and challenges of the business. We built a lot of trust as a small team" ([Snapdocs' Aaron King on navigating market cycles](https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles)). His biggest early mistake was being too timid to recruit people he respected -- "In hindsight I did them a disservice by not trying to recruit them."
+**2. Hiring Marketplaces (Second Best)**
+Platforms like Triplebyte and Hired operate as two-sided marketplaces. They provide quick access to vetted, skilled engineers who are actively looking. Fees are usually around $25K per experienced engineer. Candidates are speaking with multiple companies, so competition is high. Success depends heavily on pitch quality and process speed.
 
-## The Danger of Overhiring
+**3. Generating Inbound**
+Post on sites with engineering audiences: [Stack Overflow Jobs](https://stackoverflow.com/jobs), the monthly Hacker News "Who is hiring?" thread, and [AngelList](https://angel.co/recruiting). Most job sites produce volume, not quality.
 
-Graham's [[Default Alive or Default Dead]] essay makes the case most forcefully: hiring is the primary way startups burn through their [[Financial Survival|runway]] without improving their trajectory ([Default alive or default dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead)). Each hire increases [[Financial Survival|burn rate]] but may not increase [[Growth|growth]]. Founders should model their path to profitability with and without each hire.
+Content creation helps: blog about technical choices, unusual stack decisions, or engineering challenges. Taggar advises: "Set a goal of writing an article that's Hacker News front page worthy at least once a month." Interactive content like coding challenges can work but is high-risk.
 
-In "The 18 Mistakes," Graham lists hiring bad programmers (#6) and spending too much (#12) -- both of which frequently manifest as overhiring ([The 18 mistakes that kill startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups)).
+Make job postings stand out: write in first person as a founder, use informal tone, move away from "corporate boilerplate."
 
-## The Pre-PMF Hiring Trap
+**4. Cold Outreach**
+Message engineers on LinkedIn, Hacker News, and GitHub. The challenge is standing out from the overwhelming volume of messages good engineers receive. Personalization is critical. Use tools like Connectifer to find email addresses. Follow up 2-3 times. Expect this approach to take up to 6 months to result in a hire.
 
-The Group Partner Lounge discussion on hiring mistakes adds granularity to Graham's warnings. Seibel frames the core problem: almost all online hiring advice is written for post-[[Product-Market Fit]] companies. Applying it pre-PMF can accelerate death ([Don't make these hiring mistakes](https://www.ycombinator.com/library/J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes)).
+**5. Recruiters**
+Contract-based recruiters who can send more messages per day, but unlikely to achieve higher response rates than messages from a founder. Train them thoroughly on how to pitch the company: "give them all the information they need, give them a day to prepare and then ask them to pitch it back to you."
 
-Common lies founders tell themselves about hiring: more people means more features; employee count impresses investors; a VP of Sales from a big company will fix the sales problem. Taggar's response is a recurring refrain in office hours: "That's your job. No, that's your job too." At the pre-PMF stage, nobody else can do what the founders must do -- understanding customers, adjusting the product, making the first sales.
+**6. Technical Meetups**
+High variance. Small, informal, deeply technical meetups can be good for network building but unlikely to produce a quick hire. Only effective if you are either an engineer who can earn technical respect or a highly charismatic personality.
 
-Flora warns about hiring senior executives from large companies: a tenured VP of Sales may be excellent at managing 100 salespeople but lost when trying to figure out how to make the first ten sales calls. The cost is compounded because the startup pays large-company compensation while getting startup-inappropriate skills. Seibel names this "Sebastianism" -- the belief that a mythical savior hire will solve all problems.
+**7. Recruiting Agencies (Worst)**
+"Bad adverse selection bias on the candidates they can engage. Most good engineers won't work with them." Taggar cannot think of a startup that made their first engineering hire through a recruiting agency.
 
-Airbnb took eighteen months to hire its first employee (six months post-YC). Stripe was three people for at least a year. These timelines illustrate that the best companies hire slowly at the start and ramp up only after achieving traction.
+## Convincing Engineers to Accept Offers
 
-## Why You Need a Technical Cofounder
+Generating an offer is expensive. It takes roughly 5 onsite interviews to produce a single offer (industry standard 20% onsite-to-offer rate), consuming about 30 hours of engineering productivity. Increasing the offer acceptance rate provides direct economic value.
 
-Caldwell and Seibel argue that for any software startup, recruiting a technical cofounder is the single biggest value-creating act a business-minded founder can perform. Companies without technical cofounders consistently underperform in YC data. The analogy: "building a rocket to the moon when nobody on the team knows physics." No-code tools, dev shops, and part-time contractors cannot substitute for a cofounder-level engineer who builds the product day in and day out ([Does your tech startup need a technical co-founder](https://www.ycombinator.com/library/KO-does-your-tech-startup-really-need-a-technical-co-founder-yes)). See [[Cofounders]] for the broader cofounder discussion.
+### Speed Matters
 
-Hu reinforces from the technical side: at the MVP stage, hiring engineers is likely to slow you down. It takes over a month to find someone good, and that person will miss key product insights that come from founders building it themselves. Justin.tv launched with just four founders writing all the code ([Tips for technical founders](https://www.ycombinator.com/library/Is-tips-for-technical-startup-founders)).
+Being fast and responsive is a huge advantage startups have over larger companies. Use software to track candidates: a spreadsheet or Airtable initially, then a real ATS like [Lever](http://lever.co/) as you grow. Make clear who reviews and acts on candidates daily.
 
-## Gene Pool Engineering
+Taggar warns against rationalizing lost candidates: "It's easy to believe that candidates who drop out because you were slow weren't interested in your company anyway. This is bad reasoning."
 
-Khosla introduces a framework he calls "gene pool engineering" for startups building their first team ([How to build and manage teams](https://www.ycombinator.com/library/7g-how-to-build-and-manage-teams)). The process: identify the top five risks in the business, list three to five companies whose employees have dealt with each risk, identify three names at each company, then recruit from that list. The result is fifteen targeted candidates per risk area -- far more precise than the platitude of "hire great people."
+### The First Call (25 minutes)
 
-Khosla argues that what you hire for while filling a functional role (VP of Engineering, VP of Marketing) matters more than the functional skill itself. The question to ask: "When I hire a VP of Engineering, how will it make my VP of Marketing better?" Functional hires who can only execute within their silo are less valuable than those who contribute to strategic brainstorming across the company. He recommends never hiring someone who has been at a large company (e.g., Cisco) for ten or more years into a startup -- their process-oriented thinking conflicts with the first-principles iteration startups require.
+Taggar recommends this agenda:
+1. Introduce yourself, the company, and what you work on
+2. Ask the candidate what is important to them in their next role (move this earlier, not to the end, so you can tailor your pitch)
+3. Ask about skills and experience
+4. Pitch the work and why it is an exciting time to join
+5. Answer questions and explain next steps
 
-On equity for early hires, Khosla advocates a radical split: founders take one-third of the common stock, their direct reports take one-third, and the remaining employees take one-third. This approach prevents early talent from leaving to start their own companies. Khosla frames hiring as the CEO's primary job: "I spent probably forty percent of my time recruiting. It's not coding."
+At early-stage companies (<20 people), a founder should always do this call. Taggar recommends the sales/non-technical founder so the technical founder gets uninterrupted building time (per [[Paul Graham]]'s [maker vs manager schedule](http://www.paulgraham.com/makersschedule.html)).
 
-## Hiring at Scale
+When recruiters handle these calls, set up monthly reporting on call volume and opt-out rates. Assign an engineer to train the recruiter on technical challenges. Provide specific technical questions in multiple-choice format so the recruiter can ask them confidently.
 
-Altman addresses hiring for later-stage startups (12-24 months in) ([Later stage advice for startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups)). Once product-market fit is achieved, hiring a full-time recruiter becomes important -- getting the best people is arguably the most important thing.
+### The Onsite Interview
 
-**Onboarding.** Have a structured program. New employees should know what their first week looks like and how they will be trained.
+Standard agenda: welcome (5 min), 4 technical interviews (1 hour each), lunch (1 hour), behavioral/culture interview (45 min), closing Q&A (25 min).
 
-**Announce offers internally.** Up to a few hundred employees, try announcing every potential job offer on an internal mailing list. Someone in the company will often know something good or bad about the prospective hire.
+Top three complaints from engineers about bad onsite experiences (from Triplebyte data):
+1. Interviewers being unprepared and knowing nothing about the candidate
+2. Interviewers not being familiar with the technical questions they asked
+3. Interviewers being determined to prove their own intelligence
 
-**Paths for early employees.** Be proactive about what the path may be for the original 10-15 employees. They may not be appropriate for executive roles, but they are probably loved by their peers and very productive. Talk to them directly about how they want their careers to progress.
+Make good interviewing part of company culture. Write an interviewing guide emphasizing being on-time, prepared, and friendly. Create a centralized question bank. Only select the friendliest, most representative engineers as interviewers.
 
-**Diversity.** Build a team of diverse perspectives. Unity of vision, but diversity of backgrounds. Myopic culture is typically less effective.
+Lunch tip: announce the candidate to the team, have everyone join the lunch table, do a lighthearted icebreaker. "We've had candidates tell us this experience was the deciding factor in joining."
 
-For hiring [[Growth|growth]] team members specifically, Hariharan and Alstromer identify that the ideal growth PM is data-driven, has prior growth experience, and is often a former startup founder. Growth engineers should be self-starters comfortable with experimentation where much work never ships ([How to set up, hire, and scale a growth strategy and team](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team)).
+### Making the Offer
+
+**Step One**: Call the same day as the onsite to tell them they will receive an offer. Mention specific reasons from their interview performance. Have multiple team members on the call if possible.
+
+**Step Two**: Call the next day with offer details. Before discussing equity, ask how familiar they are with concepts like stock options or RSUs. Do not overwhelm the unfamiliar.
+
+Formal offer letter should include: salary, benefits, signing bonus, health insurance (with policy document links), 401(k), vacation policy, and equity details (total shares, shares outstanding, percentage ownership, exercise price, vesting schedule).
+
+### Closing
+
+Get the entire team involved. Everyone who met the candidate should send a follow-up email with specific reasons they enjoyed the interaction. Describe what the first two weeks would look like. "Nitty gritty details will make the offer feel more real."
+
+Include investors in every engineering offer at early stage. Choose the investor most likely to sell that specific candidate.
+
+Think about the candidate's personal circumstances: other decision makers (spouse, family), relocation concerns. Taggar describes a recruiter who researched career opportunities for a candidate's wife who was reluctant to relocate, gathered contact information and compensation data, and offered to speak with her. "The candidate accepted the offer shortly afterwards."
+
+### Competing Against Big Companies
+
+Arguments that work for startups competing against Facebook and Google:
+
+1. **Learning**: "You learn the fastest by being given real decision making responsibility. Large companies won't give you this kind of responsibility for years."
+2. **Career progression**: "Silicon Valley and the technology industry are unique because you can rise up through the ranks of a company faster than anywhere else (e.g. the Chief Product Officer of Facebook ($500bn market cap) is 36 years old)."
+3. **Opportunity cost**: "At any point in time there will always be the safe option of working at a public technology company. The names might change but the experience of working at one is fungible."
+4. **Mentorship**: If you have experienced engineers who can mentor, make sure to tell candidates.
+
+### Exploding Offers
+
+Taggar advises against aggressive deadlines: "good candidates with multiple options will push back." A softer alternative is an expiring signing bonus: "We want you to take all the time you need to make the right decision. If you are able to make a final decision by X date, we'd be able to offer you a $X,000 signing bonus."
+
+## Hiring Philosophy
+
+[[Aaron Epstein]] encapsulates the core principle: "Hire slow, fire fast. It's the thing everyone says and few have the discipline to do." Great people want to work with other great people, so resist the temptation to fill positions with mediocre candidates. "You should be thrilled about each new hire."
+
+Epstein also advises hiring for hunger over specific skills: "passion for your mission, business, and team will do more to drive an employee to make a big, long-term impact than any specific skills they may have."
+
+At the senior level, [[Ali Rowghani]] describes how [[Patrick Collison]] of Stripe "made it a point to meet with the 'best-in-the-world' in each field so he could get a sense of what a great candidate looks like." Executive hiring takes extraordinary time and should be staged rather than done all at once. Rowghani recommends using an executive search firm for the first couple of searches despite high cost. Expect that at least 25% of leadership hires will not work out.
 
 ## Source Talks
 
-| Source | Speaker | Key Point | URL |
-|--------|---------|-----------|-----|
-| 4H-how-to-hire-your-first-engineer | Harj Taggar | Personal network pipeline, hiring as sales, channel ranking | https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer |
-| 4G-convincing-engineers-to-join-your-team | Harj Taggar | Pitching to candidates, what engineers care about | https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team |
-| 95-default-alive-or-default-dead | Paul Graham | Overhiring as the #1 killer of funded startups | https://www.ycombinator.com/library/95-default-alive-or-default-dead |
-| 8t-the-18-mistakes-that-kill-startups | Paul Graham | Hiring bad programmers, spending too much | https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups |
-| 2s-advice-for-new-managers | Aaron Epstein | Hire for hunger, hire slow fire fast | https://www.ycombinator.com/library/2s-advice-for-new-managers |
-| 4q-later-stage-advice-for-startups | Sam Altman | Full-time recruiter, onboarding, internal offer announces, early employee paths | https://www.ycombinator.com/library/4q-later-stage-advice-for-startups |
-| 59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team | Anu Hariharan | Growth PM traits, growth engineer traits, team composition | https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team |
-| Gu-snapdocs-aaron-king-on-navigating-market-cycles | Aaron King | Hire only for painful need, be generous with equity, recruit boldly | https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles |
-| 7N-building-an-engineering-team | Harj Taggar, Ammon Bartram | Sourcing parties, interview noise data, structured interviews, credential hiding | https://www.ycombinator.com/library/7N-building-an-engineering-team |
-| 7g-how-to-build-and-manage-teams | Vinod Khosla | Gene pool engineering, risk-oriented hiring, founders as chief recruiting officers | https://www.ycombinator.com/library/7g-how-to-build-and-manage-teams |
+| Source | Speaker | Key Point |
+|--------|---------|-----------|
+| 4H-how-to-hire-your-first-engineer | Harj Taggar | Sourcing strategies ranked; personal networks first; treat hiring like fundraising |
+| 4G-convincing-engineers-to-join-your-team | Harj Taggar | Speed, onsite experience, offer presentation, closing tactics, competing with big cos |
+| 2s-advice-for-new-managers | Aaron Epstein | Hire slow fire fast; hire for hunger; set new hires up for success |
+| 3k-the-second-job-of-a-startup-ceo | Ali Rowghani | Executive hiring: meet best-in-world, stage hires, 25% failure rate is normal |
+| 4D-yc-s-essential-startup-advice | Y Combinator | Core advice: write code, talk to users; hiring follows product-market fit |

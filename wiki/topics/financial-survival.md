@@ -3,132 +3,133 @@ title: Financial Survival
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["default alive", "default dead", "runway", "burn rate", "cash burn", "survival", "staying alive", "running out of money", "unit economics", "capital efficiency"]
-related: ["[[Fundraising]]", "[[Hiring]]", "[[Growth]]", "[[Equity and Compensation]]"]
-sources: ["95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups", "3Z-advice-for-companies-with-less-than-1-year-of-runway", "4q-later-stage-advice-for-startups", "4s-navigating-success-for-your-startup", "Gu-snapdocs-aaron-king-on-navigating-market-cycles", "J4-inside-the-group-partner-lounge-top-ways-startups-waste-money", "M9-the-right-and-wrong-way-to-spend-money-at-your-startup", "KZ-should-your-startup-bootstrap-or-raise-venture-capital", "LC-what-is-zirp-and-how-did-it-poison-startups", "La-signs-your-company-is-recovering-from-zirp", "82-the-path-to-100b"]
-speakers_referenced: ["Paul Graham", "Sam Altman", "Aaron King", "Michael Seibel", "Brad Flora", "Harj Taggar", "Gustaf Alstromer", "Pete Koomen", "Dalton Caldwell", "Paul Buchheit"]
+aliases: ["default alive", "default dead", "runway", "burn rate", "cash burn", "staying alive", "unit economics", "low runway", "shutting down", "capital efficiency", "fatal pinch", "overhiring"]
+related: ["[[Fundraising]]", "[[YC Essential Startup Advice]]", "[[Management]]", "[[Default Alive or Default Dead]]", "[[Growth]]", "[[Hiring]]", "[[Paul Graham]]", "[[Aaron King]]", "[[Early-Stage Tactics]]"]
+sources: ["3Z-advice-for-companies-with-less-than-1-year-of-runway", "4D-yc-s-essential-startup-advice", "95-default-alive-or-default-dead", "8w-the-hardest-lessons-for-startups-to-learn", "Gu-snapdocs-aaron-king-on-navigating-market-cycles", "93-a-student-s-guide-to-startups"]
+speakers_referenced: ["Dalton Caldwell", "Paul Graham", "Sam Altman", "Paul Buchheit", "Aaron King"]
 ---
 
 # Financial Survival
 
-Graham claims that half the founders he talks to do not know whether their company is [[Default Alive or Default Dead|default alive or default dead]]. He considers this the single most important question for any startup past roughly 9 months old ([Default alive or default dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead)).
+Managing cash and runway is a survival skill for startup founders. [[Dalton Caldwell]] addresses the specific situation of having 12 months or less of runway, while YC's essential advice covers the broader principles of financial discipline. The foundational concepts come from [[Paul Graham]]'s essays [The Fatal Pinch](http://paulgraham.com/pinch.html) and [Default Alive or Default Dead](http://paulgraham.com/aord.html).
 
 ## Default Alive or Default Dead
 
-The [[Default Alive or Default Dead]] framework is simple: given current expenses and current revenue [[Growth|growth]] trend, will the startup reach profitability on the money it has left? If yes, the company is default alive. If no, it is default dead.
+The first step is understanding exactly how much cash and runway you have. If you are Default Dead (will run out of money at current trajectory), "it is your responsibility as a founder to immediately take actions to become Default Alive." The mechanisms are straightforward: grow revenue more quickly, cut costs, or both.
 
-Default dead does not mean the company will die -- it means the company must either raise more money (see [[Fundraising]]) or cut costs. But founders who do not know their status cannot make informed decisions about [[Hiring]], spending, or [[Fundraising|fundraising timing]].
+## Managing Psychology
 
-## The Fatal Pinch
+[[Dalton Caldwell]] identifies the hardest part of a low-runway situation as "managing your own psychology." Founders must "simultaneously manage your own anxiety to not be overly negative about your prospects, but also not be irrationally positive." This is a delicate balance.
 
-The worst position is what Graham calls the fatal pinch: default dead, with slow [[Growth|growth]], and not enough time or money to fix either ([Default alive or default dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead)). By the time founders recognize they are in a fatal pinch, it is often too late. The solution is to monitor the default alive/dead status continuously and act early.
+## Counter-Productive Ideas
 
-## Plan A / Plan B
+Founders often get caught in thought cycles that cause inaction. Caldwell lists common rationalizations that keep founders Default Dead:
 
-Graham recommends always having a written-down plan for surviving if the next fundraise fails ([Default alive or default dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead)). This is Plan B -- typically cutting to a skeleton crew and reaching ramen profitability. The plan should include a specific date by which the founder switches from Plan A ([[Growth|growth]] mode) to Plan B (survival mode) if [[Fundraising|fundraising]] has not succeeded.
+- "The Fatal Pinch does not apply to me"
+- "Investors will continue to fund my company if I run out of money"
+- "If I fail at fundraising I can just sell the company"
+- "My conversations with potential acquirers or investors are very far along and likely to happen"
+- "Acquirers won't buy us if I cut costs"
+- "My employee morale will plummet if I cut costs"
+- "New investors won't fund us if I cut costs"
 
-## Premature Scaling
+Caldwell warns: "Don't let these ideas be the justification(s) for why you choose to remain Default Dead."
 
-Graham attributes to Paul Buchheit the observation that many startups scale a business with bad unit economics to chase impressive [[Growth|growth]] numbers ([Default alive or default dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead)). This "premature scaling" accelerates burn without improving the underlying business. This connects to [[Do Things That Don't Scale]] -- founders should focus on getting the unit economics right before automating and scaling.
+## Negotiation Leverage Erodes Over Time
 
-Altman reinforces this at the later stage: "Sooner rather than later, you need to figure out how to make more money from each user than you spend" ([Later stage advice for startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups)). It can be tempting to paper over a problem with the business by spending more money instead of fixing the product. This is a major trap. Most great companies had good unit economics soon after monetizing, even if they were unprofitable overall.
+A critical insight from Caldwell: delaying action to reduce burn is a bad strategy. From a game theory perspective, "an investor or acquirer is best served to stall and drag you along until you have no leverage at all." An opportunistic party is unlikely to say "no" outright, and will keep their options open as the founder becomes increasingly desperate.
 
-## The Hiring Trap
+"If things look bleak now and you take no corrective action, it is overwhelmingly likely the situation will get worse, not better."
 
-[[Hiring]] too fast is "by far the biggest killer of startups that raise money" ([Default alive or default dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead)). Founders hire to solve slow [[Growth|growth]], but the real problem is usually that the [[Product Development|product]] is not good enough. Each hire increases burn rate. Graham argues there is "surprisingly little connection between how much a startup spends and how fast it grows."
+## Reducing Burn
 
-Airbnb waited four months after [[Fundraising|raising]] before making their first hire. The founders did all the work themselves until they were certain what needed to be done and that they could not do it alone -- a pattern consistent with [[Early-Stage Tactics]] and [[Do Things That Don't Scale]].
+The least painful path is to make more money immediately. If that is not possible, cut costs.
 
-## The Airplane vs. Spaceship
+**Payroll**: The most likely source of high burn. Over-hiring is usually the root cause (per [The Fatal Pinch](http://paulgraham.com/pinch.html)). If reducing staff, treat former employees well and be transparent with remaining employees. "You should always treat your staff as you would want to be treated."
 
-Altman addresses what happens when a startup is successful but not on a path to a billion-dollar outcome ([Navigating success for your startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup)). He uses the metaphor of assembling a bag of parts while falling off a cliff. Sometimes you have the parts for a spaceship (huge market, natural monopoly). Sometimes you have the parts for an airplane -- a company on track to be worth $100M with several more years of work.
+**Real estate**: Leases are binding and very difficult to exit. Real estate obligations are "a common cause of death for later stage companies."
 
-The critical mistake: raising too much money at too high a valuation when the company is probably an airplane. This precludes good acquisition options and misaligns founder and investor incentives. Altman warns that existing investors will usually be willing to take almost any amount of risk to see if an airplane can become a spaceship, but "the longer you delude your investors, the worse shape you'll be in."
+**Easy cuts**: PR expenses, marketing expenses, perks, parties. "Don't blow your money on this stuff."
 
-The solution: be frank with investors. Don't raise at high valuations when you'd be happy selling soon. Find a path to profitability with the money you have. Position for an eventual acquisition by developing relationships with potential acquirers early -- "companies get bought, not sold."
+## The Point of No Return
 
-## Capital Efficiency in Practice
+With less than three months of cash, face the issue head on. "In many cases, less than 2 months is the point of no return."
 
-King describes Snapdocs' approach: spending only $1M of their seed round before reaching $5M in revenue run rate. Their lead Series A investor noted how capital-efficient they were compared to peers ([Snapdocs' Aaron King on navigating market cycles](https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles)).
+At this point:
+- Lay off employees and give them severance
+- Pay down obligations
+- Use remaining cash for shutdown costs
+- "Do not become insolvent. Pay your debts. You must pay your tax and payroll obligations."
+- In messy scenarios, personal liability may arise. Consult lawyers for an orderly shutdown.
+- "Don't drag things out and end up in a no upside situation: no upside for you, for your employees, for your investors, or for your customers."
 
-Capital constraints forced good behaviors: ruthless prioritization, smallest viable product versions, short feedback loops, and hiring only when there was clear and painful need. King notes the tradeoff: many early systems were not engineered for scale, but "now we can afford to reengineer those unscalable solutions because we built something people want." Altman echoes this: "Don't ever get down to just a couple months of cash in the bank."
+On reputation: "it's just as important to handle situations well when things go poorly as it is when they are going great."
 
-## Top Ways Startups Waste Money
+Caldwell's final summary: "1) don't lie to yourself and 2) act quickly and decisively."
 
-Seibel and Flora catalog the most common pre-PMF spending mistakes, noting that even knowing the list will not prevent most founders from making at least half of them ([Top ways startups waste money](https://www.ycombinator.com/library/J4-inside-the-group-partner-lounge-top-ways-startups-waste-money)):
+## Unit Economics
 
-**Hiring.** Overpaying for FANG engineers who bring big-company workflows but not startup productivity. Replacing one good person with five contractors who lack context and incentives. See [[Hiring]] for more detail.
+YC's essential advice emphasizes that growth on unprofitable unit economics merely drains cash. [[Paul Buchheit]] says "it never makes sense to take 80 cents from a customer and then hand them a dollar back." [[Sam Altman]] wrote about [unit economics](http://blog.samaltman.com/unit-economics) as a concept too many startups forget.
 
-**Marketing and ads.** Facebook and Google ads are tempting because the potential scale is massive, but they substitute for building a remarkable product. Flora describes TripleByte ramping to nearly $1M/month in Facebook ads that were initially profitable, then discovering too late that ads were almost all of their growth. The company spent three years on ads instead of building the organic growth engine that eventually replaced them.
+## Graham's Default Alive/Dead Framework (In Depth)
 
-**Events and sponsorships.** Brand advertising pre-PMF does not create a brand. Scrappy alternatives -- stunts at conferences, providing quiet phone call rooms, slipping flyers under hotel doors -- produce more value at a fraction of the cost.
+[[Paul Graham]]'s essay "[Default Alive or Default Dead](http://www.paulgraham.com/aord.html)" provides the foundational diagnostic. When talking to any startup past 8-9 months, Graham's first question is always: "Assuming their expenses remain constant and their revenue growth is what it has been over the last several months, do they make it to profitability on the money they have left?" Trevor Blackwell built a [calculator](http://growth.tlb.org/#) for this.
 
-**PR agencies.** Every group partner has a PR agency horror story. Flora paid a $50K retainer for a TripleByte Series B announcement, only to find the agency assigned junior staff who did not understand the product. He fired them a week before launch and personally called journalists, getting better results. Seibel summarizes: "If you want to get really good at firing vendors, hiring a PR agency is a great way to get your feet wet."
+"The startling thing is how often the founders themselves don't know. Half the founders I talk to don't know whether they're default alive or default dead."
 
-**Legal fees.** Seibel spent $50K in the first month customizing employment agreements -- a task requiring no innovation. Tips: use startup-specialized Valley law firms, get fee estimates before work begins, and negotiate payment plans to spread large bills over twelve months interest-free.
+Graham recommends starting to ask this question early -- earlier than feels natural. "It's probably not that dangerous to start worrying too early that you're default dead, whereas it's very dangerous to start worrying too late."
 
-**Advisors.** No group partner has ever heard of an advisor whose equity-compensated advice made the difference. The trick from Paul Buchheit: ask advisors to invest instead. Four out of five will. "Instead of me paying you, why don't you pay me?"
+### The Fatal Pinch
 
-The general principle: founders must earn the right to spend money by first testing each channel at zero cost, usually by doing it themselves. Post-[[Product-Market Fit]], all of these categories become reasonable expenditures.
+The terminal condition: default dead + slow growth + not enough time to fix it. Founders reach this by assuming more money will come. "That assumption is often false, and worse still, the more you depend on it, the falser it becomes."
 
-## Spending by Stage
+Graham's advice: separate facts from hopes. Say aloud: "We're default dead, but we're counting on investors to save us." Even with steep growth (5x/year), investors are fickle. Fundraising should never be more than plan A. "You should always have a plan B: you should know (as in write down) precisely what you'll need to do to survive if you can't raise more money."
 
-A dedicated YC Office Hours episode maps spending strategy to company stage ([The right and wrong way to spend money](https://www.ycombinator.com/library/M9-the-right-and-wrong-way-to-spend-money-at-your-startup)):
+### Overhiring: The Top Killer
 
-**Pre-seed / pre-YC:** Spend almost nothing. Most funded companies have spent under $10K before YC accepts them. Many do not even have bank accounts yet.
+"Don't hire too fast. Hiring too fast is by far the biggest killer of startups that raise money." Founders overestimate the need to hire because: (1) there's so much work to do, (2) successful startups have big teams (but this is effect, not cause), and (3) facing slow growth is painful and hiring is a distraction from the real problem -- the product isn't appealing enough.
 
-**Seed ($500K-$2M):** Hire one or two engineers from your personal network. Founders do [[Sales and Distribution|sales]]; do not hire salespeople or marketers until [[Product-Market Fit]]. Every dollar of burn reduces runway, and runway is the only thing money can buy pre-PMF. Flora: "The more people, the slower you get to product market fit."
+VCs often push founders to overhire. "Kill-or-cure strategies are optimal for VCs because they're protected by the portfolio effect. VCs want to blow you up, in one sense of the phrase or the other. But as a founder your incentives are different. You want above all to survive."
 
-**Series A ($8-10M):** If PMF is real, hire sales. Track revenue per employee and expect it to rise. Monitor when individuals become overwhelmed as a hiring signal. Flora advises: "Send an investor update every month because accountability really matters."
+The common death pattern: make something moderately appealing, raise a round, hire aggressively to boost growth, growth doesn't come because the product is the problem not headcount, burn through runway, become unappealing to next-round investors, die. The fix: address the product directly. "At this early stage, the product needs to evolve more than to be 'built out,' and that's usually easier with fewer people."
 
-**Series B+:** Revenue quality matters most. Companies that do not understand their net dollar retention at this stage are the ones that fail. Brad Flora: "The ones that I've seen where it doesn't work are the ones that don't actually understand their own retention."
+[[Sam Altman]] adds: "I think it's roughly correct to say that YC's most successful companies have never been the fastest to hire, and one of the marks of a great founder is being able to resist this urge."
 
-Koomen warns against branding agencies ($50K rebrands for B2B companies), ads that substitute for organic growth, and offices that make the startup "feel bigger." A common trap: founders divide their raise by 24 months, derive a burn number, then spend to fill it. The correct approach is minimum spend to reach PMF, preserving remaining capital for the growth phase.
+[[Paul Buchheit]] identifies premature scaling as a related failure mode: "founders take a small business that isn't really working (bad unit economics, typically) and then scale it up because they want impressive growth numbers."
 
-## ZIRP and the Poison of Free Money
+### Growth and Spending Are Surprisingly Unconnected
 
-Caldwell and Seibel describe the Zero Interest Rate Phenomenon (ZIRP) era as a case study in how excess capital destroys startups ([What is ZIRP and how did it poison startups?](https://www.ycombinator.com/library/LC-what-is-zirp-and-how-did-it-poison-startups)). When the Federal Reserve set interest rates near zero, banks searched for yield and poured money into VC funds. Investors who had never done startup investing before began deploying capital using public-market frameworks -- valuing million-dollar-revenue startups the same way they valued $500M-revenue public companies.
+Graham's empirical observation: "In practice there is surprisingly little connection between how much a startup spends and how fast it grows." Fast growth comes from hitting a big need. High spending comes from expensive development, expensive sales, or waste. These are different phenomena. Airbnb waited 4 months after raising YC money before hiring their first employee. "The founders were terribly overworked. But they were overworked evolving Airbnb into the astonishingly successful organism it is now."
 
-The result: companies with $3M in revenue raised at billion-dollar valuations (350x revenue multiples). Founders stopped innovating because they could hire more people instead. Seibel uses the corn subsidy analogy: "America subsidized corn, and then suddenly everyone was motivated to figure out, what can we do with corn?" Substitute money for corn. "Do you not have product-market fit? What if we throw some money at it?"
+## Capital Efficiency: The Snapdocs Case
 
-The downstream effects were pervasive. Lending startups appeared to have product-market fit because "money has product-market fit always." When interest rates rose, their cost of capital spiked and their businesses collapsed. Founders entering YC expected $10M seed rounds because "Y just raised a ten million seed." Unicorn valuations became marketing tools rather than indicators of business health.
+[[Aaron King]] of Snapdocs (YC W14) built a $1.5B company with extreme capital discipline.
 
-Caldwell and Seibel identify three types of investors during ZIRP: those who genuinely believed valuations were justified, those who knew it was irrational but participated anyway, and a small group who held back and were rewarded when the market corrected. The founders who survived were those who "took advantage of some of the stuff on offer" but "knew that this wasn't going to last, and they planned."
+- Started Snapdocs as a side project years before YC; had product, customers, and revenue when he applied.
+- Spent ~$1M of the seed round and reached $5M revenue run rate before raising Series A **three years later**.
+- Lead Series A investor remarked on their capital efficiency vs. peers.
+- Hired "only when there was a clear and painful need." Made the company harder to run but "incredibly productive."
+- Treated early employees like founding team members: generous equity, full transparency about challenges and potential.
 
-Buchheit reinforces the underlying principle: the input-to-output ratio is what matters ([The path to $100B](https://www.ycombinator.com/library/82-the-path-to-100b)). "If you raise five million dollars, that doesn't mean you can create $150,000 worth of value and be happy. You have to create $50 million dollars worth of value." Juicero received $120M before talking to a customer. If they had gone through YC with $120K, they would have had to sell a $700 juice bag squeezer to an actual person -- and would have discovered the fatal flaw immediately.
+Capital constraints forced ruthless prioritization: "We couldn't afford to build features that weren't essential." This kept focus on "going deep with our paying customers." King's insight: "I've learned that you should take the same approach even when you do have the capital to be less disciplined."
 
-## Signs of ZIRP Recovery
+When COVID boosted housing demand, Snapdocs shifted to "effectiveness over efficiency," hiring seasoned executives and investing in scale. When demand cooled later: "We ditched the motto of being effective over being efficient. This meant a return to ruthless prioritization." King's principle: "Startups should scale up at times and scale back at others. It's hard and painful... But these ups and downs are natural and a necessary part of building an enduring company."
 
-Caldwell and Seibel catalog the indicators that a company is recovering from ZIRP-era habits ([Signs your company is recovering from ZIRP](https://www.ycombinator.com/library/La-signs-your-company-is-recovering-from-zirp)):
+## Poverty as Strategic Advantage
 
-**Executive turnover.** "Big company" executives hired during ZIRP -- accustomed to infinite resources and little accountability -- are being replaced. Founders are re-engaging with product and operations rather than delegating to hired managers.
+In "A Student's Guide to Startups," Graham argues poverty is a genuine advantage. "Recent grads can live on practically nothing, and this gives you an edge over older founders, because the main cost in software startups is people."
 
-**Return to office.** Returning to the office is a sign that "senior management has gotten real." The willingness to make an unpopular decision indicates the company is prioritizing results over comfort.
+More important than living cheaply is **thinking** cheaply. The Apple II was cheap because Woz designed it for himself and couldn't afford more. Viaweb's $300/month pricing was an order of magnitude below competitors. "Like Apple, we created something inexpensive, and therefore popular, simply because we were poor."
 
-**Vanity project elimination.** Projects that existed to justify promotions rather than serve customers are being cut. "The whole thing is a self-perpetuating 'I need resources to do things so that I can get more resources.'"
-
-**Increased work intensity.** "I have to work more is a sign your company's recovering from ZIRP." Startups cannot offer Google-level work-life balance because they are still making their product and company work.
-
-For employees at companies not recovering from ZIRP, Caldwell and Seibel suggest starting a startup: "If you are an ambitious person... you should be relieved" when your company starts making hard decisions, "because it's a sign your equity might be worth something."
-
-## Bootstrap vs. Venture Capital
-
-Caldwell and Seibel argue the bootstrap-vs-VC debate is largely artificial ([Should your startup bootstrap or raise venture capital?](https://www.ycombinator.com/library/KZ-should-your-startup-bootstrap-or-raise-venture-capital)). The vast majority of businesses should not raise VC. Venture capital is specifically designed for investments that could return 100-1000X. "Trying to put that jet fuel into something that isn't going to grow to be big, everyone is going to be sad and lose."
-
-Building a profitable non-venture-backed software business generating $30-50K/month is a legitimate win. Seibel describes a friend who did exactly this: "I would watch his life on Facebook and be like, 'This is amazing. He traveled the world, he got married, he had kids.'" But none of the trillion-dollar software companies were bootstrapped, and some businesses (like Google) could not have been built without external capital. The decision is revisable -- a successful bootstrap can raise VC later.
+The pattern generalizes: "Someone comes along and makes something for a tenth or a hundredth of what it used to cost, and the existing players can't follow because they don't even want to think about a world in which that's possible."
 
 ## Source Talks
 
-| Source | Speaker | Key Point | URL |
-|--------|---------|-----------|-----|
-| 95-default-alive-or-default-dead | Paul Graham | Default alive/dead framework, fatal pinch, Plan A/B, hiring trap | https://www.ycombinator.com/library/95-default-alive-or-default-dead |
-| 8t-the-18-mistakes-that-kill-startups | Paul Graham | Raising too little (#11), spending too much (#12), raising too much (#13) | https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups |
-| 3Z-advice-for-companies-with-less-than-1-year-of-runway | Y Combinator | Practical advice for low-runway situations | https://www.ycombinator.com/library/3Z-advice-for-companies-with-less-than-1-year-of-runway |
-| 4q-later-stage-advice-for-startups | Sam Altman | Unit economics, watch runway, FP&A | https://www.ycombinator.com/library/4q-later-stage-advice-for-startups |
-| 4s-navigating-success-for-your-startup | Sam Altman | Airplane vs. spaceship, valuation traps, acquisition positioning | https://www.ycombinator.com/library/4s-navigating-success-for-your-startup |
-| Gu-snapdocs-aaron-king-on-navigating-market-cycles | Aaron King | $1M seed to $5M revenue, capital efficiency, ruthless prioritization | https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles |
-| [The right and wrong way to spend money](https://www.ycombinator.com/library/M9-the-right-and-wrong-way-to-spend-money-at-your-startup) | YC Partners | Spending by stage, PMF before growth spend, ads are addictive | |
-| [Should your startup bootstrap or raise venture capital?](https://www.ycombinator.com/library/KZ-should-your-startup-bootstrap-or-raise-venture-capital) | Dalton Caldwell, Michael Seibel | VC for 100X+ businesses only; bootstrap is legitimate; decision is revisable |
-| [What is ZIRP and how did it poison startups?](https://www.ycombinator.com/library/LC-what-is-zirp-and-how-did-it-poison-startups) | Dalton Caldwell, Michael Seibel | Free money as poison; 350x revenue multiples; corn subsidy analogy |
-| [Signs your company is recovering from ZIRP](https://www.ycombinator.com/library/La-signs-your-company-is-recovering-from-zirp) | Dalton Caldwell, Michael Seibel | Executive turnover, return to office, vanity project cuts, increased intensity |
-| [The path to $100B](https://www.ycombinator.com/library/82-the-path-to-100b) | Paul Buchheit | Input-to-output ratio; too much money kills; Juicero as cautionary tale | |
+| Source | Speaker | Key Point |
+|--------|---------|-----------|
+| 95-default-alive-or-default-dead | Paul Graham | The diagnostic question; fatal pinch; overhiring as top killer; growth vs spending disconnect |
+| 8w-the-hardest-lessons-for-startups-to-learn | Paul Graham | Don't get hopes up on deals; speed not money; fear the right things |
+| Gu-snapdocs-aaron-king-on-navigating-market-cycles | Aaron King | $1M seed to $5M run rate; ruthless prioritization; scaling up and down with market cycles |
+| 93-a-student-s-guide-to-startups | Paul Graham | Poverty and thinking cheaply as strategic advantages; Apple II and Viaweb examples |
+| 3Z-advice-for-companies-with-less-than-1-year-of-runway | Dalton Caldwell | Low runway psychology, counter-productive rationalizations, reducing burn, point of no return |
+| 4D-yc-s-essential-startup-advice | Y Combinator | Unit economics matter; growth without profitability drains cash; the money is not yours |

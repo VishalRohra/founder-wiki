@@ -3,80 +3,115 @@ title: Management
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["management", "managing people", "first-time manager", "delegation", "leadership", "new manager", "maker to manager", "later stage", "scaling a company"]
-related: ["[[Hiring]]", "[[Product Development]]", "[[Cofounders]]", "[[Founder Mindset]]", "[[Financial Survival]]"]
-sources: ["2s-advice-for-new-managers", "3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo", "4q-later-stage-advice-for-startups", "Gu-snapdocs-aaron-king-on-navigating-market-cycles", "80-patrick-collison-on-effectively-running-a-startup", "7g-how-to-build-and-manage-teams"]
-speakers_referenced: ["Aaron Epstein", "Sam Altman", "Aaron King", "Patrick Collison", "Vinod Khosla"]
+aliases: ["managing people", "first-time manager", "delegation", "leadership", "maker to manager", "new manager", "startup management", "CEO job"]
+related: ["[[Hiring]]", "[[Three Traits of Great Leaders]]", "[[Mission-to-Metrics]]", "[[The Second Job of a Startup CEO]]", "[[Board Governance]]", "[[YC Essential Startup Advice]]"]
+sources: ["2s-advice-for-new-managers", "3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo"]
+speakers_referenced: ["Aaron Epstein", "Ali Rowghani", "Ed Catmull", "Steve Jobs", "Jeff Bezos", "Tobi Lutke", "David Rusenko", "Patrick Collison"]
 ---
 
 # Management
 
-The transition from individual contributor to manager is one of the most difficult adjustments in a startup. Epstein argues that founders must "create both a product that people love and a company where people want to work at the same time" ([Advice for new managers](https://www.ycombinator.com/library/2s-advice-for-new-managers)).
+Management in startups is a learned skill, not an innate one. Many first-time founders begin managing teams with zero management experience. [[Aaron Epstein]], founder of [Creative Market](https://creativemarket.com/), describes the fundamental tension: "you have to create both a product that people love and a company where people want to work *at the same time*." The stakes are high because "people leave managers, not companies."
 
-## The Maker-to-Manager Transition
+## Advice for New Managers
 
-The most common failure mode: an outstanding individual contributor becomes a manager and tries to do both jobs. Epstein calls this the "150% workload" problem -- the new manager takes on management responsibilities while continuing to do their old job, resulting in less than 100% output in either area ([Advice for new managers](https://www.ycombinator.com/library/2s-advice-for-new-managers)).
+[[Aaron Epstein]] provides a comprehensive set of principles for founders learning to manage for the first time.
 
-The fix is genuine delegation. Epstein advises: "Focus on the What, not the How." Tell people what needs to be accomplished, not how to do it. This is uncomfortable for technical founders who are used to being the best executor in the room. The shift mirrors the broader [[Founder Mindset]] challenge of letting go of the work that got you here.
+### Delegation and Growth
 
-## Core Principles
+**Delegate.** Founders are used to doing everything, and shedding responsibilities feels scary. But "you can't scale yourself and focus on the highest leverage opportunities until you get things off your plate." Signal to delegate: thinking you will have to work especially late or cannot get to what you need to in a given day.
 
-**Deflect credit, absorb blame.** When things go well, point to the team. When things go wrong, take responsibility. This builds trust and psychological safety.
+**Create growth opportunities.** "Great people often care about personal growth way more than money or any other tangible benefit you could offer them." Delegating responsibilities creates opportunities for people to learn and grow.
 
-**Hire for hunger.** Passion for the mission drives more long-term impact than specific skills. People who are hungry will learn what they need to learn. See [[Hiring]] for the full framework on when and how to hire.
+**Invest in your stars.** Retention is easier than acquisition: "it's much easier to keep an existing star employee happy than find a new star."
 
-**Hire slow, fire fast.** Take time to find the right person. Act quickly when a hire is not working -- the longer a bad fit stays, the more damage it does to the team ([Advice for new managers](https://www.ycombinator.com/library/2s-advice-for-new-managers)).
+### Communication and Direction
 
-**People leave managers, not companies.** The quality of the direct manager relationship is the strongest predictor of retention. This is critical for startups where every departure has outsized impact on [[Financial Survival|burn rate]] and team capacity.
+**Share the big picture.** People need to understand how their work fits into the business. "It's easy to take it for granted that your team is clear on this, but this is one of those things where you want to constantly make that connection."
 
-## One-on-Ones
+**Repeat yourself often.** "You should feel like you sound like a broken record about the things that are important to your company -- your mission, your vision, your KPIs." The test: "every single person on your team will be able to explain them to a complete stranger exactly how you would've said it."
 
-Epstein treats 1:1s as the most important recurring commitment for a manager ([Advice for new managers](https://www.ycombinator.com/library/2s-advice-for-new-managers)). They are the primary mechanism for understanding what each person needs, catching problems early, and building the trust that makes delegation possible. For [[Cofounders]], a similar pattern of regular check-ins (called "founder syncs") helps surface tensions before they become breakups.
+**You are in charge.** It can be uncomfortable telling people what to do for the first time. "But you are the leader, and everyone on your team will be looking to you for direction and guidance, so own it."
 
-## The Second Job of a Startup CEO
+**Focus on the What, not the How.** Communicate what success looks like rather than micromanaging the process. "It's a way for you to 'be in the room' when the work gets done without micromanaging the work."
 
-As the company scales past the [[Early-Stage Tactics|early stage]], the CEO's role shifts from building the [[Product Development|product]] to building the company ([The second job of a startup CEO](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo)). This includes [[Hiring]], [[Fundraising]], setting culture, and managing the [[Board Governance|board]]. The transition is disorienting for technical founders whose identity is tied to making things.
+**Verbalize your thoughts.** "Simply saying things like 'I'm disappointed in this work' is extremely powerful." People are not mind-readers.
 
-## Later-Stage Management
+### Accountability and Feedback
 
-Altman addresses management for startups at 12-24 months with 25+ employees ([Later stage advice for startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups)). What works at 20 employees can be disastrous at 40.
+**Set deadlines and hold people accountable.** When giving a task, ask "by when?", then add a calendar note to follow up. Give direct feedback when standards or deadlines are not met.
 
-**Structure.** Every employee should know who their manager is. Every manager should know their direct reports. Cluster people into teams that make sense. Do not innovate on management structure -- keep it simple.
+**Deflect all credit and absorb all blame.** Use "I" for failures, "we" (or specific names) for successes. "A little recognition goes a long way."
 
-**Delegation failures.** Altman identifies two modes. Not delegating: founders take on too much personally and become stretched thin. Delegating poorly: founders assign grunt work but retain all decisions, which does not scale and demoralizes employees. The fix: empower employees to own decision processes, not just execution.
+**Show your work.** Explain the reasoning behind controversial or difficult decisions so the team understands the rationale.
 
-**Communication at scale.** After a certain size, one-on-one conversations with everyone are impossible. Altman recommends learning to write clearly and succinctly, sharing written updates with everyone. All-hands meetings at least monthly. Weekly management meetings with direct reports. The test: "If I asked 10 employees what the top three goals are for the company, would they say the same thing?" Altman claims 100% of founders say yes, and 100% of the time no two employees give the same answer.
+### People Management
 
-**Alignment.** Companies become unproductive when people are not on the same page. A clear mission, roadmap, and 3-6 month goals -- communicated repeatedly -- are the foundation of company productivity.
+**Manage for the employee.** Epstein's favorite interview question for manager candidates: "How would you describe your management style?" The best answer: "it depends on the employee." Each person has a unique combination of experience, motivations, and personality.
 
-**Senior hires.** In the early days, hiring senior people is usually a mistake. As the company scales past 25+ employees, experienced executives who have built companies before become valuable.
+**Understand that everyone is different.** "Just because you may be an achiever that's self-motivated to get things done doesn't mean that everyone else on your team is."
 
-## Moving Past Consensus
+**Have consistent 1-on-1s every week.** These are for the benefit of employees; let them drive the agenda. Ask open-ended questions. "Go out of your way to keep from canceling or rescheduling them whenever possible."
 
-Collison describes a critical transition failure at Stripe: the team was "much too consensus-oriented" between five and fifty people. Consensus worked when everyone fit in one room, but became a bottleneck as the organization grew. His recommendation: by about ten people, adopt a "firmly non-consensus" decision-making model with clear hierarchy. Speed requires someone to call shots. The tension is maintaining enough autonomy that people feel ownership while avoiding "Brownian motion" -- a uniform morass of uncoordinated effort ([Patrick Collison on effectively running a startup](https://www.ycombinator.com/library/80-patrick-collison-on-effectively-running-a-startup)).
+**Include your team in decision-making.** Define the process upfront: committee decision, someone else owns it, or gathering feedback for the CEO's final call. "Even if your team disagrees with the final call, by including them in the process they will better understand the decision."
 
-Collison also describes Stripe's "crazy ideas" process: an open document where anyone can add ideas that are "probably a bad idea" -- the self-censorship filter works because people must propose something risky. Stripe Atlas and the Stellar cryptocurrency partnership both originated from this process.
+**A little professional tension is healthy.** Differing perspectives make teams and products better, but "if the tension moves from professional to personal, then you need to take action to eliminate it quickly."
 
-## Founder as Vision-Holder
+### Onboarding and Development
 
-Khosla argues that the founder's irreplaceable contribution is "belief system in the face of ambiguity" -- the willingness to lead when nobody knows the answer. Functional skills (engineering, marketing, sales) can be hired for. But the ability to navigate ambiguity, maintain vision, and ask first-principles questions cannot be delegated. "If you hire a senior executive from another company, there's zero chance you'll have that." Khosla warns that hiring domain experts creates a dangerous temptation to defer to their experience rather than questioning their assumptions ([How to build and manage teams](https://www.ycombinator.com/library/7g-how-to-build-and-manage-teams)).
+**Set your team up for success.** "It's unfair to expect even the best people to hit the ground running on day one without being properly onboarded."
 
-## Navigating Market Cycles
+**Your trust should be earned.** Work more closely with new team members and frequently review their work until they have proven themselves.
 
-King describes Snapdocs' approach to navigating volatile mortgage market conditions while maintaining company focus ([Snapdocs' Aaron King on navigating market cycles](https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles)). The key: selectively ignore some market changes while reacting quickly to others. The filter is whether the change aligns with the company's resources, vision, and north star metric.
+**Ease the maker to manager transition.** An outstanding individual contributor may not be an outstanding manager immediately. During the transition, their instinct will be to take on both roles: "spending 75% effort on making and 75% effort on managing -- a 150% workload resulting in less than 100% output in each area." Put structure in place to let them focus on managing.
 
-When the market shifted during COVID, Snapdocs communicated in concentric circles: a small group of 3-4 people made the hardest decisions, then expanded to senior leadership, then company-wide. The entire process took about two weeks. The company also spun up temporary pods of 4-5 people focused on specific challenges, dissolving them once addressed.
+**Create a career path.** Every 6 months, ask employees where they want to be in 2-3 years. Help them build a plan.
 
-King emphasizes intellectual honesty about [[Growth|growth]] during up cycles: "We should not overly congratulate ourselves for the current situation, just as we shouldn't be too hard on ourselves when we're fighting through an inevitable downturn." This transparency was possible because Snapdocs shared cash balance, monthly growth rate, and burn with the entire team from the beginning.
+## The CEO's Evolving Role
+
+[[Ali Rowghani]] describes three phases of a startup CEO's job in [[The Second Job of a Startup CEO]]:
+
+- **Phase 1**: Build a product users love. The CEO is the "Doer-in-Chief."
+- **Phase 2**: Build a company to maximize the opportunity. The CEO is the "Company-Builder-in-Chief."
+- **Phase 3**: Harvest profits from the core business to invest in transformative new products.
+
+Phase 2 typically begins around 20-25 employees and ends at 400-500. The transition from Phase 1 to Phase 2 is the critical inflection point. "It's hard to stop coding, designing product specs, and interacting with customers on a daily basis." But "once your startup reaches 20-30 people, you'll have to spend more time leading. And since time is finite, the only way to lead more is do less."
+
+[[David Rusenko]], co-founder of Weebly, captured the end state: "Often, the first time I find out about a product feature is reading about it on our blog. It shocks most founders to hear this, but I know I've done my job well because I've yet to see a feature that was built poorly."
+
+### Three Tasks CEOs Cannot Delegate
+
+Rowghani identifies three tasks unique to the CEO (see also [[Mission-to-Metrics]] and [[Three Traits of Great Leaders]]):
+
+**1. Hiring a Leadership Team**
+Only the CEO can make final hiring decisions for VPs and C-suite. "You can't hire by compromise, looking for someone who everyone around you likes." Expect to spend 50% of your time on this. Expect at least 25% of leadership hires to not work out. "Most startup CEOs take too long to fire their first executive."
+
+Senior executives should be managed to longer-term outputs, not weekly milestones. It is also the CEO's job to acclimate new executives to culture and insist they build relationships across the organization before changing things.
+
+**2. Creating Purpose and Alignment**
+See [[Mission-to-Metrics]]. When a startup has fewer than 10 people, alignment is automatic. At 50+ people hiring across offices and functions, it requires deliberate work. The CEO defines Mission (purpose), Strategy (direction), and Metrics (pace and performance).
+
+**3. Nurturing Company Culture**
+Culture is "defined by the way people treat one another in a company." It begins forming on day two. Unlike Mission-to-Metrics, culture is not solely the CEO's job: "CEOs should encourage co-founders and early employees to work together to codify a set of values and behavioral norms that feel authentic and aspirational to everyone."
+
+Rowghani uses the Pixar example: during the making of Toy Story 2 in 1999, with seven months to release, the creative leadership decided the film was not working. Disney argued it was too late to start over. Pixar refused, tore up the story and rewrote it from scratch, pushing the studio to the brink of collapse. After completion, they closed the studio for two months to let everyone recuperate. [[Ed Catmull]] called it "the most intense and important period in the studio's history" and said it defined two core cultural tenets: "We couldn't be a studio that produced both great work and average work" and "we had to take care of our people if we were going to ask such sacrifices from them."
+
+### The Measure of Success
+
+[[Steve Jobs]] said during a management meeting at Pixar: "When I'm at my best, 50% of my time is unscheduled. That's the time I use to think, drop in on the people I want to speak with, and let my curiosity roam. It's my time to be creative. Without this free time, I would never be able to stay ahead of the company. To lead a company, you've always got to be two steps ahead. There's no way to lead a company from behind."
+
+Reaching the point of having significant unscheduled think time is the clearest sign of success for a Phase 2 CEO.
+
+## Measuring Leadership
+
+[[Ali Rowghani]] proposes a framework for measuring leadership based on his experience working closely with [[Ed Catmull]], [[Steve Jobs]], John Lasseter, and Bob Iger at Pixar/Disney. See [[Three Traits of Great Leaders]] for the full framework.
+
+The core insight: despite radically different styles, all four leaders built extraordinary trust by excelling in the same three areas: clarity of thought and communication, judgment about people, and personal integrity and commitment. "You cannot be a great leader without them because you cannot build trust without them."
 
 ## Source Talks
 
-| Source | Speaker | Key Point | URL |
-|--------|---------|-----------|-----|
-| 2s-advice-for-new-managers | Aaron Epstein | Maker-to-manager, delegation, hire for hunger, 1:1s | https://www.ycombinator.com/library/2s-advice-for-new-managers |
-| 3j-how-to-measure-leadership | Y Combinator | Leadership measurement frameworks | https://www.ycombinator.com/library/3j-how-to-measure-leadership |
-| 3k-the-second-job-of-a-startup-ceo | Y Combinator | CEO role evolution as company scales | https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo |
-| 4q-later-stage-advice-for-startups | Sam Altman | Structure, delegation, communication, alignment, senior hires | https://www.ycombinator.com/library/4q-later-stage-advice-for-startups |
-| Gu-snapdocs-aaron-king-on-navigating-market-cycles | Aaron King | Concentric circle communication, intellectual honesty about cycles | https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles |
-| 80-patrick-collison-on-effectively-running-a-startup | Patrick Collison | Move past consensus by ~10 people; crazy ideas process; speed of iteration | https://www.ycombinator.com/library/80-patrick-collison-on-effectively-running-a-startup |
-| 7g-how-to-build-and-manage-teams | Vinod Khosla | Founder as vision-holder; belief in ambiguity; first-principles questioning | https://www.ycombinator.com/library/7g-how-to-build-and-manage-teams |
+| Source | Speaker | Key Point |
+|--------|---------|-----------|
+| 2s-advice-for-new-managers | Aaron Epstein | Practical advice for first-time managers: delegate, repeat yourself, 1-on-1s, hire for hunger |
+| 3k-the-second-job-of-a-startup-ceo | Ali Rowghani | Phase 2 CEO: hire leaders, create alignment via Mission-to-Metrics, nurture culture |
+| 3j-how-to-measure-leadership | Ali Rowghani | Measuring leadership through trust: clarity, judgment about people, integrity |
