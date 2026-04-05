@@ -141,6 +141,24 @@ This three-phase approach is the **default for every absorption run**, including
 
 Absorption is not just extraction — it is **compilation**. The value of this wiki over raw sources or an LLM's training data is the synthesis: cross-pollinated insights, consensus signals, evolution over time, and a navigable graph that an agent can traverse efficiently. These principles govern how material is structured during absorption.
 
+#### Speaker-Level Attribution
+
+**Who says what matters.** Every insight must be attributed to the specific person who said it. This is non-negotiable.
+
+**Collaborative discussions (e.g., Dalton & Michael):** When two speakers build on each other's point in real-time, attribute jointly: "Caldwell and Seibel argue that..." But when they make distinct contributions — Caldwell introduces a framework and Seibel adds a different example from his Twitch experience — attribute each separately: "Caldwell proposes the scoring system [3]. Seibel adds that at Twitch, they scored a 2.5 before pivoting [3]."
+
+**Interviews:** When one person interviews another (e.g., Friedman interviews Scholl), only the advice-giver is the speaker. The interviewer gets credit only for their own observations, not for questions asked. The interviewer's speaker page does not need this video in its sources unless they contributed substantive insights.
+
+**Speaker pages must reflect what that person specifically said.** A D&M video should update both Dalton's and Michael's speaker pages — but with different content. Dalton's page gets his frameworks and examples. Michael's page gets his frameworks and examples. If you can't tell who said what (auto-caption without labels), note this limitation.
+
+**Repeated examples across speakers:** When the same example (e.g., "Airbnb's early photos") is mentioned by 5 speakers across 5 videos, mention it once in the topic article with citations to all sources: [1][4][7][12][15]. This shows consensus without repetition. In speaker pages, include the example only if that speaker draws a unique lesson from it.
+
+#### Transcript Quality
+
+**YC page transcripts** (transcript_source: "yc_page") have speaker labels and editorial review. Use direct quotes freely. Speaker attribution is reliable.
+
+**YouTube auto-captions** (transcript_source: "youtube_auto") have transcription errors and no speaker labels. For single-speaker videos: absorb the ideas but use direct quotes cautiously (they may be garbled). For multi-speaker auto-caption videos without labels: **skip absorption and log them** as pending improved transcripts. Do not guess speaker attribution from auto-captions.
+
 #### Consensus Signals
 
 When multiple speakers independently give the same advice, that convergence is information. Surface it explicitly:
@@ -325,7 +343,9 @@ speakers_referenced: ["Dalton Caldwell", "Michael Seibel"]
 
 There are no maximum length targets. An article is as long as it needs to be to carry the full substance of what the sources say about the topic. A major topic like Fundraising that draws from 15+ sources might be 300+ lines. A narrow framework from a single source might be 40 lines. The test is not "is it short enough?" but "could an agent answer a real question from this article alone?"
 
-Minimums still apply — don't create stub pages with fewer than 20 lines of real content. If there isn't enough material for a substantive page, fold the content into a broader article.
+**Keep articles unified, use sections.** When an article grows long (200+ lines) because many speakers address the same topic, do NOT split it. Use well-structured sections so agents can navigate. A 300-line Fundraising article with clear sections is better than 3 separate articles an agent has to find and cross-reference.
+
+**Thin articles are fine if distinct.** A 25-line article on a genuinely distinct topic (e.g., "Startup Legal Mechanics") is acceptable. The test is distinctness, not length. If it's a truly separate concept, it deserves its own page even if small. But if a video only produces content that fits naturally into an existing article, fold it in rather than creating a thin orphan.
 
 ## Rendering Standards
 
