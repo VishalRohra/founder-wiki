@@ -15,7 +15,7 @@ Toutiao (meaning "today's headlines" in Chinese), a flagship product of ByteDanc
 
 What makes Toutiao remarkable is that it achieved social-network-level engagement without a social graph, without explicit user inputs, and without product purchase history [1]. [[Anu Hariharan]] (who disclosed being a personal investor in Toutiao) analyzed the five hidden forces that drove its growth.
 
-![Toutiao vs. Competitors Daily Time Spent](images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/3ce55ba68c9f.png)
+![Toutiao vs. Competitors Daily Time Spent](../raw/posts/images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/3ce55ba68c9f.png)
 
 ## Background
 
@@ -23,7 +23,7 @@ Toutiao launched in 2012 by ByteDance, founded in Beijing [1]. The app uses mach
 
 Revenue growth was extraordinary: on target to hit more than 15 billion RMB (>$2.2 billion USD) by 2017, making it "one of the fastest growing apps in terms of revenue in the history of the internet" [1].
 
-![Toutiao Revenue Growth](images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/c9b5f444afbe.png)
+![Toutiao Revenue Growth](../raw/posts/images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/c9b5f444afbe.png)
 
 ## Force 1: Seize the Timing Gap
 
@@ -38,7 +38,7 @@ Toutiao stepped into this gap with several deliberate design decisions [1]:
 
 The catchy name ("today's headlines") and icon drove excellent user growth. Toutiao hit 1 million DAUs only four months after launch [1]. The app was updated almost weekly throughout its first year, and by the time competitors arrived, "it already had an important and valuable foothold" [1].
 
-[![Toutiao Personalized Feeds for Two Different Users](images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/90e7a053ef4e.png)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-2-1.png)
+[![Toutiao Personalized Feeds for Two Different Users](../raw/posts/images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/90e7a053ef4e.png)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-2-1.png)
 
 ## Force 2: Data Network Effect Across the Entire System
 
@@ -46,7 +46,7 @@ Toutiao exhibits a classic [[data network effect]]: more users produce more data
 
 Toutiao applies this virtuous cycle to optimize every stage of what they call the "content lifecycle": Creation, Curation, Recommendation, and Interaction [1].
 
-[![Toutiao Content Lifecycle](images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/b040e075c650.jpg)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-3-1.jpg)
+[![Toutiao Content Lifecycle](../raw/posts/images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/b040e075c650.jpg)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-3-1.jpg)
 
 ### Creation: AI-Written Content
 
@@ -62,6 +62,8 @@ The technical approach combined [1]:
 - Sequence-to-sequence deep learning for article summarization
 
 Toutiao started with four sports (Table Tennis, Tennis, Badminton, and Women's Soccer) chosen for technical tractability: the first three are turn-based with simpler rules, and Women's Soccer had a high-quality data source [1].
+
+[![Xiaomingbot article example](../raw/posts/images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/5678238ea111.jpeg)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-4.jpeg)
 
 ### Curation: Algorithmic Content Discovery
 
@@ -101,6 +103,8 @@ For many creators, Toutiao's recommendation engine delivers larger and more rele
 
 Content diversity is broad: top 20 categories account for only 60% of supply, with no single category exceeding 10% [1].
 
+[![Toutiao content channels](../raw/posts/images/3x-the-hidden-forces-behind-china-s-content-king-toutiao/06de1a2b708a.png)](https://blog.ycombinator.com/wp-content/uploads/2017/10/Toutiao-5-1.png)
+
 ## Force 4: Format Flexibility
 
 Rather than being rigid about core format, Toutiao expanded to new formats when data indicated they should [1]. In 2015, observing increased video content supply as connectivity improved, Toutiao added video capability and supported PGC short video content (1-5 minutes) [1].
@@ -123,4 +127,4 @@ Toutiao is "chipping away at their end goal, which is essentially to wipe away t
 
 ## References
 
-1. [The Hidden Forces Behind China's Content King Toutiao](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao) — [[Anu Hariharan]]
+1. [The Hidden Forces Behind China's Content King Toutiao](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao) — [[Anu Hariharan]] (n.d.)

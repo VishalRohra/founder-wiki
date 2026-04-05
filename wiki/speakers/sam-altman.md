@@ -44,6 +44,6 @@ On management, he is firmly in the "keep it simple" camp -- no innovation on org
 
 ## References
 
-1. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- Sam Altman
-2. [Later Stage Advice for Startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups) -- Sam Altman
-3. [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) -- Sam Altman
+1. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- Sam Altman (n.d.)
+2. [Later Stage Advice for Startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups) -- Sam Altman (n.d.)
+3. [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) -- Sam Altman (n.d.)

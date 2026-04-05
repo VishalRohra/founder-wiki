@@ -77,7 +77,7 @@ Red Packets drove WeChat Pay adoption by building trust through close social cir
 
 By 2016, Tencent had 600 million mobile payment MAUs and over 600 million average daily payment transactions [1].
 
-[![WeChat Pay Growth](images/3t-how-wechat-grew-to-be-the-1-app-in-the-world/5b831210586e.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Pay.png)
+[![WeChat Pay Growth](../raw/posts/images/3t-how-wechat-grew-to-be-the-1-app-in-the-world/5b831210586e.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Pay.png)
 
 ## Lesson 5: Monetize Subtly
 
@@ -87,7 +87,9 @@ WeChat demonstrates that monetization and user growth are not mutually exclusive
 
 **Moments Native Ads** (launched January 2015) limited native ads to one per day in a user's feed, compared to Facebook's roughly one ad per 10 posts [1]. Users interact with and share ads like friend posts. An Airbnb ad on Moments received more than 1.8 million views after sharing, saw a 5x increase in click-through rate, and drove a 600% increase in new sign-ups [1].
 
-[![WeChat Moments Ad Example](images/3t-how-wechat-grew-to-be-the-1-app-in-the-world/683b74fa5f3d.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment-Ad.png)
+[![WeChat Moments Ad Example](../raw/posts/images/3t-how-wechat-grew-to-be-the-1-app-in-the-world/683b74fa5f3d.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment-Ad.png)
+
+[![WeChat Moments Interface](../raw/posts/images/3t-how-wechat-grew-to-be-the-1-app-in-the-world/507d68f2e342.jpg)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Moment.jpg)
 
 **Social Coupons** adapted the classic coupon model to friend-based endorsement. When a user redeems a coupon, they can opt to share the offer with friends, extending vendor reach through trusted recommendations [1].
 
@@ -109,6 +111,8 @@ The team limits marketing content on Moments and restricts broadcast messages fr
 
 Despite the deep feature set, WeChat maintains only 4 tabs: chat, contacts, discover, and me [1]. They have been "very disciplined in keeping the app to only 4 tabs, as whenever they experiment with adding one, the left-most tab sees conversion rates drop by 20-30%" [1].
 
+[![WeChat Engagement Metrics](../raw/posts/images/3t-how-wechat-grew-to-be-the-1-app-in-the-world/fdd1b0a18af3.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Engagement.png)
+
 ## Key Growth Metrics Timeline
 
 | Milestone | Date | Key Driver |
@@ -123,8 +127,8 @@ Despite the deep feature set, WeChat maintains only 4 tabs: chat, contacts, disc
 | 1B Red Packets sent | Chinese New Year 2015 | Red Packet virality |
 | 889M MAUs | 2016 | Full platform maturity |
 
-[![WeChat Growth Chart](images/3t-how-wechat-grew-to-be-the-1-app-in-the-world/a260bf04ade6.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Growth.png)
+[![WeChat Growth Chart](../raw/posts/images/3t-how-wechat-grew-to-be-the-1-app-in-the-world/a260bf04ade6.png)](https://blog.ycombinator.com/wp-content/uploads/2017/04/WeChat-Growth.png)
 
 ## References
 
-1. [How WeChat Grew to Be the #1 App in the World](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world) — [[Anu Hariharan]]
+1. [How WeChat Grew to Be the #1 App in the World](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world) — [[Anu Hariharan]] (n.d.)

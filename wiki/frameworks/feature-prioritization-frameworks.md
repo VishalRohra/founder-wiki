@@ -87,4 +87,4 @@ Certain products do not fit any framework: a brand-new category, where people li
 
 ## References
 
-1. [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) -- [[Emmett Shear]]
+1. [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) -- [[Emmett Shear]] (n.d.)

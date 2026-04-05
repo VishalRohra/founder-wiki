@@ -37,5 +37,5 @@ Harris's advice is built around a principle of radical simplicity:
 
 ## References
 
-1. [How to Build Your Seed Round Pitch Deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck) — Aaron Harris
-2. [Series A Diligence Checklist](https://www.ycombinator.com/library/3h-series-a-diligence-checklist) — Aaron Harris, Jason Kwon
+1. [How to Build Your Seed Round Pitch Deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck) — Aaron Harris (March 2018)
+2. [Series A Diligence Checklist](https://www.ycombinator.com/library/3h-series-a-diligence-checklist) — Aaron Harris, Jason Kwon (n.d.)

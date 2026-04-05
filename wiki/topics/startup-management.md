@@ -113,4 +113,4 @@ The common failure mode: new managers try to do both their old maker work and th
 
 ## References
 
-1. [Advice for New Managers](https://www.ycombinator.com/library/2s-advice-for-new-managers) — Aaron Epstein
+1. [Advice for New Managers](https://www.ycombinator.com/library/2s-advice-for-new-managers) — Aaron Epstein (n.d.)

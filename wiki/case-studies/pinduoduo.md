@@ -31,7 +31,7 @@ The core of Pinduoduo's experience is team purchase, where buyers form groups to
 4. The team must form within 24 hours for the order to be confirmed [1]
 5. Once formed, the product ships within 48 hours [1]
 
-![Pinduoduo Team Purchase Flow](images/2z-pinduoduo-and-the-rise-of-social-e-commerce/22cf244a2ed3.jpg)
+![Pinduoduo Team Purchase Flow](../raw/posts/images/2z-pinduoduo-and-the-rise-of-social-e-commerce/22cf244a2ed3.jpg)
 
 Nearly all Pinduoduo transactions use team purchase [1]. In early days, groups were large (10+ members), but requirements have declined as the platform scaled [1].
 
@@ -74,7 +74,7 @@ Pinduoduo operates on the principle that users visit without specific purchase i
 
 Users receive redeemable points for daily check-ins. Rewards accumulate over many months, and users must reach a minimum value (e.g., 30 RMB) to cash out as a no-minimum-spend voucher [1]. This creates a simple daily habit loop that eventually ties back to commerce.
 
-![Pinduoduo Daily Check-In](images/2z-pinduoduo-and-the-rise-of-social-e-commerce/e621e756cab8.png)
+![Pinduoduo Daily Check-In](../raw/posts/images/2z-pinduoduo-and-the-rise-of-social-e-commerce/e621e756cab8.png)
 
 ### Price Chop
 
@@ -82,19 +82,29 @@ Users can get products for free by sharing a custom link with friends within a 2
 
 Price Chop simultaneously increases customer lifetime value and acquires new customers through user-to-user sharing [1].
 
-![Pinduoduo Price Chop](images/2z-pinduoduo-and-the-rise-of-social-e-commerce/bf7bb9afff8b.png)
+![Pinduoduo Price Chop](../raw/posts/images/2z-pinduoduo-and-the-rise-of-social-e-commerce/bf7bb9afff8b.png)
 
 ### Card Programs
 
 Three key card types drive specific user behaviors [1]:
 
 1. **Free Pass Card**: Loyalty-style card allowing team purchase discounts without joining a team. Earned after two purchases.
+
+![Pinduoduo Free Pass Card](../raw/posts/images/2z-pinduoduo-and-the-rise-of-social-e-commerce/cb1438a37151.png)
+
 2. **Brand Black Card**: Encourages reviews by offering discounts on branded products after 2-4 reviews. Improves platform quality for all users.
+
+![Pinduoduo Brand Black Card](../raw/posts/images/2z-pinduoduo-and-the-rise-of-social-e-commerce/6ed39bc1ed0c.png)
+
 3. **Brand Card**: Promotes branded products. Users share brand cards with friends via WeChat, leveraging trusted friend recommendations to drive branded product adoption.
+
+![Pinduoduo Brand Card](../raw/posts/images/2z-pinduoduo-and-the-rise-of-social-e-commerce/e18ba1c6e7bf.png)
 
 ### Mini Games
 
 Pinduoduo hosts in-app games to drive daily engagement. **Duo Duo Orchard** (described as "Farmville except now the rewards are real physical goods") has users nurture a virtual fruit tree that eventually yields a real box of fruit shipped to their address [1]. The game had more than 11 million DAUs. Progress is tied to behaviors that drive revenue: shopping on Pinduoduo yields water droplets for your tree, and team purchases unlock special tools [1].
+
+![Pinduoduo Duo Duo Orchard](../raw/posts/images/2z-pinduoduo-and-the-rise-of-social-e-commerce/b33c6dcf07c3.png)
 
 **DD Bank** is a piggy bank game where users accumulate exchangeable coins over time [1].
 
@@ -118,4 +128,4 @@ YC portfolio companies already pursuing variations of this model [1]:
 
 ## References
 
-1. [Pinduoduo and the Rise of Social E-Commerce](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce) — [[Anu Hariharan]], Nic Dardenne
+1. [Pinduoduo and the Rise of Social E-Commerce](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce) — [[Anu Hariharan]], Nic Dardenne (2020)

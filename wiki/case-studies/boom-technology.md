@@ -52,4 +52,4 @@ For hardware companies at YC, find progress that "both is and looks like actual,
 
 ## References
 
-1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- [[Blake Scholl]]
+1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- [[Blake Scholl]] (n.d.)

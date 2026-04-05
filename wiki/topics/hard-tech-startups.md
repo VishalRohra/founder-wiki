@@ -88,6 +88,6 @@ Hard tech startups often face regulatory hurdles that software companies do not.
 
 ## References
 
-1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- [[Blake Scholl]]
-2. [On Starting a Company from a Hackathon Project](https://www.ycombinator.com/library/4x-on-starting-a-company-from-a-hackathon-project) -- Tanay Tandon
-3. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]]
+1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- [[Blake Scholl]] (n.d.)
+2. [On Starting a Company from a Hackathon Project](https://www.ycombinator.com/library/4x-on-starting-a-company-from-a-hackathon-project) -- Tanay Tandon (January 2017)
+3. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]] (n.d.)

@@ -48,5 +48,5 @@ Rowghani is unique in combining deep experience at a pre-IPO creative company (P
 
 ## References
 
-1. [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) — Ali Rowghani
-2. [The Second Job of a Startup CEO](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo) — Ali Rowghani
+1. [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) — Ali Rowghani (n.d.)
+2. [The Second Job of a Startup CEO](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo) — Ali Rowghani (n.d.)

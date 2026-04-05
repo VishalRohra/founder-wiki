@@ -108,4 +108,4 @@ The operational lesson for difficult decisions: "ask yourself which course of ac
 
 ## References
 
-1. [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) — [[Ali Rowghani]]
+1. [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) — [[Ali Rowghani]] (n.d.)

@@ -15,7 +15,7 @@ The Mission-to-Metrics framework is a three-level alignment tool described by [[
 
 ## The Three Levels
 
-[![Mission-to-Metrics Diagram](images/3k-the-second-job-of-a-startup-ceo/cb2bc3e4792d.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/Artboard-2white_wborder.png)
+[![Mission-to-Metrics Diagram](../raw/posts/images/3k-the-second-job-of-a-startup-ceo/cb2bc3e4792d.png)](https://blog.ycombinator.com/wp-content/uploads/2016/11/Artboard-2white_wborder.png)
 
 ### Mission (Purpose)
 
@@ -58,4 +58,4 @@ Rowghani's practical process [1]:
 
 ## References
 
-1. [The Second Job of a Startup CEO](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo) — [[Ali Rowghani]]
+1. [The Second Job of a Startup CEO](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo) — [[Ali Rowghani]] (n.d.)

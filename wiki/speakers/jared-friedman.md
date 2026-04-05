@@ -34,4 +34,4 @@ He is particularly pointed about the catch-22 that traps academic founders: they
 
 ## References
 
-1. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- Jared Friedman
+1. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- Jared Friedman (n.d.)

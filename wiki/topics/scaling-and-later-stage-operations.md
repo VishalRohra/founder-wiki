@@ -112,4 +112,4 @@ Business development can start to matter at 12-24 months, assuming a great produ
 
 ## References
 
-1. [Later Stage Advice for Startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups) -- [[Sam Altman]]
+1. [Later Stage Advice for Startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups) -- [[Sam Altman]] (n.d.)

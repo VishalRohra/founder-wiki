@@ -39,7 +39,7 @@ Caldwell warns: "Don't let these ideas be the justification(s) for why you choos
 
 Caldwell presents a graph showing how leverage deteriorates over time for a company with declining runway [1]:
 
-![Runway and Leverage Graph](images/3Z-advice-for-companies-with-less-than-1-year-of-runway/a8feb33288f6.png)
+![Runway and Leverage Graph](../raw/posts/images/3Z-advice-for-companies-with-less-than-1-year-of-runway/a8feb33288f6.png)
 
 Three lessons from this graph [1]:
 
@@ -98,4 +98,4 @@ Caldwell closes with two principles that override everything else [1]:
 
 ## References
 
-1. [Advice for Companies with Less Than 1 Year of Runway](https://www.ycombinator.com/library/3Z-advice-for-companies-with-less-than-1-year-of-runway) — Dalton Caldwell
+1. [Advice for Companies with Less Than 1 Year of Runway](https://www.ycombinator.com/library/3Z-advice-for-companies-with-less-than-1-year-of-runway) — Dalton Caldwell (n.d.)

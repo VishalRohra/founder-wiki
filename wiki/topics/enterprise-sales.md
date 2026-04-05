@@ -75,4 +75,4 @@ Measure the sales process like using a packet sniffer or debugger. Collecting da
 
 ## References
 
-1. [Enterprise Sales for Hackers](https://www.ycombinator.com/library/4m-enterprise-sales-for-hackers) -- Ryan Junee
+1. [Enterprise Sales for Hackers](https://www.ycombinator.com/library/4m-enterprise-sales-for-hackers) -- Ryan Junee (n.d.)

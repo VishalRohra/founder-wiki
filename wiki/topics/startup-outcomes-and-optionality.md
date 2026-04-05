@@ -45,4 +45,4 @@ The outcome is still worth pride. "Silicon Valley is filled with people who had 
 
 ## References
 
-1. [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) -- [[Sam Altman]]
+1. [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) -- [[Sam Altman]] (n.d.)

@@ -43,11 +43,19 @@ Tam describes a structured process for building the pitch [2]:
 
 **Title (1 slide):** Company name or logo and a one-sentence description. The one-liner must be concrete ("We build and operate robot greenhouses" not "Reinventing agriculture"), understandable to a layperson, and specific to what the company does [2].
 
+![Title slide example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/cd9e75fb29a3.png)
+
 **Traction Teaser (1 slide):** Placed early to grab attention and convince the investor the presentation is worth listening to [2].
+
+![Traction teaser example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/332f6e6e9236.png)
 
 **Problem (1 slide):** The problem must match the solution. Present from the customer's perspective. Show, don't tell -- "Medical billing is broken" is vague; "Here's how medical billing works today: patients need to do X steps, which takes Y months and results in Z% claims approved" is concrete [2].
 
+![Problem slide example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/085dc4c55fa0.png)
+
 **Solution (1 slide):** Side-by-side comparison with status quo. Quantify impact with numbers. Focus on what exists now, not future plans. Show how the customer uses it, not feature lists [2].
+
+![Solution slide example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/370a5e22f179.png)
 
 **Traction In-Depth (a few slides):** Numbers should tell a story, starting with the most important metric -- usually revenue. For enterprise: revenue growth, sales cycle, ACV, salesperson efficiency, churn. For consumer: revenue plus growth rate, organic vs. paid acquisition, CAC/LTV, engagement and retention. For hardtech/biotech: technology efficacy data, patents filed, LOIs, specific milestones [2].
 
@@ -57,13 +65,23 @@ Three traps in presenting numbers: information overload (identify "hero facts"),
 
 **Market (1 slide):** Bottoms-up calculation: number of prospective customers x value of each customer. Use real numbers from the current business, not top-down report figures [2].
 
+![Market slide example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/24ae1bce2667.png)
+
 **Competition (1 slide):** Show why the company is 10x better than alternatives. Convince the investor the moat is defensible [2].
+
+![Competition slide example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/2eff98b228dc.png)
 
 **Vision (1 slide):** Show how the company becomes a $10B company. "Here's where you can dream and talk about all of the hypotheticals you've judiciously kept from the first part of your deck" [2].
 
+![Vision slide example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/0831048590eb.png)
+
 **Team (1 slide):** If the team is a comparative advantage, place as the second or third slide. Otherwise, show who the founders are, why they are the right people, and quality of team recruited. Signaling risk: including a Series A fund among existing investors prompts the question of whether they are leading the round [2].
 
+![Team slide example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/169ca6b8734c.png)
+
 **Use of Funds (1 slide):** The climax. Cover how much is being raised, what it will fund, and where the company will be in 18-24 months [2].
+
+![Use of Funds slide example](../raw/posts/images/8d-how-to-build-a-great-series-a-pitch-and-deck/1c1028d09c46.png)
 
 **Appendix:** Ammunition for the Q&A. Include slides answering anticipated investor questions, financial projections, and detailed use of funds [2].
 
@@ -113,5 +131,5 @@ The solution is preventive: "make sure there isn't a significant backlog of equi
 
 ## References
 
-1. [Series A Diligence Checklist](https://www.ycombinator.com/library/3h-series-a-diligence-checklist) -- [[Aaron Harris]], Jason Kwon
-2. [How to Build a Great Series A Pitch and Deck](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) -- Janelle Tam
+1. [Series A Diligence Checklist](https://www.ycombinator.com/library/3h-series-a-diligence-checklist) -- [[Aaron Harris]], Jason Kwon (n.d.)
+2. [How to Build a Great Series A Pitch and Deck](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) -- Janelle Tam (n.d.)

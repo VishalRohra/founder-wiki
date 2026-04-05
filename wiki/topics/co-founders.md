@@ -33,11 +33,15 @@ Y Combinator runs a [co-founder matching platform](https://www.ycombinator.com/c
 
 ### Sequin (YC S21)
 
+![Sequin co-founders Vrinda Gupta and Mark Thomas](../raw/posts/images/Cq-does-co-founder-matching-work/63c573fdda7e.jpeg)
+
 Vrinda Gupta had left her job after launching credit cards like the Chase Sapphire Reserve at Visa. She spent a year as a solo founder building a product to help women build credit, raising a pre-seed and building an MVP. She needed a technical co-founder who was mission-driven and had fintech expertise [1].
 
 She matched with Mark Thomas, who had ten years of engineering experience at PayPal, cared about gender equity, and had spent six years as CTO of family-oriented startups. Gupta recalls: "We met the day after we matched, and the day after, and then the day after that" [1]. They went through YC's Summer 2021 batch and raised $5.7M [1].
 
 ### Kiwi Biosciences (YC S21)
+
+![Kiwi Biosciences co-founders Anjie Liu and David Hachuel](../raw/posts/images/Cq-does-co-founder-matching-work/39a4837470e0.jpeg)
 
 Anjie Liu started Kiwi Biosciences to solve her own problems with irritable bowel syndrome. She had a founding scientist for R&D but wanted a co-founder to help build a consumer brand and commercialize the product [1].
 

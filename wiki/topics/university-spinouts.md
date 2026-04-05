@@ -78,4 +78,4 @@ TTOs historically had a bad reputation for being slow, bureaucratic, and forcing
 
 ## References
 
-1. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]]
+1. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]] (n.d.)

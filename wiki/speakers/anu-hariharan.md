@@ -58,8 +58,8 @@ Her approach to growth is methodical and benchmark-driven. She provides specific
 
 ## References
 
-1. [How WeChat Grew to Be the #1 App in the World](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world) -- Anu Hariharan
-2. [Pinduoduo and the Rise of Social E-Commerce](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce) -- Anu Hariharan, Nic Dardenne
-3. [The Hidden Forces Behind China's Content King Toutiao](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao) -- Anu Hariharan
-4. [How to Create and Manage a Board](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board) -- Anu Hariharan
-5. [How to Set Up, Hire, and Scale a Growth Strategy and Team](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team) -- Anu Hariharan, Gustaf Alströmer
+1. [How WeChat Grew to Be the #1 App in the World](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world) -- Anu Hariharan (n.d.)
+2. [Pinduoduo and the Rise of Social E-Commerce](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce) -- Anu Hariharan, Nic Dardenne (2020)
+3. [The Hidden Forces Behind China's Content King Toutiao](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao) -- Anu Hariharan (n.d.)
+4. [How to Create and Manage a Board](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board) -- Anu Hariharan (n.d.)
+5. [How to Set Up, Hire, and Scale a Growth Strategy and Team](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team) -- Anu Hariharan, Gustaf Alströmer (n.d.)

@@ -35,4 +35,4 @@ Hale is distinctive for treating the pitch deck as a product design challenge ra
 
 ## References
 
-1. [How to Design a Better Pitch Deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck) -- Kevin Hale
+1. [How to Design a Better Pitch Deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck) -- Kevin Hale (December 2015)

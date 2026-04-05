@@ -69,6 +69,6 @@ Companies like Amazon will continue to grow in specific shopping needs, "but it 
 
 ## References
 
-1. [Pinduoduo and the Rise of Social E-Commerce](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce) — [[Anu Hariharan]], Nic Dardenne
-2. [How WeChat Grew to Be the #1 App in the World](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world) — [[Anu Hariharan]]
-3. [The Hidden Forces Behind China's Content King Toutiao](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao) — [[Anu Hariharan]]
+1. [Pinduoduo and the Rise of Social E-Commerce](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce) — [[Anu Hariharan]], Nic Dardenne (2020)
+2. [How WeChat Grew to Be the #1 App in the World](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world) — [[Anu Hariharan]] (n.d.)
+3. [The Hidden Forces Behind China's Content King Toutiao](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao) — [[Anu Hariharan]] (n.d.)

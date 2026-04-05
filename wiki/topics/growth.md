@@ -36,6 +36,8 @@ The best metric to measure growth is revenue. For startups not yet charging, act
 
 The compounding effect of small differences in weekly growth rate is dramatic:
 
+![Growth rate compounding](../raw/posts/images/8s-startup-growth/03a34df22371.png)
+
 | Weekly Growth Rate | Annual Multiple | 4-Year Outcome (from $1K/mo) |
 |---|---|---|
 | 1% | 1.7x | $7,900/month |
@@ -114,6 +116,8 @@ The consensus is clear: do not build a growth team before you have proven Retent
 ### Retention Benchmarks
 
 To determine if retention is good enough to justify growth investment, three checks apply:
+
+![Retention - Cohort Analysis](../raw/posts/images/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team/f39d6a8e86db.png)
 
 1. **Stable long-term retention**: the retention curve should flatten and run parallel to the x-axis after an initial dip
 2. **In line with vertical benchmarks**: stable 10% long-term retention is poor for a social network
@@ -196,8 +200,8 @@ Growth also explains why successful startups get acquisition offers. A rapidly g
 ## References
 
 1. [Startup = Growth](https://www.ycombinator.com/library/8s-startup-growth) -- [[Paul Graham]] (September 2012)
-2. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- [[Sam Altman]]
-3. [How to Set Up, Hire, and Scale a Growth Strategy and Team](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team) -- [[Anu Hariharan]], Gustaf Alströmer
+2. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- [[Sam Altman]] (n.d.)
+3. [How to Set Up, Hire, and Scale a Growth Strategy and Team](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team) -- [[Anu Hariharan]], Gustaf Alströmer (n.d.)
 4. [The Hardest Lessons for Startups to Learn](https://www.ycombinator.com/library/8w-the-hardest-lessons-for-startups-to-learn) -- [[Paul Graham]] (April 2006)
 5. [Do Things That Don't Scale](https://www.ycombinator.com/library/96-do-things-that-don-t-scale) -- [[Paul Graham]] (July 2013)
 6. [Default Alive or Default Dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead) -- [[Paul Graham]] (October 2015)

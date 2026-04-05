@@ -41,9 +41,9 @@ PMF is increasingly the threshold for [[Series A Fundraising]]. Compared to the 
 
 ## References
 
-1. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- [[Sam Altman]]
+1. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- [[Sam Altman]] (n.d.)
 2. [The 18 Mistakes That Kill Startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups) -- [[Paul Graham]] (October 2006)
 3. [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) -- [[Paul Graham]] (November 2012)
-4. [How to Set Up, Hire, and Scale a Growth Strategy and Team](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team) -- [[Anu Hariharan]], Gustaf Alströmer
-5. [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) -- [[Emmett Shear]]
-6. [How to Build a Great Series A Pitch and Deck](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) -- Janelle Tam
+4. [How to Set Up, Hire, and Scale a Growth Strategy and Team](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team) -- [[Anu Hariharan]], Gustaf Alströmer (n.d.)
+5. [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) -- [[Emmett Shear]] (n.d.)
+6. [How to Build a Great Series A Pitch and Deck](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) -- Janelle Tam (n.d.)

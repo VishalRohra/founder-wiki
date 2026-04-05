@@ -74,7 +74,25 @@ The template consists of these slides, each of which can expand to a set of up t
 9. **Team** - What makes the founding team well suited to the problem. "This should be about founders. Nobody cares about your advisors" [2]
 10. **The Ask** - How much money you need and what it buys. "If you can lay out where you'll be inside of a year, which should make you Series A ready, that's powerful" [2]
 
-![YC Seed Deck Title Slide Template](images/2u-how-to-build-your-seed-round-pitch-deck/08553ccc0cf9.jpeg)
+![YC Seed Deck Title Slide Template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/08553ccc0cf9.jpeg)
+
+![Problem slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/ab30d61f323f.jpeg)
+
+![Solution slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/c6bb644cce62.jpeg)
+
+![Traction slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/e54c93c98fda.jpeg)
+
+![Additional metrics slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/71ce4262fd17.jpeg)
+
+![Insights / Unique Advantage slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/36eb6b2ceff3.jpeg)
+
+![Business Model slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/6eb2bb36a24e.jpeg)
+
+![Market slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/18d4f82645f2.jpeg)
+
+![Team slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/629aacffc212.jpeg)
+
+![The Ask slide template](../raw/posts/images/2u-how-to-build-your-seed-round-pitch-deck/43f0e492ef33.jpeg)
 
 Harris notes that the deck is "intentionally simple in design" and references [[Kevin Hale]]'s piece on [how to design decks well](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck) for visual design guidance [2]. [[Jared Friedman]] suggested the creation of this template [2].
 
@@ -130,5 +148,5 @@ Ralston consolidates his advice into a set of rules [1]:
 
 ## References
 
-1. [A Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) — Geoff Ralston
-2. [How to Build Your Seed Round Pitch Deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck) — [[Aaron Harris]]
+1. [A Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) — Geoff Ralston (n.d.)
+2. [How to Build Your Seed Round Pitch Deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck) — [[Aaron Harris]] (March 2018)

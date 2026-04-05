@@ -36,4 +36,4 @@ He traces aviation's stagnation directly to the disappearance of founders from t
 
 ## References
 
-1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- Blake Scholl
+1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- Blake Scholl (n.d.)

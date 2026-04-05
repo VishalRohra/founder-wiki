@@ -35,4 +35,4 @@ The [[Co-Founders]] article covers the broader question of co-founder selection.
 ## References
 
 1. [10 Questions to Discuss with a Potential Co-Founder](https://www.ycombinator.com/library/Hj-10-questions-to-discuss-with-a-potential-co-founder) -- Y Combinator (2022)
-2. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]]
+2. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]] (n.d.)

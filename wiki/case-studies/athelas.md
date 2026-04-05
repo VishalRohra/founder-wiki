@@ -15,7 +15,15 @@ Athelas (YC S16) makes low-cost devices that enable rapid blood diagnostics thro
 
 ## From Hackathon to Product
 
+[![Athelas hackathon prototype](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/dc4f11da762d.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-1.png)
+
 The first version used a rubber piece and spherical magnifier attached to a smartphone camera. A blood sample was held (by a toilet paper roll) underneath, the camera took images, and computer vision rendered malaria cell counts. The design was similar to a [van Leeuwenhoek microscope](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek) -- one of the earliest microscopes built, used to see microorganisms for the first time [1].
+
+[![Athelas cell classification](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/21b8f50e25a9.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-2.png)
+
+[![Athelas cell segmentation](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/393ab971f08b.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-4.png)
+
+[![Athelas cell recognition output](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/df9dcd053523.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-5.png)
 
 The hackathon focused on segmentation and template matching combined with a fast random forest model that classified extracted Red Blood Cells. Cell boundaries were recognized, then fed into the classifier to identify parasitic cells like Malaria or Trypanosoma [1].
 
@@ -25,11 +33,17 @@ The hackathon focused on segmentation and template matching combined with a fast
 
 Turning the demo into a product required advances on multiple fronts [1]:
 
+[![Athelas hardware evolution](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/eb2bd58bdaed.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-6.png)
+
 **Hardware**: Higher-resolution optics in a standalone, cheap device with actuation systems and Gaussian edge autofocusing algorithms for consistent cell capture.
 
 **Sample preparation**: Deepika perfected a fast staining mechanism, synthesizing dozens of stain compound versions and coating them on plastic strips for out-of-the-box use. The strip needed to create a "monolayer" (single layer of cells) for statistically representative imaging.
 
 **Computer vision**: Training data assembled from public CDC images and blood smears collected from researchers at Stanford and UCSF, often hand-labeled by Tandon or a pathologist. Traditional computer vision and deep learning approaches classified cell types.
+
+[![Athelas deep learning classification](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/d27965e1b0d8.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-7.png)
+
+[![Athelas training data](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/4daccd321fda.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-8.png)
 
 ## Clinical Validation
 
@@ -39,6 +53,12 @@ Athelas's computer vision approach has an advantage over traditional Coulter cou
 
 The trial showed 100% 5-class inter-rater agreement between the two systems. Data was submitted to the FDA for Class 2 510(k) approval, and distribution began for the Class 1 version [1].
 
+[![Athelas clinical validation results](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/6ae9b7460c81.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-13.png)
+
+[![Athelas final product](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/104f634a1e0c.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-14.png)
+
+[![Athelas device and app](../raw/posts/images/4x-on-starting-a-company-from-a-hackathon-project/e9768e42baba.png)](https://blog.ycombinator.com/wp-content/uploads/2017/01/athelas-15.png)
+
 ## Challenges
 
 Progress was slow before YC. College workload at Stanford combined with rising hardware iteration costs made consistent progress difficult. "Finals often meant days going by without any tangible progress whatsoever" [1]. Going from hackathon prototype to shippable product was "a progression in dimensionality at every stage" [1].
@@ -47,4 +67,4 @@ The devices shipped at $250 for point-of-care locations, homes, and clinical set
 
 ## References
 
-1. [On Starting a Company from a Hackathon Project](https://www.ycombinator.com/library/4x-on-starting-a-company-from-a-hackathon-project) -- Tanay Tandon
+1. [On Starting a Company from a Hackathon Project](https://www.ycombinator.com/library/4x-on-starting-a-company-from-a-hackathon-project) -- Tanay Tandon (January 2017)

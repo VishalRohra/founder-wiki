@@ -15,6 +15,8 @@ A framework from [[Kevin Hale]] for designing pitch deck slides that investors c
 
 ## The Three Principles
 
+![Legible, Simple, Obvious](../raw/posts/images/4T-how-to-design-a-better-pitch-deck/35131887eed3.png)
+
 **Legible**: The audience can physically read the slide. Use large type, bold text, a simple font, and good contrast from the background. Text at the top is easier to read from the back of a large room. At Demo Day, the room holds over 500 people, many of whom are older with imperfect eyesight [1].
 
 **Simple**: Each slide expresses one idea. The word "simple" shares a root with "complex" -- the Latin "plex" meaning braid, twist, or fold. Simple ideas are "one fold." A simple slide does not intertwine multiple ideas. Since there are only five to seven key points, the deck should have only about five to seven slides [1].

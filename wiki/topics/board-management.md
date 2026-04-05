@@ -170,4 +170,4 @@ Companies that are top performers in a VC's portfolio have more leverage than th
 
 ## References
 
-1. [How to Create and Manage a Board](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board) — [[Anu Hariharan]]
+1. [How to Create and Manage a Board](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board) — [[Anu Hariharan]] (n.d.)
