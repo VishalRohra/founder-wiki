@@ -3,27 +3,41 @@ title: Emmett Shear
 type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["Emmett Shear", "Shear"]
-related: ["[[Product Development]]", "[[Feature Prioritization Frameworks]]", "[[Twitch]]", "[[Justin.tv]]"]
+aliases: ["Shear", "Emmett Shear"]
+related: ["[[Feature Prioritization Frameworks]]", "[[Product-Market Fit]]", "[[Growth]]"]
 sources: ["8p-how-to-prioritize-features"]
 ---
 
 # Emmett Shear
 
-Emmett Shear is the cofounder and former CEO of [[Twitch]], which grew out of [[Justin.tv]]. His writing on feature prioritization draws directly from building both products [1].
+Emmett Shear is co-founder of Justin.tv and Twitch. His contribution to the YC knowledge base centers on product development methodology -- specifically, how to decide what to build next as a company evolves through different stages.
 
 ## Worldview
 
-Shear's core contribution is a taxonomy of three [[Feature Prioritization Frameworks|feature prioritization frameworks]] that startups progress through as they mature [1]:
+Shear views product prioritization as a progression through distinct frameworks, each suited to a different stage of company maturity. He rejects one-size-fits-all approaches and instead maps frameworks to conditions. A startup's job is not to pick the "best" prioritization method but to recognize which one fits its current circumstances [1].
 
-1. **Built For Me**: You are the primary user. Build what you wish the product did. Works best for small teams with genuine product love. Justin.tv and early Twitch both started this way. This framework gives startups "an automatic advantage against big incumbents who can't use the same method" [1].
+He is notably skeptical of idea validation: "Validating an idea you already have is an anti-goal. You can't improve an idea through any amount of validation" [1]. The goal of customer research is to generate better ideas, not to confirm existing ones.
 
-2. **Switch To Us**: Your users already do the behavior elsewhere. Interview users of your product, competitors, and adjacent services. The anti-goal is validation: "You can't improve an idea through any amount of validation. The goal of this process is to have better ideas" [1]. Works best when customers have articulate opinions (prosumers, SMBs).
+## Key Frameworks
 
-3. **Three Numbers Matter**: Identify three measurable product qualities and relentlessly drive them. Amazon: price, selection, shipping speed. Twitch: audience size, positive interactions, money. Three is the maximum number of focus areas people can maintain. Recursive: each metric decomposes into three sub-drivers [1].
+**Three Prioritization Frameworks**: Built For Me (founder as exemplar user), Switch To Us (interview-driven competitive displacement), and Three Numbers Matter (metric-driven focus areas). Startups progress through them in order [1].
 
-Shear is notable for identifying the hard case that defies all frameworks: a brand-new category where customers choose for hard-to-measure reasons and you are not the end user [1]. "It's really really hard!" The only escape for big companies: a CEO who is the lead designer ([[Steve Jobs]]) [1].
+**The Three-Number Rule**: Three is the maximum number of focus areas people can keep in mind consistently. "X, Y, and Z" feels natural; "W, X, Y, and Z" does not [1].
+
+**Operational Excellence as Hygiene**: For startups, winning through pure operational excellence is rare. Do just enough that it is acceptable to customers, then focus on what they really care about [1].
+
+## Distinct Perspective
+
+Shear is one of the few YC voices to provide a complete product prioritization system. Most YC advice focuses on what to build (something people want) rather than how to decide what to build next. Shear's framework fills this gap with concrete methods for each stage.
+
+His candor about the limitations of each framework is distinctive. He openly acknowledges that certain product types (new categories where users cannot articulate preferences and the founder is not the user) do not fit any framework well. "It's really really hard!" [1].
+
+## Source Inventory
+
+| Source | Key Contribution |
+|--------|-----------------|
+| [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) | Three-framework progression for product prioritization; interview methodology |
 
 ## References
 
-1. [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) — Emmett Shear
+1. [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) -- Emmett Shear

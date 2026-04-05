@@ -74,28 +74,48 @@ Every wiki page should be densely linked to related pages. When you mention a co
 6. If the wiki doesn't cover it, say so. Don't guess.
 7. Query is **read-only** — don't modify wiki files.
 
-### Absorb (add new source to the wiki)
+### Absorb (add new sources to the wiki)
 
-1. Read the raw/ entry **in full** — understand the complete source, not just the highlights
-2. Read `wiki/_index.md` to understand current structure
-3. Understand what the source means — not just "what facts does it contain" but "what does this tell us?"
-4. For each topic, framework, person, or entity the source touches:
-   a. If an article exists: **re-read it fully**, then integrate the new material so the article reads as a coherent whole. Add the specific examples, reasoning, and quotes — not just a one-line summary of the new source's position.
-   b. If no article exists and there's enough material: create one in whatever directory makes sense. Create a new directory if no existing one fits.
-5. **Preserve specificity.** When a source gives a concrete example (a company name, a dollar amount, a timeline, a specific mistake), that example belongs in the wiki article. Don't abstract "Brex pivoted from VR headsets to fintech in six weeks by scoring ideas on four criteria" into "founders should evaluate ideas systematically."
-6. **Preserve images.** If the raw source contains images (diagrams, charts, screenshots), reference them in the wiki article using markdown image syntax. Images are content.
-7. **Preserve external hyperlinks.** If the raw source links to external resources (blog posts, tools, research papers), preserve those links in the wiki article. They are part of the knowledge.
-8. Connect to patterns — when the same theme surfaces across multiple sources, that deserves its own article
-9. Create or update person pages for speakers/authors
-10. **Propagate across the graph.** Every absorption must update all connected nodes:
-    - Update `wiki/_index.md` with any new articles (include aliases and 1-2 sentence summaries)
-    - Update `wiki/_backlinks.json` to reflect new wikilinks
-    - Update existing articles that reference the same topic — if you add a new framework article, go back to the topic articles that should link to it and add the `[[wikilink]]`
-    - Update speaker pages with new source entries
-    - Update the `related:` frontmatter field on articles that gain new connections
-    - **The graph must be consistent after every absorption.** No orphan pages, no broken links, no stale cross-references. If you create a new article, every existing article that mentions that concept should link to it.
-11. Mark source as absorbed in `wiki/_absorb_log.json`
-12. Rebuild `viewer/articles.json` (run the Python rebuild script or regenerate manually) so the viewer reflects all changes immediately
+Absorption runs in **three phases** to balance speed (parallel agents) with graph consistency (no broken links, no duplicates, no orphans).
+
+#### Phase 1: Draft (parallel, fast)
+
+Multiple agents run simultaneously, each reading a batch of raw sources. Each agent writes articles to its own **isolated draft directory** (`wiki_draft_1/`, `wiki_draft_2/`, etc.) to avoid file conflicts. No agent reads another agent's output.
+
+Each agent:
+1. Read the raw/ entries **in full**
+2. Understand what each source means — not just facts but implications
+3. Create articles organized by topic, framework, person, case study — whatever the data demands
+4. **Preserve specificity.** Concrete examples, company names, dollar amounts, timelines, specific mistakes — all belong in the article. Don't abstract.
+5. **Preserve images.** Reference images from raw sources using markdown image syntax.
+6. **Preserve external hyperlinks.** Links to tools, papers, and related resources are part of the knowledge.
+7. Use `[1]` footnote citations with `## References` section. Include publication dates.
+8. Add `[[wikilinks]]` for every concept, person, or framework mentioned.
+9. Create speaker/person pages for anyone appearing in 2+ sources.
+10. Apply consensus signals where 3+ speakers agree.
+11. Mark sources as absorbed in a local log.
+
+#### Phase 2: Merge (single agent)
+
+One agent reads ALL draft directories and the existing wiki, then produces the unified wiki:
+1. **Deduplicate articles.** If multiple drafts created `fundraising.md`, merge them — combine material, deduplicate examples, unify the References section.
+2. **Resolve conflicts.** If two drafts say different things about the same topic, preserve both perspectives with attribution.
+3. **Combine speaker pages.** Merge source inventories across drafts.
+4. Write unified articles to `wiki/`.
+5. Update `wiki/_absorb_log.json` with all absorbed sources.
+
+#### Phase 3: Propagate (single agent)
+
+One agent ensures the graph is fully consistent:
+1. **Find and fix all dead wikilinks.** For every `[[link]]` that references a nonexistent page, either create the page (if enough material exists across the wiki) or remove/rewrite the link.
+2. **Ensure bidirectional linking.** If article A links to article B, check that B's backlinks include A. Update `wiki/_backlinks.json`.
+3. **Create missing person pages.** Any speaker referenced in 2+ articles who lacks a page gets one.
+4. **Update the index.** Rebuild `wiki/_index.md` with all articles, 1-2 sentence summaries, aliases, and source counts. Categories emerge from the actual wikilink graph.
+5. **Audit article quality.** Spot-check the 5 most-connected articles. Are they rich enough to answer questions without going to source? Do they have consensus signals? Are images and external links included?
+6. **Rebuild viewer.** Regenerate `viewer/articles.json` so the viewer reflects all changes immediately.
+7. **Report.** Output a consistency report: total articles, dead links remaining (should be 0), orphan pages, articles without references.
+
+This three-phase approach is the **default for every absorption run**, including future video transcripts, external blog posts, and any new source type. It is not optional — skipping Phase 3 produces an inconsistent wiki.
 
 **Anti-cramming:** If you're adding a third paragraph about a sub-topic to an existing article, that sub-topic probably deserves its own page.
 

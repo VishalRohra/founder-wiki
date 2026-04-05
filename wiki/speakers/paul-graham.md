@@ -3,88 +3,163 @@ title: Paul Graham
 type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["PG", "pg", "Graham"]
-related: ["[[Startup Ideas]]", "[[Founder Mindset]]", "[[Early-Stage Tactics]]", "[[Do Things That Don't Scale]]", "[[Default Alive or Default Dead]]", "[[The Equity Equation]]", "[[Cofounders]]", "[[Fundraising]]", "[[Financial Survival]]", "[[Becoming a Founder]]", "[[Equity and Compensation]]", "[[Growth]]", "[[Startup Mistakes]]"]
-sources: ["8u-the-equity-equation", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8z-how-to-get-startup-ideas", "91-why-smart-people-have-bad-ideas", "93-a-student-s-guide-to-startups", "94-be-relentlessly-resourceful", "95-default-alive-or-default-dead", "96-do-things-that-don-t-scale", "98-how-to-convince-investors", "9M-billionaires-build", "8s-startup-growth", "8t-the-18-mistakes-that-kill-startups"]
+aliases: ["PG", "pg", "Graham", "Paul Graham"]
+related: ["[[Startup Ideas]]", "[[Doing Things That Don't Scale]]", "[[Founder Mindset]]", "[[Financial Survival]]", "[[Early-Stage Mistakes]]", "[[Growth]]", "[[Starting Young]]", "[[Equity Equation]]", "[[Default Alive or Default Dead]]", "[[Schlep Filter]]", "[[Convincing Investors]]", "[[Co-Founders]]", "[[Startups for Students]]"]
+sources: ["8z-how-to-get-startup-ideas", "8t-the-18-mistakes-that-kill-startups", "8u-the-equity-equation", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "91-why-smart-people-have-bad-ideas", "93-a-student-s-guide-to-startups", "94-be-relentlessly-resourceful", "95-default-alive-or-default-dead", "96-do-things-that-don-t-scale", "8s-startup-growth", "98-how-to-convince-investors", "9M-billionaires-build"]
+speakers_referenced: ["Paul Graham"]
 ---
 
 # Paul Graham
 
-Paul Graham is co-founder of [Y Combinator](http://ycombinator.com/) and the author of a large body of essays on startups, programming, and venture capital. Before YC, he co-founded Viaweb in 1995 with Robert Morris, which was acquired by Yahoo in 1998 and became Yahoo Store. His essays, published at [paulgraham.com](http://www.paulgraham.com/), form one of the most referenced bodies of startup advice in existence.
+Paul Graham is a programmer, essayist, and co-founder of Y Combinator (with Jessica Livingston, Robert Morris, and Trevor Blackwell). Before YC, he co-founded Viaweb in 1995 with Robert Morris, which was acquired by Yahoo in 1998 and became Yahoo Store. His essays on startups, published primarily at [paulgraham.com](http://www.paulgraham.com), constitute one of the most influential bodies of startup advice in existence. He is the single most prolific source in this wiki, with 14 essays spanning 2005 to 2020.
 
 ## Worldview
 
-Graham's worldview rests on a few core beliefs that surface repeatedly across his writing.
+Graham's worldview on startups rests on a small number of principles he returns to across all his essays:
 
-**Startups are counterintuitive.** Graham returns to this idea across many essays. In "Before the Startup," he compares learning to run a startup to learning to ski: "When you first try skiing and you want to slow down, your instinct is to lean back. But if you lean back on skis you fly down the hill out of control" [4]. Batch after batch at YC, partners warn founders about mistakes they're about to make, founders ignore them, then return a year later saying "I wish we'd listened" [4]. The counterintuitive nature of startups is, in Graham's view, the very reason accelerators like YC exist: "If founders' instincts already gave them the right answers, they wouldn't need us" [4].
+**Make something people want.** This is the Y Combinator motto, originally chosen as the text for the Summer Founders Program T-shirt [7]. Graham treats it as the root cause of nearly all startup success and failure: "In a sense there's just one mistake that kills startups: not making something users want. If you make something users want, you'll probably be fine, whatever else you do or don't do" [2]. Every other piece of advice flows from this. "The most reliable way to become a billionaire is to start a company that grows fast, and the way to grow fast is to make what users want" [14].
 
-**Make something people want.** This phrase is YC's motto and the gravitational center of Graham's thinking. In "Billionaires Build," he writes: "What YC looks for, above all, is founders who understand some group of users and can make what they want" [12]. In "Why Smart People Have Bad Ideas," he describes printing it on the back of the first Summer Founders Program T-shirts [6]. The idea recurs in every essay: the startup's job is to delight users, and everything else follows from that.
+**Determination matters more than intelligence.** "The most important quality in a startup founder is determination. Not intelligence -- determination" [3]. Graham found this somewhat depressing but arrived at it empirically. VCs invest in professors; they should invest in students. Microsoft, Yahoo, and Google were all founded by dropouts [3].
 
-**Determination over intelligence.** Graham consistently argues that determination is the most important quality in a startup founder, more important than raw intelligence [2]. In "The Hardest Lessons for Startups to Learn," he writes: "The most important quality in a startup founder is determination. Not intelligence -- determination" [2]. He elaborates: "You can lose quite a lot in the brains department and it won't kill you. But lose even a little bit in the commitment department, and that will kill you very rapidly" [2]. In "Be Relentlessly Resourceful," he distills the ideal founder quality into two words: "relentlessly resourceful" -- not merely relentless, but flexible and adaptive, like a running back who improvises routes to get downfield [8].
+**Startups are counterintuitive.** Nearly every natural instinct about startups is wrong [5]. The correct approach often feels wrong: release before you are ready, do things that don't scale, don't worry about the business model, ignore competitors. "Starting a startup is a task where you can't always trust your instincts" [5].
 
-**Users are the only real test.** Gaming the system stops working when you start a startup [4]. In "Before the Startup," Graham explains: "There is no boss to trick, only users, and all users care about is whether your product does what they want. Startups are as impersonal as physics" [4]. This is exciting to Graham because it means there exist parts of the world "where you win by doing good work" [4].
+**The organic method for ideas.** The way to get startup ideas is not to try to think of them but to notice problems -- "Live in the future, then build what's missing" [1]. Deliberately generated ideas are dangerous because they sound plausible but lack real demand [1].
 
-**Start with a narrow, deep market.** Graham argues repeatedly that good [[Startup Ideas|startup ideas]] look like "wells" rather than "craters" -- narrow but deep [5]. Facebook started as a site only for Harvard students. Microsoft started selling Basic interpreters to a few thousand Altair hobbyists. The key insight is that the initial market must be small enough to dominate but with a path to expansion [5].
+**Users over everything else.** Users are the most powerful force acting on a startup. "If they take you up, no competitor can keep you down" [3]. The three internal threats that kill startups -- disputes, inertia, and ignoring users -- are all more dangerous than any external competitor [3].
 
-**Speed is the point.** In "The Hardest Lessons," Graham frames startups not as a way to get rich but as a way to work faster: "Economically, a startup is best seen not as a way to get rich, but as a way to work faster. You have to make a living, and a startup is a way to get that done quickly, instead of letting it drag on through your whole life" [2].
+**Truth over performance.** Graham consistently argues that the way to persuade is not through salesmanship but through genuine understanding. In fundraising, the way to seem formidable is to stick to the truth [13]. In YC interviews, the best preparation is to deeply understand your users rather than rehearsing a pitch [14]. The throughline: founders who truly understand something will communicate it convincingly without tricks.
+
+**Power law thinking.** Startup outcomes follow an extremely steep power law. Roughly 15 startups per year become the big successes, and investors treat this as binary [13]. This shapes everything about how fundraising works: investors are looking for any chance, however small, of being one of those 15.
+
+**Startups are designed to grow fast.** A startup is not merely a newly founded company or one that works on technology -- it is a company designed to grow fast. Everything else associated with startups -- venture funding, exits, technology focus -- follows from this single property [12].
+
+**Authenticity of motivation.** Graham distinguishes between founders driven by genuine interest in the problem and those driven by money or status. The former build billion-dollar companies; the latter take the first acquisition offer or find easier ways to seem cool [14]. When YC detects exploitative founders, it rejects them -- not on moral grounds alone, but because bad people make bad founders [14].
 
 ## Distinct Perspective
 
-Graham's perspective is distinct from most startup advisors in several ways:
+What makes Graham's lens distinctive:
 
-1. **Anti-expertise stance.** He argues that knowledge of startup mechanics (convertible notes, employee agreements, class FF stock) is not just unnecessary but potentially dangerous for young founders [4]. It encourages "playing house" -- going through the motions of a startup without making something people want.
+**Anti-credentialism.** Graham consistently argues that formal business knowledge, MBA degrees, and "work experience" are unnecessary and potentially harmful. "You don't need to know anything about business to start a startup" [4]. Getting a job may actually make you less able to start a startup by "turning you into a tame animal" [4]. He openly mocks the concept of enterprise content management solutions and the vocabulary of business school [3].
 
-2. **Ideas are organic, not manufactured.** His essay "How to Get Startup Ideas" argues that sitting down to brainstorm startup ideas actively produces bad ones [5]. The best ideas come from "living in the future and building what's missing." Apple, Yahoo, Google, and Facebook were all side projects, not planned ventures [5].
+**The negative approach.** Rather than prescribing what to do, Graham often works by elimination -- listing reasons not to do something and showing they are bogus [4], or listing 18 specific mistakes to avoid [2]. His essay "Why to Not Not Start a Startup" systematically dismantles 16 common excuses.
 
-3. **Youth as advantage.** While most advisors emphasize experience, Graham lists the advantages of young founders as: stamina, poverty, rootlessness, access to co-founders, and ignorance [7]. Poverty forces you to think cheaply, like Wozniak designing the Apple II with a TV for a monitor because he couldn't afford a real display [7].
+**Concrete over abstract.** Graham's essays are full of specific companies, dollar figures, and named examples. Artix and Viaweb. Stripe's Collison installation. PayPal nearly switching to Windows. Wufoo sending hand-written thank-you notes. The Apple II being cheap because Woz was poor. These specifics carry his arguments more than any general principle.
 
-4. **Billionaires build, they don't exploit.** In "Billionaires Build," Graham directly counters the political narrative that billionaires get rich by exploiting people [12]. As a "professional billionaire scout" at YC, he argues the defining quality is the opposite: genuine interest in what they're building. "The most reliable way to become a billionaire is to start a company that grows fast, and the way to grow fast is to make what users want" [12].
+**Historical perspective.** Graham frequently places startups in deep historical context. Getting a job is only a hundred years old as the default way to make a living [4]. The shift to startups may be comparable to the shift from farming to manufacturing. Medieval serfs would have found it insanely risky to move to a city of three thousand strangers [4].
+
+**The theoretical voice.** Graham is the most theoretical voice in the YC canon. Where others offer tactical advice, Graham provides the conceptual architecture. His "Startup = Growth" essay is one of the most referenced pieces in the YC library because it provides the definition that everything else builds on. His writing style is distinctive for its use of mathematical reasoning and analogies to other domains (scientific research, evolution, optimization) [12].
 
 ## Key Frameworks
 
-- **[[The Equity Equation]]**: The formula 1/(1-n) for evaluating any trade of company stock [1]. Give up n% of your company only if it makes the remaining (100-n)% worth more than the whole was before.
+Graham is responsible for several frameworks that have become standard vocabulary in the startup world:
 
-- **[[Do Things That Don't Scale]]**: Startups take off because founders make them take off [10]. Manual user recruitment, the "Collison installation," hand-written thank-you notes, consulting-like over-engagement, and "pulling a Meraki" (assembling hardware yourself).
+- **[[Schlep Filter]]** / Schlep Blindness: The unconscious mental filter that prevents you from seeing good ideas because they involve tedious work. Stripe is the canonical example [1].
 
-- **[[Default Alive or Default Dead]]**: The diagnostic question every startup past 8-9 months should answer [9]: assuming expenses stay constant and revenue growth continues on trend, do you make it to profitability on the money you have left?
+- **[[Default Alive or Default Dead]]**: The binary diagnostic for startups past their first 8-9 months. Will you reach profitability on the money you have? Half the founders Graham asks do not know [8].
 
-- **Relentlessly Resourceful**: Graham's two-word distillation of the ideal startup founder [8]. Not merely relentless (that's not enough in novel domains) but also resourceful -- constantly trying new approaches when blocked. The opposite is "hapless."
+- **[[Equity Equation]]**: The 1/(1-n) formula for whether any trade of company equity is worth it [9].
 
-- **Sitcom Startup Ideas (SISP)**: Ideas that sound plausible but are "made up" -- like something a TV writer would invent for a character starting a startup [5]. The classic example is "a social network for pet owners." Nobody says "I would never use this," but nobody actually uses it either.
+- **The Well Model**: Good startup ideas look like wells (narrow but deep), not broad shallow holes. Facebook and Microsoft both started as wells [1].
 
-- **The Schlep Filter**: The unconscious tendency to avoid startup ideas that involve tedious, unpleasant work [5]. Thousands of programmers knew how painful payment processing was before Stripe, but unconsciously shrank from the schlep of dealing with it.
+- **Sitcom Startup Ideas**: Ideas generated by trying to think of startup ideas, which sound plausible but nobody actually needs. "A social network for pet owners" [1].
 
-- **The Still Life Effect**: The tendency to commit to the first idea you think of simply because you've invested time in it, like a painter who spends a month on a still life they set up in four minutes [6].
+- **The Still Life Effect**: Smart people's tendency to commit to the first idea they have, then rationalize the time invested [7].
 
-- **The Contained Fire**: Starting with a deliberately narrow market to build intensity before expanding [10]. Facebook started as Harvard-only; course lists for each school "made students feel the site was their natural home."
+- **Relentlessly Resourceful**: The two-word description of the ideal startup founder -- not merely determined, but adaptive. "'Make something people want' is the destination, but 'Be relentlessly resourceful' is how you get there" [6].
 
-- **The Fatal Pinch**: Default dead + slow growth + not enough time to fix it [9]. Founders end up here by not realizing that's where they're headed, often because they assume it will be easy to raise more money.
+- **The Contained Fire**: Starting with a deliberately narrow market to get it really hot before expanding [10].
 
-- **Larval Markets**: Small but growable markets [12]. Apple in 1976 served a tiny market of hobbyists, but that market grew until "every 10 year old on the planet wants a computer (but calls it a 'phone')."
+- **Collison Installation**: The technique of immediately setting users up rather than sending them a link. Named after the Stripe founders [10].
 
-## On Specific Topics
+- **Pulling a Meraki**: For hardware startups, assembling the product yourself initially instead of waiting for factory production [10].
 
-**On [[Cofounders|cofounders]]:** Graham states categorically that not having a cofounder is "a real problem" [14]. All investors are more likely to fund teams than solos. The best place to find cofounders is school, because you have "a large sample of smart people; you get to compare how they all perform on identical tasks; and everyone's life is pretty fluid" [4]. He warns that waiting too long costs you access to the best potential cofounders [4].
+- **The Fatal Pinch**: Default dead + slow growth + not enough time to fix it [8].
 
-**On [[Fundraising|fundraising]]:** The way to convince investors is not through pitch technique but by genuinely understanding why your startup is worth investing in [11]. Investors need three things: formidable founders, a promising market, and evidence of success. "Formidable is roughly justifiably confident" [11]. The recipe: (1) make something worth investing in, (2) understand why it's worth investing in, (3) explain that clearly. "If you're saying something you know is true, you'll seem confident when you're saying it" [11].
+- **Playing House**: Young founders who go through the outward motions of a startup (raise money, rent office, hire people) while neglecting the one essential thing: making something people want [5].
 
-**On when to start:** Graham's advice has evolved. He initially encouraged starting in college, but YC shifted to telling students to wait until graduation [4]. The exception is for founders so determined they can't be talked out of it -- like [[Sam Altman]], who at 19 "seemed like he had a 40 year old inside him" [4]. Graham's ultimate advice to students: "Just learn" [4].
+- **Growth as Compass**: Use a target weekly growth rate to make every decision. "Anything that gets you the growth you need is ipso facto right" [12]. This converts the bewildering problem of starting a startup into an optimization problem.
 
-**On [[Startup Mistakes|why people don't start startups]]:** In "Why to Not Not Start a Startup," Graham systematically dismantles 16 common reasons for not starting, identifying which are legitimate (having a family to support, not being ready for commitment) and which are bogus (too young, not smart enough, know nothing about business, no room for more startups) [3].
+- **The S-Curve**: Successful startups follow three phases -- slow/no growth while figuring things out, rapid growth as product-market fit is found, and eventual slowdown from internal limits and market saturation [12].
+
+- **YC Growth Benchmarks**: 5-7% per week is good during YC; 10% is exceptional; 1% signals the startup has not figured out what it is doing [12].
+
+- **The Formidability Test**: Formidable means "justifiably confident" -- someone who seems like they will get what they want regardless of obstacles. Most investors decide within minutes whether a founder is a winner or a loser. The way to pass this test without faking it is to genuinely understand why your startup is worth investing in [13].
+
+- **The Larval Market**: A small but growable market. Apple's market in 1976 is the perfect example -- not many people wanted a computer, but the market was growing. The ideal is founders who are "living in the future" at the leading edge of change [14].
+
+- **The "Why Now?" Question**: Every company that gets really big is riding an external wave. The critical question is why this idea only recently became possible [13].
+
+- **Expected Value of Startups**: The high failure rate is not a bug. If a successful startup can make a founder $100 million, even at 1% probability the expected value is $1 million. For the right people, the probability may be 20-50% [12].
+
+## Evolution of Thinking
+
+Graham's position on certain topics shifted over the decade and a half covered by these essays:
+
+**On when to start.** In 2005-2007, Graham was actively pushing the age of founders lower, trying to find the lower bound. YC began as a summer program partly to let college students participate [7]. By 2014, he explicitly told Stanford students "Do not start a startup in college" and argued that most 20-year-olds should be searching breadth-first, not depth-first [5]. The shift reflects experience: too many young founders were "playing house" rather than solving real problems.
+
+**On cofounders from college.** Remained consistent: school is the best place to find cofounders, and the window closes quickly after graduation [11] [4].
+
+**On the importance of ideas.** Shifted from "we fund people, not ideas" (going so far as accepting applications with no idea in 2007 [4]) to a richer view that the organic method of idea generation -- living in the future and building what is missing -- is actively the best strategy, not just a fallback [1] [5].
+
+**On fundraising.** His 2013 essay on convincing investors emphasizes truth and domain expertise over salesmanship [13]. By 2020, he reiterates this even more strongly: the best preparation for a YC interview is talking to users, not rehearsing slides [14].
+
+## Personal Experience
+
+Graham draws heavily on his own experiences as a founder. His startup Viaweb (originally called Webgen, then renamed after losing the name) made software for building online stores. Before Viaweb, he and Robert Morris started a company called Artix to put art galleries on the Web, which failed because galleries did not want to be online [7]. The Artix experience taught him the lesson that would become YC's motto: make something people want [7].
+
+He references his own poverty as a Viaweb founder: he and Morris were 29 and 30 but lived like 23-year-olds with roughly zero assets [11]. Viaweb's top service tier was $300/month, an order of magnitude below the norm, because that seemed like a lot of money to them [11]. At Viaweb, when merchants refused to use their software, Graham and Morris built stores for them -- selling luggage, pens, and men's shirts. He describes feeling "pretty lame" but recognizes in retrospect it was exactly the right thing [10].
+
+He was also, before Viaweb, "trying to be a starving artist" in New York, which is how he came up with the doomed gallery idea [7].
+
+## Recurring Examples
+
+Certain companies and people appear across many of Graham's essays as touchstones:
+
+- **Stripe** -- The Collison installation, the schlep filter, manual merchant accounts behind the scenes [1] [10]
+- **Airbnb** -- Going door to door in New York, waiting 4 months to hire, the rolly bags at YC dinners [8] [10]
+- **Facebook** -- The contained fire (Harvard only), Mark Zuckerberg as someone who succeeded despite being a "complete noob at startups" [1] [5] [10]
+- **Microsoft** -- The well model (Altair Basic), Traf-o-data as the Artix-equivalent failure [1] [7]
+- **Apple / Wozniak** -- The TV monitor, cheap because Woz was poor, "all the best things I did came from not having done it before" [1] [11]
+- **Google** -- Larry and Sergey initially tried to sell the algorithm, made search work then monetized, investors created grief [2] [3]
+- **Viaweb** -- Graham's own startup, used as a recurring case study throughout [3] [7] [10] [11]
+- **Sam Altman** -- Cited as the most successful young founder YC had funded (at 19), seeming "like he had a 40-year-old inside him" [4] [11]
+- **Wufoo** -- Released the form-builder before the database, hand-written thank-you notes [3] [10]
+- **PayPal** -- Nearly switched to Windows; Max Levchin showed it scaled only 1% as well [2]
+- **Pebble** -- Assembled first several hundred watches themselves, learned the value of good screws [10]
+- **Dropbox** -- Rejected by Boston VCs, illustration of how investors miscalculate market size [13]
+
+## Source Inventory
+
+| Source | Date | Key Contribution |
+|--------|------|-----------------|
+| [Why Smart People Have Bad Ideas](https://www.ycombinator.com/library/91-why-smart-people-have-bad-ideas) | April 2005 | The still life effect; the Artix story; "make something people want" |
+| [The Hardest Lessons for Startups to Learn](https://www.ycombinator.com/library/8w-the-hardest-lessons-for-startups-to-learn) | April 2006 | Release early; determination > intelligence; don't get your hopes up |
+| [A Student's Guide to Startups](https://www.ycombinator.com/library/93-a-student-s-guide-to-startups) | October 2006 | Young founder advantages; class project problem; cofounders from school |
+| [The 18 Mistakes That Kill Startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups) | October 2006 | Comprehensive taxonomy of startup failure modes |
+| [Why to Not Not Start a Startup](https://www.ycombinator.com/library/8x-why-to-not-not-start-a-startup) | March 2007 | 16 excuses dismantled; founders > ideas; the default shift |
+| [The Equity Equation](https://www.ycombinator.com/library/8u-the-equity-equation) | July 2007 | The 1/(1-n) formula for equity decisions |
+| [Be Relentlessly Resourceful](https://www.ycombinator.com/library/94-be-relentlessly-resourceful) | March 2009 | Two-word description of the ideal founder |
+| [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) | November 2012 | The organic method; the well model; schlep and unsexy filters |
+| [Startup = Growth](https://www.ycombinator.com/library/8s-startup-growth) | September 2012 | Definition of startup as growth; growth rate as compass; S-curve phases; expected value reasoning |
+| [Do Things That Don't Scale](https://www.ycombinator.com/library/96-do-things-that-don-t-scale) | July 2013 | Collison installation; contained fire; Meraki; consulting technique |
+| [How to Convince Investors](https://www.ycombinator.com/library/98-how-to-convince-investors) | August 2013 | Formidable founders, market sizing, handling rejection, the three-step recipe |
+| [Before the Startup](https://www.ycombinator.com/library/8y-before-the-startup) | October 2014 | Startups are counterintuitive; playing house; "just learn" |
+| [Default Alive or Default Dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead) | October 2015 | The binary diagnostic; fatal pinch; overhiring as #1 killer |
+| [Billionaires Build](https://www.ycombinator.com/library/9M-billionaires-build) | December 2020 | YC interview mechanics, larval markets, authenticity of motivation, why bad people make bad founders |
 
 ## References
 
-1. [The Equity Equation](https://www.ycombinator.com/library/8u-the-equity-equation) — Paul Graham
-2. [The Hardest Lessons for Startups to Learn](https://www.ycombinator.com/library/8w-the-hardest-lessons-for-startups-to-learn) — Paul Graham
-3. [Why to Not Not Start a Startup](https://www.ycombinator.com/library/8x-why-to-not-not-start-a-startup) — Paul Graham
-4. [Before the Startup](https://www.ycombinator.com/library/8y-before-the-startup) — Paul Graham
-5. [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) — Paul Graham
-6. [Why Smart People Have Bad Ideas](https://www.ycombinator.com/library/91-why-smart-people-have-bad-ideas) — Paul Graham
-7. [A Student's Guide to Startups](https://www.ycombinator.com/library/93-a-student-s-guide-to-startups) — Paul Graham
-8. [Be Relentlessly Resourceful](https://www.ycombinator.com/library/94-be-relentlessly-resourceful) — Paul Graham
-9. [Default Alive or Default Dead?](https://www.ycombinator.com/library/95-default-alive-or-default-dead) — Paul Graham
-10. [Do Things That Don't Scale](https://www.ycombinator.com/library/96-do-things-that-don-t-scale) — Paul Graham
-11. [How to Convince Investors](https://www.ycombinator.com/library/98-how-to-convince-investors) — Paul Graham
-12. [Billionaires Build](https://www.ycombinator.com/library/9M-billionaires-build) — Paul Graham
-13. [Startup = Growth](https://www.ycombinator.com/library/8s-startup-growth) — Paul Graham
-14. [The 18 Mistakes That Kill Startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups) — Paul Graham
+1. [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) -- Paul Graham (November 2012)
+2. [The 18 Mistakes That Kill Startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups) -- Paul Graham (October 2006)
+3. [The Hardest Lessons for Startups to Learn](https://www.ycombinator.com/library/8w-the-hardest-lessons-for-startups-to-learn) -- Paul Graham (April 2006)
+4. [Why to Not Not Start a Startup](https://www.ycombinator.com/library/8x-why-to-not-not-start-a-startup) -- Paul Graham (March 2007)
+5. [Before the Startup](https://www.ycombinator.com/library/8y-before-the-startup) -- Paul Graham (October 2014)
+6. [Be Relentlessly Resourceful](https://www.ycombinator.com/library/94-be-relentlessly-resourceful) -- Paul Graham (March 2009)
+7. [Why Smart People Have Bad Ideas](https://www.ycombinator.com/library/91-why-smart-people-have-bad-ideas) -- Paul Graham (April 2005)
+8. [Default Alive or Default Dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead) -- Paul Graham (October 2015)
+9. [The Equity Equation](https://www.ycombinator.com/library/8u-the-equity-equation) -- Paul Graham (July 2007)
+10. [Do Things That Don't Scale](https://www.ycombinator.com/library/96-do-things-that-don-t-scale) -- Paul Graham (July 2013)
+11. [A Student's Guide to Startups](https://www.ycombinator.com/library/93-a-student-s-guide-to-startups) -- Paul Graham (October 2006)
+12. [Startup = Growth](https://www.ycombinator.com/library/8s-startup-growth) -- Paul Graham (September 2012)
+13. [How to Convince Investors](https://www.ycombinator.com/library/98-how-to-convince-investors) -- Paul Graham (August 2013)
+14. [Billionaires Build](https://www.ycombinator.com/library/9M-billionaires-build) -- Paul Graham (December 2020)

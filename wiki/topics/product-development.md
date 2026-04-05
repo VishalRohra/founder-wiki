@@ -3,112 +3,66 @@ title: Product Development
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["building product", "feature prioritization", "MVP", "iteration", "shipping", "two-week cycles", "dev cycle", "product meetings", "feature development"]
-related: ["[[Growth]]", "[[Product-Market Fit]]", "[[Feature Prioritization Frameworks]]", "[[Talking to Users]]", "[[Startup Mistakes]]"]
-sources: ["4e-guide-to-product-development", "8p-how-to-prioritize-features", "4p-before-growing-your-startup"]
-speakers_referenced: ["Michael Seibel", "Emmett Shear", "Sam Altman"]
+aliases: ["product development", "dev cycle", "product process", "building product", "feature prioritization", "product meetings", "development cycles"]
+related: ["[[Michael Seibel]]", "[[Startup Essentials]]", "[[Product-Market Fit]]"]
+sources: ["4e-guide-to-product-development"]
+speakers_referenced: ["Michael Seibel"]
 ---
 
 # Product Development
 
-Product development in startups requires structured iteration, clear measurement, and disciplined prioritization. The advice converges on a common theme: build small, measure everything, and let user behavior guide decisions.
+[[Michael Seibel]] describes a product development process that he developed at Socialcam (previously Justin.tv) after years of running a broken process [1]. The broken version had meandering product meetings where decisions were not written down, specs were loose enough that team members had different ideas about what was being built, the team always wanted to build fully-formed products instead of MVPs, analytics were rarely specified for new features, development cycles ran months, and product decisions were made exclusively by founders in a non-transparent process [1].
 
-## The Development Cycle
+This guide assumes the company has already shipped an MVP and is figuring out what to do next, which is where most startups spend most of their time [1].
 
-[[Michael Seibel]] describes a product development process he refined at Socialcam after years of dysfunction at [[Justin.tv]] [1]. Before developing this process, the team suffered from several problems: meandering product meetings without written decisions, poorly specced products where team members "often had slightly different ideas about what we were building," always wanting to build fully-formed products instead of MVPs, rarely speccing analytics, and development cycles that ran months [1].
+## Define the Development Cycle
 
-### Setting the Cycle Length
+The cycle length should be dictated by the product. At Socialcam, building for iOS, the team settled on a two-week cycle, which allowed thorough testing before App Store releases. Web apps can use shorter cycles; hardware might need longer ones. The key constraint is that teammates must stay excited and still feel like they can brainstorm new ideas [1].
 
-The development cycle should be dictated by the product. At Socialcam, building for iOS, they settled on a **two-week cycle** that allowed thorough testing before App Store releases [1]. Web apps can go shorter. Hardware may need longer. The key constraint: "structure the cycle so that teammates stay excited and still feel like they can brainstorm new ideas" [1].
+## The Product Meeting
 
-### The Product Meeting
+Seibel's team ran one and only one recurring team meeting: the product meeting, held on the first day of each development cycle. These meetings sometimes lasted five hours [1].
 
-Seibel ran one and only one team meeting: the product meeting on the first day of each dev cycle. "Sometimes this meeting would go for five hours" [1].
+Every product meeting focused on exactly one of three goals [1]:
 
-Every meeting focused on one of three goals [1]:
 1. Increasing content creation
 2. Increasing new users
 3. Increasing retention
 
-Whichever goal was chosen became the focus for the next two weeks [1].
+Whichever goal was chosen became the focus of the meeting and the next two weeks. The product lead's role was to protect and improve the development cycle and moderate the meeting to ensure all team members felt comfortable contributing. "Oftentimes just getting the opportunity to voice your idea and having it written on the board -- even if it isn't built -- massively increases buy-in of the process" [1].
 
-### Organized Brainstorming
+## Organized and Inclusive Brainstorm
 
-Ideas were written on a whiteboard in three categories: **new features/feature iterations**, **maintenance**, and **A/B tests** [1]. Everyone contributed. "Debates or putting down other people's ideas wasn't permitted. This was the time when everyone felt free to contribute without fear of judgement" [1].
+During brainstorming, ideas were written on the whiteboard in three categories: new features/feature iterations, maintenance, and A/B tests. Everyone was expected to contribute. Debates or putting down other people's ideas was not permitted. This was the time for free contribution without fear of judgment [1].
 
-Each item was then graded by the most relevant engineer as [1]:
+Each brainstormed item was graded by the engineer in the meeting with the most experience in that specific area [1]:
+
 - **Easy**: Several can be done in a day
 - **Medium**: Half a day for one person
-- **Hard**: Most of the dev cycle
+- **Hard**: Most of the development cycle
 
-No item could be so hard it would spill into another cycle -- if it was, it got broken into smaller chunks [1]. This grading had a secondary benefit: "This really helped non-technical people understand which of their ideas were easy to build and which were hard. With this realization they often got better at thinking up easier and easier MVPs of their ideas" [1].
+No item could be so hard it would spill into the next cycle. If it was, the team broke it into smaller chunks. This grading system had a critical side effect: it helped non-technical people understand which of their ideas were easy to build and which were hard. "With this realization they often got better at thinking up easier and easier MVPs of their ideas. These easy ideas would then get built and, if they worked, would be iterated upon" [1].
 
-### Building Consensus and Speccing
+## Building Consensus
 
-The team picked items by consensus, starting with hard items (easy to agree on since only one could be done), then medium, then easy [1]. Each item got a detailed spec, an assigned owner, and defined analytics to track. "We would never release a feature without releasing the analytics for that feature and understanding what specific measurable result we wanted to create" [1].
+The team picked what to work on through consensus, starting with hard ideas (easy to reach consensus because only one could fit), then medium, then easy. Consensus was not difficult because everyone had contributed their own ideas, there was a clear goal, and difficulty estimates were objective. "This process allowed you to grade the quality of your own idea and didn't allow personalities to bully their pet ideas through" [1].
 
-Features were separated into need-to-haves and nice-to-haves. After the meeting, they photographed the whiteboard and deleted it. "We didn't have a product roadmap outside of these two weeks and every product meeting we would start from scratch" [1].
+## Clear Spec and Measurements
 
-### During the Cycle
+After consensus, each item was specced in detail, assigned to team members, and paired with the specific stats needed to measure effectiveness. The team would never release a feature without releasing the analytics for that feature and understanding what specific measurable result they wanted to create. Need-to-haves were separated from nice-to-haves; if time ran short, nice-to-haves were dropped [1].
 
-After the first Monday, work was quiet. Seibel focused on business/operations tasks, then dug through Mixpanel for product insights or bugs, and ran monthly user testing sessions [1]. Engineers and designers worked on their well-specced projects. During the last three days, all building stopped for testing: "We had a testing list in Excel that included manual tests for all of our basic functionality. Every cycle we added tests for new features built in that cycle and we tested all items on our testing list twice. Everyone on the team tested and we often had competitions for who could test the fastest and who found the most bugs" [1].
+After speccing, the team photographed the whiteboard and erased it. There was no product roadmap outside of these two weeks. Every product meeting started from scratch with a new goal, new analytics data from the last two weeks, and often new insights from monthly in-person user testing [1].
 
-### Results at Socialcam
+## Working During the Cycle
 
-The process enabled rapid iteration: video filters, video borders, video titles, video soundtracks, feed optimizations, multiple visual redesigns, user profiles, recommended channels, front-back camera switching, and more [1]. Growth experiments produced 16 million downloads in about 3 months and over 100 million people watching video on the website in the same period [1]. Seibel notes: "Most importantly though, we did all of this work quickly, efficiently, without major arguments, issues with founder commitment, or really any team problems at all" [1].
+After the first Monday, work was quiet. The product lead handled business and operations tasks, then dug through Mixpanel looking for product insights or potential bugs, and ran monthly user testing sessions. Engineers and the designer worked quietly on well-scoped, well-specced projects [1].
 
-## Feature Prioritization Frameworks
+During the last three days of every cycle, the entire team stopped building and tested. They maintained a testing list in Excel with manual tests for all basic functionality, adding tests for new features each cycle and running all tests twice. Everyone tested, and competitions for fastest testing and most bugs found helped share the burden of an inherently tedious task [1].
 
-[[Emmett Shear]], drawing from his experience building [[Justin.tv]] and [[Twitch]], identifies three mental frameworks for feature prioritization [2]. Startups typically progress through them in order as their challenges shift. (See [[Feature Prioritization Frameworks]] for the full framework.)
+## Results
 
-### 1. Built For Me
-
-The founder is the primary exemplar user of their own product. "Deeply introspect and figure out what you wish it did instead. Build that" [2].
-
-When it works best [2]:
-- When you truly love your product. Shear managed the viewer side of Twitch this way "for a long time, because I really do love watching Twitch."
-- For small teams. "It's hard to communicate intuitive introspective understanding to other people."
-- When you have good intuitive access to your desires. Shear warns: "I think I want this because it's what I believe I'm supposed to want" feels subjectively identical to "I want this" because human introspection is unreliable.
-
-This framework explains why many of the biggest startups started with the Built For Me approach: "It gives you an automatic advantage against big incumbents who can't use the same method" [2]. Big companies can only use this when the CEO is the lead designer, like Steve Jobs at Apple [2].
-
-### 2. Switch To Us
-
-People are already doing the behavior you want elsewhere. The goal is to get them to do it with you instead [2].
-
-Process [2]:
-- Interview 5-6 dedicated users each from your service, each competing service, and closely-adjacent services.
-- Categorize and score responses in a spreadsheet.
-- Look for patterns. Consider "doubling down on your strengths, and shoring up obvious weaknesses."
-- Target one competitor at a time.
-
-The critical insight: "The key to running effective interviews is to use the interviews to understand the problem, and based on what you learn to generate ideas for solving it. Validating an idea you already have is an anti-goal" [2]. You cannot improve an idea through validation. The goal is to have better ideas [2].
-
-When it works best [2]:
-- When your product is very important to customers. "Streamers on Twitch have strong opinions about what makes a good streaming service that they can articulate very clearly."
-- When you are selling "a better mousetrap, rather than inventing the mousetrap category."
-
-Shear provides specific interview questions for this framework (see [[Feature Prioritization Frameworks]]) [2].
-
-### 3. Three Numbers Matter
-
-Identify the three most important qualities of the product for your customer. All feature decisions flow from these [2].
-
-- **Amazon**: Lower prices, more selection, faster/more reliable shipping.
-- **Twitch**: Audience size, positive interactions, money.
-
-"Three is a magic number for focus. Empirically, three seems to be the maximum number of focus areas that people can keep in mind consistently" [2]. A bonus fourth area -- "Stuff You Have To Do" (PCI compliance, uptime) -- is necessary but should not be in the top three [2].
-
-The approach is recursive: each of the three top-level metrics can be decomposed into three sub-drivers. Split investment by intuition -- "maybe it's 33/33/33, maybe it's 50/25/25" [2].
-
-When it works best [2]:
-- When people choose your product for measurable reasons (price, audience size, speed).
-- Less effective when people choose for hard-to-measure reasons (fun, connection, community).
-
-Shear notes that Twitch still periodically returns to Switch To Us for new customer segments: "as we started working to launch our new music category, we started talking to artists who livestreamed elsewhere online" [2].
+Socialcam did not achieve the team's dream of being the "Instagram for Video" (Seibel notes that what they should have built looks closer to Snapchat). But the process allowed extremely fast iteration: video filters, borders, titles, soundtracks, feed optimizations, multiple visual redesigns, user profiles, recommended channels, front/back camera switching, and more. Growth experiments produced 16 million downloads in about three months and over 100 million people watching video on their website during the same period. The work was done "quickly, efficiently, without major arguments, issues with founder commitment, or really any team problems at all" [1].
 
 ## References
 
-1. [Guide to Product Development](https://www.ycombinator.com/library/4e-guide-to-product-development) — [[Michael Seibel]]
-2. [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) — [[Emmett Shear]]
-3. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) — [[Sam Altman]]
+1. [Guide to Product Development](https://www.ycombinator.com/library/4e-guide-to-product-development) — [[Michael Seibel]] (August 2016)

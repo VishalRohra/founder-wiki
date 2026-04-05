@@ -4,32 +4,46 @@ type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Aaron King", "Snapdocs founder"]
-related: ["[[Financial Survival]]", "[[Hiring]]", "[[Early-Stage Tactics]]", "[[Growth]]", "[[Equity and Compensation]]"]
+related: ["[[Snapdocs: Navigating Market Cycles]]", "[[Capital Efficiency]]", "[[Navigating Market Cycles]]"]
 sources: ["Gu-snapdocs-aaron-king-on-navigating-market-cycles"]
 ---
 
 # Aaron King
 
-Aaron King is the founder and CEO of [Snapdocs](https://www.snapdocs.com/) (YC W14), the leading digital closing platform for the mortgage industry. Snapdocs touches 25% of all US real estate transactions and is valued at $1.5B [1]. King built the company with minimal outside funding through volatile housing market cycles.
+Aaron King is the founder and CEO of [[Snapdocs: Navigating Market Cycles|Snapdocs]] (YC W14), the leading digital closing platform for the mortgage industry, valued at $1.5B. He built the company with minimal outside funding through multiple market cycles.
 
 ## Worldview
 
-King's philosophy centers on capital efficiency and deep customer engagement [1]. He started Snapdocs as a side project years before applying to YC. By the time he applied, he already had a live product, customers, and revenue. Even after YC, the company raised modestly: they spent about $1M of their seed round and reached a $5M revenue run rate before raising a Series A three years later [1].
+King's philosophy centers on discipline forged by constraints. He argues that [[Capital Efficiency|capital efficiency]] is not just a necessity for bootstrapped companies but a virtue that should persist even after raising large rounds. Capital constraints forced good behaviors — ruthless prioritization, deep customer involvement, short feedback loops — that served Snapdocs well even after raising more funding [1].
 
-King views capital constraints as a forcing function for good behavior. "Ruthless prioritization was our only option. We couldn't afford to build features that weren't essential" [1]. He argues founders should maintain this discipline even when they do have capital: "I've learned that you should take the same approach even when you do have the capital to be less disciplined" [1]. See also [[Financial Survival]] and [[Default Alive or Default Dead]].
+He views market cycles as natural and unavoidable rather than threatening. His approach is to selectively ignore some market changes while reacting quickly to others, filtered through alignment with resources, vision, and a north star metric (market share growth) [1].
+
+King is candid about the cost of his approach: the company built many things not engineered for scale or flexibility. But he frames this as a worthwhile trade because "we can afford to reengineer those unscalable solutions because we built something people want" [1].
+
+## Key Frameworks
+
+### Selective Ignoring
+Not every market change requires a response. When well-resourced and growing, ignore downturns and stay focused on market share. When the market demands trendy technology that underlying factors will prevent from scaling, ignore it or invest minimally — even over the protests of the sales team [1].
+
+### Concentric Circles for Decision Communication
+When rapid directional changes are needed, work outward: start with 3-4 people for the hardest conversations, expand to senior leadership to arm them for communication, then hold a company-wide meeting. This process took about two weeks during Snapdocs' COVID pivot [1].
+
+### Effectiveness vs. Efficiency Toggle
+Companies should ask: "Is what I did yesterday the thing that's going to get me to where I need to be tomorrow?" At times, prioritize effectiveness (expand aggressively). At others, return to efficiency (ruthless prioritization). The toggle is driven by market conditions [1].
+
+### Intellectual Honesty About Growth
+Resist taking credit during up cycles. Message to the team: the industry works in cycles, do not overly congratulate yourselves now, and do not be too hard on yourselves during inevitable downturns [1].
 
 ## Distinct Perspective
 
-**Build before raising.** King never considered funding a requirement for building [1]. He worked with contractors and leaned on friends before he could afford full-time employees. His first three full-time hires -- an engineer from a previous job and two applicants from Hacker News -- were treated like founding team members with generous equity [1]. See also [[Equity and Compensation]].
+King's perspective is shaped by building a company in the mortgage industry — a sector defined by dramatic cyclicality driven by interest rates and economic conditions. Most startup advice assumes continuous growth; King's experience provides a rare lens on how to build through contraction and expansion. His advice on hiring (be fearless about recruiting talented people into risky startups) and on transparency (share cash balance, growth rate, burn, and biggest challenges with the entire team) reflect someone who learned by doing rather than theorizing.
 
-**Customer immersion over market analysis.** Snapdocs spent extensive time in customers' offices watching them use the product [1]. Some of their best feedback came from prospects who had chosen not to work with them yet. The Serviceable Available Market (SAM) of Snapdocs' initial product was roughly only $20M, but King believed it would allow expansion into more critical parts of the mortgage ecosystem [1]. "It was the type of opportunity that would be hard to discover through market analysis or spreadsheet exercises. You had to get deep into the problem set" [1].
+## Source Inventory
 
-**Intellectual honesty about market cycles.** During COVID's housing boom, King told his team: "This industry works in cycles. We're in an up cycle now and that's great. There's going to be a down cycle. We don't know when or how strong it's going to be. But we should not overly congratulate ourselves for the current situation, just as we shouldn't be too hard on ourselves when we're fighting through an inevitable downturn" [1].
-
-**Concentric circles for fast decisions.** When COVID required a rapid pivot, King used a concentric-circle communication model: 3-4 people for the hardest conversations, then senior leadership, then the whole company [1]. The entire process took about two weeks. During volatile periods, Snapdocs spun up temporary pods of 4-5 people focused on specific challenges, and increased company all-hands from monthly to weekly [1].
-
-**Recruiting courage.** King names one mistake from his early years: being too timid to approach people he respected [1]. "I should have tried to convince them to quit their successful jobs and join our small (yet risky at the time) startup." His lesson: "These people are smart and you're not harming anyone by sharing your vision and the potential of the company with them" [1].
+| Source | Key Contribution |
+|--------|-----------------|
+| [Snapdocs' Aaron King on Navigating Market Cycles](https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles) (2022) | Capital efficiency, hiring under constraints, navigating market cycles, COVID pivot, effectiveness vs. efficiency |
 
 ## References
 
-1. [Snapdocs' Aaron King on Navigating Market Cycles](https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles) — Aaron King
+1. [Snapdocs' Aaron King on Navigating Market Cycles](https://www.ycombinator.com/library/Gu-snapdocs-aaron-king-on-navigating-market-cycles) — Aaron King, Lindsay Amos (2022)

@@ -3,40 +3,47 @@ title: Sam Altman
 type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["Sam Altman", "Altman"]
-related: ["[[Growth]]", "[[Later-Stage Operations]]", "[[Fundraising]]", "[[Founder Mindset]]", "[[Press and PR]]", "[[Becoming a Founder]]"]
+aliases: ["Altman", "Sam Altman"]
+related: ["[[Growth]]", "[[Scaling and Later-Stage Operations]]", "[[Startup Outcomes and Optionality]]", "[[Product-Market Fit]]"]
 sources: ["4p-before-growing-your-startup", "4q-later-stage-advice-for-startups", "4s-navigating-success-for-your-startup"]
 ---
 
 # Sam Altman
 
-Sam Altman is the former president of Y Combinator. He also taught the Stanford course "How To Start a Startup." His YC Library posts cover pre-growth product love, [[Later-Stage Operations|later-stage operations]], and navigating outcomes that are not billion-dollar companies.
+Sam Altman served as president of Y Combinator and later became CEO of OpenAI. Within the YC canon, his writing covers the full lifecycle of a startup from pre-growth through later-stage scaling, with particular emphasis on the transitions founders must navigate as companies grow.
 
 ## Worldview
 
-Altman's startup advice is organized around stages and transitions:
+Altman's advice centers on sequencing and discipline. His recurring theme is that founders fail by doing the right things at the wrong time -- pursuing [[Growth]] before the product is loved, ignoring management structure until it is painfully needed, or raising too much money when the company is an airplane rather than a spaceship.
 
-- **Product love before growth.** His clearest message: "If you focus on trying to grow before you make a product people love, you are unlikely to succeed" [1]. He cites Facebook (obsessive from the start) and Airbnb (1000 days of slogging before [[Product-Market Fit|PMF]]). When a product is loved, users become "a free marketing and sales force for you" [1]. He warns against papering over a mediocre product with capital [1].
-
-- **The [[Management|management]] transition.** Around 25 employees, the founder's job shifts from building a great product to building a great company [2]. Every employee must know their manager. Delegation is essential but must be real delegation -- empower employees to own decisions, not just do grunt work [2]. Clear communication in writing is "one of the highest leverage things you can do" [2]. See also [[Mission-to-Metrics]].
-
-- **The alignment test.** Altman asks companies: "If I asked 10 employees what the top three goals are for the company, would they say the same thing?" [2]. Founders always say yes. Employees never agree. The fix: reiterate roadmap and goals frequently [2].
-
-- **[[Equity and Compensation|Equity]] generosity.** Successful YC companies "give out a lot of equity" -- plan for 3-5% per year for ten years [2]. Refresher grants before vesting cliffs are critical [2].
-
-- **The airplane vs. spaceship framework.** Not every startup will be a billion-dollar company [3]. An "airplane" (profitable, on track for $100M) is a triumph. The danger: raising too much at too high a valuation when you know you have an airplane, which "severely limits your optionality" and "often precludes your opportunity for a good acquisition later" [3].
-
-- **10-year commitment.** "Have a strategy that assumes you will work on your company for the next 10 years" [2]. Very few founders make this commitment, and those who do "have a huge advantage" [2].
+He is pragmatic about outcomes. While much of YC culture emphasizes the billion-dollar path, Altman explicitly validates mid-range outcomes ($100M companies) and warns that forcing a spaceship trajectory on an airplane company causes heartache and limits optionality [3].
 
 ## Key Frameworks
 
-- **Airplane vs. spaceship** (see [[Later-Stage Operations]]) [3]
-- **The alignment test**: ask 10 employees the top 3 goals [2]
-- **Equity planning**: 3-5% per year for 10 years [2]
-- **Don't grow before product love** (see [[Growth]]) [1]
+**The Leaky Bucket**: Growing before the product is loved creates a leaky bucket -- users come in but do not stay. The fix is to build something people love first, then grow [1].
+
+**The Alignment Test**: Ask 10 employees what the company's top three goals are. If they do not agree, the founder is not communicating effectively. Altman reports that 100% of founders predict alignment and 100% of the time, employees disagree [2].
+
+**Airplane vs. Spaceship**: Most successful startups are airplanes (on track for ~$100M), not spaceships (billion-dollar outcomes). Founders and investors get misaligned when both pretend the airplane is a spaceship [3].
+
+**10-Year Commitment**: Having a strategy that assumes 10 years of work on the company is "an extreme advantage that few founders leverage" [2].
+
+## Distinct Perspective
+
+Altman is unusual in the YC canon for explicitly addressing what happens when things go well but not spectacularly. Most YC advice assumes either the company will become huge or will fail. Altman fills the gap for the large middle ground: companies that work but are not on a path to massive scale. His advice to be frank with investors about this, rather than deluding them, is uncommon in startup culture.
+
+On management, he is firmly in the "keep it simple" camp -- no innovation on org structure, clear single-manager reporting, compensation bands, and frequent written communication as the highest-leverage management tool.
+
+## Source Inventory
+
+| Source | Key Contribution |
+|--------|-----------------|
+| [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) | Do not grow before the product is loved; leaky bucket problem |
+| [Later Stage Advice for Startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups) | Management transition at 25+ employees; HR, delegation, alignment test |
+| [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) | Airplane vs. spaceship framework; overvaluation trap; acquisition positioning |
 
 ## References
 
-1. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) — Sam Altman
-2. [Later-Stage Advice for Startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups) — Sam Altman
-3. [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) — Sam Altman
+1. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- Sam Altman
+2. [Later Stage Advice for Startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups) -- Sam Altman
+3. [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) -- Sam Altman

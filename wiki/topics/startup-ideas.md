@@ -3,119 +3,114 @@ title: Startup Ideas
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["idea generation", "finding ideas", "what to build", "idea validation", "bad ideas", "schlep filter", "sitcom ideas", "SISP", "founder/market fit", "larval market", "organic ideas", "startup idea", "how to get startup ideas"]
-related: ["[[Founder Mindset]]", "[[Early-Stage Tactics]]", "[[Cofounders]]", "[[Paul Graham]]", "[[Pivoting]]", "[[Product-Market Fit]]", "[[Growth]]"]
-sources: ["8z-how-to-get-startup-ideas", "91-why-smart-people-have-bad-ideas", "8y-before-the-startup", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "9M-billionaires-build", "93-a-student-s-guide-to-startups"]
-speakers_referenced: ["Paul Graham", "Paul Buchheit", "Sam Altman"]
+aliases: ["idea generation", "finding ideas", "schlep filter", "tarpit ideas", "SISP", "sitcom ideas", "organic ideas", "how to get startup ideas", "startup idea", "well model"]
+related: ["[[Paul Graham]]", "[[Doing Things That Don't Scale]]", "[[Founder Mindset]]", "[[Schlep Filter]]", "[[Early-Stage Mistakes]]"]
+sources: ["8z-how-to-get-startup-ideas", "8t-the-18-mistakes-that-kill-startups", "91-why-smart-people-have-bad-ideas", "8y-before-the-startup", "8x-why-to-not-not-start-a-startup", "93-a-student-s-guide-to-startups"]
+speakers_referenced: ["Paul Graham"]
 ---
 
 # Startup Ideas
 
-The way to get startup ideas is not to try to think of startup ideas. [[Paul Graham]] argues this is the single most important insight about idea generation: deliberate brainstorming produces ideas that are "not merely bad, but bad and plausible-sounding, meaning you'll waste a lot of time on them before realizing they're bad" [1].
+The single most important thing a startup does is choose what to build. [[Paul Graham]] argues across multiple essays spanning 2005 to 2014 that the way to get startup ideas is not to try to think of startup ideas, but to look for problems -- preferably problems you have yourself [1]. The very best startup ideas tend to have three things in common: they are something the founders themselves want, that they themselves can build, and that few others realize are worth doing [1]. Microsoft, Apple, Yahoo, Google, and Facebook all began this way.
 
-This is one of the most reinforced principles in the YC library, cited by [[Paul Graham]], [[Paul Buchheit]], and [[Sam Altman]] across 7 sources. Graham returns to it in nearly every essay touching on [[Startup Ideas]], and Altman reinforces it by noting that "taking time to come up with an idea is not merely a better strategy in an absolute sense, but also like an undervalued stock in that so few founders do it" [1][3].
+## The Organic Method: Notice, Don't Think Up
 
-## The Three Qualities of the Best Ideas
+The verb Graham insists on is "notice," not "think up" [1]. At YC they call ideas that grow naturally out of the founders' own experiences "organic" startup ideas. The most successful startups almost all begin this way. Apple, Yahoo, Google, and Facebook were not even meant to be companies at first -- they were side projects that grew out of things their founders built because there seemed a gap in the world [1] [4].
 
-The very best startup ideas share three characteristics [1]:
+The formula Graham distills is:
 
-1. **The founders themselves want it.** This ensures the problem really exists. Working on a problem you have yourself is the most reliable signal that the problem is real.
-2. **The founders can build it.** Technical ability to implement gives you the shortest possible feedback loop between idea and prototype.
-3. **Few others realize it's worth doing.** Microsoft, Apple, Yahoo, Google, and Facebook all began this way -- ideas that looked small or obvious only to those at the leading edge.
+> "Live in the future, then build what's missing." [1]
 
-## Organic Ideas vs. Made-Up Ideas
+This phrase, attributed to Paul Buchheit, captures the method: place yourself at the leading edge of a rapidly changing field, and the ideas that will seem uncannily prescient to others will seem obvious to you [1]. You may not even realize they are startup ideas at first. Drew Houston realized he had forgotten his USB stick and thought "I really need to make my files live online." Bill Gates and Paul Allen heard about the Altair and thought "I bet we could write a Basic interpreter for it." The reason those stimuli produced companies is that their experiences had prepared them to notice the opportunities [1].
 
-Graham draws a sharp line between "organic" ideas that grow naturally from the founders' own experience and "made-up" or "sitcom" ideas (SISP) that are invented by sitting down and trying to think of startup ideas [1].
+Graham's advice to college students boils down to two words: "just learn" [4]. Become good at something that matters, work on problems that interest you, with people you like and respect. The component of entrepreneurship that really matters is domain expertise. The way to become Larry Page was to become an expert on search, driven by genuine curiosity, not some ulterior motive [4].
 
-**Organic ideas** feel like observations rather than inventions. Bill Gates and Paul Allen heard about the Altair and thought "I bet we could write a Basic interpreter for it." Drew Houston realized he'd forgotten his USB stick and thought "I really need to make my files live online." The verb to use with startup ideas is not "think up" but "notice." At YC, they call ideas that grow naturally from founders' experiences "organic" startup ideas [1].
+## The Well Model: Depth Over Breadth
 
-**Sitcom ideas** sound plausible but nobody actually wants them urgently. The canonical example: "a social network for pet owners." Millions of people have pets. Many spend lavishly on them. When you pitch this to friends with pets, they say "Yeah, maybe I could see using something like that." But nobody says "I desperately need this right now." Sum that lukewarm reaction across the population, and you have zero users [1].
+When evaluating an idea, Graham uses the metaphor of digging a hole [1]. You can either dig a hole that is broad but shallow, or one that is narrow and deep -- like a well. Nearly all good startup ideas are wells. Made-up startup ideas are usually broad and shallow: "lots of people are mildly interested in a social network for pet owners" [1].
 
-The danger is what Graham calls the **Still Life Effect** (from "Why Smart People Have Bad Ideas") [2]: "You come up with a random idea, plunge into it, and then at each point (a day, a week, a month) feel you've put so much time into it that this must be *the* idea." Graham experienced this himself. In 1995, he and Robert Morris started Artix to put art galleries online. Galleries didn't want to be online. Art dealers were "the most technophobic people on earth." Only after that failure did they pivot to Viaweb, making software for online stores -- making something people actually wanted [2].
+Microsoft was a well when they made Altair Basic. There were only a couple thousand Altair owners, but without this software they were programming in machine language [1]. Facebook had the same shape: their first site was exclusively for Harvard students, of which there are only a few thousand, but those few thousand users wanted it a lot [1].
 
-Graham's first company with Robert Morris was not Viaweb but Artix. Microsoft's first company was not Microsoft but Traf-o-data. Going through a "bad idea phase" is common enough that Graham named it "the Artix phase." The lesson: "Is this, of all the things we could make, the thing people will pay most for?" [2]
+The critical test: "Who wants this right now? Who wants this so much that they'll use it even when it's a crappy version one made by a two-person startup they've never heard of?" If you cannot answer that, the idea is probably bad [1].
 
-## Wells, Not Craters
+A well must have a path out. Facebook started at Harvard but colleges are similar enough that it spread rapidly through all colleges, and from there to everyone else [1]. Similarly for Microsoft: Basic for the Altair, then Basic for other machines, then other languages, then operating systems, then applications, then IPO [1].
 
-When a startup launches, there have to be at least some users who **urgently** need what they're making. This leads to one of Graham's most important spatial metaphors [1].
+## Sitcom Ideas and the Plausibility Trap
 
-Imagine a graph where the x-axis is all potential users and the y-axis is how much they want it. Companies are holes in this graph. Google is an immense crater -- hundreds of millions of people need it a lot. A startup can't excavate that much volume at the beginning. So you choose between two shapes:
+The most dangerous bad ideas are not the obviously bad ones but the plausible-sounding ones. Graham calls these "sitcom" startup ideas -- the kind of idea a TV writer would invent for a character who is starting a startup [1]. A social network for pet owners does not sound obviously mistaken. Millions of people have pets. Often they care a lot about their pets. Surely 2-3% would be regular visitors.
 
-- **Broad but shallow** (a crater) -- lots of people mildly interested. This is what sitcom ideas produce.
-- **Narrow but deep** (a well) -- a small number of people who want it desperately. This is what nearly all good startup ideas look like.
+The danger: when you test this idea with friends who have pets, they do not say "I would never use this." They say "Yeah, maybe I could see using something like that." Sum that lukewarm reaction across the entire population, and you have zero users [1].
 
-Microsoft was a well: only a couple thousand Altair owners existed, but without Basic they were programming in machine language. Facebook was a well: exclusively for Harvard students initially, but "those few thousand users wanted it a lot" [1].
+The way to distinguish real ideas from sitcom ideas: does anyone urgently need this? Not "could see themselves using it one day" but wants it now, desperately [1].
 
-The well must have a **path out** to a larger market. Facebook's path: colleges are similar enough that what works at Harvard works at any college; once you have all college students, you let everyone else in. Microsoft's path: Basic for the Altair, then Basic for other machines, then other languages, then operating systems, then applications, then IPO [1].
+## The Still Life Effect: Why Smart People Have Bad Ideas
 
-Graham calls these small but growable initial markets **"larval markets."** Apple in 1976 was a larval market: "not many people wanted their own computer. But more and more started to want one, till now every 10 year old on the planet wants a computer (but calls it a 'phone')" [6].
+In a 2005 essay, Graham diagnosed why intelligent hackers end up with terrible startup ideas [5]. The core mechanism is the "still life effect": you come up with a random idea, plunge into it, and then at each point -- a day, a week, a month -- feel you have put so much time into it that this must be the idea [5].
 
-## Live in the Future, Then Build What's Missing
+Graham experienced this himself. In January 1995, he and Robert Morris started a company called Artix to put art galleries on the Web. Galleries were not interested. Art dealers are "the most technophobic people on earth" [5]. They sank to building sites for free and still could not convince galleries. Eventually they realized they should make software for people who actually wanted websites, and pivoted to Viaweb, which succeeded [5].
 
-The recipe for organic idea generation, synthesized from [[Paul Buchheit]]'s phrase and Robert Pirsig's *Zen and the Art of Motorcycle Maintenance* [1]:
+Three compounding errors led to the bad idea [5]:
+1. **The still life effect** -- going with the first idea instead of evaluating alternatives
+2. **The "cool" trap** -- choosing work that seemed interesting rather than work that would make money ("where there's muck, there's brass")
+3. **Timidity** -- choosing a marginal niche to avoid competition with VC-funded startups, who turned out to be "just consulting companies pretending to be product companies"
 
-> "Live in the future, then build what's missing."
+The fix: "Plunge in, by all means, but remember later to look at your idea in the harsh light of morning and ask: is this something people will pay for? Is this, of all the things we could make, the thing people will pay most for?" [5]
 
-This describes how most of the biggest startups got started. Neither Apple nor Yahoo nor Google nor Facebook were even supposed to be companies at first. They grew out of things their founders built because there seemed a gap in the world [1].
+## Dangerous Filters
 
-How to become the sort of person who has organic ideas [1]:
+Two unconscious filters block founders from seeing good ideas [1]:
 
-1. **Learn a lot about things that matter.** Not just technology -- Brian Chesky and Joe Gebbia of Airbnb were good at design and organizing groups, not programming.
-2. **Work on problems that interest you.** Follow genuine intellectual curiosity. Graham's own career is "full of case after case where I worked on something just because it seemed interesting, and it turned out later to be useful in some worldly way."
-3. **Work with people you like and respect.** This is also how you get [[Cofounders]] at the same time as the idea.
+**The [[Schlep Filter]]**: Most programmers wish they could start a startup by just writing brilliant code. They would prefer not to deal with tedious problems or get involved in messy ways with the real world. This preference is so widespread that the space of convenient startup ideas has been stripped clean. Stripe is the canonical example. Thousands of programmers were in a position to see the payments opportunity; thousands knew how painful it was to process payments. But unconsciously they shrank from having to deal with payments. Stripe had comparatively smooth sailing in user acquisition because users were desperately waiting for what they were building [1].
 
-Getting to the leading edge of a rapidly changing field positions you to notice ideas that will seem "uncannily prescient" to others but obvious to you. [[Paul Buchheit]] put it as causing yourself to "live in the future." A fellow grad student at Harvard in the mid-90s wrote his own voice-over-IP software just to talk to his girlfriend in Taiwan without paying long distance. He never turned it into a startup, but "this is exactly the way the best startups get started" [1].
+**The unsexy filter**: Similar to the schlep filter, except it keeps you from working on problems you despise rather than ones you fear. Graham overcame this to work on Viaweb -- they were not interested in ecommerce per se, but they could see the problem needed to be solved [1].
 
-## The Schlep Filter and the Unsexy Filter
+Graham recommends not merely turning off these filters but actively seeking ideas that are unsexy or involve schleps. "Don't try to start Twitter. Those ideas are so rare that you can't find them by looking for them. Make something unsexy that people will pay you for" [1].
 
-Two cognitive filters prevent people from seeing good ideas [1]:
+## Recipes for Generating Ideas on Demand
 
-**The schlep filter** is the unconscious tendency to avoid ideas involving tedious, unpleasant work. Graham wrote a [separate essay on schlep blindness](http://www.paulgraham.com/schlep.html) and cites Stripe as a striking example. Thousands of programmers knew how painful payment processing was. Thousands were in a position to see the opportunity. But they unconsciously shrank from having to deal with the financial industry. Because the schlep filter kept competitors away, Stripe actually had "comparatively smooth sailing" in user acquisition -- "users were desperately waiting for what they were building" [1].
+When the organic method is not available -- for example, when a startup's initial idea has failed -- Graham offers several concrete tactics [1]:
 
-**The unsexy filter** keeps you from working on problems you despise rather than ones you fear. Graham and Morris overcame this to work on Viaweb: "We weren't interested in ecommerce per se. We could see the problem was one that needed to be solved though" [1].
+1. **Start with your own needs.** "There must be things you need." Ask: in your previous job, did you ever say "Why doesn't someone make x? If someone made x we'd buy it in a second"? [1]
+2. **Find what's unusual about you.** Your needs may differ from most people's. You are probably not the only one. It is especially good if you are different in a way people will increasingly be [1].
+3. **Talk to people.** Ask everyone about the gaps they find in the world. What is missing? What is tedious or annoying in their work? Let the conversation get general [1].
+4. **Act as a consultant.** Pick a single user and build something just for them. People's problems are similar enough that nearly all the code will be reusable [1].
+5. **Look for dying industries.** Startups often garbage-collect broken companies. What sort of company might cause people in the future to say "this replaced journalism"? [1]
+6. **Ride technology waves.** Gene sequencing and 3D printing are experiencing Moore's Law-like declines. What new things will we be able to do? [1]
+7. **Look for disdained markets.** When big players ignore or disdain a market, that is often where startups can gain a beachhead. HP turned down the Apple I because it used a TV as a monitor, which seemed intolerably declasse [1].
 
-Graham's advice: actively seek out ideas that are unsexy or involve schleps. "Don't try to start Twitter. Those ideas are so rare that you can't find them by looking for them. Make something unsexy that people will pay you for" [1].
+## Competition Is Not What Kills You
 
-## Recipes for Finding Ideas on Demand
+A crowded market is actually a good sign, because it means there is demand and none of the existing solutions are good enough [1]. Worrying that you are late is one of the signs of a good idea. Startups are exceptionally rarely killed by competitors [1].
 
-When you need an idea now (e.g., your initial idea turned out to be bad), Graham offers several heuristics [1]:
+Graham makes this point repeatedly across essays: the real threats to a startup are internal, not external. Competitors are not the biggest threat -- "way more startups hose themselves than get crushed by competitors" [3]. The three main ways startups destroy themselves: internal disputes, inertia, and ignoring users [3].
 
-- **Start with your own needs.** "There *must* be things you need." Ask: "Why doesn't someone make x? If someone made x we'd buy it in a second."
-- **Look for what's unusual about you.** Your atypical needs probably aren't unique. It's especially good if you're different in a way people will increasingly be.
-- **Talk to everyone** about gaps they find in the world. Don't try too hard to find ideas -- you're looking for sparks.
-- **Act as consultants.** When the unmet need isn't yours, do what you'd do if retained to solve the problems of this one user. Rajat Suri of E la Carte got a job as a waiter to learn how restaurants worked before writing software for them.
-- **Look for dying industries.** "What sort of company might cause people in the future to say 'this replaced journalism' on some axis?"
-- **Ride waves.** Gene sequencing and 3D printing both experience Moore's Law-like price declines. "What new things will we be able to do in the new world we'll have in a few years?"
-- **Ask "why now?"** If this is such a great idea, why hasn't someone else done it? The ideal answer: it only recently became possible because something changed, and no one else has noticed yet.
+What you should fear is not Google or established players, but other startups you don't know exist yet. "They're way more dangerous than Google because, like you, they're cornered animals" [3].
 
-## Ideas That Look Like Toys
+## The Marginal Niche Mistake
 
-Things dismissed as "toys" often produce the best startup ideas [1]. A "toy" has everything an idea needs except seeming important -- it's cool, users love it, it just doesn't matter yet. Microcomputers seemed like toys when Apple and Microsoft started. The usual term for early users was "hobbyists." BackRub (Google) seemed like an inconsequential science project. The Facebook was "just a way for undergrads to stalk one another" [1].
+Most YC applicants suffer from choosing a small, obscure niche to avoid competition [2]. Graham compares this to a child closing his eyes when a fly ball comes his way. "If you make anything good, you're going to have competitors, so you may as well face that. You can only avoid competition by avoiding good ideas" [2].
 
-At YC, Graham writes: "We're excited when we meet startups working on things that we could imagine know-it-alls on forums dismissing as toys. To us that's positive evidence an idea is good" [1].
+The shrinking from big problems is mostly unconscious. One trick: think about ideas without involving yourself. "What would be a great idea for someone else to do as a startup?" [2]
 
-## Competition Is Rarely What Kills You
+## Derivative Ideas vs. Original Problems
 
-Worrying about competitors is almost always misplaced. Graham argues: "It's exceptionally rare for startups to be killed by competitors -- so rare that you can almost discount the possibility" [4]. Google entered a crowded search market. A crowded market is actually a good sign: it means demand exists and no existing solution is good enough [4].
+Many YC applications are imitations of existing companies. This is one source of ideas, but not the best [2]. The most successful startups did not start as imitations. Apple happened because Steve Wozniak wanted a computer. Google because Larry and Sergey couldn't find stuff online. Hotmail because Sabeer Bhatia and Jack Smith couldn't exchange email at work [2].
 
-The real question is not "is someone else doing this?" but "who wants this right now?" If you have something competitors don't and some subset of users urgently needs it, you have a beachhead. Err on the side of ideas where you'll face competitors: "Better a good idea with competitors than a bad one without" [5].
+"Instead of starting from companies and working back to the problems they solved, look for problems and imagine the company that might solve them. What do people complain about? What do you wish there was?" [2]
 
-The biggest danger isn't external competition -- it's self-destruction. Graham identifies the three main ways startups kill themselves: internal disputes, inertia, and ignoring users [4]. Of these, ignoring users is the worst: "a couple of founders who have some great idea they know everyone is going to love, and that's what they're going to build, no matter what" [4].
+## Having No Idea Is Not Fatal
 
-## For Students
+Graham argues that not having an idea at the outset is not necessarily a problem, because most startups change their idea anyway. In the average YC startup, he estimates 70% of the idea is new at the end of the first three months. Sometimes it is 100% [6].
 
-Graham's advice to students who want to start startups is counterintuitive: don't try to start a startup in college. Instead, "just learn" [3]. Starting a startup in college while still enrolled provides a built-in escape hatch that undermines commitment. The optimal preparation is the classic version of college education: learn powerful things, follow genuine curiosity, work on projects with peers [7].
+YC puts little weight on the initial idea. "The kind of question on the application form that we really care about is the one where we ask what cool things you've made" [6]. Being lead developer of a popular open source project counts almost as much as having version one of a promising startup [6].
 
-The clash of domains is a particularly fruitful source of ideas. A CS major is better off taking a genetics class or working at a biotech company than taking an entrepreneurship class. Ideas for startups emerge from the intersection of deep expertise and new domains, not from studying startup mechanics [7].
-
-[[Sam Altman]] points out that "taking time to come up with an idea is not merely a better strategy in an absolute sense, but also like an undervalued stock in that so few founders do it. There's comparatively little competition for the best ideas, because few founders are willing to put in the time required to notice them" [3].
+The brief recipe for those without an idea: "Find something that's missing in your own life, and supply that need -- no matter how specific to you it seems" [6]. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that is narrow but genuine is a better starting point than one that is broad but hypothetical [6].
 
 ## References
 
-1. [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) — [[Paul Graham]]
-2. [Why Smart People Have Bad Ideas](https://www.ycombinator.com/library/91-why-smart-people-have-bad-ideas) — [[Paul Graham]]
-3. [Before the Startup](https://www.ycombinator.com/library/8y-before-the-startup) — [[Paul Graham]]
-4. [The Hardest Lessons for Startups to Learn](https://www.ycombinator.com/library/8w-the-hardest-lessons-for-startups-to-learn) — [[Paul Graham]]
-5. [Why to Not Not Start a Startup](https://www.ycombinator.com/library/8x-why-to-not-not-start-a-startup) — [[Paul Graham]]
-6. [Billionaires Build](https://www.ycombinator.com/library/9M-billionaires-build) — [[Paul Graham]]
-7. [A Student's Guide to Startups](https://www.ycombinator.com/library/93-a-student-s-guide-to-startups) — [[Paul Graham]]
+1. [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) -- [[Paul Graham]] (November 2012)
+2. [The 18 Mistakes That Kill Startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups) -- [[Paul Graham]] (October 2006)
+3. [The Hardest Lessons for Startups to Learn](https://www.ycombinator.com/library/8w-the-hardest-lessons-for-startups-to-learn) -- [[Paul Graham]] (April 2006)
+4. [Before the Startup](https://www.ycombinator.com/library/8y-before-the-startup) -- [[Paul Graham]] (October 2014)
+5. [Why Smart People Have Bad Ideas](https://www.ycombinator.com/library/91-why-smart-people-have-bad-ideas) -- [[Paul Graham]] (April 2005)
+6. [Why to Not Not Start a Startup](https://www.ycombinator.com/library/8x-why-to-not-not-start-a-startup) -- [[Paul Graham]] (March 2007)

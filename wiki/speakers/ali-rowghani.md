@@ -3,33 +3,48 @@ title: Ali Rowghani
 type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["Ali Rowghani", "Rowghani"]
-related: ["[[Management]]", "[[Three Traits of Great Leaders]]", "[[Mission-to-Metrics]]", "[[The Second Job of a Startup CEO]]"]
+aliases: ["Ali Rowghani"]
+related: ["[[Startup Leadership]]", "[[Three Traits of Great Leadership]]", "[[Mission-to-Metrics Framework]]", "[[Startup Leadership]]"]
 sources: ["3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo"]
 speakers_referenced: []
 ---
 
 # Ali Rowghani
 
-Ali Rowghani is a member of YC's Continuity team. Before YC, he worked closely with four leaders he considers extraordinary: [[Ed Catmull]] (Pixar founder), [[Steve Jobs]] (Pixar CEO), John Lasseter (Pixar Chief Creative Officer), and Bob Iger (Disney CEO) [1][2]. He also served at Twitter during a period of rapid growth (50 hires per month across global offices for 18 months) [2].
+Ali Rowghani is a partner at YC Continuity and the former COO of Twitter. Before Twitter, he served as CFO of Pixar, where he worked closely with Ed Catmull, Steve Jobs, John Lasseter, and Bob Iger. His writing for the YC Library draws heavily on these experiences to develop frameworks for leadership measurement and CEO scaling.
 
 ## Worldview
 
-Rowghani's thinking centers on the CEO transition from builder to leader [2]. He frames the startup CEO's role as evolving through three phases: building a product (Doer-in-Chief), building a company (Company-Builder-in-Chief), and investing in transformative new products. The Phase 2 transition is the critical inflection point where most founders either grow or fail [2].
+Rowghani's thinking is built around several core convictions:
 
-His leadership philosophy is trust-centric [1]. Despite observing radically different leadership styles at Pixar/Disney, he found that all great leaders share three foundational traits: clarity of thought and communication, judgment about people, and personal integrity and commitment [1]. Trust, he argues, is both a science (making accurate predictions and good people choices) and an art (saying the right thing at the right time, standing for ideals bigger than yourself) [1].
+**Leadership is measurable.** In a startup culture "obsessed with management by metrics," Rowghani observed that founders struggle to measure their own leadership [1]. He rejects measuring leadership through business results (because "timing and luck can be confounding factors") and instead proposes a three-trait framework that is both diagnostic and actionable.
 
-## Key Frameworks
+**Trust is the foundation of all leadership.** Despite working with four leaders of radically different styles, Rowghani concluded that great leadership reduces to the ability to build trust. Trust has a "science" (accurate predictions, good people decisions) and an "art" (empathy, integrity, self-awareness) [1].
 
-- **[[Mission-to-Metrics]]**: Mission (permanent purpose), Strategy (revisited 2x/year), Metrics (drivers, not top-line results) [2]. The SpaceX manufacturing floor anecdote is his signature example.
-- **[[Three Traits of Great Leaders]]**: Clarity, judgment about people, integrity [1]. Includes detailed survey questions for measuring each trait.
-- **Three phases of a startup CEO**: Phase 1 (product), Phase 2 (company, ~20-500 employees), Phase 3 (reinvestment in new products) [2].
+**The CEO's job changes dramatically as the company scales.** Rowghani describes three distinct phases: Doer-in-Chief (building product), Company-Builder-in-Chief (building the organization), and investment in transformative new products [2]. The transition between phases is the critical juncture where many startups fail.
+
+**Delegation is the key to CEO scaling.** The CEO must replace themselves in every Phase 1 function by hiring leaders "better than you" into each role [2]. The measure of success is unscheduled time. Steve Jobs told him: "When I'm at my best, 50% of my time is unscheduled" [2].
+
+**Culture cannot be authored by one person.** Unlike mission and strategy, culture must be co-created by founders and early employees to feel authentic [2]. Values that do not reflect past behavior feel contrived.
 
 ## Distinct Perspective
 
-Rowghani is unusual among startup advisors in emphasizing that leadership can be measured systematically, not just through business outcomes [1]. He provides concrete survey instruments and argues that gathering employee data should begin around 50 people. His advice on executive [[Hiring|hiring]] is specific: expect 25% failure rate, most CEOs take too long to fire their first executive, and 50% of CEO time should go to hiring and managing the senior team [2].
+Rowghani is unique in combining deep experience at a pre-IPO creative company (Pixar), a high-growth technology company (Twitter), and an accelerator (YC Continuity). His leadership framework draws on observations of four very different leaders rather than abstract principles, lending it a biographical specificity rare in startup advice. He is also unusual in emphasizing the "art" of trust alongside its "science."
 
-He draws heavily on Pixar culture stories (Toy Story 2 rewrite, [[Ed Catmull]]'s studio closure for recuperation) to illustrate how authentic values emerge from past behavior, not from CEO-authored mission statements [2].
+## Key Frameworks
+
+- **[[Three Traits of Great Leadership]]**: Clarity of thought/communication, judgment about people, personal integrity/commitment [1]
+- **[[Mission-to-Metrics Framework]]**: Mission (purpose) → Strategy (direction) → Metrics (pace and performance) [2]
+- **Three Phases of CEO**: Doer-in-Chief → Company-Builder-in-Chief → Transformation investor [2]
+- **Three Non-Delegable CEO Tasks**: Hiring leadership team, creating purpose and alignment, nurturing culture [2]
+- **Leadership Survey Framework**: Parallel CEO/employee questions measuring the three traits [1]
+
+## Source Inventory
+
+| Source | Type | Key Contribution |
+|--------|------|------------------|
+| [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) | Post | Three-trait framework for measuring and improving leadership |
+| [The Second Job of a Startup CEO](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo) | Post | Phase transitions in CEO role, Mission-to-Metrics, non-delegable tasks |
 
 ## References
 

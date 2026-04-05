@@ -3,27 +3,37 @@ title: Blake Scholl
 type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["Blake Scholl", "Scholl"]
-related: ["[[Boom Supersonic]]", "[[Becoming a Founder]]", "[[Biotech and Deep Tech]]", "[[Founder Mindset]]"]
+aliases: ["Scholl", "Blake Scholl"]
+related: ["[[Hard Tech Startups]]", "[[Growth]]", "[[Enterprise Sales]]"]
 sources: ["5Q-on-starting-and-scaling-aerospace-company-boom"]
 ---
 
 # Blake Scholl
 
-Blake Scholl is the founder and CEO of [[Boom Supersonic]] (YC W16), a company building supersonic passenger airplanes [1]. He studied computer science, had a first career in ecommerce and mobile (his first startup was acquired by Groupon), and has been a pilot since college.
+Blake Scholl is the founder and CEO of [Boom Technology](http://boomsupersonic.com/) (YC W16), a company building supersonic passenger airplanes. He holds a background in computer science and previously co-founded a startup acquired by Groupon. He has been a pilot since college [1].
 
 ## Worldview
 
-Scholl's core beliefs:
+Scholl believes the biggest ideas are actually easier, not harder, because they motivate the founder, attract exceptional talent, and create energy that smaller ideas cannot match. He argues against starting a startup just to start one: "Start a startup when you're like, 'I must make this happen'" [1].
 
-- **Founders drive breakthrough innovation.** In aviation, "all of the big breakthroughs have come from founder-led companies" -- the Wright brothers, the DC-3, the De Havilland Comet [1]. The last new commercial aircraft company was founded in 1921. The last founder retired from the industry in 1958. Since then, Boeing and Airbus have been optimizing, not innovating. "Founders have vision. Founders start things to make the world a better place. Founders take risks" [1]. The CEO of Boeing publicly said "no more moonshots" -- from "the company that was literally in the moonshot business" [1].
+He traces aviation's stagnation directly to the disappearance of founders from the industry, making the case that innovation in any industry requires founder-led companies rather than optimization by professional managers [1].
 
-- **Big ideas are easier, not harder.** "The bigger the idea actually, the easier it can be because it motivates you. It motivates the people around you. You can attract better people" [1]. Boom's team would not exist if they were building "an app or a small airplane, even." People join because "I can tell my grandkids about this! It's either we're going to fail or we're going to change the world. There's no in between" [1].
+## Key Frameworks
 
-- **Passion as prerequisite.** "Find something in the world that you desperately want to exist" [1]. Working on internet coupons at Groupon made Scholl "yearn to work on something you really love." He advises against starting a startup for its own sake: "I did that my first time and it was a horrible idea" [1]. See also [[Founder Mindset]].
+**The Descending Awesome List**: Make a list of startup ideas in descending order of how awesome it would be if they worked, ignoring all other considerations. Then work down the list. "I figured, 'I'll cross things off the list and I'll end up working on idea number five.' And, as luck had it, the more I got into supersonics, the more I learned that it's not crazy" [1].
 
-- **Persistence and deadlines close deals.** Boom's biggest sales advice from YC: "Be persistent. Be more persistent than you think you should be. Be so persistent that you're sure you're being annoying" [1]. They used Demo Day as a credible deadline with Virgin, and asked for the right thing: "We're not asking for your money, we're asking, 'When this flies, do you want a Virgin logo on it?'" [1]. The result: $5 billion in LOIs announced on Demo Day [1]. See also [[Do Things That Don't Scale]].
+**Persistence as Sales Strategy**: "Be so persistent that you're sure you're being annoying. And you'll feel like you must be annoying, but when you have that feeling that means you're probably doing it right" [1].
+
+**Deadline + Sweetness**: Have a believable deadline and make the deal as attractive as possible for the other side. Demo day served as Boom's forcing function with Virgin [1].
+
+**Progress That Is and Looks Like Progress**: For hardware companies at YC, find something that represents real technical advancement and that audiences can appreciate. Avoid the traps of meaningful-but-unappreciable progress and showy-but-empty demos [1].
+
+## Source Inventory
+
+| Source | Key Contribution |
+|--------|-----------------|
+| [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) | Hard tech at YC, selling before building, the Virgin deal, big ideas as motivation |
 
 ## References
 
-1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) — Blake Scholl
+1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- Blake Scholl

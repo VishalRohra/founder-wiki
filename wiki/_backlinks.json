@@ -1,486 +1,394 @@
 {
-  "Fundraising": [
-    "speakers/kevin-hale.md",
-    "speakers/paul-graham.md",
-    "speakers/jason-kwon.md",
-    "speakers/janelle-tam.md",
-    "speakers/geoff-ralston.md",
-    "speakers/sam-altman.md",
-    "speakers/jared-friedman.md",
-    "speakers/aaron-harris.md",
-    "industries/biotech-funding.md",
-    "frameworks/default-alive-or-default-dead.md",
-    "frameworks/the-equity-equation.md",
-    "frameworks/pitch-deck-design.md",
-    "topics/hiring.md",
-    "topics/university-spinouts.md",
-    "topics/founder-mindset.md",
-    "topics/board-governance.md",
-    "topics/later-stage-operations.md",
-    "topics/startup-mistakes.md",
-    "topics/yc-essential-startup-advice.md",
-    "topics/financial-survival.md",
-    "topics/growth.md",
-    "topics/series-a-pitch.md",
-    "topics/equity-and-compensation.md"
-  ],
-  "Growth": [
-    "speakers/aaron-king.md",
-    "speakers/paul-graham.md",
-    "speakers/anu-hariharan.md",
-    "speakers/sam-altman.md",
-    "frameworks/default-alive-or-default-dead.md",
-    "frameworks/feature-prioritization-frameworks.md",
-    "frameworks/do-things-that-dont-scale.md",
-    "topics/founder-mindset.md",
-    "topics/growth-teams.md",
-    "topics/later-stage-operations.md",
-    "topics/enterprise-sales.md",
-    "topics/startup-mistakes.md",
-    "topics/financial-survival.md",
-    "topics/product-development.md",
-    "topics/press-and-pr.md",
-    "topics/fundraising.md",
-    "topics/early-stage-tactics.md",
-    "topics/series-a-pitch.md",
-    "topics/startup-ideas.md"
-  ],
-  "Paul Graham": [
-    "speakers/jared-friedman.md",
-    "industries/biotech-funding.md",
-    "frameworks/default-alive-or-default-dead.md",
-    "frameworks/the-equity-equation.md",
-    "frameworks/do-things-that-dont-scale.md",
-    "topics/hiring.md",
-    "topics/founder-mindset.md",
-    "topics/becoming-a-founder.md",
-    "topics/startup-mistakes.md",
-    "topics/yc-essential-startup-advice.md",
-    "topics/financial-survival.md",
-    "topics/growth.md",
-    "topics/cofounders.md",
-    "topics/fundraising.md",
-    "topics/early-stage-tactics.md",
-    "topics/equity-and-compensation.md",
-    "topics/startup-ideas.md"
-  ],
-  "Hiring": [
-    "speakers/aaron-epstein.md",
-    "speakers/aaron-king.md",
-    "speakers/harj-taggar.md",
-    "frameworks/default-alive-or-default-dead.md",
-    "frameworks/the-equity-equation.md",
-    "topics/management.md",
-    "topics/growth-teams.md",
-    "topics/later-stage-operations.md",
-    "topics/enterprise-sales.md",
-    "topics/startup-mistakes.md",
-    "topics/yc-essential-startup-advice.md",
-    "topics/financial-survival.md",
-    "topics/equity-and-compensation.md"
-  ],
-  "Founder Mindset": [
-    "speakers/paul-graham.md",
-    "speakers/blake-scholl.md",
-    "speakers/sam-altman.md",
-    "case-studies/boom-supersonic.md",
-    "frameworks/do-things-that-dont-scale.md",
-    "topics/later-stage-operations.md",
-    "topics/becoming-a-founder.md",
-    "topics/startup-mistakes.md",
-    "topics/cofounders.md",
-    "topics/fundraising.md",
-    "topics/early-stage-tactics.md",
-    "topics/startup-ideas.md"
-  ],
-  "Product-Market Fit": [
-    "frameworks/feature-prioritization-frameworks.md",
-    "topics/growth-teams.md",
-    "topics/later-stage-operations.md",
-    "topics/enterprise-sales.md",
-    "topics/startup-mistakes.md",
-    "topics/product-development.md",
-    "topics/growth.md",
-    "topics/early-stage-tactics.md",
-    "topics/series-a-pitch.md",
-    "topics/startup-ideas.md"
-  ],
-  "Management": [
-    "speakers/aaron-epstein.md",
-    "speakers/ali-rowghani.md",
-    "frameworks/three-traits-of-great-leaders.md",
-    "frameworks/mission-to-metrics.md",
-    "topics/hiring.md",
-    "topics/board-governance.md",
-    "topics/later-stage-operations.md",
-    "topics/yc-essential-startup-advice.md",
-    "topics/financial-survival.md"
-  ],
-  "Financial Survival": [
-    "speakers/aaron-king.md",
-    "speakers/paul-graham.md",
-    "speakers/dalton-caldwell.md",
-    "frameworks/default-alive-or-default-dead.md",
-    "topics/later-stage-operations.md",
-    "topics/yc-essential-startup-advice.md",
-    "topics/fundraising.md",
-    "topics/early-stage-tactics.md",
-    "topics/equity-and-compensation.md"
-  ],
-  "Early-Stage Tactics": [
-    "speakers/aaron-king.md",
-    "speakers/paul-graham.md",
-    "frameworks/default-alive-or-default-dead.md",
-    "frameworks/do-things-that-dont-scale.md",
-    "topics/founder-mindset.md",
-    "topics/becoming-a-founder.md",
-    "topics/financial-survival.md",
-    "topics/fundraising.md",
-    "topics/startup-ideas.md"
-  ],
-  "Sam Altman": [
-    "speakers/paul-graham.md",
-    "frameworks/default-alive-or-default-dead.md",
-    "topics/later-stage-operations.md",
-    "topics/becoming-a-founder.md",
-    "topics/yc-essential-startup-advice.md",
-    "topics/financial-survival.md",
-    "topics/growth.md",
-    "topics/press-and-pr.md",
-    "topics/startup-ideas.md"
-  ],
-  "Becoming a Founder": [
-    "speakers/paul-graham.md",
-    "speakers/blake-scholl.md",
-    "speakers/sam-altman.md",
-    "speakers/michael-seibel.md",
-    "case-studies/boom-supersonic.md",
-    "topics/university-spinouts.md",
-    "topics/founder-mindset.md",
-    "topics/cofounders.md"
-  ],
-  "Startup Ideas": [
-    "speakers/paul-graham.md",
-    "frameworks/do-things-that-dont-scale.md",
-    "topics/founder-mindset.md",
-    "topics/becoming-a-founder.md",
-    "topics/startup-mistakes.md",
-    "topics/cofounders.md",
-    "topics/early-stage-tactics.md"
-  ],
-  "Cofounders": [
-    "speakers/paul-graham.md",
-    "speakers/jared-friedman.md",
-    "topics/university-spinouts.md",
-    "topics/becoming-a-founder.md",
-    "topics/startup-mistakes.md",
-    "topics/equity-and-compensation.md",
-    "topics/startup-ideas.md"
-  ],
-  "Michael Seibel": [
-    "topics/university-spinouts.md",
-    "topics/board-governance.md",
-    "topics/becoming-a-founder.md",
-    "topics/yc-essential-startup-advice.md",
-    "topics/product-development.md",
-    "topics/press-and-pr.md",
-    "topics/fundraising.md"
-  ],
-  "Equity and Compensation": [
-    "speakers/paul-graham.md",
-    "frameworks/the-equity-equation.md",
-    "topics/university-spinouts.md",
-    "topics/later-stage-operations.md",
-    "topics/becoming-a-founder.md",
-    "topics/cofounders.md"
-  ],
-  "The Second Job of a Startup CEO": [
-    "speakers/ali-rowghani.md",
-    "frameworks/three-traits-of-great-leaders.md",
-    "frameworks/mission-to-metrics.md",
-    "topics/hiring.md",
-    "topics/management.md",
-    "topics/board-governance.md"
-  ],
-  "Board Governance": [
-    "speakers/jason-kwon.md",
-    "speakers/anu-hariharan.md",
-    "speakers/aaron-harris.md",
-    "topics/management.md",
-    "topics/fundraising.md"
-  ],
-  "YC Essential Startup Advice": [
-    "speakers/geoff-ralston.md",
-    "topics/hiring.md",
-    "topics/management.md",
-    "topics/financial-survival.md",
-    "topics/fundraising.md"
-  ],
-  "Anu Hariharan": [
-    "case-studies/toutiao.md",
-    "case-studies/wechat.md",
-    "case-studies/pinduoduo.md",
-    "topics/growth-teams.md",
-    "topics/board-governance.md"
-  ],
-  "Aaron Harris": [
-    "speakers/kevin-hale.md",
-    "speakers/jason-kwon.md",
-    "speakers/jared-friedman.md",
-    "topics/fundraising.md"
-  ],
-  "Product Development": [
-    "speakers/emmett-shear.md",
-    "speakers/michael-seibel.md",
-    "frameworks/feature-prioritization-frameworks.md",
-    "topics/growth.md"
-  ],
-  "Twitch": [
-    "speakers/emmett-shear.md",
-    "speakers/michael-seibel.md",
-    "frameworks/feature-prioritization-frameworks.md",
-    "topics/product-development.md"
-  ],
-  "Startup Mistakes": [
-    "speakers/paul-graham.md",
-    "topics/becoming-a-founder.md",
-    "topics/product-development.md",
-    "topics/fundraising.md"
-  ],
-  "Later-Stage Operations": [
-    "speakers/sam-altman.md",
-    "topics/enterprise-sales.md",
-    "topics/press-and-pr.md",
-    "topics/fundraising.md"
-  ],
-  "Talking to Users": [
-    "speakers/michael-seibel.md",
-    "frameworks/feature-prioritization-frameworks.md",
-    "topics/product-development.md",
-    "topics/early-stage-tactics.md"
-  ],
-  "Ali Rowghani": [
-    "frameworks/three-traits-of-great-leaders.md",
-    "frameworks/mission-to-metrics.md",
-    "topics/hiring.md",
-    "topics/management.md"
-  ],
-  "Aaron King": [
-    "topics/founder-mindset.md",
-    "topics/financial-survival.md",
-    "topics/early-stage-tactics.md",
-    "topics/equity-and-compensation.md"
-  ],
-  "Justin.tv": [
-    "speakers/emmett-shear.md",
-    "frameworks/feature-prioritization-frameworks.md",
-    "topics/product-development.md"
-  ],
-  "Do Things That Don't Scale": [
-    "speakers/paul-graham.md",
-    "frameworks/default-alive-or-default-dead.md",
-    "topics/early-stage-tactics.md"
-  ],
-  "The Equity Equation": [
-    "speakers/paul-graham.md",
-    "topics/fundraising.md",
-    "topics/equity-and-compensation.md"
-  ],
-  "WeChat: Growth and Platform Strategy": [
-    "speakers/anu-hariharan.md",
-    "case-studies/toutiao.md",
-    "case-studies/pinduoduo.md"
-  ],
-  "Pinduoduo: Social Commerce": [
-    "speakers/anu-hariharan.md",
-    "case-studies/toutiao.md",
-    "case-studies/wechat.md"
-  ],
-  "Toutiao: AI-Powered Content Discovery": [
-    "speakers/anu-hariharan.md",
-    "case-studies/wechat.md",
-    "case-studies/pinduoduo.md"
-  ],
-  "Retention and Engagement": [
-    "speakers/anu-hariharan.md",
-    "topics/growth-teams.md",
-    "topics/growth.md"
-  ],
-  "Three Traits of Great Leaders": [
-    "speakers/ali-rowghani.md",
-    "frameworks/mission-to-metrics.md",
-    "topics/management.md"
-  ],
-  "Mission-to-Metrics": [
-    "speakers/ali-rowghani.md",
-    "frameworks/three-traits-of-great-leaders.md",
-    "topics/management.md"
-  ],
-  "Ed Catmull": [
-    "speakers/ali-rowghani.md",
-    "frameworks/three-traits-of-great-leaders.md",
-    "topics/management.md"
-  ],
-  "Steve Jobs": [
-    "speakers/ali-rowghani.md",
-    "frameworks/three-traits-of-great-leaders.md",
-    "topics/management.md"
-  ],
-  "Biotech and Deep Tech": [
-    "speakers/blake-scholl.md",
-    "case-studies/boom-supersonic.md",
-    "topics/university-spinouts.md"
-  ],
-  "Press and PR": [
-    "speakers/sam-altman.md",
-    "speakers/michael-seibel.md",
-    "topics/later-stage-operations.md"
-  ],
-  "Launching": [
-    "speakers/michael-seibel.md",
-    "topics/press-and-pr.md",
-    "topics/early-stage-tactics.md"
-  ],
-  "Jeff Bezos": [
-    "frameworks/three-traits-of-great-leaders.md",
-    "frameworks/mission-to-metrics.md",
-    "topics/board-governance.md"
-  ],
-  "Paul Buchheit": [
-    "frameworks/default-alive-or-default-dead.md",
-    "topics/yc-essential-startup-advice.md",
-    "topics/financial-survival.md"
-  ],
-  "Analytics and Metrics": [
-    "topics/growth-teams.md",
-    "topics/growth.md",
-    "topics/series-a-pitch.md"
-  ],
-  "Sales and Distribution": [
-    "topics/enterprise-sales.md",
-    "topics/growth.md",
-    "topics/press-and-pr.md"
-  ],
   "Pitch Deck Design": [
-    "speakers/kevin-hale.md",
-    "topics/fundraising.md"
+    "Aaron Harris",
+    "Kevin Hale",
+    "Legible Simple Obvious",
+    "Seed Fundraising",
+    "Series A Fundraising"
+  ],
+  "Legible Simple Obvious": [
+    "Kevin Hale",
+    "Pitch Deck Design"
+  ],
+  "Seed Fundraising": [
+    "Aaron Harris",
+    "Biotech Startup Funding",
+    "Convincing Investors",
+    "Equity Split",
+    "Growth",
+    "Kevin Hale",
+    "Pitch Deck Design",
+    "Runway Management",
+    "Scaling and Later-Stage Operations",
+    "Series A Fundraising",
+    "Series A Term Sheets",
+    "Startup Essentials",
+    "Startup Outcomes and Optionality",
+    "University Spinouts"
   ],
   "Feature Prioritization Frameworks": [
-    "speakers/emmett-shear.md",
-    "topics/product-development.md"
+    "Emmett Shear"
+  ],
+  "Product-Market Fit": [
+    "Convincing Investors",
+    "Emmett Shear",
+    "Enterprise Sales",
+    "Feature Prioritization Frameworks",
+    "Growth",
+    "Product Development",
+    "Sam Altman",
+    "Scaling and Later-Stage Operations",
+    "Series A Fundraising",
+    "Startup Essentials",
+    "University Spinouts"
+  ],
+  "Growth": [
+    "Anu Hariharan",
+    "Blake Scholl",
+    "Boom Technology",
+    "Default Alive or Default Dead",
+    "Doing Things That Don't Scale",
+    "Emmett Shear",
+    "Enterprise Sales",
+    "Feature Prioritization Frameworks",
+    "Financial Survival",
+    "Getting Press",
+    "Hard Tech Startups",
+    "Network Effects",
+    "Paul Graham",
+    "Product-Market Fit",
+    "Sam Altman",
+    "Scaling and Later-Stage Operations",
+    "Series A Fundraising",
+    "Startup Outcomes and Optionality"
+  ],
+  "Snapdocs: Navigating Market Cycles": [
+    "Aaron King",
+    "Startups for Students"
+  ],
+  "Hiring Engineers": [
+    "Becoming a Founder",
+    "Harj Taggar"
+  ],
+  "Startup Ideas": [
+    "Convincing Investors",
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "Founder Mindset",
+    "Paul Graham",
+    "Product-Market Fit",
+    "Schlep Filter",
+    "Starting Young",
+    "Startups for Students"
+  ],
+  "Doing Things That Don't Scale": [
+    "Default Alive or Default Dead",
+    "Early-Stage Mistakes",
+    "Founder Mindset",
+    "Growth",
+    "Paul Graham",
+    "Product-Market Fit",
+    "Schlep Filter",
+    "Starting Young",
+    "Startup Essentials",
+    "Startup Ideas"
+  ],
+  "Founder Mindset": [
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "Paul Graham",
+    "Schlep Filter",
+    "Starting Young",
+    "Startup Ideas"
+  ],
+  "Financial Survival": [
+    "Default Alive or Default Dead",
+    "Early-Stage Mistakes",
+    "Equity Equation",
+    "Growth",
+    "Paul Graham",
+    "Starting Young"
+  ],
+  "Early-Stage Mistakes": [
+    "Default Alive or Default Dead",
+    "Doing Things That Don't Scale",
+    "Equity Equation",
+    "Financial Survival",
+    "Founder Mindset",
+    "Growth",
+    "Paul Graham",
+    "Starting Young",
+    "Startup Ideas"
+  ],
+  "Starting Young": [
+    "Founder Mindset",
+    "Paul Graham"
+  ],
+  "Equity Equation": [
+    "Equity Split",
+    "Financial Survival",
+    "Paul Graham"
   ],
   "Default Alive or Default Dead": [
-    "speakers/paul-graham.md",
-    "topics/financial-survival.md"
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "Financial Survival",
+    "Growth",
+    "Paul Graham"
   ],
-  "Series A Pitch and Deck": [
-    "speakers/janelle-tam.md",
-    "topics/fundraising.md"
+  "Schlep Filter": [
+    "Paul Graham",
+    "Startup Ideas"
   ],
-  "Growth Teams": [
-    "speakers/anu-hariharan.md",
-    "topics/growth.md"
+  "Convincing Investors": [
+    "Co-Founders",
+    "Paul Graham",
+    "Snapdocs: Navigating Market Cycles",
+    "Startups for Students"
   ],
-  "Boom Supersonic": [
-    "speakers/blake-scholl.md",
-    "topics/becoming-a-founder.md"
+  "Co-Founders": [
+    "Equity Split",
+    "Paul Graham",
+    "Snapdocs: Navigating Market Cycles",
+    "Startups for Students"
+  ],
+  "Startups for Students": [
+    "Co-Founders",
+    "Paul Graham"
+  ],
+  "WeChat": [
+    "Anu Hariharan",
+    "China Tech Ecosystem",
+    "Network Effects",
+    "Pinduoduo",
+    "Social Commerce",
+    "Toutiao"
+  ],
+  "Pinduoduo": [
+    "Anu Hariharan",
+    "China Tech Ecosystem",
+    "Network Effects",
+    "Social Commerce",
+    "Toutiao",
+    "WeChat"
+  ],
+  "Toutiao": [
+    "Anu Hariharan",
+    "China Tech Ecosystem",
+    "Network Effects",
+    "Social Commerce",
+    "WeChat"
+  ],
+  "Board Management": [
+    "Anu Hariharan",
+    "Series A Fundraising",
+    "Startup Leadership",
+    "Startup Management"
+  ],
+  "Social Commerce": [
+    "Anu Hariharan",
+    "China Tech Ecosystem",
+    "Network Effects",
+    "Pinduoduo"
+  ],
+  "China Tech Ecosystem": [
+    "Anu Hariharan"
+  ],
+  "Startup Leadership": [
+    "Ali Rowghani",
+    "Board Management",
+    "Mission-to-Metrics Framework",
+    "Startup Management",
+    "Three Traits of Great Leadership"
+  ],
+  "Three Traits of Great Leadership": [
+    "Ali Rowghani",
+    "Startup Leadership"
+  ],
+  "Mission-to-Metrics Framework": [
+    "Ali Rowghani",
+    "Startup Leadership",
+    "Startup Management",
+    "Three Traits of Great Leadership"
+  ],
+  "Hard Tech Startups": [
+    "Athelas",
+    "Blake Scholl",
+    "Boom Technology",
+    "Jared Friedman",
+    "University Spinouts"
   ],
   "Enterprise Sales": [
-    "speakers/ryan-junee.md",
-    "case-studies/boom-supersonic.md"
+    "Blake Scholl",
+    "Boom Technology",
+    "Growth",
+    "Product-Market Fit"
   ],
-  "Biotech Startup Funding": [
-    "speakers/jared-friedman.md",
-    "topics/fundraising.md"
+  "Scaling and Later-Stage Operations": [
+    "Enterprise Sales",
+    "Sam Altman",
+    "Startup Outcomes and Optionality"
+  ],
+  "Startup Outcomes and Optionality": [
+    "Sam Altman",
+    "Scaling and Later-Stage Operations",
+    "Series A Fundraising"
   ],
   "University Spinouts": [
-    "speakers/jared-friedman.md",
-    "topics/becoming-a-founder.md"
+    "Athelas",
+    "Equity Split",
+    "Hard Tech Startups",
+    "Jared Friedman"
   ],
-  "Jason Kwon": [
-    "speakers/aaron-harris.md",
-    "topics/fundraising.md"
+  "Equity Split": [
+    "Co-Founders",
+    "Jared Friedman",
+    "University Spinouts"
   ],
-  "Jared Friedman": [
-    "industries/biotech-funding.md",
-    "topics/university-spinouts.md"
+  "Series A Fundraising": [
+    "Aaron Harris",
+    "Board Management",
+    "Enterprise Sales",
+    "Hard Tech Startups",
+    "Product-Market Fit",
+    "Runway Management",
+    "Seed Fundraising"
+  ],
+  "Product Development": [
+    "Michael Seibel",
+    "Snapdocs: Navigating Market Cycles",
+    "Startup Essentials"
+  ],
+  "Getting Press": [
+    "Michael Seibel"
+  ],
+  "Becoming a Founder": [
+    "Hiring Engineers",
+    "Michael Seibel",
+    "Startup Essentials"
+  ],
+  "Startup Essentials": [
+    "Becoming a Founder",
+    "Biotech Startup Funding",
+    "Getting Press",
+    "Michael Seibel",
+    "Pitch Deck Design",
+    "Product Development",
+    "Product-Market Fit",
+    "Series A Term Sheets"
+  ],
+  "Paul Graham": [
+    "Co-Founders",
+    "Convincing Investors",
+    "Default Alive or Default Dead",
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "Equity Equation",
+    "Equity Split",
+    "Financial Survival",
+    "Founder Mindset",
+    "Growth",
+    "Michael Seibel",
+    "Network Effects",
+    "Product-Market Fit",
+    "Runway Management",
+    "Schlep Filter",
+    "Seed Fundraising",
+    "Starting Young",
+    "Startup Essentials",
+    "Startup Ideas",
+    "Startups for Students"
+  ],
+  "Network Effects": [
+    "Pinduoduo",
+    "Social Commerce",
+    "Toutiao",
+    "WeChat"
+  ],
+  "Anu Hariharan": [
+    "Board Management",
+    "China Tech Ecosystem",
+    "Growth",
+    "Network Effects",
+    "Pinduoduo",
+    "Product-Market Fit",
+    "Social Commerce",
+    "Toutiao",
+    "WeChat"
   ],
   "Blake Scholl": [
-    "case-studies/boom-supersonic.md",
-    "topics/becoming-a-founder.md"
+    "Boom Technology",
+    "Hard Tech Startups"
   ],
-  "Tobi Lutke": [
-    "frameworks/three-traits-of-great-leaders.md",
-    "frameworks/mission-to-metrics.md"
+  "Aaron King": [
+    "Snapdocs: Navigating Market Cycles"
   ],
   "Emmett Shear": [
-    "frameworks/feature-prioritization-frameworks.md",
-    "topics/product-development.md"
+    "Feature Prioritization Frameworks",
+    "Product-Market Fit"
+  ],
+  "Ali Rowghani": [
+    "Mission-to-Metrics Framework",
+    "Startup Leadership",
+    "Startup Management",
+    "Three Traits of Great Leadership"
+  ],
+  "Startup Management": [
+    "Mission-to-Metrics Framework",
+    "Startup Leadership"
   ],
   "Kevin Hale": [
-    "frameworks/pitch-deck-design.md",
-    "topics/fundraising.md"
+    "Legible Simple Obvious",
+    "Pitch Deck Design",
+    "Seed Fundraising"
   ],
-  "Aaron Epstein": [
-    "topics/hiring.md",
-    "topics/management.md"
+  "Michael Seibel": [
+    "Becoming a Founder",
+    "Board Management",
+    "Co-Founders",
+    "Getting Press",
+    "Hiring Engineers",
+    "Product Development",
+    "Startup Essentials",
+    "Startups for Students",
+    "University Spinouts"
   ],
-  "Series A Term Sheet": [
-    "topics/board-governance.md",
-    "topics/fundraising.md"
+  "Jared Friedman": [
+    "Biotech Startup Funding",
+    "Equity Split",
+    "Hard Tech Startups",
+    "Seed Fundraising",
+    "University Spinouts"
   ],
-  "Harj Taggar": [
-    "topics/hiring.md"
+  "Series A Term Sheets": [
+    "Biotech Startup Funding",
+    "Series A Fundraising"
   ],
-  "Patrick Collison": [
-    "topics/hiring.md"
+  "Sam Altman": [
+    "Growth",
+    "Product-Market Fit",
+    "Scaling and Later-Stage Operations",
+    "Startup Essentials",
+    "Startup Outcomes and Optionality"
   ],
-  "David Rusenko": [
-    "topics/management.md"
+  "Runway Management": [
+    "Seed Fundraising"
   ],
-  "Gustaf Alstromer": [
-    "topics/growth-teams.md"
+  "Aaron Harris": [
+    "Seed Fundraising",
+    "Series A Fundraising",
+    "Series A Term Sheets"
   ],
-  "Ryan Junee": [
-    "topics/enterprise-sales.md"
+  "Biotech Startup Funding": [
+    "Series A Term Sheets"
   ],
   "Athelas": [
-    "topics/becoming-a-founder.md"
+    "Hard Tech Startups"
   ],
-  "relentlessly resourceful": [
-    "topics/becoming-a-founder.md"
+  "Boom Technology": [
+    "Hard Tech Startups"
   ],
-  "Tanay Tandon": [
-    "topics/becoming-a-founder.md"
-  ],
-  "Ryan Choi": [
-    "topics/becoming-a-founder.md"
-  ],
-  "Jessica Livingston": [
-    "topics/yc-essential-startup-advice.md"
-  ],
-  "Dalton Caldwell": [
-    "topics/financial-survival.md"
-  ],
-  "Net Promoter Score": [
-    "topics/growth.md"
-  ],
-  "Series A Diligence Checklist": [
-    "topics/fundraising.md"
-  ],
-  "Geoff Ralston": [
-    "topics/fundraising.md"
-  ],
-  "Carolynn Levy": [
-    "topics/fundraising.md"
-  ],
-  "Alfred Lin": [
-    "topics/fundraising.md"
-  ],
-  "Janelle Tam": [
-    "topics/series-a-pitch.md"
-  ],
-  "Pivoting": [
-    "topics/startup-ideas.md"
+  "Harj Taggar": [
+    "Hiring Engineers"
   ]
 }
