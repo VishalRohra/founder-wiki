@@ -3,17 +3,15 @@ title: Hiring Engineers
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["hiring engineers", "first engineer", "recruiting engineers", "engineering hiring", "convincing engineers", "offer acceptance", "closing candidates", "recruiting sales reps", "hiring salespeople"]
-related: ["[[Becoming a Founder]]", "[[Michael Seibel]]", "[[Harj Taggar]]", "[[Enterprise Sales]]"]
-sources: ["4G-convincing-engineers-to-join-your-team", "4H-how-to-hire-your-first-engineer", "4l-advice-for-job-seekers-on-resumes-and-reaching-out", "N5-how-to-recruit-the-best-engineers-and-sales-reps"]
+aliases: ["hiring engineers", "first engineer", "recruiting engineers", "engineering hiring", "convincing engineers", "offer acceptance", "closing candidates"]
+related: [ "[[Becoming a Founder]]", "[[Michael Seibel]]", "[[Harj Taggar]]"]
+sources: ["4G-convincing-engineers-to-join-your-team", "4H-how-to-hire-your-first-engineer", "4l-advice-for-job-seekers-on-resumes-and-reaching-out"]
 speakers_referenced: ["Harj Taggar", "Ryan Choi"]
 ---
 
 # Hiring Engineers
 
 Hiring engineers is one of the most difficult and time-consuming tasks for early-stage startup founders. [[Harj Taggar]], cofounder of Triplebyte (YC S15), describes it as "incredibly hard" because founders are already stretched thin on time, and the process involves significant dead ends and frustration [1]. The challenge is compounded by the fact that traditional recruiting methods do not work well for very early companies, and most of the effective strategies require significant founder involvement [1].
-
-The same core principles -- personal networks first, speed in the funnel, genuine pitch over polished pitch -- apply when recruiting salespeople and other key hires [4].
 
 ## Start With Your Personal Network
 
@@ -63,6 +61,12 @@ Being fast and responsive is one of the biggest advantages a startup has over la
 
 The first call with a candidate typically lasts 25 minutes. Taggar recommends asking the candidate what they are looking for early in the call, not at the end, so the pitch can be tailored throughout [2]. For companies under 20 people, a founder should always do this call. The non-technical/sales founder should handle it to protect the technical founder's maker time, even if they cannot speak to technical challenges in detail [2].
 
+When a recruiter takes over these calls, Taggar recommends [2]:
+- Monthly reports on call volume and opt-out rates, with reasons tracked and reviewed
+- An assigned engineer to train the recruiter on technical pitch points through mock pitches with feedback
+- Structured, multiple-choice technical vetting questions so the recruiter can feel confident
+- For deeply technical products without marquee customers, having an engineer do first calls for promising candidates
+
 ### The Onsite Interview
 
 Taggar surveyed engineers about bad onsite experiences. The top three complaints were interviewers being (1) unprepared and not knowing anything about the candidate, (2) not familiar with the technical questions they asked, and (3) determined to prove their own intelligence to the interviewee [2].
@@ -73,36 +77,53 @@ For lunch, Taggar describes Triplebyte's own practice: Slack the team in the mor
 
 ## Making and Closing the Offer
 
+### Present Real Details
+
+A common complaint is being asked how likely a candidate would be to accept an offer before knowing the actual offer details. Compensation details are a large factor in where people decide to work [2]. A formal offer letter should include salary, benefits, signing bonus, health insurance, 401(k), vacation policy, and full equity details (total shares/options, shares outstanding, percentage ownership, exercise price, vesting schedule) [2].
+
 ### Two-Step Offer Presentation
 
 Taggar recommends a specific sequence [2]:
 
-**Step One (same day as onsite if possible):** The hiring manager (founder at early stage) calls to say the day went well and they want to make an offer. Mention specific reasons for excitement. Multiple people can join the call.
+**Step One (same day as onsite if possible):** The hiring manager (founder at early stage) calls to say the day went well and they want to make an offer. Mention specific reasons for excitement. Multiple people can join the call, each sharing a specific reason they want to work with the candidate.
 
-**Step Two (next day):** Call to walk through offer details. Gauge the candidate's familiarity with equity concepts before diving in. Do not push hard for a decision on this call.
+**Step Two (next day):** Call to walk through offer details. Gauge the candidate's familiarity with equity concepts before diving in. Do not push hard for a decision on this call to avoid the candidate feeling pressured. Ask about their decision-making timeline.
+
+### Closing Tactics
+
+Get the entire team involved. Everyone who met the candidate during the onsite should send a follow-up email with specific reasons they enjoyed the interaction and offering to talk again. Talk about what the first two weeks would look like. "Nitty gritty details will make the offer feel more real" [2].
+
+At early stage, include investors in every engineering offer. Choose the investor most likely to sell that specific candidate and provide context in the intro email [2].
+
+The best recruiters take notes on candidates' personal circumstances and other decision-makers involved. Taggar shares a case where a recruiter learned a candidate's wife was reluctant to relocate because of concerns about her medical career. The recruiter researched places she could work, gathered contact information and compensation data, and asked to speak with her directly. The candidate accepted shortly afterward [2].
+
+### Avoid Exploding Offers
+
+Aggressive deadlines backfire. Good candidates with multiple options will push back, and competing recruiters can use it as ammunition against you [2]. A softer alternative is an expiring signing bonus with language like: "We want you to take all the time you need. At the same time, we can't leave offers open indefinitely. If you can decide by X date, we'd offer a $X,000 signing bonus" [2].
 
 ### Competing With Big Companies
 
 As a startup, it is hard to compete with Facebook and Google compensation packages. Taggar identifies four arguments that have been most successful [2]:
 
-1. **Learning**: Real decision-making responsibility comes immediately at a startup.
-2. **Career Progression**: Rising through the ranks only happens at fast-growing startups. "The Chief Product Officer of Facebook ($500bn market cap) is 36 years old."
-3. **Opportunity Cost**: Working at a public technology company is always available. The startup is a unique opportunity right now.
-4. **Mentorship**: If experienced engineers on the team are willing to mentor, make this explicit.
+1. **Learning**: Real decision-making responsibility comes immediately at a startup. Large companies won't give this for years because they need checks and balances.
+2. **Career Progression**: Rising through the ranks only happens at fast-growing startups. "The Chief Product Officer of Facebook ($500bn market cap) is 36 years old." Paint a specific picture of how the candidate could progress.
+3. **Opportunity Cost**: Working at a public technology company is always available. That experience is fungible. The startup is a unique opportunity right now because of the specific team and market.
+4. **Mentorship**: If experienced engineers on the team are willing to mentor, make this explicit. Junior engineers worry about not learning best practices at small companies.
 
-## Recruiting Salespeople
+## Hiring as Pitch Practice
 
-The same fundamentals apply to recruiting sales reps: personal networks first, founder involvement in early pitches, and speed through the process [4]. For early-stage AI companies, the hiring challenge is compounded by needing salespeople comfortable with technical products and rapid iteration -- the "script kiddie vs. hacker" distinction Ryan Junee makes in [[Enterprise Sales]] applies directly to sales hiring [4].
+Taggar frames the hiring process as analogous to fundraising: start by refining your message and pitch [1]. Candidates think differently from investors. They care less about market size and more about interesting product challenges. Every rejected offer should trigger a quick exit interview to gather feedback on why they made their decision and their experience with the hiring process. Review these regularly with the team [2].
 
 ## What Job Seekers Should Know
 
-Ryan Choi, YC's head of Work at a Startup, offers advice from the candidate's perspective [3]. For resumes, each position should cover: what you worked on, how you got work done, and what impact you had (growth numbers, cost savings, business results) [3].
+Ryan Choi, YC's head of Work at a Startup, offers complementary advice from the candidate's perspective [3]. For resumes, each position should cover three things: what you worked on (assume the reader knows nothing about your last company), how you got work done (include technologies contextually within each position, not in a single dump section), and what impact you had (growth numbers, cost savings, business results) [3].
 
-For cold outreach, highlight two to three things you would be excited to work on at the company. Being a genuine user of the product is a significant advantage. When evaluating startups, ask about runway and burn rate [3].
+For cold outreach, Choi recommends highlighting two to three things you would be excited to work on at the company, and why. Being a genuine user of the product is a significant advantage. At Twitter, Choi hired people who stood out by suggesting product improvements, outlining go-to-market plans, or writing sample code. When interviewing at Lyft himself, he reverse-engineered the API and built a small SDK using WireShark, which helped him land the job [3].
+
+When evaluating startups, Choi advises asking about runway (months the startup can operate on current funds) and burn rate (monthly spend). At Zuora, making it a goal to be "in the black" helped survive the 2009 market crash. Founders should be transparent with this information; wariness is warranted toward those who are not forthcoming [3].
 
 ## References
 
-1. [How to Hire Your First Engineer](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer) -- [[Harj Taggar]] (July 2018)
-2. [Convincing Engineers to Join Your Team](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team) -- [[Harj Taggar]] (July 2018)
-3. [Advice for Job Seekers on Resumes and Reaching Out](https://www.ycombinator.com/library/4l-advice-for-job-seekers-on-resumes-and-reaching-out) -- Ryan Choi (April 2020)
-4. [How to Recruit the Best Engineers and Sales Reps](https://www.youtube.com/watch?v=placeholder) -- Y Combinator (2025)
+1. [How to Hire Your First Engineer](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer) — [[Harj Taggar]] (July 2018)
+2. [Convincing Engineers to Join Your Team](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team) — [[Harj Taggar]] (July 2018)
+3. [Advice for Job Seekers on Resumes and Reaching Out](https://www.ycombinator.com/library/4l-advice-for-job-seekers-on-resumes-and-reaching-out) — Ryan Choi (April 2020)

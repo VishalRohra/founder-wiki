@@ -46,6 +46,16 @@ Her approach to growth is methodical and benchmark-driven. She provides specific
 - **Absolute Goals**: Growth goals must be absolute numbers, not percentages. "Achieve 5M first-time room nights" not "improve conversion by 10%" [5]
 - **Growth Team Composition**: Year 1 team = 1 Growth PM + 2-3 Growth Engineers + 1-2 Data Scientists. First hire when ~15 engineers on the product team [5]
 
+## Source Inventory
+
+| Source | Type | Key Contribution |
+|--------|------|------------------|
+| [How WeChat Grew to Be the #1 App in the World](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world) | Post | Seven lessons from WeChat's growth from 0 to 889M MAUs |
+| [Pinduoduo and the Rise of Social E-Commerce](https://www.ycombinator.com/library/2z-pinduoduo-and-the-rise-of-social-e-commerce) | Post | Analysis of social commerce through team purchase model |
+| [The Hidden Forces Behind China's Content King Toutiao](https://www.ycombinator.com/library/3x-the-hidden-forces-behind-china-s-content-king-toutiao) | Post | Five forces behind AI-driven content platform growth |
+| [How to Create and Manage a Board](https://www.ycombinator.com/library/3w-how-to-create-and-manage-a-board) | Post | Board governance best practices with real company examples |
+| [How to Set Up, Hire, and Scale a Growth Strategy and Team](https://www.ycombinator.com/library/59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team) | Post | Comprehensive growth team guide: when to invest, team composition, metrics, channels, experimentation |
+
 ## References
 
 1. [How WeChat Grew to Be the #1 App in the World](https://www.ycombinator.com/library/3t-how-wechat-grew-to-be-the-1-app-in-the-world) -- Anu Hariharan (n.d.)

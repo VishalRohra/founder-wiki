@@ -4,7 +4,7 @@ type: case-study
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Snapdocs", "Aaron King", "digital closing", "mortgage tech", "navigating market cycles", "capital efficiency"]
-related: ["[[Product Development]]", "[[Convincing Investors]]", "[[Co-Founders]]"]
+related: ["[[Capital Efficiency]]", "[[Product Development]]", "[[Navigating Market Cycles]]", "[[Convincing Investors]]", "[[Co-Founders]]"]
 sources: ["Gu-snapdocs-aaron-king-on-navigating-market-cycles"]
 speakers_referenced: ["Aaron King"]
 ---

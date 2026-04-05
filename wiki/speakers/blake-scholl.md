@@ -28,6 +28,12 @@ He traces aviation's stagnation directly to the disappearance of founders from t
 
 **Progress That Is and Looks Like Progress**: For hardware companies at YC, find something that represents real technical advancement and that audiences can appreciate. Avoid the traps of meaningful-but-unappreciable progress and showy-but-empty demos [1].
 
+## Source Inventory
+
+| Source | Key Contribution |
+|--------|-----------------|
+| [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) | Hard tech at YC, selling before building, the Virgin deal, big ideas as motivation |
+
 ## References
 
 1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- Blake Scholl (n.d.)

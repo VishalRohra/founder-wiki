@@ -39,6 +39,13 @@ Rowghani is unique in combining deep experience at a pre-IPO creative company (P
 - **Three Non-Delegable CEO Tasks**: Hiring leadership team, creating purpose and alignment, nurturing culture [2]
 - **Leadership Survey Framework**: Parallel CEO/employee questions measuring the three traits [1]
 
+## Source Inventory
+
+| Source | Type | Key Contribution |
+|--------|------|------------------|
+| [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) | Post | Three-trait framework for measuring and improving leadership |
+| [The Second Job of a Startup CEO](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo) | Post | Phase transitions in CEO role, Mission-to-Metrics, non-delegable tasks |
+
 ## References
 
 1. [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) — Ali Rowghani (n.d.)
