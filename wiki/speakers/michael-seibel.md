@@ -5,7 +5,41 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Michael Seibel", "Seibel"]
 related: ["[[Product Development]]", "[[Getting Press]]", "[[Becoming a Founder]]", "[[Startup Essentials]]", "[[Product-Market Fit]]", "[[Equity Split]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Fundraising Mistakes]]", "[[Startup Ideas]]", "[[Dalton Caldwell]]"]
-sources: ["4c-getting-press-for-your-startup", "4d-a-letter-to-college-students", "4e-guide-to-product-development", "4h-three-paths-in-the-tech-industry-founder-executive-or-employee", "4D-yc-s-essential-startup-advice", "5z-the-real-product-market-fit", "63-why-fundraising-is-different-in-silicon-valley", "65-how-to-cold-email-investors", "5x-how-to-split-equity-among-co-founders", "7x-how-to-get-and-test-ideas", "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes", "DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them", "DX-dalton-michael-understanding-investor-terms-and-incentives", "IO-dalton-michael-how-generosity-built-tech-giants", "Jd-dalton-michael-why-investors-secretly-love-y-combinator", "Ie-dalton-michael-will-openai-kill-all-startups", "Ia-dalton-michael-how-to-earn-customers-for-life", "IP-dalton-michael-secrets-you-can-learn-from-your-customers", "IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco", "IW-dalton-michael-elon-musk-and-the-midwit-meme", "Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups", "IY-dalton-michael-the-cult-of-conformity-in-silicon-valley", "IR-dalton-michael-silicon-valley-s-cargo-culting-problem", "DW-dalton-michael-should-you-follow-your-passion", "DV-dalton-michael-successful-founders-are-ok-with-rejection", "Jw-dalton-michael-why-you-shouldn-t-copy-your-tech-idols", "IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have", "IS-dalton-michael-y-combinator-is-back-in-person", "Ih-dalton-michael-why-you-should-leave-your-faang-job", "DU-dalton-michael-where-do-great-startup-ideas-come-from", "Ik-dalton-michael-how-future-billionaires-get-sh-t-done", "DT-dalton-michael-simple-products-that-became-big-companies", "IX-dalton-michael-how-to-deal-with-setbacks", "Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup", "IT-dalton-michael-why-investors-can-t-fix-your-company"]
+sources: [4D-yc-s-essential-startup-advice, 4c-getting-press-for-your-startup, 4d-a-letter-to-college-students,
+  4e-guide-to-product-development, 4h-three-paths-in-the-tech-industry-founder-executive-or-employee,
+  5x-how-to-split-equity-among-co-founders, 5z-the-real-product-market-fit, 60-should-i-start-a-startup,
+  61-order-of-operations-for-starting-a-startup, 63-why-fundraising-is-different-in-silicon-valley,
+  65-how-to-cold-email-investors, 66-biggest-mistakes-first-time-founders-make, 67-user-you-don-t-want,
+  7s-building-product, 7u-how-pitching-investors-is-different-than-pitching-customers,
+  7v-should-i-use-a-dev-shop, 7x-how-to-get-and-test-ideas, 7y-how-to-build-a-product-with-reddit-s-steve-huffman-and-twitch-s-emmett-shear,
+  8a-the-5-things-that-kill-startups-post-seed-rounds, CP-one-order-of-operations-for-starting-a-startup,
+  DT-dalton-michael-simple-products-that-became-big-companies, DU-dalton-michael-where-do-great-startup-ideas-come-from,
+  DV-dalton-michael-successful-founders-are-ok-with-rejection, DW-dalton-michael-should-you-follow-your-passion,
+  DX-dalton-michael-understanding-investor-terms-and-incentives, DY-dalton-michael-yc-founders-made-these-fundraising-mistakes,
+  DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them,
+  Ed-dalton-michael-save-your-startup-during-an-economic-downturn, IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco,
+  IO-dalton-michael-how-generosity-built-tech-giants, IP-dalton-michael-secrets-you-can-learn-from-your-customers,
+  IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have, IR-dalton-michael-silicon-valley-s-cargo-culting-problem,
+  IS-dalton-michael-y-combinator-is-back-in-person, IT-dalton-michael-why-investors-can-t-fix-your-company,
+  IU-dalton-michael-the-truth-about-y-combinator, IW-dalton-michael-elon-musk-and-the-midwit-meme,
+  IX-dalton-michael-how-to-deal-with-setbacks, IY-dalton-michael-the-cult-of-conformity-in-silicon-valley,
+  IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder,
+  Ia-dalton-michael-how-to-earn-customers-for-life, Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups,
+  Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup, Id-dalton-michael-setting-smarter-goals,
+  Ie-dalton-michael-will-openai-kill-all-startups, Ig-dalton-michael-things-that-don-t-scale-the-software-edition,
+  Ih-dalton-michael-why-you-should-leave-your-faang-job, Ii-dalton-michael-most-important-lifestyle-habits-of-successful-founders,
+  Ik-dalton-michael-how-future-billionaires-get-sh-t-done, Iy-yc-s-group-partners-share-their-favorite-pivot-stories,
+  J0-inside-the-group-partner-lounge-when-to-launch-your-startup, J3-inside-the-group-partner-lounge-turning-users-into-paid-customers,
+  J4-inside-the-group-partner-lounge-top-ways-startups-waste-money, J5-inside-the-group-partner-lounge-the-ideal-customer,
+  JT-yc-s-group-partners-share-their-worst-investor-meetings, Jd-dalton-michael-why-investors-secretly-love-y-combinator,
+  Jw-dalton-michael-why-you-shouldn-t-copy-your-tech-idols, KA-is-it-time-to-quit-your-job-at-a-unicorn,
+  KF-how-to-not-get-screwed-over-as-a-software-engineer, KO-does-your-tech-startup-really-need-a-technical-co-founder-yes,
+  KS-the-asymmetric-upside-of-being-positive, KV-do-technical-founders-need-a-business-co-founder,
+  Kc-stop-innovating-on-the-wrong-things, Kg-building-confidence-in-yourself-and-your-ideas,
+  Kk-why-founders-shouldn-t-think-like-investors, Kw-when-should-you-trust-your-gut,
+  LC-what-is-zirp-and-how-did-it-poison-startups, LH-tarpit-ideas-the-sequel, LM-the-problem-with-startup-experts,
+  LP-co-founder-equity-mistakes-to-avoid, LQ-how-to-influence-decision-makers, La-signs-your-company-is-recovering-from-zirp,
+  Li-how-do-billion-dollar-startups-start]
 speakers_referenced: ["Michael Seibel"]
 ---
 

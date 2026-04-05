@@ -4,14 +4,14 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["leadership", "measuring leadership", "CEO leadership", "building trust", "leadership traits", "how to lead"]
-related: ["[[Startup Leadership]]", "[[Three Traits of Great Leadership]]", "[[Mission-to-Metrics Framework]]", "[[Startup Management]]", "[[Board Management]]", "[[Ali Rowghani]]"]
+related: ["[[Three Traits of Great Leadership]]", "[[Mission-to-Metrics Framework]]", "[[Startup Management]]", "[[Board Management]]", "[[Ali Rowghani]]", "[[Diane Greene]]"]
 sources: ["3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo"]
 speakers_referenced: ["Ali Rowghani", "Ed Catmull", "Steve Jobs", "Jeff Bezos", "Tobi Lütke", "Patrick Collison", "David Rusenko"]
 ---
 
 # Startup Leadership
 
-Leadership in startups differs from leadership in established organizations because the role of the CEO changes dramatically as the company scales. [[Ali Rowghani]], drawing on his experience working closely with Ed Catmull, Steve Jobs, John Lasseter, and Bob Iger at Pixar, argues that leadership is measurable through three foundational traits and that a startup CEO's job shifts from building product to building a company. These two essays together form a comprehensive framework for understanding, measuring, and improving leadership in the startup context.
+Leadership in startups differs from leadership in established organizations because the role of the CEO changes dramatically as the company scales. [[Ali Rowghani]], drawing on his experience working closely with Ed Catmull, Steve Jobs, John Lasseter, and Bob Iger at Pixar, argues that leadership is measurable through three foundational traits and that a startup CEO's job shifts from building product to building a company. [[Diane Greene]], who co-founded and led VMware through its IPO, offers a complementary perspective grounded in the analogy between sailing a boat and leading a company -- emphasizing decisive action, crew selection, and the importance of adapting in real time. These perspectives together form a comprehensive framework for understanding, measuring, and improving leadership in the startup context.
 
 ## Leadership Is Built on Trust
 

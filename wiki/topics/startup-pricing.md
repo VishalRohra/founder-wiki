@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["pricing", "startup pricing", "pricing strategy", "monetization", "price optimization", "pricing 101", "value-based pricing", "cost-plus pricing"]
-related: ["[[Growth]]", "[[Conversion Rates]]", "[[Product-Market Fit]]", "[[Kevin Hale]]"]
+related: ["[[Growth]]", "[[Conversion Rates]]", "[[Product-Market Fit]]", "[[Kevin Hale]]", "[[Pricing Thermometer]]", "[[Pricing and Monetization]]"]
 sources: ["6h-startup-pricing-101"]
 speakers_referenced: ["Kevin Hale"]
 ---
@@ -15,7 +15,7 @@ speakers_referenced: ["Kevin Hale"]
 
 ## The Pricing Thermometer
 
-Hale introduces a framework called the pricing thermometer that makes the forces behind pricing concrete [1]. Three variables sit on a vertical axis: cost at the bottom, price in the middle, and value at the top.
+Hale introduces a framework called the [[Pricing Thermometer]] that makes the forces behind pricing concrete [1]. Three variables sit on a vertical axis: cost at the bottom, price in the middle, and value at the top.
 
 - **The gap between cost and price** is the startup's margin -- its incentive to sell. The larger this gap, the more the company is motivated to push the product to customers, fund better salespeople, and invest in distribution [1].
 - **The gap between price and value** is the customer's incentive to buy. The larger this gap, the easier it is for customers to say yes [1].

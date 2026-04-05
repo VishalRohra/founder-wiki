@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Elon Musk", "Musk", "Elon"]
 related: ["[[Hard Tech Startups]]", "[[Founder Mindset]]", "[[Sam Altman]]"]
-sources: ["6W-elon-musk-on-how-to-build-the-future"]
+sources: [6W-elon-musk-on-how-to-build-the-future, MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful]
 ---
 
 # Elon Musk

@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["hard tech", "hardware startups", "deep tech", "aerospace startups", "hardtech", "hardware at YC"]
-related: ["[[University Spinouts]]", "[[Growth]]", "[[Series A Fundraising]]", "[[Athelas]]", "[[Boom Technology]]"]
+related: ["[[University Spinouts]]", "[[Growth]]", "[[Series A Fundraising]]", "[[Athelas]]", "[[Boom Technology]]", "[[Astranis]]", "[[StarCloud]]"]
 sources: ["5Q-on-starting-and-scaling-aerospace-company-boom", "4x-on-starting-a-company-from-a-hackathon-project", "8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup", "8G-advice-for-hard-tech-and-biotech-founders"]
 speakers_referenced: ["Blake Scholl", "Tanay Tandon", "Jared Friedman"]
 ---
@@ -107,7 +107,7 @@ Seven examples of creative MVPs [4]:
 2. **Solugen**: Applied to YC with a beaker that could produce one cup of hydrogen peroxide using synthetic biology
 3. **AirX**: Used an existing approved medical device and wrote software around it, launching during YC with no FDA approval needed
 4. **Notable Labs**: Started by providing tumor-screening services to pharma companies, generating revenue and data
-5. **Astranis**: Built a test satellite during YC for under $50K in under three months
+5. **[[Astranis]]**: Built a test satellite during YC for under $50K in under three months
 6. **Ginkgo Bioworks**: Closed contracts first ("If Ginkgo makes these organisms, we will pay you") then raised money to actually make the organisms
 7. **Cruise**: Built an MVP self-driving car during YC in less than three months. Later acquired by GM for $1B
 
@@ -120,6 +120,10 @@ For situations where pre-sales are not possible, YC developed the LOI format. An
 ## Fundraising Strategy: The Staircase, Not the Wall
 
 The worst fundraising plan: "I need $50M, I'll go pitch until someone gives it to me." The correct plan: split $50M into five discrete raises, starting very small. Each raise requires specific milestones. The critical principle: "No step should be too large" [4].
+
+## Pushing the Frontier: Space Computing
+
+The hard tech category continues to expand. [[StarCloud]] (formerly Lumen Orbit) launched the first data-center-grade GPU (an NVIDIA H100) into orbit in November 2024, putting a hundred times more compute power in space than any previous mission. The company represents a new generation of hard tech startups applying the same scrappy, founder-led approach to domains that were recently considered impossible for startups.
 
 ## Regulatory and Validation Challenges
 

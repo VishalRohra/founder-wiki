@@ -4,14 +4,14 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["management", "new managers", "first-time manager", "managing a team", "management advice", "people management", "delegation", "hiring and firing"]
-related: ["[[Startup Leadership]]", "[[Startup Leadership]]", "[[Board Management]]"]
+related: ["[[Startup Leadership]]", "[[Board Management]]", "[[Company Culture]]"]
 sources: ["2s-advice-for-new-managers"]
 speakers_referenced: ["Aaron Epstein"]
 ---
 
 # Startup Management
 
-Most startup founders begin managing teams with zero management experience. As Aaron Epstein, founder of Creative Market, describes it: "One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time" [1]. This article compiles practical management advice for founders who are building and leading teams for the first time.
+Most startup founders begin managing teams with zero management experience. Building the right [[Company Culture]] early is closely tied to effective management -- both shape how people behave when no one is watching. As Aaron Epstein, founder of Creative Market, describes it: "One of the most difficult things about starting a company is that you have to create both a product that people love and a company where people want to work at the same time" [1]. This article compiles practical management advice for founders who are building and leading teams for the first time.
 
 ## The Core Tension
 

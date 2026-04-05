@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["fundraising mistakes", "rookie fundraising mistakes", "fundraising errors", "raising money mistakes", "fundraising leverage"]
-related: ["[[Seed Fundraising]]", "[[Convincing Investors]]", "[[Financial Survival]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]"]
+related: ["[[Seed Fundraising]]", "[[Convincing Investors]]", "[[Financial Survival]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Handling Investor Rejection]]"]
 sources: ["DY-dalton-michael-yc-founders-made-these-fundraising-mistakes"]
 speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Brian Chesky"]
 ---
@@ -27,7 +27,7 @@ Caldwell and Seibel identify a specific psychological trap. If a founder secretl
 
 A common failure pattern: founders put the investor at the center of the game instead of the customer. They treat the investor like a teacher, and their job through a pitch or deck is "to get an A from the teacher, and the A's money" [1].
 
-Caldwell explains the psychological root: "If you've been an employee or you've gone to school your whole lives, a lot of the way you get ahead in life is to figure out who the authority figure is that you need to please" [1]. Founders pattern-match from school and corporate life. But in startups, the authority figure is the customer, not the investor.
+Caldwell explains the psychological root: "If you've been an employee or you've gone to school your whole lives, a lot of the way you get ahead in life is to figure out who the authority figure is that you need to please" [1]. For what to do when investors say no, see [[Handling Investor Rejection]]. Founders pattern-match from school and corporate life. But in startups, the authority figure is the customer, not the investor.
 
 Caldwell reframes "customer obsession" from buzzword to literal prescription: "What it literally means is most of your waking hours, who are you thinking about pleasing? It's your customers, and you're trying to solve problems for them" [1].
 

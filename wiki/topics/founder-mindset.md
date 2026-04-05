@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["determination", "relentlessly resourceful", "founder qualities", "founder traits", "startup mindset", "commitment", "grit"]
-related: ["[[Paul Graham]]", "[[Doing Things That Don't Scale]]", "[[Early-Stage Mistakes]]", "[[Starting Young]]", "[[Startup Ideas]]", "[[Recruiting Early Team Members]]", "[[Creating Luck]]", "[[Confronting Reality]]", "[[Dalton Caldwell]]", "[[Garry Tan]]"]
+related: ["[[Paul Graham]]", "[[Doing Things That Don't Scale]]", "[[Early-Stage Mistakes]]", "[[Starting Young]]", "[[Startup Ideas]]", "[[Recruiting Early Team Members]]", "[[Creating Luck]]", "[[Confronting Reality]]", "[[Dalton Caldwell]]", "[[Garry Tan]]", "[[First-Time Founders]]", "[[Elon Musk]]", "[[Diane Greene]]"]
 sources: ["94-be-relentlessly-resourceful", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "93-a-student-s-guide-to-startups", "5b-how-do-you-convince-someone-to-join-your-startup", "JG-the-main-function-how-to-go-from-startup-dream-to-reality"]
 speakers_referenced: ["Paul Graham", "Dalton Caldwell", "Garry Tan"]
 ---
@@ -39,7 +39,9 @@ The solution is not to abandon the vision but to surround yourself with people w
 
 ## Determination Over Intelligence
 
-Graham's 2006 essay states it plainly: "The most important quality in a startup founder is determination. Not intelligence -- determination" [2].
+Graham's 2006 essay states it plainly: "The most important quality in a startup founder is determination. Not intelligence -- determination" [2]. [[Elon Musk]] exemplifies this through deliberate fatalism -- accepting that SpaceX had less than a 10% chance of success and proceeding anyway because the goal was important enough. [[Diane Greene]] frames the same idea through sailing: "you give it your all, not because you're supposed to, not because that's what makes you win, but because you have respect for your goal and you enjoy the process."
+
+For [[First-Time Founders]], the mindset challenge is distinct: inexperience can be an advantage (fresh eyes, willingness to try unconventional approaches) but first-timers must resist the urge to compare themselves to repeat founders with existing networks and track records.
 
 "You can lose quite a lot in the brains department and it won't kill you. But lose even a little bit in the commitment department, and that will kill you very rapidly" [2].
 

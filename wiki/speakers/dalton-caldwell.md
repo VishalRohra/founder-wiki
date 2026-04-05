@@ -5,7 +5,35 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Dalton Caldwell", "Caldwell", "Dalton"]
 related: ["[[Michael Seibel]]", "[[Creating Luck]]", "[[Recruiting Early Team Members]]", "[[Fundraising Mistakes]]", "[[Startup Ideas]]", "[[Founder Mindset]]", "[[Co-Founders]]", "[[Investor Incentives]]", "[[AI and Startups]]", "[[Runway Management]]", "[[Influencing Decision Makers]]", "[[Value Creation]]", "[[Online Presence]]", "[[Launching]]", "[[Customer Relationships]]", "[[Technical Co-Founders]]", "[[Startup Location]]", "[[Competing with Big Companies]]", "[[Cargo Culting]]", "[[The Midwit Meme]]", "[[Talking to Users]]", "[[Leaving Big Tech]]", "[[Hard Conversations]]", "[[Founder Productivity]]", "[[Hiring at Early Stage]]", "[[Survivorship Bias in Startup Advice]]", "[[Dealing with Setbacks]]", "[[Founder Optimism and Pessimism]]", "[[Simple Products]]", "[[Investor Advice Pitfalls]]", "[[Pivoting]]", "[[Zero-Sum vs. Positive-Sum Games]]", "[[Conformists vs. Non-Conformists]]", "[[Passion and Motivation]]"]
-sources: ["5b-how-do-you-convince-someone-to-join-your-startup", "7L-how-do-you-create-luck", "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes", "DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them", "DX-dalton-michael-understanding-investor-terms-and-incentives", "LU-how-to-live-in-the-social-media-matrix", "IO-dalton-michael-how-generosity-built-tech-giants", "KV-do-technical-founders-need-a-business-co-founder", "Jd-dalton-michael-why-investors-secretly-love-y-combinator", "LQ-how-to-influence-decision-makers", "Ie-dalton-michael-will-openai-kill-all-startups", "3Z-advice-for-companies-with-less-than-1-year-of-runway", "Ia-dalton-michael-how-to-earn-customers-for-life", "IP-dalton-michael-secrets-you-can-learn-from-your-customers", "IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco", "KO-does-your-tech-startup-really-need-a-technical-co-founder-yes", "IW-dalton-michael-elon-musk-and-the-midwit-meme", "Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups", "IY-dalton-michael-the-cult-of-conformity-in-silicon-valley", "IR-dalton-michael-silicon-valley-s-cargo-culting-problem", "DW-dalton-michael-should-you-follow-your-passion", "DV-dalton-michael-successful-founders-are-ok-with-rejection", "KF-how-to-not-get-screwed-over-as-a-software-engineer", "Jw-dalton-michael-why-you-shouldn-t-copy-your-tech-idols", "IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have", "IS-dalton-michael-y-combinator-is-back-in-person", "Ih-dalton-michael-why-you-should-leave-your-faang-job", "DU-dalton-michael-where-do-great-startup-ideas-come-from", "Ik-dalton-michael-how-future-billionaires-get-sh-t-done", "DT-dalton-michael-simple-products-that-became-big-companies", "IX-dalton-michael-how-to-deal-with-setbacks", "Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup", "IT-dalton-michael-why-investors-can-t-fix-your-company", "Iy-yc-s-group-partners-share-their-favorite-pivot-stories"]
+sources: [3Z-advice-for-companies-with-less-than-1-year-of-runway, 5a-consume-information-that-encourages-you-to-do-more,
+  5b-how-do-you-convince-someone-to-join-your-startup, 6p-all-about-pivoting, 6t-how-to-apply-and-succeed-at-y-combinator,
+  7L-how-do-you-create-luck, 7M-most-startups-are-undercharging, 7n-live-office-hours-with-yc-s-kevin-hale-and-dalton-caldwell-2017,
+  DT-dalton-michael-simple-products-that-became-big-companies, DU-dalton-michael-where-do-great-startup-ideas-come-from,
+  DV-dalton-michael-successful-founders-are-ok-with-rejection, DW-dalton-michael-should-you-follow-your-passion,
+  DX-dalton-michael-understanding-investor-terms-and-incentives, DY-dalton-michael-yc-founders-made-these-fundraising-mistakes,
+  DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them,
+  Ed-dalton-michael-save-your-startup-during-an-economic-downturn, IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco,
+  IO-dalton-michael-how-generosity-built-tech-giants, IP-dalton-michael-secrets-you-can-learn-from-your-customers,
+  IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have, IR-dalton-michael-silicon-valley-s-cargo-culting-problem,
+  IS-dalton-michael-y-combinator-is-back-in-person, IT-dalton-michael-why-investors-can-t-fix-your-company,
+  IU-dalton-michael-the-truth-about-y-combinator, IW-dalton-michael-elon-musk-and-the-midwit-meme,
+  IX-dalton-michael-how-to-deal-with-setbacks, IY-dalton-michael-the-cult-of-conformity-in-silicon-valley,
+  IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder,
+  Ia-dalton-michael-how-to-earn-customers-for-life, Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups,
+  Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup, Id-dalton-michael-setting-smarter-goals,
+  Ie-dalton-michael-will-openai-kill-all-startups, Ig-dalton-michael-things-that-don-t-scale-the-software-edition,
+  Ih-dalton-michael-why-you-should-leave-your-faang-job, Ii-dalton-michael-most-important-lifestyle-habits-of-successful-founders,
+  Ik-dalton-michael-how-future-billionaires-get-sh-t-done, It-how-to-apply-and-succeed-at-yc,
+  Iy-yc-s-group-partners-share-their-favorite-pivot-stories, Jd-dalton-michael-why-investors-secretly-love-y-combinator,
+  Jw-dalton-michael-why-you-shouldn-t-copy-your-tech-idols, KA-is-it-time-to-quit-your-job-at-a-unicorn,
+  KF-how-to-not-get-screwed-over-as-a-software-engineer, KO-does-your-tech-startup-really-need-a-technical-co-founder-yes,
+  KS-the-asymmetric-upside-of-being-positive, KV-do-technical-founders-need-a-business-co-founder,
+  KZ-should-your-startup-bootstrap-or-raise-venture-capital, Kc-stop-innovating-on-the-wrong-things,
+  Kg-building-confidence-in-yourself-and-your-ideas, Kk-why-founders-shouldn-t-think-like-investors,
+  Kw-when-should-you-trust-your-gut, L7-how-new-technology-creates-new-businesses,
+  LC-what-is-zirp-and-how-did-it-poison-startups, LH-tarpit-ideas-the-sequel, LM-the-problem-with-startup-experts,
+  LQ-how-to-influence-decision-makers, LU-how-to-live-in-the-social-media-matrix,
+  La-signs-your-company-is-recovering-from-zirp, Lk-starting-a-company-the-key-terms-you-should-know]
 speakers_referenced: ["Dalton Caldwell"]
 ---
 

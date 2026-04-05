@@ -5,7 +5,9 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Kevin Hale", "Hale"]
 related: ["[[Pitch Deck Design]]", "[[Legible Simple Obvious]]", "[[Seed Fundraising]]"]
-sources: ["4T-how-to-design-a-better-pitch-deck"]
+sources: [4T-how-to-design-a-better-pitch-deck, 68-product-and-design-process-for-remote-teams,
+  6h-startup-pricing-101, 6l-how-to-improve-conversion-rates, 7n-live-office-hours-with-yc-s-kevin-hale-and-dalton-caldwell-2017,
+  JK-how-to-start-a-startup-building-products-users-love]
 speakers_referenced: []
 ---
 

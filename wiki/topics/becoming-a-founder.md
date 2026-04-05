@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["becoming a founder", "starting a startup", "founder preparation", "college and startups", "should I start a startup", "career paths tech", "founder vs employee"]
-related: ["[[Michael Seibel]]", "[[Startup Essentials]]", "[[Hiring Engineers]]"]
+related: ["[[Michael Seibel]]", "[[Startup Essentials]]", "[[Hiring Engineers]]", "[[First-Time Founders]]"]
 sources: ["4d-a-letter-to-college-students", "4h-three-paths-in-the-tech-industry-founder-executive-or-employee"]
 speakers_referenced: ["Michael Seibel"]
 ---
@@ -64,7 +64,7 @@ A popular mistake is trying to hustle around a missing prerequisite instead of s
 
 When hard barriers prevent starting immediately, Seibel recommends moving to a tech hub (preferably the Bay Area) and working for a tech company until you can save money, meet the right teammates, or discover the right problem. "It usually takes at least 10 years to build a large and impactful company. It's fine to delay your start date in order to give yourself the best chance of success" [2].
 
-**Experience is overvalued.** "In almost all cases, no matter what knowledge you bring to the table, you will learn most of what you need to know about your problem, your customer, and the best solution after you start your company" [2].
+**Experience is overvalued.** "In almost all cases, no matter what knowledge you bring to the table, you will learn most of what you need to know about your problem, your customer, and the best solution after you start your company" [2]. For a deeper look at why inexperience can be an advantage, see [[First-Time Founders]].
 
 ### Executive (Senior Manager at a Large Company)
 

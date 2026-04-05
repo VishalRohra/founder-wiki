@@ -4,14 +4,14 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["term sheet", "Series A terms", "clean term sheet", "standard term sheet", "series A negotiation", "term sheet structure", "fundraising terms"]
-related: ["[[Seed Fundraising]]", "[[Startup Essentials]]", "[[Biotech Startup Funding]]"]
+related: ["[[Series A Fundraising]]", "[[Seed Fundraising]]", "[[Startup Essentials]]", "[[Biotech Startup Funding]]"]
 sources: ["4P-a-standard-and-clean-series-a-term-sheet"]
 speakers_referenced: ["Jason Kwon", "Aaron Harris"]
 ---
 
 # Series A Term Sheets
 
-Jason Kwon and [[Aaron Harris]] of YC describe a common problem: founders seeing their first term sheet do not know what "good" looks like [1]. This puts them at a disadvantage because VCs see term sheets constantly. YC, having seen hundreds of Series A term sheets, works with founders to identify where terms diverge from standard, what can be done about divergences, and when negotiation makes sense.
+Jason Kwon and [[Aaron Harris]] of YC describe a common problem: founders seeing their first term sheet do not know what "good" looks like [1]. This puts them at a disadvantage because VCs see term sheets constantly. For guidance on the overall [[Series A Fundraising]] process -- building the pitch, preparing the data room, and closing -- see the companion article. YC, having seen hundreds of Series A term sheets, works with founders to identify where terms diverge from standard, what can be done about divergences, and when negotiation makes sense.
 
 YC drafted a standard, clean Series A term sheet representing what they see most often from good Silicon Valley VCs. The term sheet fits on a single page [1]. This brevity was not always the norm but became common over the last decade as some investors shortened their legalese as a signal: "We aren't going to get bogged down in the minutiae. We're going to make this easy, friendly, standard and fast" [1].
 

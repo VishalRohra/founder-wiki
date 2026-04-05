@@ -5,7 +5,12 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["PG", "pg", "Graham", "Paul Graham"]
 related: ["[[Startup Ideas]]", "[[Doing Things That Don't Scale]]", "[[Founder Mindset]]", "[[Financial Survival]]", "[[Early-Stage Mistakes]]", "[[Growth]]", "[[Starting Young]]", "[[Equity Equation]]", "[[Default Alive or Default Dead]]", "[[Schlep Filter]]", "[[Convincing Investors]]", "[[Co-Founders]]", "[[Startups for Students]]"]
-sources: ["8z-how-to-get-startup-ideas", "8t-the-18-mistakes-that-kill-startups", "8u-the-equity-equation", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "91-why-smart-people-have-bad-ideas", "93-a-student-s-guide-to-startups", "94-be-relentlessly-resourceful", "95-default-alive-or-default-dead", "96-do-things-that-don-t-scale", "8s-startup-growth", "98-how-to-convince-investors", "9M-billionaires-build"]
+sources: [84-live-office-hours-with-yc-s-paul-graham-and-sam-altman-2013, 8s-startup-growth,
+  8t-the-18-mistakes-that-kill-startups, 8u-the-equity-equation, 8w-the-hardest-lessons-for-startups-to-learn,
+  8x-why-to-not-not-start-a-startup, 8y-before-the-startup, 8z-how-to-get-startup-ideas,
+  91-why-smart-people-have-bad-ideas, 93-a-student-s-guide-to-startups, 94-be-relentlessly-resourceful,
+  95-default-alive-or-default-dead, 96-do-things-that-don-t-scale, 98-how-to-convince-investors,
+  9M-billionaires-build, JI-how-to-start-a-startup-before-the-startup]
 speakers_referenced: ["Paul Graham"]
 ---
 

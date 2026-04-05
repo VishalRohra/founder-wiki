@@ -1,15 +1,12 @@
 # Founder Wiki Index
 
-**115 articles** across 4 categories. Last rebuilt: 2026-04-05.
+**114 articles** across 4 categories. Last rebuilt: 2026-04-05.
 
 
 ## Topics
 
 - [[AI and Startups]] (AI startups, OpenAI, LLMs and startups, AI hype, platform shifts)
   Caldwell and Seibel set a boundary: companies like OpenAI and Anthropic are trying to build AGI, not AI-powered CRMs or better search. Whether they will succeed is a debate for AI researchers, not ... [1 sources]
-
-- [[AI in Startups]] (AI startups, using AI, LLMs in startups, AI pivot, vibe coding)
-  The current wave of AI -- particularly large language models (LLMs) -- represents a technology shift comparable to mobile (2007-2012) and cloud (early 2010s). YC Group Partners argue that every new... [2 sources]
 
 - [[Applying to YC]] (YC application, applying to Y Combinator, YC tips, YC interview, getting into YC)
   If there is a story about a specific user and a specific problem, start with that [1]. Three things to highlight, in ascending order of impressiveness: [1 sources]

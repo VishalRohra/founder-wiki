@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["enterprise sales", "selling to enterprises", "B2B sales", "enterprise deals", "elephant hunting", "complex sales"]
-related: ["[[Growth]]", "[[Product-Market Fit]]", "[[Series A Fundraising]]", "[[Scaling and Later-Stage Operations]]"]
+related: ["[[Growth]]", "[[Product-Market Fit]]", "[[Series A Fundraising]]", "[[Scaling and Later-Stage Operations]]", "[[Selling to Startups]]"]
 sources: ["4m-enterprise-sales-for-hackers"]
 speakers_referenced: ["Ryan Junee"]
 ---
@@ -15,7 +15,7 @@ Ryan Junee argues that enterprise sales requires the same skill set as hacking -
 
 Enterprise sales, then, involves understanding and influencing the components (people) of the system to produce the desired behavior (buying your product). Every system (company) is different, requiring a systematic approach [1].
 
-This article focuses on early-stage companies selling to Fortune 500 companies in high-touch, complex sales with $1M+ deals -- often called "elephant hunting" [1]. It assumes the company has found [[Product-Market Fit]] or is close to it.
+This article focuses on early-stage companies selling to Fortune 500 companies in high-touch, complex sales with $1M+ deals -- often called "elephant hunting" [1]. It assumes the company has found [[Product-Market Fit]] or is close to it. For the contrasting approach of starting with smaller customers, see [[Selling to Startups]].
 
 ## The People in the System
 

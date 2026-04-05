@@ -5,7 +5,13 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Altman", "Sam Altman"]
 related: ["[[Growth]]", "[[Scaling and Later-Stage Operations]]", "[[Startup Outcomes and Optionality]]", "[[Product-Market Fit]]"]
-sources: ["4p-before-growing-your-startup", "4q-later-stage-advice-for-startups", "4s-navigating-success-for-your-startup"]
+sources: [4p-before-growing-your-startup, 4q-later-stage-advice-for-startups, 4s-navigating-success-for-your-startup,
+  6N-vinod-khosla-on-how-to-build-the-future, 77-how-to-invent-the-future-part-1,
+  7e-how-and-why-to-start-a-startup, 84-live-office-hours-with-yc-s-paul-graham-and-sam-altman-2013,
+  89-how-to-succeed-with-a-startup, 8D-live-office-hours-with-sam-altman-and-yuri-sagalov,
+  JI-how-to-start-a-startup-before-the-startup, JL-how-to-start-a-startup-getting-started-getting-press-and-doing-things-that-don-t-scale,
+  JQ-how-to-start-a-startup-talking-to-users, K0-sam-altman-on-how-to-pick-which-startup-to-work-at,
+  Lp-how-to-build-the-future-sam-altman, MF-gpt-4-5-big-model-energy, MY-sam-altman-the-future-of-openai-chatgpt-s-origins-and-building-ai-hardware]
 ---
 
 # Sam Altman

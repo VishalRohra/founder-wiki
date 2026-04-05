@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["product development", "dev cycle", "product process", "building product", "feature prioritization", "product meetings", "development cycles"]
-related: ["[[Michael Seibel]]", "[[Startup Essentials]]", "[[Product-Market Fit]]"]
+related: ["[[Michael Seibel]]", "[[Startup Essentials]]", "[[Product-Market Fit]]", "[[Pricing and Monetization]]"]
 sources: ["4e-guide-to-product-development"]
 speakers_referenced: ["Michael Seibel"]
 ---

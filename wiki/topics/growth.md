@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["startup growth", "growth rate", "growing a startup", "growth strategy", "growth team", "scaling growth", "weekly growth rate", "user acquisition", "compound growth", "traction", "user growth"]
-related: ["[[Product-Market Fit]]", "[[Doing Things That Don't Scale]]", "[[Default Alive or Default Dead]]", "[[Financial Survival]]", "[[Early-Stage Mistakes]]", "[[Enterprise Sales]]", "[[Seed Fundraising]]", "[[Paul Graham]]", "[[Sam Altman]]", "[[Anu Hariharan]]"]
+related: ["[[Product-Market Fit]]", "[[Doing Things That Don't Scale]]", "[[Default Alive or Default Dead]]", "[[Financial Survival]]", "[[Early-Stage Mistakes]]", "[[Enterprise Sales]]", "[[Seed Fundraising]]", "[[Paul Graham]]", "[[Sam Altman]]", "[[Anu Hariharan]]", "[[Pricing and Monetization]]", "[[Selling to Startups]]"]
 sources: ["8s-startup-growth", "4p-before-growing-your-startup", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups"]
 speakers_referenced: ["Paul Graham", "Sam Altman", "Anu Hariharan", "Gustaf Alströmer"]
 ---
@@ -32,7 +32,7 @@ Benchmarks during YC:
 - **10% per week**: exceptionally well
 - **1% per week**: a sign you have not yet figured out what you are doing [1]
 
-The best metric to measure growth is revenue. For startups not yet charging, active users serve as a reasonable proxy because revenues will likely be a constant multiple of active users [1].
+The best metric to measure growth is revenue. For startups not yet charging, active users serve as a reasonable proxy because revenues will likely be a constant multiple of active users [1]. Getting the pricing right is itself a growth lever -- see [[Pricing and Monetization]] for when and how to start charging.
 
 The compounding effect of small differences in weekly growth rate is dramatic:
 
@@ -97,7 +97,7 @@ The common death pattern: a startup makes something moderately appealing, raises
 
 The [[Doing Things That Don't Scale]] essay introduces the "contained fire" strategy: focus on a deliberately narrow market first, get it really hot, then expand [5]. Facebook started with only Harvard students. Microsoft started with only Altair owners. The narrowness is not the goal -- depth is. But in practice narrowness comes as a byproduct of optimizing for depth and speed [5].
 
-Any startup that could be described as a marketplace usually has to start in a subset of the market [5]. Among companies, the best early adopters are usually other startups -- they are more open to new things and grow fast, pulling you with them [5].
+Any startup that could be described as a marketplace usually has to start in a subset of the market [5]. Among companies, the best early adopters are usually other startups -- they are more open to new things and grow fast, pulling you with them [5]. See [[Selling to Startups]] for a detailed treatment of when and how to use startups as your initial customer base.
 
 ## Big Launches Don't Work
 

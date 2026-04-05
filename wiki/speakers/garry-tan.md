@@ -5,7 +5,26 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Garry Tan", "Gary Tan", "Tan"]
 related: ["[[Applying to YC]]", "[[Confronting Reality]]", "[[Founder Mindset]]", "[[Startup Ideas]]"]
-sources: ["J7-garry-tan-s-tips-for-applying-to-yc", "JG-the-main-function-how-to-go-from-startup-dream-to-reality"]
+sources: [7G-design-for-startups-part-1, 7H-design-for-startups-part-2, Iv-critiquing-ai-startup-websites-with-yc-president-garry-tan,
+  J7-garry-tan-s-tips-for-applying-to-yc, JG-the-main-function-how-to-go-from-startup-dream-to-reality,
+  JT-yc-s-group-partners-share-their-worst-investor-meetings, Je-garry-s-channel-stop-chasing-money-chase-wealth,
+  Jh-garry-s-channel-my-200-million-startup-mistake, Jk-garry-s-channel-coinbase-ceo-brian-armstrong-on-cryptocurrency-and-the-future-of-decentralization,
+  Kb-the-truth-about-building-ai-startups-today-lightcone-podcast-ep-1, Kd-apple-vision-pro-startup-platform-of-the-future-lightcone-podcast-ep-2,
+  Kq-inside-the-hard-tech-startups-turning-sci-fi-into-reality-lightcone-podcast-ep-5,
+  L2-consumer-is-back-what-s-getting-funded-now-the-vibes-immaculate-lightcone-podcast-ep-6,
+  L5-why-this-is-the-perfect-time-to-start-a-startup-lightcone-podcast-live, L9-better-ai-models-better-startups-lightcone-podcast-ep-7,
+  LA-standing-up-for-startups-yc-goes-to-d-c, LD-10-people-ai-billion-dollar-company,
+  LG-why-startup-founders-should-launch-companies-sooner-than-they-think, LN-gmail-creator-paul-buchheit-on-agi-open-source-models-freedom,
+  LR-are-we-in-an-ai-hype-cycle, LX-how-yc-was-created-with-jessica-livingston, Lb-building-the-world-s-best-image-diffusion-model,
+  Lq-now-anyone-can-code-how-ai-agents-can-build-your-whole-app, Lr-why-the-next-ai-breakthroughs-will-be-in-reasoning-not-scaling,
+  Lt-vertical-ai-agents-could-be-10x-bigger-than-saas, Lx-2024-s-biggest-startup-trends,
+  M2-how-to-build-the-future-parker-conrad, M8-how-to-get-ai-startup-ideas, MB-how-ai-is-changing-enterprise,
+  ME-vibe-coding-is-the-future, MG-the-future-of-design-with-figma-s-dylan-field,
+  MI-how-to-navigate-co-founder-disputes, ML-how-zepto-became-india-s-fastest-growing-startup,
+  MQ-startup-ideas-you-can-now-build-with-ai, MS-state-of-the-art-prompting-for-ai-agents,
+  Me-how-to-spend-your-20s-in-the-ai-era, Mx-the-7-most-powerful-moats-for-ai-startup,
+  N4-inside-the-mit-ai-study-everyone-misunderstood-and-what-it-means-for-startups,
+  N7-ai-is-eating-logistics, N9-what-founders-have-to-unlearn-to-become-great-ceos]
 speakers_referenced: ["Garry Tan"]
 ---
 

@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["runway", "burn rate", "default alive", "default dead", "fundraising", "raising money", "spending", "hiring", "overhiring", "fatal pinch"]
-related: ["[[Paul Graham]]", "[[Default Alive or Default Dead]]", "[[Equity Equation]]", "[[Early-Stage Mistakes]]", "[[Growth]]"]
+related: ["[[Paul Graham]]", "[[Default Alive or Default Dead]]", "[[Equity Equation]]", "[[Early-Stage Mistakes]]", "[[Growth]]", "[[CoinTracker]]"]
 sources: ["95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups", "8u-the-equity-equation", "8w-the-hardest-lessons-for-startups-to-learn", "93-a-student-s-guide-to-startups"]
 speakers_referenced: ["Paul Graham"]
 ---
@@ -44,7 +44,7 @@ Sam Altman reinforced this in a note on a draft of the essay: "I think it's roug
 
 Paul Buchheit added a related observation: "A related problem that I see a lot is premature scaling -- founders take a small business that isn't really working (bad unit economics, typically) and then scale it up because they want impressive growth numbers. This is similar to over-hiring in that it makes the business much harder to fix once it's big, plus they are bleeding cash really fast" [1].
 
-Airbnb, by contrast, waited 4 months after raising money at the end of YC before hiring their first employee. The founders were overworked but were spending that time evolving Airbnb into the astonishingly successful organism it became [1].
+Airbnb, by contrast, waited 4 months after raising money at the end of YC before hiring their first employee. The founders were overworked but were spending that time evolving Airbnb into the astonishingly successful organism it became [1]. For a case study on surviving extreme revenue cyclicality, see [[CoinTracker]], which navigated multiple crypto boom-bust cycles by maintaining financial discipline through periods of both explosive growth and near-zero revenue.
 
 ## Plan A and Plan B
 

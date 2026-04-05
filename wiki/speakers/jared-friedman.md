@@ -5,7 +5,21 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Friedman", "Jared Friedman"]
 related: ["[[University Spinouts]]", "[[Equity Split]]", "[[Hard Tech Startups]]"]
-sources: ["8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup"]
+sources: [8G-advice-for-hard-tech-and-biotech-founders, 8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup,
+  8g-how-to-get-startup-ideas, Iy-yc-s-group-partners-share-their-favorite-pivot-stories,
+  JT-yc-s-group-partners-share-their-worst-investor-meetings, Kb-the-truth-about-building-ai-startups-today-lightcone-podcast-ep-1,
+  Kq-inside-the-hard-tech-startups-turning-sci-fi-into-reality-lightcone-podcast-ep-5,
+  L2-consumer-is-back-what-s-getting-funded-now-the-vibes-immaculate-lightcone-podcast-ep-6,
+  L5-why-this-is-the-perfect-time-to-start-a-startup-lightcone-podcast-live, L9-better-ai-models-better-startups-lightcone-podcast-ep-7,
+  LD-10-people-ai-billion-dollar-company, LR-are-we-in-an-ai-hype-cycle, LX-how-yc-was-created-with-jessica-livingston,
+  Lb-building-the-world-s-best-image-diffusion-model, Li-how-do-billion-dollar-startups-start,
+  Lq-now-anyone-can-code-how-ai-agents-can-build-your-whole-app, Lr-why-the-next-ai-breakthroughs-will-be-in-reasoning-not-scaling,
+  M0-the-lightcone-2025-forecast, M8-how-to-get-ai-startup-ideas, MI-how-to-navigate-co-founder-disputes,
+  MQ-startup-ideas-you-can-now-build-with-ai, MS-state-of-the-art-prompting-for-ai-agents,
+  MV-alexandr-wang-building-scale-ai-transforming-work-with-agents-competing-with-china,
+  Mx-the-7-most-powerful-moats-for-ai-startup, N0-unpopular-ideas-that-became-billion-dollar-businesses,
+  N4-inside-the-mit-ai-study-everyone-misunderstood-and-what-it-means-for-startups,
+  NB-what-surprised-us-most-in-2025]
 ---
 
 # Jared Friedman

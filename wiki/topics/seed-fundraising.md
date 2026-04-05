@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["seed round", "raising seed", "seed funding", "seed capital", "seed deck", "seed pitch deck", "seed round pitch deck", "how to raise seed", "first round", "pre-seed"]
-related: ["[[Series A Fundraising]]", "[[Pitch Deck Design]]", "[[Runway Management]]", "[[Aaron Harris]]", "[[Paul Graham]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Fundraising Mistakes]]"]
+related: ["[[Series A Fundraising]]", "[[Pitch Deck Design]]", "[[Runway Management]]", "[[Aaron Harris]]", "[[Paul Graham]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Fundraising Mistakes]]", "[[Handling Investor Rejection]]"]
 sources: ["4A-a-guide-to-seed-fundraising", "2u-how-to-build-your-seed-round-pitch-deck", "63-why-fundraising-is-different-in-silicon-valley", "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes"]
 speakers_referenced: ["Geoff Ralston", "Aaron Harris", "Kevin Hale", "Paul Graham", "Jared Friedman", "Michael Seibel", "Dalton Caldwell"]
 ---

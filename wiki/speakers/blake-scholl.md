@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Scholl", "Blake Scholl"]
 related: ["[[Hard Tech Startups]]", "[[Growth]]", "[[Enterprise Sales]]"]
-sources: ["5Q-on-starting-and-scaling-aerospace-company-boom"]
+sources: [5Q-on-starting-and-scaling-aerospace-company-boom, MA-building-a-supersonic-plane-company-from-the-ground-up]
 ---
 
 # Blake Scholl

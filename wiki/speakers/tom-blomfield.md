@@ -4,8 +4,10 @@ type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Tom Blomfield", "Blomfield"]
-related: ["[[B2B Pricing]]", "[[AI in Startups]]", "[[Enterprise Sales]]", "[[Startup Metrics]]", "[[Pivoting]]", "[[Growth]]", "[[Network Effects]]"]
-sources: ["LI-how-to-price-for-b2b", "MN-how-to-get-the-most-out-of-vibe-coding", "KR-key-startup-metrics", "KT-consumer-startup-metrics", "Iy-yc-s-group-partners-share-their-favorite-pivot-stories"]
+related: ["[[B2B Pricing]]", "[[AI and Startups]]", "[[Enterprise Sales]]", "[[Startup Metrics]]", "[[Pivoting]]", "[[Growth]]", "[[Network Effects]]"]
+sources: [Iy-yc-s-group-partners-share-their-favorite-pivot-stories, KR-key-startup-metrics,
+  KT-consumer-startup-metrics, KY-backstory-tom-blomfield, LI-how-to-price-for-b2b,
+  MN-how-to-get-the-most-out-of-vibe-coding]
 speakers_referenced: ["Tom Blomfield"]
 ---
 

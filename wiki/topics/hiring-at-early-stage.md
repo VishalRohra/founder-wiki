@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["early stage hiring", "pre-PMF hiring", "startup hiring mistakes", "when to hire", "don't hire", "overhiring at startups", "hiring before product market fit"]
-related: ["[[Hiring Engineers]]", "[[Financial Survival]]", "[[Default Alive or Default Dead]]", "[[Product-Market Fit]]", "[[Scaling and Later-Stage Operations]]", "[[Co-Founders]]"]
+related: ["[[Hiring Engineers]]", "[[Financial Survival]]", "[[Default Alive or Default Dead]]", "[[Product-Market Fit]]", "[[Scaling and Later-Stage Operations]]", "[[Co-Founders]]", "[[Company Culture]]"]
 sources: ["J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes", "KF-how-to-not-get-screwed-over-as-a-software-engineer"]
 speakers_referenced: ["Harj Taggar", "Michael Seibel", "Brad Flora", "Dalton Caldwell"]
 ---
@@ -59,7 +59,7 @@ Three consequences that founders underestimate [1]:
 2. **Reduced agility.** "The bigger the ship is, the more people you've got to now coordinate to get them rowing in the same direction and turn the ship. And if it takes you like three months to turn the ship, you might just be dead" [1].
 3. **Burnout from people problems.** Managing a growing team drains energy. Seibel estimates a five to ten percent chance that any reasonable hire turns out to be toxic. With 25 employees, "at any given time, you probably have toxic people in your inbox every day" [1].
 
-The cultural insight from successful founders: "Every hire should increase the average IQ of the company. And whenever you start thinking about new people that way, you're like, 'Huh, maybe we could do it ourselves'" [1].
+The cultural insight from successful founders: "Every hire should increase the average IQ of the company. And whenever you start thinking about new people that way, you're like, 'Huh, maybe we could do it ourselves'" [1]. Each new hire also shapes [[Company Culture]] -- Airbnb's deliberate slowness in hiring its first employee was as much about establishing cultural DNA as about finding the right skills.
 
 ## Protecting Technical Co-Founders
 
