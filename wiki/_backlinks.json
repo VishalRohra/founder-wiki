@@ -1,0 +1,13 @@
+{
+  "Startup Ideas": ["Early-Stage Tactics", "Growth", "Founder Mindset", "Do Things That Don't Scale"],
+  "Early-Stage Tactics": ["Startup Ideas", "Growth", "Product-Market Fit", "Hiring", "Do Things That Don't Scale"],
+  "Growth": ["Early-Stage Tactics", "Product-Market Fit", "Fundraising", "Financial Survival", "Default Alive or Default Dead"],
+  "Fundraising": ["Growth", "Financial Survival", "Founder Mindset"],
+  "Financial Survival": ["Fundraising", "Hiring", "Growth", "Default Alive or Default Dead"],
+  "Hiring": ["Management", "Financial Survival", "Early-Stage Tactics", "Cofounders"],
+  "Management": ["Hiring", "Product Development"],
+  "Founder Mindset": ["Startup Ideas", "Early-Stage Tactics", "Cofounders", "Financial Survival"],
+  "Product Development": ["Early-Stage Tactics", "Growth", "Product-Market Fit"],
+  "Do Things That Don't Scale": ["Early-Stage Tactics", "Growth", "Startup Ideas"],
+  "Default Alive or Default Dead": ["Financial Survival", "Growth", "Hiring"]
+}
