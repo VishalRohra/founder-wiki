@@ -61,7 +61,7 @@
   .search-result-item .sr-aliases { font-size: 11px; color: #72777d; }
 
   /* Layout */
-  .layout { display: flex; max-width: 1100px; margin: 0 auto; }
+  .layout { display: flex; max-width: 1400px; margin: 0 auto; }
 
   /* Sidebar */
   .sidebar {
@@ -99,6 +99,42 @@
   .content li { margin-bottom: 4px; }
   .content blockquote { border-left: 3px solid #c8ccd1; padding: 4px 12px; margin: 8px 0; color: #54595d; }
   .content strong { font-weight: 600; }
+
+  /* Images — Wikipedia-style constrained sizing */
+  .content img {
+    max-width: 400px;
+    max-height: 350px;
+    width: auto;
+    height: auto;
+    border: 1px solid #c8ccd1;
+    padding: 3px;
+    background: #fff;
+    display: block;
+    margin: 8px 0;
+  }
+
+  /* Wikipedia-style image thumbnail float (applied via JS) */
+  .wiki-thumb {
+    float: right;
+    clear: right;
+    margin: 0 0 12px 16px;
+    max-width: 300px;
+    background: #f8f9fa;
+    border: 1px solid #c8ccd1;
+    padding: 4px;
+  }
+  .wiki-thumb img {
+    max-width: 100%;
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+  .wiki-thumb .thumb-caption {
+    font-size: 12px;
+    color: #54595d;
+    padding: 4px 4px 2px;
+    line-height: 1.4;
+  }
 
   /* Tables — Wikipedia style */
   .content table {
@@ -459,7 +495,31 @@ function navigateTo(slug, fromPopState) {
     blHtml += '</div>';
   }
 
-  document.getElementById('content').innerHTML = metaLine + toc + rendered + blHtml;
+  // Wrap images in Wikipedia-style thumb containers, alternating left/right
+  // Only do this for images that aren't already in a special context
+  const tempDiv = document.createElement('div');
+  tempDiv.innerHTML = metaLine + toc + rendered + blHtml;
+  const imgs = tempDiv.querySelectorAll('img');
+  let imgSide = 'right'; // start on right
+  imgs.forEach((img, i) => {
+    const alt = img.getAttribute('alt') || '';
+    const wrapper = document.createElement('div');
+    wrapper.className = 'wiki-thumb';
+    wrapper.style.float = imgSide;
+    if (imgSide === 'left') {
+      wrapper.style.margin = '0 16px 12px 0';
+    }
+    const caption = document.createElement('div');
+    caption.className = 'thumb-caption';
+    caption.textContent = alt;
+    img.parentNode.insertBefore(wrapper, img);
+    wrapper.appendChild(img);
+    if (alt) wrapper.appendChild(caption);
+    // Alternate sides every 2 images
+    if ((i + 1) % 2 === 0) imgSide = imgSide === 'right' ? 'left' : 'right';
+  });
+
+  document.getElementById('content').innerHTML = tempDiv.innerHTML;
 
   // Highlight active sidebar item
   document.querySelectorAll('.sidebar a').forEach(a => {
