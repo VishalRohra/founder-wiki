@@ -413,7 +413,11 @@ From feedback during build:
 - **Directories emerge freely** — don't force content into existing categories.
 - **Graph propagation is mandatory** — every absorption must update all connected nodes. No orphan pages, no broken links, no stale cross-references.
 - **Extract all available metadata during ingestion** — dates, authors, tags, images, links, duration. Store in frontmatter even if not immediately used. Having the data available is better than needing to re-scrape.
-- **References must include publication dates** — format: `1. [Source Title](URL) — Speaker Name (Month Year)`. Dates provide temporal context for advice that may evolve.
+- **References must include publication dates** — format: `1. [Source Title](URL) — Speaker Name (Month Year)`. Dates provide temporal context for advice that may evolve. This is mandatory, not optional. If the raw source has a date in frontmatter or body text, extract it. If not available, use the year from the source URL or metadata.
+- **Images MUST transfer from raw to wiki during absorption.** If a raw source contains `![image](path)` references, the wiki article that absorbs it must include the same image references. Images are content. The most common failure: agents read the text and ignore images. Check for `![` in every raw source and ensure corresponding wiki articles include them.
+- **Only one citation section per article.** Use `## References` with `[1]` footnotes. Never create a `## Source Talks` table alongside. If both exist, merge into References only.
+- **Every article must have a `last_updated` frontmatter field** set to the date of the most recent edit. The viewer uses this to show "Last edited" timestamps. This is updated every time the article is modified.
+- **Version history is tracked via git.** Every commit to wiki/ is a version. The viewer can reconstruct history from git log for any article path.
 - **Viewer must be fully dynamic** — no hardcoded article lists, categories, or slugs. Everything renders from the data. New articles automatically appear everywhere.
 
 ## Source Material

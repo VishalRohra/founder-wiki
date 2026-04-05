@@ -392,6 +392,11 @@ function navigateTo(slug, fromPopState) {
     metaLine += `Contributors: ${speakers.join(', ')}`;
   }
   if (article.originated_by) metaLine += `Originated by: ${article.originated_by}`;
+  // Last edited timestamp
+  const lastUpdated = article.last_updated || article.created || '';
+  if (lastUpdated) {
+    metaLine += `<span style="float:right; font-size:11px; color:#72777d;">Last edited: ${lastUpdated}</span>`;
+  }
   metaLine += '</div>';
 
   // Build TOC from h2 headers — Wikipedia style
