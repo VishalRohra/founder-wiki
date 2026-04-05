@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["unscalable tactics", "manual user acquisition", "Collison installation", "pulling a Meraki", "do things that don't scale", "DTDS"]
 related: ["[[Paul Graham]]", "[[Startup Ideas]]", "[[Growth]]", "[[Early-Stage Mistakes]]", "[[Founder Mindset]]", "[[Default Alive or Default Dead]]"]
-sources: ["96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "8t-the-18-mistakes-that-kill-startups"]
-speakers_referenced: ["Paul Graham"]
+sources: ["96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "8t-the-18-mistakes-that-kill-startups", "MJ-how-to-build-the-future-tony-xu", "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps", "6L-on-starting-and-scaling-construction-startup-plangrid", "6a-on-starting-and-scaling-direct-mail-automation-startup-lob", "69-on-starting-and-scaling-meal-kit-company-gobble"]
+speakers_referenced: ["Paul Graham", "Tony Xu", "David Lieb", "Tracy Young", "Harry Zhang", "Ooshma Garg"]
 ---
 
 # Doing Things That Don't Scale
@@ -97,8 +97,40 @@ The essay on [[Doing Things That Don't Scale]] connects directly to Graham's ess
 
 Graham's earlier essay on the hardest lessons also reinforces this: "Release early" and "keep pumping out features" -- get a version 1 out fast, then improve it based on users' reactions [2]. Wufoo released their form-builder before the underlying database, getting 83,000 people to sit in the driver's seat. Linux users complained about Flash, so Wufoo rewrote their software. If they had waited to release everything at once, they would not have discovered the problem until it was deeply wired in [2].
 
+
+## DoorDash: Deliveries as Strategy (Tony Xu)
+
+[[Tony Xu]] and all four DoorDash co-founders did every delivery themselves for the first two years. This was not just a phase -- twelve years after founding, every person at DoorDash, including Xu, still does deliveries every year [4].
+
+The practice produced three categories of insight no dashboard could provide:
+
+1. **Customer insight**: The earliest customers were families with young children. The founders learned what they wanted, which restaurants they preferred, and that they kept coming back without marketing spend or discounts [4].
+2. **Geographic strategy**: By personally experiencing deliveries in different areas, the founders discovered that need was strongest in suburbs, not city centers. This became DoorDash's contrarian strategy against better-funded competitors targeting urban density [4].
+3. **Driver recruitment credibility**: Having done every delivery gave the founders firsthand knowledge of the job, making them credible when recruiting the first drivers on Craigslist [4].
+
+## Bump: One-Person Customer Support (David Lieb)
+
+[[David Lieb]] was the sole customer support person at Bump from founding through the Google acquisition, replying to every email and blocking 1-1.5 hours daily for it. "It taught me that you listen to people, and generally, they will tell you what you should do" [5]. When seeking product direction, Lieb called the top 100 Bump users globally -- an unscalable act that produced the pivotal insight that users were sharing photos, not contacts [5].
+
+## PlanGrid: Lending iPads and Walking Users Through the App Store (Tracy Young)
+
+[[Tracy Young]] describes one of the most extreme examples of unscalable tactics. PlanGrid's target users -- construction workers -- did not own iPads in 2012. PlanGrid's solution: loan out iPads for free, then sit with each user to walk them through the App Store, type in passwords, set up accounts, and load their construction projects [6]. Young called every user weekly: "Hey it's Tracy, just checking in. How's the new update going?" [6].
+
+## Lob: The Inkjet Printer Assembly Line (Harry Zhang)
+
+[[Harry Zhang]] ran Lob's initial fulfillment on his home inkjet printer. Orders came through the API into a database, and Zhang printed letters from his apartment. At peak early volume, he and his co-founder watched TV while running an assembly line of letters they stuffed by hand [7].
+
+## Gobble: CEO as Delivery Driver (Ooshma Garg)
+
+[[Ooshma Garg]] prototyped Gobble with email, PayPal, and her personal car. She created a calendar of chefs and their daily menus, emailed friends asking if they wanted to order, collected payments via PayPal, and personally drove deliveries [8]. When Gobble pivoted to dinner kits, the team tested the concept by having TaskRabbit workers deliver prototype kits to friends in Palo Alto [8].
+
 ## References
 
 1. [Do Things That Don't Scale](https://www.ycombinator.com/library/96-do-things-that-don-t-scale) -- [[Paul Graham]] (July 2013)
 2. [The Hardest Lessons for Startups to Learn](https://www.ycombinator.com/library/8w-the-hardest-lessons-for-startups-to-learn) -- [[Paul Graham]] (April 2006)
 3. [Default Alive or Default Dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead) -- [[Paul Graham]] (October 2015)
+4. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], [[Garry Tan]] (2025)
+5. [On Starting and Scaling One of the Biggest iOS Apps](https://ycombinator.com/library/5f-on-starting-and-scaling-one-of-the-biggest-ios-apps) -- [[David Lieb]], Gustaf Alstromer (n.d.)
+6. [On starting and scaling construction startup PlanGrid](https://ycombinator.com/library/6L-on-starting-and-scaling-construction-startup-plangrid) -- [[Tracy Young]], Kat Manalac (2019)
+7. [On starting and scaling direct mail automation startup Lob](https://ycombinator.com/library/6a-on-starting-and-scaling-direct-mail-automation-startup-lob) -- [[Harry Zhang]], [[Kevin Hale]] (2019)
+8. [On starting and scaling meal kit company Gobble](https://ycombinator.com/library/69-on-starting-and-scaling-meal-kit-company-gobble) -- [[Ooshma Garg]] (2016)

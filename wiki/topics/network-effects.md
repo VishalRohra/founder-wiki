@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["network effects", "network effect", "Metcalfe's law", "Reed's law"]
 related: ["[[Pinduoduo]]", "[[WeChat]]", "[[Toutiao]]", "[[Social Commerce]]", "[[Growth]]"]
-sources: ["2z-pinduoduo-and-the-rise-of-social-e-commerce", "3t-how-wechat-grew-to-be-the-1-app-in-the-world", "3x-the-hidden-forces-behind-china-s-content-king-toutiao"]
+sources: ["2z-pinduoduo-and-the-rise-of-social-e-commerce", "3t-how-wechat-grew-to-be-the-1-app-in-the-world", "3x-the-hidden-forces-behind-china-s-content-king-toutiao", "8s-startup-growth"]
 speakers_referenced: ["Anu Hariharan"]
 ---
 

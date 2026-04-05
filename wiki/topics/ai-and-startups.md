@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["AI startups", "OpenAI", "LLMs and startups", "AI hype", "platform shifts", "will AI kill startups", "cargo culting AI", "AI opportunity", "using AI", "LLMs in startups", "AI pivot", "vibe coding", "AI tools for founders", "AI coding", "AI for startups", "AI in Startups"]
 related: ["[[Startup Ideas]]", "[[Growth]]", "[[Hard Tech Startups]]", "[[Founder Mindset]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Product Development]]", "[[Founder Productivity]]", "[[Tom Blomfield]]"]
-sources: ["Ie-dalton-michael-will-openai-kill-all-startups", "M3-how-to-use-ai-in-your-startup", "MN-how-to-get-the-most-out-of-vibe-coding"]
+sources: ["Ie-dalton-michael-will-openai-kill-all-startups", "M3-how-to-use-ai-in-your-startup", "MN-how-to-get-the-most-out-of-vibe-coding", "Lp-how-to-build-the-future-sam-altman", "MC-how-to-build-the-future-aravind-srinivas", "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps", "M2-how-to-build-the-future-parker-conrad"]
 speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "[[Brad Flora]]", "Gustaf Alstromer", "Pete Koomen", "Tom Blomfield"]
 ---
 
@@ -160,8 +160,48 @@ The state of the art changes weekly. Different models excel at different tasks: 
 
 Unless short-term AGI is imminent, OpenAI is not going to kill all startups. The tools available now could produce "an explosion of new amazing startups. This could be the moment that we've been waiting for since mobile, where people can actually do cool new things" [1].
 
+
+## The Platform Shift: Founder Perspectives
+
+[[Sam Altman]] frames the AI moment as "the best time yet" to start a technology company. "Big companies have the edge when things are moving slowly. When something like this or mobile or the internet or semiconductor revolution happens, that was when upstarts had their edge" [4]. [[Garry Tan]] observes that "the world is still sleeping on all of this to such an astonishing degree" [4].
+
+### Concentration as Strategy
+
+Altman's experience at OpenAI provides a direct case study. OpenAI was less resourced than DeepMind and chose to concentrate on one bet rather than spreading across many. "They're going to try a lot of things, and we've just got to pick one and really concentrate. And that's how we can win here." This is "totally the right startup takeaway" [4].
+
+### The Five Levels of AI (Sam Altman)
+
+A framework to replace the overloaded term "AGI" [4]: (1) Chatbots (achieved with ChatGPT), (2) Reasoners (achieved with O1), (3) Agents (expected soon), (4) Innovators (early signs), (5) Organizations (future).
+
+## AI Product Design: Two Vectors (David Lieb)
+
+[[David Lieb]] identifies two vectors for applying AI to products [5]:
+
+1. **Scaling human-solvable problems**: Tasks that skilled humans can do but cannot do affordably at scale. Google Photos exemplifies this.
+2. **Solving human-unsolvable problems**: Tasks beyond human cognitive capacity (e.g., data center power optimization). Riskier but potentially bigger payoff.
+
+## AI Can Read, Not Just Write (Parker Conrad)
+
+[[Parker Conrad]] argues that generative AI is a misnomer for the most valuable enterprise application. "The fact that these systems can read and their context windows are so large is actually much more powerful for B2B software than the fact that they can write" [7].
+
+Practical application: Rippling's AI performance management feature ingests an employee's first 90 days of work product and predicts whether they are on a success trajectory or need intervention [7].
+
+Conrad frames AI as CEO context window expansion: it can read everything that everyone is doing, effectively flattening organizational layers. AI will help "2,000-person companies be run more like 200-person companies, and 200-person companies be run more like 20-person companies" [7].
+
+### AI SDRs Will Destroy Outbound
+
+Conrad's contrarian take: AI SDRs currently do not work. But "the second that it flips and they can, it won't have the impact that people are hoping. What'll happen is it'll just destroy outbound as a channel" because every company will simultaneously flood it [7].
+
+## Perplexity: AI Search as Case Study
+
+[[Aravind Srinivas]] chose search because it sits on the "AI completeness path" -- the company improves as AI improves, creating a flywheel. Perplexity's approach was deliberately simple: take top-K search results, feed cached snippets to an LLM, generate answers with citations [6]. See [[Perplexity: Building the Next Search Engine]].
+
 ## References
 
 1. [Will OpenAI Kill All Startups?](https://www.ycombinator.com/library/Ie-dalton-michael-will-openai-kill-all-startups) -- [[Dalton Caldwell]], [[Michael Seibel]] (2023)
 2. [How To Use AI In Your Startup](https://ycombinator.com/library/M3-how-to-use-ai-in-your-startup) -- [[Brad Flora]], Pete Koomen, Gustaf Alstromer (2025)
 3. [How To Get The Most Out Of Vibe Coding](https://ycombinator.com/library/MN-how-to-get-the-most-out-of-vibe-coding) -- [[Tom Blomfield]] (2025)
+4. [How To Build The Future: Sam Altman](https://ycombinator.com/library/Lp-how-to-build-the-future-sam-altman) -- [[Sam Altman]], [[Garry Tan]] (2024)
+5. [On Starting and Scaling One of the Biggest iOS Apps](https://ycombinator.com/library/5f-on-starting-and-scaling-one-of-the-biggest-ios-apps) -- [[David Lieb]], Gustaf Alstromer (n.d.)
+6. [How To Build The Future: Aravind Srinivas](https://ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas) -- [[Aravind Srinivas]], [[David Lieb]] (2025)
+7. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)

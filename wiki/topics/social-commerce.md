@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["social e-commerce", "social shopping", "group buying", "interactive commerce", "social commerce platforms"]
 related: ["[[Pinduoduo]]", "[[WeChat]]", "[[Network Effects]]", "[[Anu Hariharan]]"]
-sources: ["2z-pinduoduo-and-the-rise-of-social-e-commerce", "3t-how-wechat-grew-to-be-the-1-app-in-the-world"]
+sources: ["2z-pinduoduo-and-the-rise-of-social-e-commerce", "3t-how-wechat-grew-to-be-the-1-app-in-the-world", "3x-the-hidden-forces-behind-china-s-content-king-toutiao"]
 speakers_referenced: ["Anu Hariharan", "Nic Dardenne"]
 ---
 

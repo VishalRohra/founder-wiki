@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["company culture", "startup culture", "culture building", "core values", "no assholes", "culture vs perks", "transparency in startups"]
 related: ["[[Startup Leadership]]", "[[Startup Management]]", "[[Scaling and Later-Stage Operations]]", "[[Founder Mindset]]"]
-sources: ["5p-creating-good-company-culture-and-sticking-to-it"]
-speakers_referenced: ["Kathryn Minshew"]
+sources: ["5p-creating-good-company-culture-and-sticking-to-it", "6I-on-starting-and-scaling-recruiting-software-startup-lever"]
+speakers_referenced: ["Kathryn Minshew", "Sarah Nahm"]
 ---
 
 # Company Culture
@@ -69,6 +69,26 @@ Minshew's advice for sustaining motivation over the long haul: remember why you 
 
 When energy flags at four and a half years in, she reads user emails or talks to someone who found their job through The Muse. "Being a startup can be one part one of the most meaningful experiences of your life, and one part a total slog. But I think when you remember why you got into it, you keep your focus on building for the long haul" [1].
 
+
+## Culture Is What You Make Surface Area (Sarah Nahm)
+
+[[Sarah Nahm]] introduces the concept of "cultural surface area" -- the boundaries of what a company considers part of its culture. At Lever, dish duty was not part of the culture until someone pointed out that a disproportionate group of people (mostly women) did the dishes. The team built a Slackbot for rotational dish duty [2].
+
+Similarly, Lever's holiday calendar was not cultural surface area until the team pushed back on not including Martin Luther King Day. "We realized in that moment that our holiday schedule was surface area to our culture" [2].
+
+## Inclusion Before Diversity
+
+Nahm argues: "What's the point of hiring all this quote diverse talent if when they get there they're not ready to succeed?" Start with an inclusive culture; diverse hiring follows [2].
+
+## The Technical/Non-Technical Divide
+
+Lever rejected Silicon Valley's dichotomy with a training called "I'm Technical and So Are You" because the divide was holding both sides back: engineers did not understand customers, and non-engineers did not think in scalable systems [2].
+
+## Employee Resource Groups with Policy Power
+
+At 65% participation, Lever's ERGs were asked to help build company policies -- the parents ERG co-designed the parental leave policy [2].
+
 ## References
 
 1. [Creating Good Company Culture (and Sticking to It)](https://ycombinator.com/library/5p-creating-good-company-culture-and-sticking-to-it) — Kathryn Minshew (2016)
+2. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)

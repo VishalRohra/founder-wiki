@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["leadership", "measuring leadership", "CEO leadership", "building trust", "leadership traits", "how to lead"]
 related: ["[[Three Traits of Great Leadership]]", "[[Mission-to-Metrics Framework]]", "[[Startup Management]]", "[[Board Management]]", "[[Ali Rowghani]]", "[[Diane Greene]]"]
-sources: ["3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo"]
-speakers_referenced: ["Ali Rowghani", "Ed Catmull", "Steve Jobs", "Jeff Bezos", "Tobi Lütke", "Patrick Collison", "David Rusenko"]
+sources: ["3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "M2-how-to-build-the-future-parker-conrad"]
+speakers_referenced: ["Ali Rowghani", "Ed Catmull", "Steve Jobs", "Jeff Bezos", "Tobi Lütke", "Patrick Collison", "David Rusenko", "Drew Houston", "Vidit Aatrey", "Sarah Nahm", "Parker Conrad"]
 ---
 
 # Startup Leadership
@@ -120,7 +120,28 @@ Rowghani cites Steve Jobs at a Pixar management meeting: "When I'm at my best, 5
 
 Having significant unscheduled time is "perhaps the clearest sign of success for a Phase 2 CEO" because it signals successful delegation, a strong leadership team, and well-codified Mission-to-Metrics [2].
 
+
+## The CEO Role Changes Every Six Months (Drew Houston)
+
+[[Drew Houston]] identifies the hardest transition: "Nobody tells you" that "your job as CEO changes every six months." Some skills that made you effective at the prior stage become "a hindrance for the next stage" [3]. His key insight: "You're going from designing a system of code and algorithms to a system of people, and things like culture, values, are the programming that makes that work" [3].
+
+## Three Phases of the CEO Role (Vidit Aatrey)
+
+[[Vidit Aatrey]] describes three distinct phases [4]: (1) Pre-PMF: "My whole job was just to figure out what the business model will be." (2) Post-PMF: Role shifted to hiring, culture, and course correction. (3) At 700 employees: Ensuring the right people, motivating the team, occasional direction changes. "Nothing else" [4].
+
+## The Product Is the Company (Sarah Nahm)
+
+[[Sarah Nahm]] reframed her loss of product time: "I still work on a product, the product is this company. And I still have to do user research. It's just that my users are my employees and my customers" [5].
+
+## Founder Mode with Limits (Parker Conrad)
+
+[[Parker Conrad]] agrees that founders need to "go all the way to ground" when something is broken. But he warns: "You need really good executives, and you don't want to do the founder mode thing unless something's broken." It is a tool for fixing, not a management philosophy [6].
+
 ## References
 
 1. [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) — [[Ali Rowghani]] (n.d.)
 2. [The Second Job of a Startup CEO](https://www.ycombinator.com/library/3k-the-second-job-of-a-startup-ceo) — [[Ali Rowghani]] (n.d.)
+3. [On Starting and Scaling Dropbox (YC W07)](https://ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07) -- [[Drew Houston]], [[Sam Altman]] (2017)
+4. [On Starting and Scaling Indian Shopping Site Meesho](https://ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho) -- [[Vidit Aatrey]], Adora Cheung (2019)
+5. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)
+6. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)

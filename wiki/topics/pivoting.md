@@ -4,9 +4,9 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["pivot", "pivoting", "changing ideas", "pivot stories", "pivot hell", "when to pivot", "idea maze", "changing your startup idea"]
-related: ["[[Startup Ideas]]", "[[Product-Market Fit]]", "[[Founder Mindset]]", "[[Early-Stage Mistakes]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Harj Taggar]]", "[[Jared Friedman]]"]
-sources: ["Iy-yc-s-group-partners-share-their-favorite-pivot-stories"]
-speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Harj Taggar", "Jared Friedman", "Gustaf Alstromer", "Tom Blomfield", "Brad Flora", "Aaron Epstein"]
+related: ["[[Startup Ideas]]", "[[Product-Market Fit]]", "[[Founder Mindset]]", "[[Early-Stage Mistakes]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Harj Taggar]]", "[[Jared Friedman]]", "[[David Lieb]]", "[[Aravind Srinivas]]", "[[Ooshma Garg]]", "[[Parker Conrad]]", "[[Drew Houston]]", "[[Vidit Aatrey]]", "[[Sarah Nahm]]"]
+sources: ["Iy-yc-s-group-partners-share-their-favorite-pivot-stories", "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps", "MC-how-to-build-the-future-aravind-srinivas", "69-on-starting-and-scaling-meal-kit-company-gobble", "Co-embark-trucks-w16-road-to-ipo", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "6S-on-starting-and-scaling-dropbox-yc-w07", "M2-how-to-build-the-future-parker-conrad"]
+speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Harj Taggar", "Jared Friedman", "Gustaf Alstromer", "Tom Blomfield", "Brad Flora", "Aaron Epstein", "David Lieb", "Aravind Srinivas", "Ooshma Garg", "Geoff Ralston", "Vidit Aatrey", "Sarah Nahm", "Drew Houston", "Parker Conrad"]
 ---
 
 # Pivoting
@@ -98,6 +98,68 @@ Seibel frames the meta-lesson: "If you're already a builder, the process is trul
 
 Alstromer adds: "One of the big awesome questions that founders should always ask themselves is: 'What do I understand or what do I know, and what do I believe that nobody else knows or believes?' That's actually the core of a lot of the pivots that really work incredibly well" [1].
 
+## More Pivot Stories
+
+### Bump to Google Photos: Three Pivots (David Lieb)
+
+[[David Lieb]]'s journey from Bump to Google Photos involved two pivots that illustrate how each failed product teaches you what the right product needs [2].
+
+**Bump to Flock**: Bump had 150 million downloads but infrequent usage and no sustainable business model (~$1/user/year). Lieb called the top 100 users and discovered they used Bump for photo sharing, not contact sharing. The engineering team simultaneously discovered they could predict sharing behavior from photo metadata. Flock combined these insights but failed at launch because it required friends to already have the app (the cold-start problem) [2].
+
+**Flock to Photo Roll**: The failure taught Lieb that to solve automated photo sharing, they needed to "upstream" to the camera roll. Photo Roll was a better gallery app with Flock built in -- but they arrived at this insight at the end of their $20 million runway. The product was right; the timing was wrong. Google's acquisition provided the resources [2].
+
+Each pivot preserved the learning from the previous attempt. The photo metadata technology from Bump became Flock's core feature, which became Google Photos' sharing intelligence.
+
+### Perplexity: Twitter Search to General Search (Aravind Srinivas)
+
+[[Aravind Srinivas]]'s Perplexity started as a structured search tool for specific databases (Twitter data organized into SQL-queryable tables). Enterprise data sources refused to share data. The pivot came from the realization that a simpler, more general approach -- letting the LLM do the work at inference time over unstructured web data -- would be more scalable than building domain-specific indexes [3].
+
+The pivot was also influenced by a key insight only realized after launching the general product: if AI answers eliminate link-clicking, the ad economy declines, giving Perplexity a structural advantage against Google that did not exist in the enterprise search model [3].
+
+### Gobble: Four Product Versions to Find PMF (Ooshma Garg)
+
+[[Ooshma Garg]] launched four different versions of Gobble over five years [4]:
+1. **Chef marketplace**: Connecting home chefs with customers. Got press but not sustained growth.
+2. **On-demand delivery (Gobble Instant)**: Failed because the target market was suburban families, delivery was slow, and food wilted in transit.
+3. **Personalized dinner subscription**: A Netflix-for-food model. Five times more revenue than previous versions, but the competitive landscape prevented fundraising.
+4. **Dinner kits (mise en place)**: The company does the prep work; the customer finishes the meal in 10 minutes in one pan. This version produced organic growth with zero marketing hires.
+
+The key lesson: Garg separated the mission from the product. "A company is not just a product, a company is solving a problem. It's a mission. And if the mission is alive, you should keep working on it" [4].
+
+### Embark Trucks: Resisting One Pivot, Then Making Another (Geoff Ralston)
+
+[[Geoff Ralston]] describes Embark's pivot discipline. During YC, the team discovered that an Australian mining company offered a potentially lucrative contract for self-driving mining trucks. The team was tempted but chose to stay the course with campuses and demonstrate growth [5].
+
+Later, after succeeding with the original idea, the founders concluded the campus market was too small and pivoted to self-driving trucks on highways -- "an enormous market and although still fabulously difficult, a more tractable problem" [5]. The distinction: they resisted a premature distraction but later made a deliberate, evidence-based pivot [5].
+
+### Meesho: Two Pivots Enabled by Co-Founder Trust (Vidit Aatrey)
+
+[[Vidit Aatrey]] took Meesho through two pivots. The first: from FashNear (hyperlocal fashion delivery) to a Shopify-for-WhatsApp tool (inspired by discovering shopkeepers already selling on WhatsApp). The second: from the tool for existing shopkeepers to a reseller marketplace for housewives (inspired by discovering that more than half of users were not the intended audience) [6].
+
+The second pivot required shutting down a product that was "not doing bad" in favor of an experiment running on WhatsApp with no app or website. Aatrey attributes his ability to pivot to co-founder trust: "I have seen so many friends around me who were just not able to pivot because it was a hard conversation with their co-founder" [6].
+
+### Lever: Throwing Out a Whole Product (Sarah Nahm)
+
+[[Sarah Nahm]] describes building an entire first product at Lever, gathering customer feedback, and realizing it was "something incremental... just a better version of what was there before" [7]. They threw it out. The discipline was accountability to customer reactions, not internal conviction [7].
+
+### Dropbox: Strategic Contraction (Drew Houston)
+
+[[Drew Houston]] describes Dropbox's expansion into photos (Carousel) and email (Mailbox), then the painful decision to kill both products. The catalyst: re-reading Andy Grove's "Only the Paranoid Survive" and recognizing that Dropbox was in a strategic inflection point. "Everybody loves the idea of focus, but what focus actually means is shooting stuff you love and turning down things you know you can make work" [8].
+
+This is not a pivot in the traditional sense but rather a strategic contraction -- returning to the core after an expansion that diffused the company's identity and execution [8].
+
+### SigFig: The Case Against Pivoting (Parker Conrad)
+
+[[Parker Conrad]] describes seven years of pivots at SigFig, where the recurring pattern was: five ideas, four fail completely, one mostly fails with a glimmer that leads to the next pivot. The lesson Conrad draws is the opposite of "keep pivoting": "If it's not working, give up immediately" [9]. The Airbnb pivot story is the exception, not the rule [9].
+
 ## References
 
 1. [YC's Group Partners Share Their Favorite Pivot Stories](https://www.ycombinator.com/library/Iy-yc-s-group-partners-share-their-favorite-pivot-stories) -- [[Harj Taggar]], [[Dalton Caldwell]], [[Michael Seibel]], [[Jared Friedman]], Gustaf Alstromer, [[Tom Blomfield]], [[Brad Flora]], Aaron Epstein (n.d.)
+2. [On Starting and Scaling One of the Biggest iOS Apps](https://ycombinator.com/library/5f-on-starting-and-scaling-one-of-the-biggest-ios-apps) -- [[David Lieb]], Gustaf Alstromer (n.d.)
+3. [How To Build The Future: Aravind Srinivas](https://ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas) -- [[Aravind Srinivas]], [[David Lieb]] (2025)
+4. [On starting and scaling meal kit company Gobble](https://ycombinator.com/library/69-on-starting-and-scaling-meal-kit-company-gobble) -- [[Ooshma Garg]] (2016)
+5. [Embark Trucks' (W16) road to IPO](https://ycombinator.com/library/Co-embark-trucks-w16-road-to-ipo) -- [[Geoff Ralston]] (2021)
+6. [On Starting and Scaling Indian Shopping Site Meesho](https://ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho) -- [[Vidit Aatrey]], Adora Cheung (2019)
+7. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)
+8. [On Starting and Scaling Dropbox (YC W07)](https://ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07) -- [[Drew Houston]], [[Sam Altman]] (2017)
+9. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)

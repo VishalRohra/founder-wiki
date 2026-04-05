@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["equity split", "equity division", "founder equity", "co-founder equity", "splitting equity"]
 related: ["[[Co-Founders]]", "[[University Spinouts]]", "[[Equity Equation]]", "[[Seed Fundraising]]"]
-sources: ["8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup", "Hj-10-questions-to-discuss-with-a-potential-co-founder", "5x-how-to-split-equity-among-co-founders", "LP-co-founder-equity-mistakes-to-avoid"]
-speakers_referenced: ["Jared Friedman", "Michael Seibel"]
+sources: ["8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup", "Hj-10-questions-to-discuss-with-a-potential-co-founder", "5x-how-to-split-equity-among-co-founders", "LP-co-founder-equity-mistakes-to-avoid", "6N-vinod-khosla-on-how-to-build-the-future"]
+speakers_referenced: ["Jared Friedman", "Michael Seibel", "Vinod Khosla", "Sam Altman"]
 ---
 
 # Equity Split
@@ -102,9 +102,25 @@ The rationale for the 5% cap: "When a company's pre-product-market-fit, so much 
 
 [[Paul Graham]]'s [[Equity Equation]] provides a mathematical framework for evaluating any equity trade: if someone joining the company makes your stock worth more than 1/(1-n) where n is the fraction you are giving up, the trade is worth it. This applies to early employees, advisors, and anyone receiving equity.
 
+
+## Be Radically Generous with Early Employee Equity (Vinod Khosla)
+
+[[Vinod Khosla]] argues that insufficient equity allocation is the single most important failure mode in a company's first six months [5].
+
+**Sun Microsystems**: The first three or four founders kept roughly 25-27% of common stock. An equal or larger chunk was reserved for future hires. This enabled recruiting Eric Schmidt, Carol Bartz, Bill Joy, and Andy Bechtolsheim in the first 15-20 hires [5].
+
+**Curai (AI healthcare)**: Khosla's son kept 15% instead of 45%, recruited a co-founder at 15%, and reserved the remainder for engineers making million-dollar salaries at Google and Uber. Individual engineers received 3-5% each [5].
+
+**The magnet principle**: Some hires are worth their equity even with zero direct contribution, because they attract other exceptional people. Bill Joy at Sun "helped attract Eric Schmidt" [5].
+
+[[Sam Altman]] calls this "the most important piece of advice": "Being super generous with early employee equity in getting founder quality people as the first 10 employees. All the evidence is on the side of doing this, and yet almost no one does" [5].
+
+Khosla identifies this as his "single biggest beef with YC" -- option pools are too small [5]. See [[Gene Pool Engineering]] for the full framework.
+
 ## References
 
 1. [10 Questions to Discuss with a Potential Co-Founder](https://www.ycombinator.com/library/Hj-10-questions-to-discuss-with-a-potential-co-founder) -- Y Combinator (2022)
 2. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]] (n.d.)
 3. [How to Split Equity Among Co-Founders](https://www.ycombinator.com/library/5x-how-to-split-equity-among-co-founders) -- [[Michael Seibel]] (n.d.)
 4. [Co-Founder Equity Mistakes to Avoid](https://ycombinator.com/library/LP-co-founder-equity-mistakes-to-avoid) -- [[Michael Seibel]] (2024)
+5. [Vinod Khosla on How to Build the Future](https://ycombinator.com/library/6N-vinod-khosla-on-how-to-build-the-future) -- [[Vinod Khosla]], [[Sam Altman]] (n.d.)

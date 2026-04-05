@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["early stage hiring", "pre-PMF hiring", "startup hiring mistakes", "when to hire", "don't hire", "overhiring at startups", "hiring before product market fit"]
 related: ["[[Hiring Engineers]]", "[[Financial Survival]]", "[[Default Alive or Default Dead]]", "[[Product-Market Fit]]", "[[Scaling and Later-Stage Operations]]", "[[Co-Founders]]", "[[Company Culture]]"]
-sources: ["J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes", "KF-how-to-not-get-screwed-over-as-a-software-engineer"]
-speakers_referenced: ["Harj Taggar", "Michael Seibel", "[[Brad Flora]]", "Dalton Caldwell"]
+sources: ["J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes", "KF-how-to-not-get-screwed-over-as-a-software-engineer", "6N-vinod-khosla-on-how-to-build-the-future", "6L-on-starting-and-scaling-construction-startup-plangrid", "5I-on-starting-and-scaling-healthcare-startup-23andme", "6a-on-starting-and-scaling-direct-mail-automation-startup-lob", "6I-on-starting-and-scaling-recruiting-software-startup-lever"]
+speakers_referenced: ["Harj Taggar", "Michael Seibel", "Brad Flora", "Dalton Caldwell", "Vinod Khosla", "Sam Altman", "Tracy Young", "Anne Wojcicki", "Harry Zhang", "Sarah Nahm"]
 ---
 
 # Hiring at Early Stage
@@ -95,7 +95,50 @@ Seibel's closing advice to technical people: "Know your worth. And if you're a r
 
 "If you're post-product market fit, ignore everything we talked about. Go crazy, hire away. If you're pre-product market fit, double down on everything we've talked about. Hiring is probably not your savior" [1].
 
+## Rate of Learning Over Experience (Vinod Khosla)
+
+[[Vinod Khosla]] argues the most important quality in any hire is rate of learning, not domain experience: "Experience doesn't matter, the rate of learning matters. First principle's thinking matters. Pick for the best athlete, not the person who's the most established wide receiver who knows how to run one pattern" [3].
+
+His evaluation method: give candidates a brand-new problem they have no experience with and observe first-principles thinking. Both Khosla and [[Sam Altman]] identify "how fast did they evolve their plan" as the number one indicator of founder quality [3].
+
+Khosla's specific interview question: "If I gave you $10 million today, what three startups would you consider, and what are the reasons as an investor you wouldn't want to invest in those?" This reveals how candidates think about novel problems [3].
+
+For senior hires, the functional question ("can you do marketing?") is secondary to the cross-functional question: "What are the questions he will ask? How will he make the CFO better or the VP of engineering better?" The best senior hires improve the thinking of everyone around them [3]. See [[Gene Pool Engineering]] for the full framework on equity allocation and team composition.
+
+## Pain Tolerance and Positive Attitude (Tracy Young / PlanGrid)
+
+[[Tracy Young]] describes two eras of hiring at PlanGrid. Sub-50 employees: hire generalists with high pain tolerance who will not complain about taking out the garbage and writing code in the same day [4]. She assessed pain tolerance through background signals: a canvasser who went door-to-door getting cursed at; a door-to-door pencil salesman for Staples in 2014 who now leads PlanGrid's BD team [4].
+
+For leadership hires (post-50 employees), Young looks for authenticity: "If there's ever a moment where you're in an interview and it feels like someone's bullshitting you, they're probably bullshitting you" [4]. Co-founder Ryan's hiring filter was the cross-country train test: "Who would I rather be stuck on a cross-country train with?" [4]. The most common executive hiring mistake at PlanGrid was scale mismatch -- hiring someone from a massive company who had never operated at startup scale [4].
+
+## Hiring for Humility (Anne Wojcicki / 23andMe)
+
+[[Anne Wojcicki]] describes a deliberate choice between two types of smart people: those with humility and those who want to demonstrate their intelligence. 23andMe opted for humility. "It's really important to have people who are constantly open to feedback and constantly open to constructive criticism and learning about other areas" [5].
+
+[[Sam Altman]] adds his framework: evaluate net output on the entire organization. "Even if they do a lot themselves, if they make everybody else miserable," the hire is a failure [5]. Wojcicki reinforces with the Steve Jobs/Sculley example: "If you hire the wrong senior leadership and you don't fix it very quickly, it can sink you" [5]. The first two hires at 23andMe -- founding scientists found through friend-of-friend networks -- set the talent bar for the entire company [5].
+
+## Hiring as Sales (Harry Zhang / Lob)
+
+[[Harry Zhang]] treats hiring with the same methodology as enterprise sales: "Understand the motivations for each individual that you're trying to hire. Everyone's going to care about something that's different" [6]. At Lob, culture is the primary draw. The team writes blogs, brings candidates on-site, and ties activities to core values to give candidates a sense of what working at Lob feels like [6].
+
+## Proactive Sourcing Over Posting (Sarah Nahm / Lever)
+
+[[Sarah Nahm]] argues that any startup "just posting a job and waiting for great people to apply" is making a fundamental error. Hiring is "the strategy when you're a startup" [7]. The analogy: "In the same way you wouldn't just throw up a website and wait for customers to come find you, you've got to actually reach out to people" [7]. Lever's engineering team was 81% proactively sourced [7].
+
+Many of Lever's hires were people the team met two to three years before the hire. These nurtured candidates were hired 35% faster than first-contact candidates [7]. Nahm frames this as "investing in relationships" [7].
+
+Lever replaced traditional job descriptions with impact descriptions -- what someone would achieve in 1, 3, 6, and 12 months. This attracted more top-tier candidates and diversified the applicant pool because it stopped "broadcasting to the world assumptions about what kind of people should apply" [7].
+
+## Firing Fast Enough (Tracy Young)
+
+Young reports that at YC, "almost every single speaker" discussed not firing fast enough [4]. Her framework: time-box it, make expectations explicit, give a clear deadline for improvement, and never let a termination be a surprise [4].
+
 ## References
 
 1. [Inside the Group Partner Lounge: Don't Make These Hiring Mistakes](https://ycombinator.com/library/J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes) -- [[Harj Taggar]], [[Michael Seibel]], [[Brad Flora]] (2022)
 2. [How To NOT Get Screwed Over As A Software Engineer](https://ycombinator.com/library/KF-how-to-not-get-screwed-over-as-a-software-engineer) -- [[Dalton Caldwell]], [[Michael Seibel]] (2023)
+3. [Vinod Khosla on How to Build the Future](https://ycombinator.com/library/6N-vinod-khosla-on-how-to-build-the-future) -- [[Vinod Khosla]], [[Sam Altman]] (n.d.)
+4. [On starting and scaling construction startup PlanGrid](https://ycombinator.com/library/6L-on-starting-and-scaling-construction-startup-plangrid) -- [[Tracy Young]], Kat Manalac (2019)
+5. [On starting and scaling healthcare startup 23andMe](https://ycombinator.com/library/5I-on-starting-and-scaling-healthcare-startup-23andme) -- [[Anne Wojcicki]], [[Sam Altman]] (2018)
+6. [On starting and scaling direct mail automation startup Lob](https://ycombinator.com/library/6a-on-starting-and-scaling-direct-mail-automation-startup-lob) -- [[Harry Zhang]], [[Kevin Hale]] (2019)
+7. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)

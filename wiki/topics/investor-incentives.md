@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["investor incentives", "VC incentives", "investor terms", "fundraising terms", "investor misalignment", "participating preferred", "super pro rata", "board control", "seed fund dynamics", "why investors love YC"]
 related: ["[[Seed Fundraising]]", "[[Convincing Investors]]", "[[Series A Term Sheets]]", "[[Financial Survival]]", "[[Startup Outcomes and Optionality]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]"]
-sources: ["DX-dalton-michael-understanding-investor-terms-and-incentives", "Jd-dalton-michael-why-investors-secretly-love-y-combinator"]
-speakers_referenced: ["Dalton Caldwell", "Michael Seibel"]
+sources: ["DX-dalton-michael-understanding-investor-terms-and-incentives", "Jd-dalton-michael-why-investors-secretly-love-y-combinator", "6N-vinod-khosla-on-how-to-build-the-future", "MJ-how-to-build-the-future-tony-xu"]
+speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Vinod Khosla", "Sam Altman", "Tony Xu"]
 ---
 
 # Investor Incentives
@@ -86,7 +86,20 @@ Caldwell's practical test for evaluating investor advice: "Are they offering to 
 
 "Spend a little bit more time looking at what people do rather than what they say or they meme or they tweet" [2].
 
+
+## Most Investors Add Negative Value (Vinod Khosla)
+
+[[Vinod Khosla]] offers the most extreme assessment of investor value in the YC canon: "90% of investors add no value. 70% of investors add negative value to a company" [3]. The negative value comes from advising companies without having earned the right to advise. Khosla frames investor selection as: "An investor is an employee who you can't fire, and that's how you should think about it" [3].
+
+[[Sam Altman]] adds that the worst board behavior is sending press clippings of competitors during the most stressful moments. The best investors are "calming you down, supporting you" during hard risk decisions [3].
+
+## Investors Who Are Right vs. Right Timing (Tony Xu)
+
+[[Tony Xu]] offers a founder's perspective on investor rejection. DoorDash's internal metrics moved in the right direction from 2016-2018, yet Xu received hundreds of rejections. His analysis: growth investors struggle with timing. "It's really easy to invest when the numbers are clear... Then there are moments where it's just before that moment" [4]. The resolution: "All you need is one investor to say yes" [4].
+
 ## References
 
 1. [Understanding Investor Terms and Incentives](https://www.ycombinator.com/library/DX-dalton-michael-understanding-investor-terms-and-incentives) — [[Dalton Caldwell]], [[Michael Seibel]] (2022)
 2. [Why Investors (Secretly) Love Y Combinator](https://www.ycombinator.com/library/Jd-dalton-michael-why-investors-secretly-love-y-combinator) — [[Dalton Caldwell]], [[Michael Seibel]] (2023)
+3. [Vinod Khosla on How to Build the Future](https://ycombinator.com/library/6N-vinod-khosla-on-how-to-build-the-future) -- [[Vinod Khosla]], [[Sam Altman]] (n.d.)
+4. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], [[Garry Tan]] (2025)

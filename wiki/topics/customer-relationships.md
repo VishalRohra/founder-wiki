@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["customer relationships", "caring about customers", "talking to users", "customer empathy", "earning customers", "learning from customers", "user research"]
 related: ["[[Doing Things That Don't Scale]]", "[[Product-Market Fit]]", "[[Growth]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]"]
-sources: ["Ia-dalton-michael-how-to-earn-customers-for-life", "IP-dalton-michael-secrets-you-can-learn-from-your-customers"]
-speakers_referenced: ["Dalton Caldwell", "Michael Seibel"]
+sources: ["Ia-dalton-michael-how-to-earn-customers-for-life", "IP-dalton-michael-secrets-you-can-learn-from-your-customers", "MJ-how-to-build-the-future-tony-xu", "MC-how-to-build-the-future-aravind-srinivas"]
+speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Tony Xu", "Aravind Srinivas"]
 ---
 
 # Customer Relationships
@@ -81,7 +81,18 @@ The test is whether, even after leaving the company, the founder would still rem
 
 For founders who do not naturally love their specific customer segment, Caldwell reframes it: "Everyone can like people. Everyone can like helping another person. That's just a quality of humans" [1]. The satisfaction comes from knowing "the value that the thing is delivering is way more" than what the customer pays -- "You're getting a great deal, and you know in your heart they're getting a great deal" [1].
 
+
+## Customer Obsessed, Not Competitor Focused (Tony Xu)
+
+[[Tony Xu]]'s core company value at DoorDash -- "customer obsessed, not competitor focused" -- was forged in a near-death crisis. After a Stanford football incident left every delivery 60-90 minutes late, the founders chose to refund all orders (costing 40% of their near-zero bank account) and stayed up all night baking cookies to deliver at 5 AM [3]. During COVID-19, Xu cut commissions by half ($100M+ cost) and ran TV ads promoting competitors alongside DoorDash [3].
+
+## The User Is Never Wrong (Aravind Srinivas)
+
+[[Aravind Srinivas]] explicitly models Perplexity's product culture on Larry Page's principle. When a feature fails, the product should clarify ambiguity rather than blame the user [4]. Srinivas personally files roughly 50 bugs per day and engages with user complaints on Twitter [4].
+
 ## References
 
 1. [How to Earn Customers for Life](https://www.ycombinator.com/library/Ia-dalton-michael-how-to-earn-customers-for-life) -- [[Dalton Caldwell]], [[Michael Seibel]] (2022)
 2. [Secrets You Can Learn From Your Customers](https://www.ycombinator.com/library/IP-dalton-michael-secrets-you-can-learn-from-your-customers) -- [[Dalton Caldwell]], [[Michael Seibel]] (2023)
+3. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], [[Garry Tan]] (2025)
+4. [How To Build The Future: Aravind Srinivas](https://ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas) -- [[Aravind Srinivas]], [[David Lieb]] (2025)

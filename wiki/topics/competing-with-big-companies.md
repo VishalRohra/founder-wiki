@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["competing with big companies", "competition", "startup competition", "competing with Google", "competing with Amazon", "land grab", "structural advantage", "startup vs big company"]
 related: ["[[Growth]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Brad Flora]]"]
-sources: ["Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google"]
-speakers_referenced: ["Michael Seibel", "Harj Taggar", "Brad Flora"]
+sources: ["Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google", "MC-how-to-build-the-future-aravind-srinivas", "MJ-how-to-build-the-future-tony-xu", "Lp-how-to-build-the-future-sam-altman"]
+speakers_referenced: ["Michael Seibel", "Harj Taggar", "Brad Flora", "Aravind Srinivas", "Tony Xu", "Sam Altman"]
 ---
 
 # Competing with Big Companies
@@ -73,6 +73,22 @@ Flora summarizes the partners' collective advice: "Instead of worrying about all
 
 Seibel's approach in office hours is to redirect founder anxiety to the fundamentals. "What's your growth rate? Customers churning? What's the pipeline on sales look like? And if they can answer all those questions well, you're like, 'Let's get back to it. Keep going. Why are we stopping?'" [1].
 
+
+## The Innovator's Dilemma in AI Search (Aravind Srinivas)
+
+[[Aravind Srinivas]] provides a detailed case study of competing with a dominant incumbent through structural advantage. Google cannot easily build Perplexity's product because if users stop clicking links, ad revenue (~$200 billion/year) declines. "Wall Street just automatically panics if search revenue goes down" [2]. Srinivas's edge: "Obsession about the user and good product taste" [2].
+
+## Outcompeting with Superior Retention (Tony Xu)
+
+[[Tony Xu]] competed against better-funded rivals (Uber Eats, GrubHub) with a structural advantage: superior retention and frequency. "One of the hardest things to really fool is the retention and the engagement of a product" [3]. Every marketing dollar went further for DoorDash because retained users compound [3].
+
+## Concentration as Competitive Strategy (Sam Altman)
+
+[[Sam Altman]] describes how OpenAI, far less resourced than DeepMind, used focus as a weapon: "They're going to try a lot of things, and we've just got to pick one and really concentrate" [4]. The startup advantage is not resources but conviction and speed [4].
+
 ## References
 
 1. [How to Compete with Amazon and Google](https://www.ycombinator.com/library/Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google) -- [[Harj Taggar]], [[Michael Seibel]], [[Brad Flora]] (2021)
+2. [How To Build The Future: Aravind Srinivas](https://ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas) -- [[Aravind Srinivas]], [[David Lieb]] (2025)
+3. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], [[Garry Tan]] (2025)
+4. [How To Build The Future: Sam Altman](https://ycombinator.com/library/Lp-how-to-build-the-future-sam-altman) -- [[Sam Altman]], [[Garry Tan]] (2024)

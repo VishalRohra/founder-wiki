@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["determination", "relentlessly resourceful", "founder qualities", "founder traits", "startup mindset", "commitment", "grit"]
 related: ["[[Paul Graham]]", "[[Doing Things That Don't Scale]]", "[[Early-Stage Mistakes]]", "[[Starting Young]]", "[[Startup Ideas]]", "[[Recruiting Early Team Members]]", "[[Creating Luck]]", "[[Confronting Reality]]", "[[Dalton Caldwell]]", "[[Garry Tan]]", "[[First-Time Founders]]", "[[Elon Musk]]", "[[Diane Greene]]"]
-sources: ["94-be-relentlessly-resourceful", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "93-a-student-s-guide-to-startups", "5b-how-do-you-convince-someone-to-join-your-startup", "JG-the-main-function-how-to-go-from-startup-dream-to-reality"]
-speakers_referenced: ["Paul Graham", "Dalton Caldwell", "Garry Tan"]
+sources: ["94-be-relentlessly-resourceful", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "93-a-student-s-guide-to-startups", "5b-how-do-you-convince-someone-to-join-your-startup", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "69-on-starting-and-scaling-meal-kit-company-gobble", "5I-on-starting-and-scaling-healthcare-startup-23andme", "5N-on-starting-and-scaling-bloom-institute-of-technology", "6L-on-starting-and-scaling-construction-startup-plangrid"]
+speakers_referenced: ["Paul Graham", "Dalton Caldwell", "Garry Tan", "Ooshma Garg", "Anne Wojcicki", "Austen Allred", "Tracy Young", "Sam Altman"]
 ---
 
 # Founder Mindset
@@ -51,6 +51,27 @@ The most common type of startup failure is not the spectacular flameout but the 
 
 "Most startups fail because they don't make something people want, and the reason most don't is that they don't try hard enough" [5].
 
+
+## Persistence as the Defining Trait: New Case Studies
+
+Four new sources independently reinforce persistence as the defining trait of successful founders:
+
+**[[Ooshma Garg]]** spent five and a half years iterating through four product versions of Gobble before finding product-market fit. She nearly ran out of money twice, failed to raise Series A twice, and was publicly mocked by a journalist. [[Paul Graham]] tweeted: "Ooshma Garg does not give up" [9].
+
+**[[Anne Wojcicki]]** persisted with 23andMe for over a decade. [[Sam Altman]] adds: "That is the secret to overnight success is ten years of persistence" [10].
+
+**[[Austen Allred]]** was told by a past investor: "You don't have any marketable skills, you're never going to make more than 60,000 dollars a year." He made sure his next job offer was double that "just out of spite" and went on to build Lambda School [11].
+
+**[[Tracy Young]]** describes the psychological toll of scaling PlanGrid over seven years. Her framework for survival: "Our ability to manage our own emotions is actually a big key to just surviving the next day" [12].
+
+## Negative Ego
+
+Young's executive coach identified a pattern called "negative ego" -- constant self-diminishment. Young felt guilty about mistakes instead of fixing them. Before every board meeting, she was convinced the board would fire her, even when the company was growing [12]. The antidote was becoming more authentic over time [12].
+
+## The Founder as Last Line
+
+Garg describes the loneliness of founder knowledge: at her lowest point, she had just made the last full payroll she could afford. "Nobody knew this but me. Starting and running a company, as a founder, is a very lonely experience" [9].
+
 ## References
 
 1. [Be Relentlessly Resourceful](https://www.ycombinator.com/library/94-be-relentlessly-resourceful) -- [[Paul Graham]] (March 2009)
@@ -61,3 +82,7 @@ The most common type of startup failure is not the spectacular flameout but the 
 6. [A Student's Guide to Startups](https://www.ycombinator.com/library/93-a-student-s-guide-to-startups) -- [[Paul Graham]] (October 2006)
 7. [How Do You Convince Someone to Join Your Startup?](https://www.ycombinator.com/library/5b-how-do-you-convince-someone-to-join-your-startup) -- [[Dalton Caldwell]] (n.d.)
 8. [The Main Function: How to Go from Startup Dream to Reality](https://www.ycombinator.com/library/JG-the-main-function-how-to-go-from-startup-dream-to-reality) -- [[Garry Tan]] (n.d.)
+9. [On starting and scaling meal kit company Gobble](https://ycombinator.com/library/69-on-starting-and-scaling-meal-kit-company-gobble) -- [[Ooshma Garg]] (2016)
+10. [On starting and scaling healthcare startup 23andMe](https://ycombinator.com/library/5I-on-starting-and-scaling-healthcare-startup-23andme) -- [[Anne Wojcicki]], [[Sam Altman]] (2018)
+11. [On starting and scaling Bloom Institute of Technology](https://ycombinator.com/library/5N-on-starting-and-scaling-bloom-institute-of-technology) -- [[Austen Allred]] (2019)
+12. [On starting and scaling construction startup PlanGrid](https://ycombinator.com/library/6L-on-starting-and-scaling-construction-startup-plangrid) -- [[Tracy Young]], Kat Manalac (2019)

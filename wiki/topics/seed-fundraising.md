@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["seed round", "raising seed", "seed funding", "seed capital", "seed deck", "seed pitch deck", "seed round pitch deck", "how to raise seed", "first round", "pre-seed"]
 related: ["[[Series A Fundraising]]", "[[Pitch Deck Design]]", "[[Runway Management]]", "[[Aaron Harris]]", "[[Paul Graham]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Fundraising Mistakes]]", "[[Handling Investor Rejection]]"]
-sources: ["4A-a-guide-to-seed-fundraising", "2u-how-to-build-your-seed-round-pitch-deck", "63-why-fundraising-is-different-in-silicon-valley", "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes"]
-speakers_referenced: ["Geoff Ralston", "Aaron Harris", "Kevin Hale", "Paul Graham", "Jared Friedman", "Michael Seibel", "Dalton Caldwell"]
+sources: ["4A-a-guide-to-seed-fundraising", "2u-how-to-build-your-seed-round-pitch-deck", "63-why-fundraising-is-different-in-silicon-valley", "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes", "65-how-to-cold-email-investors", "5N-on-starting-and-scaling-bloom-institute-of-technology", "69-on-starting-and-scaling-meal-kit-company-gobble"]
+speakers_referenced: ["Geoff Ralston", "Aaron Harris", "Kevin Hale", "Paul Graham", "Jared Friedman", "Michael Seibel", "Dalton Caldwell", "Austen Allred", "Ooshma Garg"]
 ---
 
 # Seed Fundraising
@@ -43,6 +43,15 @@ The best way to meet investors remains warm introductions. Demo days provide a c
 
 [[Aaron Harris]] provides YC's canonical seed deck template, emphasizing that "founders should strive for clarity and concision" [2]. Harris distills the philosophy to a single line: "Focus on narrative. The rest is commentary" [2]. See the existing article for the full 10-slide template.
 
+
+## Modeling the Raise Decision (Austen Allred / Lambda School)
+
+[[Austen Allred]] was anti-VC after his first company's Series A fell through on December 23rd with documents already signed. For Lambda School (already profitable), he modeled the trade-off: the dilution (~15%) would enable 10x growth. "That's an easy trade off if you actually model it out" [6]. Lambda School raised $48 million within a year and a half [6].
+
+## The Deal Isn't Done Until the Money Is in the Bank (Ooshma Garg / Gobble)
+
+[[Ooshma Garg]] structured her entire first Series A attempt around a single investor who wanted to lead. She met only five investors instead of forty. After the partner meeting, the lead investor could not get partnership support. Lessons: "I didn't meet many different investors. I met five, not forty. I thought that a deal was done before it was done" [7]. She succeeded on the third attempt -- from the same firms that had previously said no [7].
+
 ## References
 
 1. [A Guide to Seed Fundraising](https://www.ycombinator.com/library/4A-a-guide-to-seed-fundraising) -- Geoff Ralston (n.d.)
@@ -50,3 +59,5 @@ The best way to meet investors remains warm introductions. Demo days provide a c
 3. [Why Fundraising Is Different in Silicon Valley](https://www.ycombinator.com/library/63-why-fundraising-is-different-in-silicon-valley) -- [[Michael Seibel]] (n.d.)
 4. [YC Founders Made These Fundraising Mistakes](https://www.ycombinator.com/library/DY-dalton-michael-yc-founders-made-these-fundraising-mistakes) -- [[Dalton Caldwell]], [[Michael Seibel]] (n.d.)
 5. [How to Cold Email Investors](https://www.ycombinator.com/library/65-how-to-cold-email-investors) -- [[Michael Seibel]] (n.d.)
+6. [On starting and scaling Bloom Institute of Technology](https://ycombinator.com/library/5N-on-starting-and-scaling-bloom-institute-of-technology) -- [[Austen Allred]] (2019)
+7. [On starting and scaling meal kit company Gobble](https://ycombinator.com/library/69-on-starting-and-scaling-meal-kit-company-gobble) -- [[Ooshma Garg]] (2016)

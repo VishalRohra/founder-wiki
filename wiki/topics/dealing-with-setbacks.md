@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["setbacks", "startup setbacks", "dealing with failure", "taking punches", "startup resilience", "founder resilience", "worst case analysis", "handling rejection"]
 related: ["[[Founder Mindset]]", "[[Co-Founders]]", "[[Convincing Investors]]", "[[Series A Fundraising]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]"]
-sources: ["IX-dalton-michael-how-to-deal-with-setbacks"]
-speakers_referenced: ["Dalton Caldwell", "Michael Seibel"]
+sources: ["IX-dalton-michael-how-to-deal-with-setbacks", "M2-how-to-build-the-future-parker-conrad", "KY-backstory-tom-blomfield", "6S-on-starting-and-scaling-dropbox-yc-w07"]
+speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Parker Conrad", "Tom Blomfield", "Drew Houston"]
 ---
 
 # Dealing with Setbacks
@@ -100,6 +100,26 @@ Seibel describes his own practice: when people around him are panicking, he resp
 
 Even if the company fails, the ability to absorb setbacks and respond productively is permanently valuable. Caldwell calls it a superpower: "This is a great person to have in your family. This is a great person to have in your friend group. Someone that's a rock" [1]. Seibel adds that the person who listens, assesses, and responds calmly -- "Oh, something's bad. Let me listen. Let me assess the situation" -- is valuable in every context, not just startups [1].
 
+
+## Parker Conrad: Seven Years of Failure, Then a Public Ouster
+
+[[Parker Conrad]] experienced two distinct types of setbacks. The first was seven years of slow grinding failure at SigFig, with "rejection after rejection after rejection with nothing working and pivot after pivot" [2]. The second was being forced out of Zenefits at $65M ARR. Conrad was publicly attacked for months while under legal restrictions preventing response [2]. The comeback: he co-founded Rippling with "very little self-doubt this time around" [2].
+
+## Tom Blomfield: Near-Collapse, Burnout, and Stepping Down
+
+[[Tom Blomfield]] describes the most extreme version of founder setbacks: Monzo processing fifty to one hundred billion pounds annually, a hundred-million-pound funding round pulled 72 hours before closing when COVID hit, and regulators telling the team to prepare to wind down [3]. Blomfield worked seven-day, sixteen-to-seventeen-hour weeks and held all-hands sharing everything that was going wrong [3].
+
+Eventually, Blomfield could no longer function. His identity and the company were "so intertwined" that stepping away "was like letting all of that go." He told his board: "Maybe you've got two or three more weeks, but that's all I can do" [3]. He stepped down. Monzo carried on to profitability with eight million customers [3].
+
+This adds a dimension absent from most setback advice: sometimes the right response to a setback is to leave.
+
+## Drew Houston: Thick Skin and Thin Skin
+
+[[Drew Houston]] describes managing constant external negativity. From the Hacker News commenter who called Dropbox "the stupidest thing I've ever heard of" to investors saying "Google's going to do this" [4]. Houston's framework: founders need thick skin (to tune out noise) and thin skin (to respond to customer and team unhappiness) simultaneously. "That's a weird dynamic that you have to handle" [4].
+
 ## References
 
 1. [Dalton & Michael: How to Deal with Setbacks](https://www.ycombinator.com/library/IX-dalton-michael-how-to-deal-with-setbacks) -- [[Dalton Caldwell]], [[Michael Seibel]] (n.d.)
+2. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)
+3. [Backstory: Tom Blomfield](https://ycombinator.com/library/KY-backstory-tom-blomfield) -- [[Tom Blomfield]] (2024)
+4. [On Starting and Scaling Dropbox (YC W07)](https://ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07) -- [[Drew Houston]], [[Sam Altman]] (2017)

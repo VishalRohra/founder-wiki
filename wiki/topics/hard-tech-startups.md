@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["hard tech", "hardware startups", "deep tech", "aerospace startups", "hardtech", "hardware at YC"]
 related: ["[[University Spinouts]]", "[[Growth]]", "[[Series A Fundraising]]", "[[Athelas]]", "[[Boom Technology]]", "Astranis", "[[StarCloud]]"]
-sources: ["5Q-on-starting-and-scaling-aerospace-company-boom", "4x-on-starting-a-company-from-a-hackathon-project", "8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup", "8G-advice-for-hard-tech-and-biotech-founders"]
-speakers_referenced: ["Blake Scholl", "Tanay Tandon", "Jared Friedman"]
+sources: ["5Q-on-starting-and-scaling-aerospace-company-boom", "4x-on-starting-a-company-from-a-hackathon-project", "8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup", "8G-advice-for-hard-tech-and-biotech-founders", "5I-on-starting-and-scaling-healthcare-startup-23andme", "Co-embark-trucks-w16-road-to-ipo"]
+speakers_referenced: ["Blake Scholl", "Tanay Tandon", "Jared Friedman", "Anne Wojcicki", "Geoff Ralston"]
 ---
 
 # Hard Tech Startups
@@ -129,9 +129,20 @@ The hard tech category continues to expand. [[StarCloud]] (formerly Lumen Orbit)
 
 Hard tech startups often face regulatory hurdles that software companies do not. Athelas needed FDA approval (Class 2 510(k)) to ship its blood diagnostics device [2]. Friedman notes that for hardtech and biotech companies, [[Series A Fundraising]] traction sections should focus on technology efficacy, patents, LOIs, and specific regulatory milestones like 510(k) or IND filings [3].
 
+
+## Navigating Regulation (Anne Wojcicki / 23andMe)
+
+[[Anne Wojcicki]] provides a nuanced view of operating in a regulated industry. Her initial framing: regulation means rules, and rules mean a defined path. But the transition from unregulated to regulated was painful [5]. Key lessons: communicate in the regulator's language, respect institutional knowledge ("FDA employees are public servants who have been doing their jobs for 20 years"), and establish credibility through publications, not assertions [5].
+
+## Young Founders in Hard Tech (Geoff Ralston / Embark)
+
+[[Geoff Ralston]] demonstrates that age is not a disqualifier. The Embark founders were 19-20 years old and had already built the first self-driving vehicle in Canada. Their "startlingly clear" thinking and demonstrated building made age irrelevant [6]. Embark's original insight -- that self-driving vehicles would first succeed in constrained environments -- proved correct even as their specific choice proved wrong [6].
+
 ## References
 
 1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- [[Blake Scholl]] (n.d.)
 2. [On Starting a Company from a Hackathon Project](https://www.ycombinator.com/library/4x-on-starting-a-company-from-a-hackathon-project) -- Tanay Tandon (January 2017)
 3. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]] (n.d.)
 4. [Advice for Hard Tech and Biotech Founders](https://www.ycombinator.com/library/8G-advice-for-hard-tech-and-biotech-founders) -- [[Jared Friedman]] (2019)
+5. [On starting and scaling healthcare startup 23andMe](https://ycombinator.com/library/5I-on-starting-and-scaling-healthcare-startup-23andme) -- [[Anne Wojcicki]], [[Sam Altman]] (2018)
+6. [Embark Trucks' (W16) road to IPO](https://ycombinator.com/library/Co-embark-trucks-w16-road-to-ipo) -- [[Geoff Ralston]] (2021)

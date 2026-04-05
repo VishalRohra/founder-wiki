@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["enterprise sales", "selling to enterprises", "B2B sales", "enterprise deals", "elephant hunting", "complex sales"]
 related: ["[[Growth]]", "[[Product-Market Fit]]", "[[Series A Fundraising]]", "[[Scaling and Later-Stage Operations]]", "[[Selling to Startups]]"]
-sources: ["4m-enterprise-sales-for-hackers"]
-speakers_referenced: ["Ryan Junee"]
+sources: ["4m-enterprise-sales-for-hackers", "6a-on-starting-and-scaling-direct-mail-automation-startup-lob"]
+speakers_referenced: ["Ryan Junee", "Harry Zhang", "Kevin Hale"]
 ---
 
 # Enterprise Sales
@@ -73,6 +73,18 @@ Measure the sales process like using a packet sniffer or debugger. Collecting da
 
 "Decisions are made by people, and people don't always act rationally." Friendships lead to partnerships, and friendships transcend the employer. Nurturing relationships pays off across multiple companies [1].
 
+
+## The Lighthouse Customer Problem (Harry Zhang / Lob)
+
+[[Harry Zhang]] describes enterprise sales as a chicken-and-egg problem: "You need a lighthouse customer to get other big customers. Getting the first one is always the hardest" [2]. Once you succeed with one enterprise customer, take "that exact same story to a similar customer." By that point, the founder should understand "the language of the customer" [2].
+
+Lob's first major enterprise customer came from a cold email. Zhang's team maps organizations before making contact: "Who are the key stakeholders? Decisions aren't made by just one individual" [2]. They combine cold outreach with conference attendance and marketing designed to make Lob visible everywhere the target company looks [2].
+
+## Selling Ahead vs. Over-Selling
+
+Zhang draws a careful distinction. The Booking.com lesson: Lob was transparent about not yet having European operations, negotiated a specific rollout timeline, and turned the deal into a partnership. "If the customer really wants to work with you, they're going to find a way to make it work" [2].
+
 ## References
 
 1. [Enterprise Sales for Hackers](https://www.ycombinator.com/library/4m-enterprise-sales-for-hackers) -- Ryan Junee (n.d.)
+2. [On starting and scaling direct mail automation startup Lob](https://ycombinator.com/library/6a-on-starting-and-scaling-direct-mail-automation-startup-lob) -- [[Harry Zhang]], [[Kevin Hale]] (2019)

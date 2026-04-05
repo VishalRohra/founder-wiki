@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["pricing", "monetization", "charging users", "when to charge", "freemium", "free vs paid", "startup pricing", "how to price", "turning users into customers"]
 related: ["[[Product-Market Fit]]", "[[Growth]]", "[[Startup Essentials]]", "[[Enterprise Sales]]", "[[Doing Things That Don't Scale]]"]
-sources: ["J3-inside-the-group-partner-lounge-turning-users-into-paid-customers"]
+sources: ["J3-inside-the-group-partner-lounge-turning-users-into-paid-customers", "6a-on-starting-and-scaling-direct-mail-automation-startup-lob"]
 speakers_referenced: ["Michael Seibel", "Harj Taggar", "[[Brad Flora]]"]
 ---
 
@@ -65,6 +65,18 @@ YouTube, Facebook, and Twitter needed massive user bases before advertising reve
 
 Flora summarizes: it is acceptable to be free in certain cases where there is a structured, intentional plan and path to getting paid. "But on the whole, the trick is to make sure that you're not giving away for free out of fear" [1]. If you do not put pricing out there and start charging, you prevent yourself from learning whether your product is something people want [1].
 
+
+## The Platform Fee Model (Harry Zhang / Lob)
+
+[[Harry Zhang]] describes a structural pricing mistake that affected Lob for years. Initially, Lob sold bundles of mail pieces at a per-piece price. Enterprise customers compared this directly to traditional mail providers: "Why are you five cents more expensive than everybody else?" [2]. The five cents represented Lob's technology value, but it was invisible.
+
+The fix: split pricing into a platform fee ($25,000-$30,000 per year for API access) plus competitive per-piece mail pricing. This restructured the buying conversation. The insight: "It's important to differentiate and associate the value that customers see in your technology with what they pay for versus something that could be a commoditized product" [2].
+
+## HIPAA as a Pricing Lever
+
+Regulated compliance creates natural pricing power. Lob charges more for HIPAA-compliant offerings because it costs more and fewer competitors can provide it programmatically [2].
+
 ## References
 
 1. [Inside the Group Partner Lounge: Turning Users Into Paid Customers](https://www.ycombinator.com/library/J3-inside-the-group-partner-lounge-turning-users-into-paid-customers) — [[Harj Taggar]], [[Michael Seibel]], [[Brad Flora]] (2021)
+2. [On starting and scaling direct mail automation startup Lob](https://ycombinator.com/library/6a-on-starting-and-scaling-direct-mail-automation-startup-lob) -- [[Harry Zhang]], [[Kevin Hale]] (2019)

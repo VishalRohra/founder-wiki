@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["talking to users", "user interviews", "customer interviews", "user research", "how to talk to users", "customer discovery", "user feedback", "customer validation"]
 related: ["[[Product-Market Fit]]", "[[Startup Ideas]]", "[[Doing Things That Don't Scale]]", "[[Startup Essentials]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "Gustaf Alstromer"]
-sources: ["DV-dalton-michael-successful-founders-are-ok-with-rejection", "Iq-how-to-talk-to-users"]
-speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Gustaf Alstromer"]
+sources: ["DV-dalton-michael-successful-founders-are-ok-with-rejection", "Iq-how-to-talk-to-users", "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps", "MJ-how-to-build-the-future-tony-xu", "MC-how-to-build-the-future-aravind-srinivas", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "K2-backstory-surbhi-sarna", "6I-on-starting-and-scaling-recruiting-software-startup-lever"]
+speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Gustaf Alstromer", "David Lieb", "Tony Xu", "Aravind Srinivas", "Vidit Aatrey", "Surbhi Sarna", "Sarah Nahm"]
 ---
 
 # Talking to Users
@@ -140,7 +140,52 @@ Caldwell tells the canonical Airbnb story to illustrate the full value chain of 
 
 Caldwell contrasts this with the alternative scenario -- sending an email survey asking "How do you like Airbnb?" -- which would have produced checkbox responses. In the real scenario, they received a comprehensive product roadmap from their most experienced user. Seibel argues the information gap is not merely a difference in quantity: "It could be negative" for surveys, because they can create false confidence that leads founders away from the truth [1].
 
+
+## Calling Your Top Users (David Lieb)
+
+When Bump's growth was flattening, [[David Lieb]] recalled PG's advice: "When you're stuck, go talk to your users." He pulled a list of the top 100 Bump users globally and began calling them directly. The discovery: most heavy users were not using Bump for contact sharing but for photo sharing with spouses. This insight led directly to Flock and eventually to Google Photos [3].
+
+At Google Photos scale (billions of users), direct conversation is impossible. Lieb uses AI systems to cluster feedback, a user research team that travels globally, and heavy reliance on personal intuition built from years of user contact [3].
+
+## Bar Testing vs. Lab Testing (David Lieb)
+
+Lieb's team at Bump did user testing at bars rather than labs. The reasoning: bars are social environments where the product was naturally relevant, and "when people have a couple drinks, they actually tell you what they think, whereas when you bring someone into a lab and set them down behind the mirrored glass, they know they're being studied, and so they behave differently" [3].
+
+## Immersion Over Surveys (Tony Xu)
+
+[[Tony Xu]] took talking to users a step further: total immersion. Rather than asking merchants survey questions, the DoorDash founders asked: "Can we follow you around for a day? We'll go and pack boxes with you, do your accounting with you, make salads with you" [4]. The rationale: "Sometimes it's very, very hard for any customer to tell you exactly what is inside their brain" [4]. See [[DoorDash: Creating a Market from Scratch]].
+
+## Feedback Channel Ranking (Aravind Srinivas)
+
+[[Aravind Srinivas]] ranks feedback channels by honesty [5]:
+
+1. **X (Twitter)**: Most useful because "people are just super brutally honest there."
+2. **Email**: "People are a lot more polite," which is acceptable but less useful.
+3. **In person**: The worst channel. "You go show someone something and they're just going to tell you good things, even if they hate it."
+
+Srinivas personally reviews user complaints on Twitter and engages directly, using hater feedback to identify genuine product issues [5].
+
+## CEO as Permanent User Connection (Vidit Aatrey)
+
+[[Vidit Aatrey]] of Meesho added every new user to his personal WhatsApp from day one, offered direct customer support, and by 2019 maintained 100-200 top users on his WhatsApp. He created a monthly "We Hear You" video: a town hall format where the CEO shares what the company did, plans to do, and what is not working [6]. All managers sit in the call center for half a day every month. "Everyone comes out with something new that they never thought about" [6].
+
+His principle: "The day you start taking assumptions, start thinking on behalf of your users, you start doing mistakes" [6]. This is especially important when building for users who are not like the founders [6].
+
+## The Gynecologist Visit (Surbhi Sarna)
+
+[[Surbhi Sarna]] needed to validate her medical device concept with gynecologists but did not know any. She called her own gynecologist's office, pretended to have a stomach ache, and during a pelvic exam said: "Hey, I have this new catheter concept I wanted to talk to you about" [7]. The doctor agreed to meet at a cafe, then introduced Sarna to physicians at UC Davis and Stanford [7].
+
+## Listening to Customers as Accountability (Sarah Nahm)
+
+[[Sarah Nahm]] of Lever frames customer listening as the company's accountability system: "What your customers say about you or what they say to their friends when they're talking about your software -- that's ultimately who you are" [8]. When Lever's first product was described by customers as incremental, the team threw it out entirely [8].
+
 ## References
 
 1. [Dalton & Michael: Successful Founders Are OK with Rejection](https://ycombinator.com/library/DV-dalton-michael-successful-founders-are-ok-with-rejection) -- [[Dalton Caldwell]], [[Michael Seibel]] (2022)
 2. [How to Talk to Users](https://ycombinator.com/library/Iq-how-to-talk-to-users) -- Gustaf Alstromer (2022)
+3. [On Starting and Scaling One of the Biggest iOS Apps](https://ycombinator.com/library/5f-on-starting-and-scaling-one-of-the-biggest-ios-apps) -- [[David Lieb]], Gustaf Alstromer (n.d.)
+4. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], [[Garry Tan]] (2025)
+5. [How To Build The Future: Aravind Srinivas](https://ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas) -- [[Aravind Srinivas]], [[David Lieb]] (2025)
+6. [On Starting and Scaling Indian Shopping Site Meesho](https://ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho) -- [[Vidit Aatrey]], Adora Cheung (2019)
+7. [Backstory: Surbhi Sarna](https://ycombinator.com/library/K2-backstory-surbhi-sarna) -- [[Surbhi Sarna]] (2024)
+8. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)

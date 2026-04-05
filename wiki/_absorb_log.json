@@ -878,5 +878,264 @@
     "articles_touched": [
       "wiki/topics/startup-ideas.md"
     ]
+  },
+  "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "David Lieb",
+      "Gustaf Alstr\u00f6mer",
+      "Craig Cannon"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/bump-and-google-photos.md",
+      "wiki/speakers/david-lieb.md",
+      "wiki/topics/ai-and-startups.md",
+      "wiki/topics/doing-things-that-dont-scale.md",
+      "wiki/topics/pivoting.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/talking-to-users.md",
+      "wiki/topics/competing-with-big-companies.md"
+    ]
+  },
+  "6N-vinod-khosla-on-how-to-build-the-future": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Vinod Khosla",
+      "Sam Altman"
+    ],
+    "articles_touched": [
+      "wiki/speakers/vinod-khosla.md",
+      "wiki/speakers/sam-altman.md",
+      "wiki/frameworks/gene-pool-engineering.md",
+      "wiki/topics/equity-split.md",
+      "wiki/topics/investor-incentives.md",
+      "wiki/topics/hiring-at-early-stage.md"
+    ]
+  },
+  "Lp-how-to-build-the-future-sam-altman": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Sam Altman",
+      "Garry Tan"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/openai.md",
+      "wiki/speakers/sam-altman.md",
+      "wiki/speakers/garry-tan.md",
+      "wiki/topics/ai-and-startups.md",
+      "wiki/topics/competing-with-big-companies.md"
+    ]
+  },
+  "MC-how-to-build-the-future-aravind-srinivas": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Aravind Srinivas",
+      "David Lieb"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/perplexity.md",
+      "wiki/speakers/aravind-srinivas.md",
+      "wiki/topics/ai-and-startups.md",
+      "wiki/topics/pivoting.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/talking-to-users.md",
+      "wiki/topics/competing-with-big-companies.md",
+      "wiki/topics/customer-relationships.md"
+    ]
+  },
+  "MJ-how-to-build-the-future-tony-xu": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Tony Xu",
+      "Garry Tan"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/doordash.md",
+      "wiki/speakers/tony-xu.md",
+      "wiki/speakers/garry-tan.md",
+      "wiki/topics/doing-things-that-dont-scale.md",
+      "wiki/topics/talking-to-users.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/competing-with-big-companies.md",
+      "wiki/topics/customer-relationships.md",
+      "wiki/topics/investor-incentives.md"
+    ]
+  },
+  "5N-on-starting-and-scaling-bloom-institute-of-technology": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Austen Allred"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/lambda-school.md",
+      "wiki/speakers/austen-allred.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/seed-fundraising.md"
+    ]
+  },
+  "6L-on-starting-and-scaling-construction-startup-plangrid": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Tracy Young"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/plangrid.md",
+      "wiki/speakers/tracy-young.md",
+      "wiki/topics/doing-things-that-dont-scale.md",
+      "wiki/topics/hiring-at-early-stage.md",
+      "wiki/topics/co-founders.md",
+      "wiki/topics/founder-mindset.md"
+    ]
+  },
+  "6a-on-starting-and-scaling-direct-mail-automation-startup-lob": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Harry Zhang",
+      "Kevin Hale"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/lob.md",
+      "wiki/speakers/harry-zhang.md",
+      "wiki/speakers/kevin-hale.md",
+      "wiki/topics/doing-things-that-dont-scale.md",
+      "wiki/topics/enterprise-sales.md",
+      "wiki/topics/pricing-and-monetization.md",
+      "wiki/topics/hiring-at-early-stage.md"
+    ]
+  },
+  "5I-on-starting-and-scaling-healthcare-startup-23andme": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Anne Wojcicki",
+      "Sam Altman"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/23andme.md",
+      "wiki/speakers/anne-wojcicki.md",
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/hard-tech-startups.md",
+      "wiki/topics/hiring-at-early-stage.md",
+      "wiki/topics/founder-mindset.md"
+    ]
+  },
+  "69-on-starting-and-scaling-meal-kit-company-gobble": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Ooshma Garg"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/gobble.md",
+      "wiki/speakers/ooshma-garg.md",
+      "wiki/topics/doing-things-that-dont-scale.md",
+      "wiki/topics/pivoting.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/seed-fundraising.md",
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "Co-embark-trucks-w16-road-to-ipo": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Geoff Ralston"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/embark-trucks.md",
+      "wiki/speakers/geoff-ralston.md",
+      "wiki/topics/pivoting.md",
+      "wiki/topics/hard-tech-startups.md"
+    ]
+  },
+  "6M-on-starting-and-scaling-indian-shopping-site-meesho": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Vidit Aatrey",
+      "Adora Cheung"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/meesho.md",
+      "wiki/speakers/vidit-aatrey.md",
+      "wiki/topics/pivoting.md",
+      "wiki/topics/talking-to-users.md",
+      "wiki/topics/co-founders.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/growth.md",
+      "wiki/topics/startup-leadership.md"
+    ]
+  },
+  "6I-on-starting-and-scaling-recruiting-software-startup-lever": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Sarah Nahm",
+      "Holly Liu"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/lever.md",
+      "wiki/speakers/sarah-nahm.md",
+      "wiki/topics/hiring-at-early-stage.md",
+      "wiki/topics/company-culture.md",
+      "wiki/topics/talking-to-users.md",
+      "wiki/topics/co-founders.md",
+      "wiki/topics/pivoting.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/startup-leadership.md"
+    ]
+  },
+  "M2-how-to-build-the-future-parker-conrad": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Parker Conrad",
+      "Garry Tan"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/rippling.md",
+      "wiki/speakers/parker-conrad.md",
+      "wiki/speakers/garry-tan.md",
+      "wiki/frameworks/compound-startup.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/pivoting.md",
+      "wiki/topics/dealing-with-setbacks.md",
+      "wiki/topics/ai-and-startups.md",
+      "wiki/topics/growth.md",
+      "wiki/topics/startup-leadership.md",
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "6S-on-starting-and-scaling-dropbox-yc-w07": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Drew Houston",
+      "Sam Altman"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/dropbox.md",
+      "wiki/speakers/drew-houston.md",
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/growth.md",
+      "wiki/topics/co-founders.md",
+      "wiki/topics/pivoting.md",
+      "wiki/topics/dealing-with-setbacks.md",
+      "wiki/topics/startup-leadership.md"
+    ]
+  },
+  "KY-backstory-tom-blomfield": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Tom Blomfield"
+    ],
+    "articles_touched": [
+      "wiki/speakers/tom-blomfield.md",
+      "wiki/topics/dealing-with-setbacks.md"
+    ]
+  },
+  "K2-backstory-surbhi-sarna": {
+    "absorbed_date": "2026-04-05",
+    "speakers": [
+      "Surbhi Sarna"
+    ],
+    "articles_touched": [
+      "wiki/case-studies/nvision-medical.md",
+      "wiki/speakers/surbhi-sarna.md",
+      "wiki/topics/talking-to-users.md"
+    ]
   }
 }

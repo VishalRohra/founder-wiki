@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["startup growth", "growth rate", "growing a startup", "growth strategy", "growth team", "scaling growth", "weekly growth rate", "user acquisition", "compound growth", "traction", "user growth"]
 related: ["[[Product-Market Fit]]", "[[Doing Things That Don't Scale]]", "[[Default Alive or Default Dead]]", "[[Financial Survival]]", "[[Early-Stage Mistakes]]", "[[Enterprise Sales]]", "[[Seed Fundraising]]", "[[Paul Graham]]", "[[Sam Altman]]", "[[Anu Hariharan]]", "[[Pricing and Monetization]]", "[[Selling to Startups]]"]
-sources: ["8s-startup-growth", "4p-before-growing-your-startup", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups"]
-speakers_referenced: ["Paul Graham", "Sam Altman", "Anu Hariharan", "Gustaf Alströmer"]
+sources: ["8s-startup-growth", "4p-before-growing-your-startup", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "M2-how-to-build-the-future-parker-conrad"]
+speakers_referenced: ["Paul Graham", "Sam Altman", "Anu Hariharan", "Gustaf Alströmer", "Drew Houston", "Vidit Aatrey", "Parker Conrad"]
 ---
 
 # Growth
@@ -197,6 +197,21 @@ Raising money lets founders "choose their growth rate." The most successful star
 
 Growth also explains why successful startups get acquisition offers. A rapidly growing company is not merely valuable but dangerous to incumbents. "Most product acquisitions have some component of fear," Graham writes. Acquirers often pay more than ordinary investors would because a startup is doubly valuable -- for what it is and for what it could become in a competitor's hands [1].
 
+
+## Dropbox: Viral Growth Mechanics (Drew Houston)
+
+[[Drew Houston]] built Dropbox's growth engine on Dave McClure's AARRR framework [8]. Four of five new signups did not put a file in their Dropbox or install the client. Houston brought five people off Craigslist and watched them try to install -- zero succeeded [8].
+
+The referral program (both sides get free storage) drove 30% of all signups. Shared folders drove another 20%. Half of all Dropbox signups were viral [8]. The demo video posted on Hacker News stayed at the top for two days and became a repeatable tactic [8].
+
+## Meesho: Growth-Quality Cycles (Vidit Aatrey)
+
+[[Vidit Aatrey]] describes Meesho's growth in six-month cycles alternating between expansion and quality improvement. Growth was driven by progressively expanding the addressable market: first existing WhatsApp sellers, then new resellers (housewives), then expanding categories, then cross-border supply chains from China [9].
+
+## Rippling: Growth Beyond Sales (Parker Conrad)
+
+[[Parker Conrad]] argues software sales and marketing is fundamentally broken: "Public companies are spending 50% more on sales and marketing but they're adding 10% less in new ARR" [10]. The compound startup thesis reduces dependency on expensive acquisition by serving more of a customer's needs [10].
+
 ## References
 
 1. [Startup = Growth](https://www.ycombinator.com/library/8s-startup-growth) -- [[Paul Graham]] (September 2012)
@@ -206,3 +221,6 @@ Growth also explains why successful startups get acquisition offers. A rapidly g
 5. [Do Things That Don't Scale](https://www.ycombinator.com/library/96-do-things-that-don-t-scale) -- [[Paul Graham]] (July 2013)
 6. [Default Alive or Default Dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead) -- [[Paul Graham]] (October 2015)
 7. [The 18 Mistakes That Kill Startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups) -- [[Paul Graham]] (October 2006)
+8. [On Starting and Scaling Dropbox (YC W07)](https://ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07) -- [[Drew Houston]], [[Sam Altman]] (2017)
+9. [On Starting and Scaling Indian Shopping Site Meesho](https://ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho) -- [[Vidit Aatrey]], Adora Cheung (2019)
+10. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)
