@@ -4,7 +4,7 @@ type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Aaron King", "Snapdocs founder"]
-related: ["[[Snapdocs: Navigating Market Cycles]]", "[[Capital Efficiency]]", "[[Navigating Market Cycles]]"]
+related: ["[[Snapdocs: Navigating Market Cycles]]"]
 sources: ["Gu-snapdocs-aaron-king-on-navigating-market-cycles"]
 ---
 
@@ -14,7 +14,7 @@ Aaron King is the founder and CEO of [[Snapdocs: Navigating Market Cycles|Snapdo
 
 ## Worldview
 
-King's philosophy centers on discipline forged by constraints. He argues that [[Capital Efficiency|capital efficiency]] is not just a necessity for bootstrapped companies but a virtue that should persist even after raising large rounds. Capital constraints forced good behaviors — ruthless prioritization, deep customer involvement, short feedback loops — that served Snapdocs well even after raising more funding [1].
+King's philosophy centers on discipline forged by constraints. He argues that capital efficiency is not just a necessity for bootstrapped companies but a virtue that should persist even after raising large rounds. Capital constraints forced good behaviors — ruthless prioritization, deep customer involvement, short feedback loops — that served Snapdocs well even after raising more funding [1].
 
 He views market cycles as natural and unavoidable rather than threatening. His approach is to selectively ignore some market changes while reacting quickly to others, filtered through alignment with resources, vision, and a north star metric (market share growth) [1].
 

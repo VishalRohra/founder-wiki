@@ -1,127 +1,94 @@
 {
-  "Pitch Deck Design": [
-    "Aaron Harris",
-    "Kevin Hale",
-    "Legible Simple Obvious",
-    "Seed Fundraising",
-    "Series A Fundraising"
+  "Cohort Retention": [
+    "David Lieb"
   ],
   "Legible Simple Obvious": [
     "Kevin Hale",
     "Pitch Deck Design"
   ],
-  "Seed Fundraising": [
-    "Aaron Harris",
-    "Biotech Startup Funding",
-    "Convincing Investors",
-    "Equity Split",
-    "Growth",
-    "Kevin Hale",
-    "Pitch Deck Design",
-    "Runway Management",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising",
-    "Series A Term Sheets",
-    "Startup Essentials",
-    "Startup Outcomes and Optionality",
-    "University Spinouts"
-  ],
-  "Feature Prioritization Frameworks": [
-    "Emmett Shear"
-  ],
-  "Product-Market Fit": [
-    "Convincing Investors",
-    "Emmett Shear",
-    "Enterprise Sales",
-    "Feature Prioritization Frameworks",
-    "Growth",
-    "Product Development",
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising",
-    "Startup Essentials",
-    "University Spinouts"
-  ],
-  "Growth": [
-    "Anu Hariharan",
-    "Blake Scholl",
-    "Boom Technology",
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Emmett Shear",
-    "Enterprise Sales",
-    "Feature Prioritization Frameworks",
-    "Financial Survival",
-    "Getting Press",
-    "Hard Tech Startups",
-    "Network Effects",
-    "Paul Graham",
-    "Product-Market Fit",
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising",
-    "Startup Outcomes and Optionality"
+  "Garry Tan": [
+    "AI Coding Agents",
+    "Athelas",
+    "Forward Deployed Engineers",
+    "Jessica Livingston",
+    "Launching",
+    "Michael Truell",
+    "Prompt Engineering",
+    "Startup Ideas"
   ],
   "Snapdocs: Navigating Market Cycles": [
-    "Aaron King",
-    "Startups for Students"
+    "Aaron King"
   ],
-  "Hiring Engineers": [
-    "Becoming a Founder",
-    "Harj Taggar"
-  ],
-  "Startup Ideas": [
+  "Paul Graham": [
+    "Co-Founders",
     "Convincing Investors",
+    "Dalton Caldwell",
+    "Default Alive or Default Dead",
     "Doing Things That Don't Scale",
     "Early-Stage Mistakes",
+    "Equity Equation",
+    "Equity Split",
+    "Financial Survival",
+    "Forward Deployed Engineers",
     "Founder Mindset",
-    "Paul Graham",
-    "Product-Market Fit",
-    "Schlep Filter",
-    "Starting Young",
-    "Startups for Students"
-  ],
-  "Doing Things That Don't Scale": [
-    "Default Alive or Default Dead",
-    "Early-Stage Mistakes",
-    "Founder Mindset",
+    "Founder Productivity",
     "Growth",
-    "Paul Graham",
+    "Jessica Livingston",
+    "Launching",
+    "Michael Seibel",
+    "Network Effects",
     "Product-Market Fit",
+    "Runway Management",
+    "Sam Altman",
     "Schlep Filter",
     "Starting Young",
     "Startup Essentials",
-    "Startup Ideas"
+    "Startup Ideas",
+    "Talking to Users"
   ],
-  "Founder Mindset": [
-    "Doing Things That Don't Scale",
-    "Early-Stage Mistakes",
-    "Paul Graham",
-    "Schlep Filter",
-    "Starting Young",
-    "Startup Ideas"
-  ],
-  "Financial Survival": [
-    "Default Alive or Default Dead",
-    "Early-Stage Mistakes",
-    "Equity Equation",
+  "Sam Altman": [
     "Growth",
-    "Paul Graham",
-    "Starting Young"
+    "Jessica Livingston",
+    "Product-Market Fit",
+    "Sam Altman",
+    "Scaling and Later-Stage Operations",
+    "Startup Essentials",
+    "Startup Outcomes and Optionality"
   ],
-  "Early-Stage Mistakes": [
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Equity Equation",
+  "Jared Friedman": [
+    "Biotech Startup Funding",
+    "Equity Split",
+    "Forward Deployed Engineers",
+    "Garry Tan",
+    "Hard Tech Startups",
+    "Jessica Livingston",
+    "Pivoting",
+    "Prompt Engineering",
+    "Scale AI",
+    "Startup Ideas",
+    "University Spinouts"
+  ],
+  "Harj Taggar": [
+    "Brad Flora",
+    "Co-Founders",
+    "Competing with Big Companies",
+    "Equity Split",
+    "Forward Deployed Engineers",
+    "Garry Tan",
+    "Hiring Engineers",
+    "Jessica Livingston",
+    "Launching",
+    "Pivoting",
+    "Prompt Engineering",
+    "Startup Ideas"
+  ],
+  "Schlep Filter": [
+    "Paul Graham",
+    "Startup Ideas"
+  ],
+  "Default Alive or Default Dead": [
+    "Early-Stage Mistakes",
     "Financial Survival",
-    "Founder Mindset",
-    "Growth",
-    "Paul Graham",
-    "Starting Young",
-    "Startup Ideas"
-  ],
-  "Starting Young": [
-    "Founder Mindset",
     "Paul Graham"
   ],
   "Equity Equation": [
@@ -129,77 +96,81 @@
     "Financial Survival",
     "Paul Graham"
   ],
-  "Default Alive or Default Dead": [
-    "Doing Things That Don't Scale",
+  "Michael Seibel": [
+    "Becoming a Founder",
+    "Board Management",
+    "Brad Flora",
+    "Co-Founders",
+    "Competing with Big Companies",
+    "Dalton Caldwell",
+    "Dev Shops and Outsourced Development",
     "Early-Stage Mistakes",
-    "Financial Survival",
-    "Growth",
-    "Paul Graham"
-  ],
-  "Schlep Filter": [
-    "Paul Graham",
-    "Startup Ideas"
-  ],
-  "Convincing Investors": [
-    "Co-Founders",
-    "Paul Graham",
-    "Snapdocs: Navigating Market Cycles",
-    "Startups for Students"
-  ],
-  "Co-Founders": [
+    "Enterprise Sales",
     "Equity Split",
-    "Paul Graham",
-    "Snapdocs: Navigating Market Cycles",
-    "Startups for Students"
+    "Financial Survival",
+    "Founder Productivity",
+    "Getting Press",
+    "Launching",
+    "MVP",
+    "Pitching Investors vs. Customers",
+    "Pivoting",
+    "Pricing",
+    "Product Development",
+    "Product-Market Fit",
+    "Seed Fundraising",
+    "Startup Essentials",
+    "Startup Ideas",
+    "Startups for Students",
+    "Talking to Users",
+    "University Spinouts"
   ],
-  "Startups for Students": [
-    "Co-Founders",
-    "Paul Graham"
+  "Forward Deployed Engineers": [
+    "AI in Logistics",
+    "Doing Things That Don't Scale",
+    "Garry Tan",
+    "Prompt Engineering"
   ],
   "WeChat": [
     "Anu Hariharan",
     "China Tech Ecosystem",
     "Network Effects",
     "Pinduoduo",
-    "Social Commerce",
-    "Toutiao"
+    "Social Commerce"
   ],
   "Pinduoduo": [
     "Anu Hariharan",
     "China Tech Ecosystem",
     "Network Effects",
-    "Social Commerce",
-    "Toutiao",
-    "WeChat"
+    "Social Commerce"
   ],
   "Toutiao": [
     "Anu Hariharan",
     "China Tech Ecosystem",
     "Network Effects",
-    "Social Commerce",
-    "WeChat"
+    "Social Commerce"
   ],
-  "Board Management": [
-    "Anu Hariharan",
+  "Runway Management": [
+    "Dalton Caldwell"
+  ],
+  "Product-Market Fit": [
+    "Dalton Caldwell",
+    "Enterprise Sales",
+    "Equity Split",
+    "Financial Survival",
+    "Growth",
+    "Launching",
+    "MVP",
+    "Pricing",
+    "Sam Altman",
+    "Scaling and Later-Stage Operations",
     "Series A Fundraising",
-    "Startup Leadership",
-    "Startup Management"
+    "Startup Essentials",
+    "Startup Terminology"
   ],
-  "Social Commerce": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Network Effects",
-    "Pinduoduo"
-  ],
-  "China Tech Ecosystem": [
-    "Anu Hariharan"
-  ],
-  "Startup Leadership": [
-    "Ali Rowghani",
-    "Board Management",
-    "Mission-to-Metrics Framework",
-    "Startup Management",
-    "Three Traits of Great Leadership"
+  "Growth": [
+    "Cohort Retention",
+    "Gustaf Alströmer",
+    "Product-Market Fit"
   ],
   "Three Traits of Great Leadership": [
     "Ali Rowghani",
@@ -208,106 +179,29 @@
   "Mission-to-Metrics Framework": [
     "Ali Rowghani",
     "Startup Leadership",
-    "Startup Management",
-    "Three Traits of Great Leadership"
+    "Startup Management"
   ],
-  "Hard Tech Startups": [
-    "Athelas",
-    "Blake Scholl",
-    "Boom Technology",
-    "Jared Friedman",
-    "University Spinouts"
-  ],
-  "Enterprise Sales": [
-    "Blake Scholl",
-    "Boom Technology",
-    "Growth",
-    "Product-Market Fit"
-  ],
-  "Scaling and Later-Stage Operations": [
-    "Enterprise Sales",
-    "Sam Altman",
-    "Startup Outcomes and Optionality"
-  ],
-  "Startup Outcomes and Optionality": [
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising"
-  ],
-  "University Spinouts": [
-    "Athelas",
-    "Equity Split",
-    "Hard Tech Startups",
-    "Jared Friedman"
-  ],
-  "Equity Split": [
+  "Dalton Caldwell": [
+    "Becoming a Founder",
     "Co-Founders",
-    "Jared Friedman",
-    "University Spinouts"
-  ],
-  "Series A Fundraising": [
-    "Aaron Harris",
-    "Board Management",
+    "Competing with Big Companies",
     "Enterprise Sales",
-    "Hard Tech Startups",
+    "Financial Survival",
+    "Founder Productivity",
+    "Michael Seibel",
+    "Pivoting",
+    "Pricing",
     "Product-Market Fit",
-    "Runway Management",
-    "Seed Fundraising"
+    "Startup Ideas",
+    "Startup Terminology"
   ],
   "Product Development": [
-    "Michael Seibel",
-    "Snapdocs: Navigating Market Cycles",
-    "Startup Essentials"
-  ],
-  "Getting Press": [
     "Michael Seibel"
-  ],
-  "Becoming a Founder": [
-    "Hiring Engineers",
-    "Michael Seibel",
-    "Startup Essentials"
-  ],
-  "Startup Essentials": [
-    "Becoming a Founder",
-    "Biotech Startup Funding",
-    "Getting Press",
-    "Michael Seibel",
-    "Pitch Deck Design",
-    "Product Development",
-    "Product-Market Fit",
-    "Series A Term Sheets"
-  ],
-  "Paul Graham": [
-    "Co-Founders",
-    "Convincing Investors",
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Early-Stage Mistakes",
-    "Equity Equation",
-    "Equity Split",
-    "Financial Survival",
-    "Founder Mindset",
-    "Growth",
-    "Michael Seibel",
-    "Network Effects",
-    "Product-Market Fit",
-    "Runway Management",
-    "Schlep Filter",
-    "Seed Fundraising",
-    "Starting Young",
-    "Startup Essentials",
-    "Startup Ideas",
-    "Startups for Students"
-  ],
-  "Network Effects": [
-    "Pinduoduo",
-    "Social Commerce",
-    "Toutiao",
-    "WeChat"
   ],
   "Anu Hariharan": [
     "Board Management",
     "China Tech Ecosystem",
+    "Cohort Retention",
     "Growth",
     "Network Effects",
     "Pinduoduo",
@@ -315,6 +209,9 @@
     "Social Commerce",
     "Toutiao",
     "WeChat"
+  ],
+  "Starting Young": [
+    "Scale AI"
   ],
   "Blake Scholl": [
     "Boom Technology",
@@ -323,8 +220,16 @@
   "Aaron King": [
     "Snapdocs: Navigating Market Cycles"
   ],
+  "Doing Things That Don't Scale": [
+    "Default Alive or Default Dead",
+    "Forward Deployed Engineers",
+    "Growth",
+    "Starting Young",
+    "Talking to Users"
+  ],
   "Emmett Shear": [
     "Feature Prioritization Frameworks",
+    "Founder Productivity",
     "Product-Market Fit"
   ],
   "Ali Rowghani": [
@@ -334,61 +239,93 @@
     "Three Traits of Great Leadership"
   ],
   "Startup Management": [
-    "Mission-to-Metrics Framework",
-    "Startup Leadership"
+    "Mission-to-Metrics Framework"
   ],
   "Kevin Hale": [
     "Legible Simple Obvious",
     "Pitch Deck Design",
-    "Seed Fundraising"
+    "Pricing"
   ],
-  "Michael Seibel": [
-    "Becoming a Founder",
-    "Board Management",
-    "Co-Founders",
-    "Getting Press",
-    "Hiring Engineers",
-    "Product Development",
-    "Startup Essentials",
-    "Startups for Students",
-    "University Spinouts"
+  "Tom Blomfield": [
+    "AI Coding Agents",
+    "B2B Pricing",
+    "Enterprise Sales",
+    "Pivoting",
+    "Startup Metrics"
   ],
-  "Jared Friedman": [
-    "Biotech Startup Funding",
-    "Equity Split",
+  "Andrej Karpathy": [
+    "AI Coding Agents",
+    "AI-Native Software"
+  ],
+  "Michael Truell": [
+    "AI Coding Agents"
+  ],
+  "Startup Ideas": [
+    "Early-Stage Mistakes",
+    "Founder Mindset"
+  ],
+  "University Spinouts": [
+    "Equity Split"
+  ],
+  "Gustaf Alströmer": [
+    "Conversion Rates",
     "Hard Tech Startups",
-    "Seed Fundraising",
-    "University Spinouts"
+    "Pivoting",
+    "Talking to Users"
   ],
-  "Series A Term Sheets": [
-    "Biotech Startup Funding",
-    "Series A Fundraising"
+  "Pete Koomen": [
+    "AI-Native Software",
+    "B2B Pricing",
+    "Enterprise Sales",
+    "Prompt Engineering"
   ],
-  "Sam Altman": [
-    "Growth",
-    "Product-Market Fit",
-    "Scaling and Later-Stage Operations",
-    "Startup Essentials",
-    "Startup Outcomes and Optionality"
+  "Series A Fundraising": [
+    "Product-Market Fit"
   ],
-  "Runway Management": [
-    "Seed Fundraising"
+  "Jessica Livingston": [
+    "Early-Stage Mistakes",
+    "Product-Market Fit"
+  ],
+  "Early-Stage Mistakes": [
+    "Starting Young"
+  ],
+  "Brad Flora": [
+    "Competing with Big Companies",
+    "Launching",
+    "Pivoting"
+  ],
+  "Startup Leadership": [
+    "Startup Leadership",
+    "Startup Management"
   ],
   "Aaron Harris": [
     "Seed Fundraising",
     "Series A Fundraising",
     "Series A Term Sheets"
   ],
-  "Biotech Startup Funding": [
-    "Series A Term Sheets"
+  "Seed Fundraising": [
+    "Seed Fundraising",
+    "Startup Terminology"
   ],
-  "Athelas": [
-    "Hard Tech Startups"
+  "Equity Split": [
+    "Co-Founders"
   ],
   "Boom Technology": [
     "Hard Tech Startups"
   ],
-  "Harj Taggar": [
+  "Athelas": [
+    "Hard Tech Startups"
+  ],
+  "Co-Founders": [
+    "Startups for Students"
+  ],
+  "David Lieb": [
+    "Cohort Retention"
+  ],
+  "Enterprise Sales": [
     "Hiring Engineers"
+  ],
+  "Financial Survival": [
+    "Early-Stage Mistakes"
   ]
 }

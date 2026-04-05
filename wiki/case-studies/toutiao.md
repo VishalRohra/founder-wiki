@@ -42,7 +42,7 @@ The catchy name ("today's headlines") and icon drove excellent user growth. Tout
 
 ## Force 2: Data Network Effect Across the Entire System
 
-Toutiao exhibits a classic [[data network effect]]: more users produce more data, more data makes the algorithms smarter, smarter algorithms produce better content, and better content attracts more users [1].
+Toutiao exhibits a classic data network effect: more users produce more data, more data makes the algorithms smarter, smarter algorithms produce better content, and better content attracts more users [1].
 
 Toutiao applies this virtuous cycle to optimize every stage of what they call the "content lifecycle": Creation, Curation, Recommendation, and Interaction [1].
 

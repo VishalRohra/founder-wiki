@@ -4,7 +4,7 @@ type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Aaron Harris"]
-related: ["[[Seed Fundraising]]", "[[Series A Fundraising]]", "[[Pitch Deck]]"]
+related: ["[[Seed Fundraising]]", "[[Series A Fundraising]]"]
 sources: ["2u-how-to-build-your-seed-round-pitch-deck", "3h-series-a-diligence-checklist"]
 speakers_referenced: []
 ---
