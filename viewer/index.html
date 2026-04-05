@@ -12,250 +12,177 @@
     background: #f6f6f6;
     color: #202122;
     line-height: 1.6;
+    font-size: 14px;
   }
 
-  /* Wikipedia-style layout */
+  a { color: #36c; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* Header */
   .site-header {
     background: #fff;
     border-bottom: 1px solid #a7d7f9;
-    padding: 8px 20px;
+    padding: 6px 20px;
     display: flex;
     align-items: center;
     gap: 16px;
   }
 
   .site-logo {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     color: #000;
-    text-decoration: none;
     cursor: pointer;
+    font-variant: small-caps;
+    letter-spacing: 0.5px;
   }
-
   .site-logo span { color: #36c; }
+  .site-tagline { font-size: 11px; color: #54595d; font-style: italic; }
 
-  .site-tagline {
-    font-size: 12px;
-    color: #54595d;
-    font-style: italic;
-  }
-
-  .search-bar {
-    margin-left: auto;
-    position: relative;
-  }
-
+  .search-bar { margin-left: auto; position: relative; }
   .search-bar input {
-    padding: 6px 12px;
+    padding: 5px 10px;
     border: 1px solid #a2a9b1;
     border-radius: 2px;
-    font-size: 14px;
-    width: 280px;
-    outline: none;
+    font-size: 13px;
+    width: 260px;
   }
-
-  .search-bar input:focus { border-color: #36c; }
+  .search-bar input:focus { border-color: #36c; outline: none; }
 
   .search-results {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    background: #fff;
-    border: 1px solid #a2a9b1;
-    border-top: none;
-    max-height: 300px;
-    overflow-y: auto;
-    z-index: 100;
-    display: none;
+    position: absolute; top: 100%; left: 0; right: 0;
+    background: #fff; border: 1px solid #a2a9b1; border-top: none;
+    max-height: 300px; overflow-y: auto; z-index: 100; display: none;
   }
-
   .search-results.active { display: block; }
-
-  .search-result-item {
-    padding: 8px 12px;
-    cursor: pointer;
-    border-bottom: 1px solid #eee;
-  }
-
+  .search-result-item { padding: 6px 10px; cursor: pointer; border-bottom: 1px solid #f0f0f0; }
   .search-result-item:hover { background: #eaf3ff; }
-  .search-result-item .title { font-weight: 600; font-size: 14px; }
-  .search-result-item .aliases { font-size: 12px; color: #72777d; }
+  .search-result-item .sr-title { font-weight: 600; font-size: 13px; }
+  .search-result-item .sr-aliases { font-size: 11px; color: #72777d; }
 
-  .layout {
-    display: flex;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
+  /* Layout */
+  .layout { display: flex; max-width: 1100px; margin: 0 auto; }
 
   /* Sidebar */
   .sidebar {
-    width: 220px;
-    min-width: 220px;
-    background: #fff;
-    border-right: 1px solid #ddd;
-    min-height: calc(100vh - 50px);
-    padding: 16px 0;
+    width: 200px; min-width: 200px;
+    background: #f8f9fa; border-right: 1px solid #eaecf0;
+    min-height: calc(100vh - 40px); padding: 12px 0; font-size: 13px;
   }
-
   .sidebar h3 {
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    color: #72777d;
-    padding: 8px 16px 4px;
-    margin-top: 8px;
+    font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px;
+    color: #54595d; padding: 10px 14px 3px; margin-top: 4px; font-weight: 700;
   }
-
   .sidebar a {
-    display: block;
-    padding: 4px 16px;
-    color: #36c;
-    text-decoration: none;
-    font-size: 14px;
+    display: block; padding: 2px 14px; color: #36c; font-size: 13px; line-height: 1.8;
   }
-
-  .sidebar a:hover { background: #eaf3ff; }
+  .sidebar a:hover { background: #eaf3ff; text-decoration: none; }
   .sidebar a.active { background: #eaf3ff; font-weight: 600; }
+  .sidebar .nav-label { display: block; padding: 10px 14px 3px; font-size: 11px; color: #72777d; font-weight: 700; text-transform: uppercase; }
 
-  /* Main content */
+  /* Content */
   .content {
-    flex: 1;
-    background: #fff;
-    padding: 24px 32px;
-    min-height: calc(100vh - 50px);
+    flex: 1; background: #fff; padding: 20px 28px; min-height: calc(100vh - 40px);
   }
 
   .content h1 {
-    font-size: 28px;
-    font-weight: 400;
-    border-bottom: 1px solid #a2a9b1;
-    padding-bottom: 4px;
-    margin-bottom: 16px;
-    font-family: 'Linux Libertine', 'Georgia', serif;
+    font-size: 26px; font-weight: 400; border-bottom: 1px solid #a2a9b1;
+    padding-bottom: 2px; margin-bottom: 12px; font-family: 'Linux Libertine', Georgia, serif;
   }
-
   .content h2 {
-    font-size: 20px;
-    font-weight: 400;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 2px;
-    margin: 24px 0 12px;
-    font-family: 'Linux Libertine', 'Georgia', serif;
+    font-size: 19px; font-weight: 400; border-bottom: 1px solid #eaecf0;
+    padding-bottom: 2px; margin: 20px 0 8px; font-family: 'Linux Libertine', Georgia, serif;
   }
-
-  .content h3 {
-    font-size: 16px;
-    font-weight: 600;
-    margin: 16px 0 8px;
-  }
-
-  .content p { margin-bottom: 12px; }
-
-  .content a {
-    color: #36c;
-    text-decoration: none;
-  }
-
-  .content a:hover { text-decoration: underline; }
-
-  .content table {
-    border-collapse: collapse;
-    margin: 12px 0;
-    font-size: 14px;
-  }
-
-  .content th, .content td {
-    border: 1px solid #a2a9b1;
-    padding: 6px 10px;
-    text-align: left;
-  }
-
-  .content th { background: #eaecf0; }
-
+  .content h3 { font-size: 15px; font-weight: 600; margin: 14px 0 6px; }
+  .content p { margin-bottom: 10px; }
+  .content ul, .content ol { margin: 8px 0 12px 24px; }
+  .content li { margin-bottom: 4px; }
+  .content blockquote { border-left: 3px solid #c8ccd1; padding: 4px 12px; margin: 8px 0; color: #54595d; }
   .content strong { font-weight: 600; }
 
-  /* Article metadata */
-  .article-meta {
-    background: #f8f9fa;
-    border: 1px solid #eaecf0;
-    padding: 12px 16px;
-    margin-bottom: 20px;
+  /* Tables — Wikipedia style */
+  .content table {
+    border-collapse: collapse; margin: 12px 0; font-size: 13px; width: 100%;
+  }
+  .content th {
+    background: #eaecf0; border: 1px solid #a2a9b1; padding: 6px 10px;
+    text-align: left; font-weight: 600;
+  }
+  .content td {
+    border: 1px solid #c8ccd1; padding: 6px 10px; vertical-align: top;
+  }
+  .content tr:nth-child(even) td { background: #f8f9fa; }
+
+  /* Article meta line */
+  .article-meta-line {
+    font-size: 12px; color: #72777d; margin-bottom: 12px; padding-bottom: 8px;
+    border-bottom: 1px solid #eaecf0;
+  }
+  .article-meta-line .meta-type {
+    background: #eaecf0; color: #202122; padding: 1px 6px; border-radius: 2px;
+    font-size: 11px; margin-right: 6px;
+  }
+
+  /* TOC — Wikipedia style */
+  .toc-box {
+    background: #f8f9fa; border: 1px solid #a2a9b1; padding: 10px 14px;
+    margin: 0 0 16px 0; display: inline-block; min-width: 200px; max-width: 320px;
     font-size: 13px;
-    border-radius: 2px;
   }
-
-  .article-meta .type-badge {
-    display: inline-block;
-    background: #36c;
-    color: #fff;
-    padding: 2px 8px;
-    border-radius: 2px;
-    font-size: 11px;
-    text-transform: uppercase;
-    margin-right: 8px;
+  .toc-box .toc-title {
+    font-weight: 700; font-size: 13px; text-align: center; margin-bottom: 6px;
   }
+  .toc-box ol { margin: 0; padding-left: 20px; }
+  .toc-box li { margin: 2px 0; }
+  .toc-box a { color: #36c; }
 
-  .article-meta .speakers { color: #54595d; }
+  /* Backlinks section */
+  .backlinks {
+    background: #f8f9fa; border: 1px solid #eaecf0; padding: 10px 14px;
+    margin-top: 20px; font-size: 13px;
+  }
+  .backlinks h3 { font-size: 13px; margin-bottom: 6px; color: #54595d; border: none; }
+  .backlinks a { margin-right: 12px; }
 
   /* Home page */
-  .home-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 16px;
-    margin-top: 20px;
+  .home-welcome {
+    background: #f8f9fa; border: 1px solid #a2a9b1; padding: 16px 20px; margin-bottom: 20px;
   }
+  .home-welcome h2 { border: none; margin: 0 0 8px; font-size: 20px; }
+  .home-welcome p { margin-bottom: 6px; font-size: 14px; }
+  .home-welcome .home-stats { font-size: 13px; color: #54595d; margin-top: 8px; }
 
-  .home-card {
-    border: 1px solid #ddd;
-    padding: 16px;
-    background: #fff;
-    cursor: pointer;
-    transition: box-shadow 0.15s;
+  .category-section { margin-bottom: 20px; }
+  .category-section h2 {
+    background: #dde8f0; padding: 6px 12px; margin: 0 0 1px;
+    font-size: 15px; font-weight: 600; border: 1px solid #a2a9b1; border-bottom: none;
+    font-family: -apple-system, sans-serif;
   }
-
-  .home-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
-  .home-card h3 { font-size: 16px; margin-bottom: 6px; color: #36c; }
-  .home-card p { font-size: 13px; color: #54595d; }
-
-  .stats-bar {
-    background: #eaf3ff;
-    border: 1px solid #a7d7f9;
-    padding: 12px 16px;
-    margin-bottom: 20px;
-    font-size: 14px;
-    border-radius: 2px;
+  .category-list {
+    border: 1px solid #a2a9b1; padding: 10px 14px; background: #fff;
   }
-
-  .stats-bar span { margin-right: 24px; }
-
-  /* TOC */
-  .toc {
-    background: #f8f9fa;
-    border: 1px solid #eaecf0;
-    padding: 12px 16px;
-    margin-bottom: 20px;
-    font-size: 13px;
-    float: right;
-    max-width: 260px;
-    margin-left: 20px;
+  .category-list ul { list-style: none; padding: 0; margin: 0; }
+  .category-list li {
+    display: inline; font-size: 13px;
   }
+  .category-list li:after { content: " · "; color: #a2a9b1; }
+  .category-list li:last-child:after { content: ""; }
+  .category-list .item-type { color: #72777d; font-size: 12px; }
 
-  .toc h4 { margin-bottom: 6px; font-size: 13px; }
-  .toc a { display: block; color: #36c; text-decoration: none; padding: 2px 0; }
-  .toc a:hover { text-decoration: underline; }
+  .home-columns { display: flex; gap: 20px; }
+  .home-col { flex: 1; }
 
   @media (max-width: 768px) {
     .sidebar { display: none; }
-    .search-bar input { width: 180px; }
-    .toc { float: none; max-width: 100%; margin-left: 0; }
+    .search-bar input { width: 160px; }
+    .home-columns { flex-direction: column; }
   }
 </style>
 </head>
 <body>
 
 <header class="site-header">
-  <a class="site-logo" onclick="showHome()">founder<span>wiki</span></a>
+  <a class="site-logo" onclick="showHome()">Founder<span>Wiki</span></a>
   <span class="site-tagline">The compiled startup knowledge base</span>
   <div class="search-bar">
     <input type="text" id="search" placeholder="Search founder wiki..." oninput="onSearch(this.value)" onfocus="onSearch(this.value)">
@@ -273,100 +200,73 @@
 const ARTICLES = {};
 const ARTICLE_LIST = [];
 
-// Parse frontmatter from markdown
-function parseFrontmatter(md) {
-  const match = md.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
-  if (!match) return { meta: {}, body: md };
-  const meta = {};
-  const lines = match[1].split('\n');
-  let currentKey = null;
-  let currentVal = '';
-
-  for (const line of lines) {
-    // New key-value pair
-    const kv = line.match(/^(\w[\w_]*):\s*(.*)$/);
-    if (kv) {
-      // Save previous key if any
-      if (currentKey) meta[currentKey] = parseYamlValue(currentVal.trim());
-      currentKey = kv[1];
-      currentVal = kv[2];
-    } else if (currentKey && (line.startsWith('  ') || line.startsWith('- '))) {
-      // Continuation of previous value
-      currentVal += '\n' + line;
-    }
-  }
-  // Save last key
-  if (currentKey) meta[currentKey] = parseYamlValue(currentVal.trim());
-
-  return { meta, body: match[2] };
-}
-
-function parseYamlValue(val) {
-  if (!val) return '';
-  // Remove surrounding quotes
-  if (val.startsWith('"') && val.endsWith('"')) val = val.slice(1, -1);
-  // JSON array
-  if (val.startsWith('[')) {
-    try {
-      // Normalize: replace [[ with [, handle wikilinks in arrays
-      const cleaned = val.replace(/\[\[/g, '"[[').replace(/\]\]/g, ']]"')
-        .replace(/"""/g, '"');
-      return JSON.parse(cleaned);
-    } catch(e) {
-      try { return JSON.parse(val.replace(/'/g, '"')); } catch(e2) {}
-      // Manual parse: extract strings between quotes
-      const items = [];
-      const re = /"([^"]+)"/g;
-      let m;
-      while ((m = re.exec(val)) !== null) items.push(m[1]);
-      return items.length ? items : val;
-    }
-  }
-  return val;
-}
-
-// Convert wikilinks to clickable links
+// Wikilink handling — supports [[Name]] and [[Slug|Display Name]]
 function processWikilinks(html) {
-  return html.replace(/\[\[([^\]]+)\]\]/g, (match, name) => {
+  return html.replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (m, target, display) => {
+    const slug = target.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    return `<a href="#" onclick="navigateTo('${slug}'); return false;">${display}</a>`;
+  }).replace(/\[\[([^\]]+)\]\]/g, (m, name) => {
     const slug = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
     return `<a href="#" onclick="navigateTo('${slug}'); return false;">${name}</a>`;
   });
 }
 
-// Load articles from pre-built JSON
+// Compute backlinks for an article
+function getBacklinks(slug) {
+  const links = [];
+  ARTICLE_LIST.forEach(a => {
+    if (a.slug === slug) return;
+    // Check if this article's body contains a wikilink to our article
+    const titlePattern = ARTICLES[slug]?.title;
+    if (!titlePattern) return;
+    const body = a.body || '';
+    if (body.includes(`[[${titlePattern}]]`) || body.includes(`[[${titlePattern}|`)) {
+      links.push(a);
+    }
+  });
+  return links;
+}
+
 async function loadArticles() {
   try {
     const resp = await fetch('articles.json');
     const data = await resp.json();
-    data.forEach(a => {
-      ARTICLES[a.slug] = a;
-      ARTICLE_LIST.push(a);
-    });
-  } catch(e) {
-    console.error('Failed to load articles.json', e);
-  }
+    data.forEach(a => { ARTICLES[a.slug] = a; ARTICLE_LIST.push(a); });
+  } catch(e) { console.error('Failed to load articles.json', e); }
   buildSidebar();
   showHome();
 }
 
 function buildSidebar() {
   const sidebar = document.getElementById('sidebar');
-  const groups = {};
-  ARTICLE_LIST.forEach(a => {
-    const dir = a.dir || 'other';
-    if (!groups[dir]) groups[dir] = [];
-    groups[dir].push(a);
-  });
 
-  const order = ['topics', 'frameworks'];
-  let html = '';
-  order.forEach(dir => {
-    if (!groups[dir]) return;
-    html += `<h3>${dir}</h3>`;
-    groups[dir].sort((a,b) => (a.title||'').localeCompare(b.title||'')).forEach(a => {
+  // Group by stage-based categories
+  const categories = {
+    'Getting Started': ['startup-ideas', 'cofounders', 'founder-mindset'],
+    'Building': ['early-stage-tactics', 'product-development', 'growth'],
+    'Money': ['fundraising', 'financial-survival', 'board-governance'],
+    'People': ['hiring', 'management', 'sales-and-distribution'],
+    'Frameworks': [],
+  };
+
+  // Add frameworks
+  ARTICLE_LIST.filter(a => a.dir === 'frameworks').forEach(a => categories['Frameworks'].push(a.slug));
+
+  let html = '<span class="nav-label">Navigation</span>';
+  html += `<a href="#" onclick="showHome(); return false;">Main page</a>`;
+
+  for (const [cat, slugs] of Object.entries(categories)) {
+    html += `<h3>${cat}</h3>`;
+    const arts = slugs.map(s => ARTICLES[s]).filter(Boolean);
+    // Also add any uncategorized topics
+    if (cat === 'Frameworks') {
+      // Already have them
+    }
+    arts.sort((a,b) => (a.title||'').localeCompare(b.title||''));
+    arts.forEach(a => {
       html += `<a href="#" onclick="navigateTo('${a.slug}'); return false;">${a.title}</a>`;
     });
-  });
+  }
   sidebar.innerHTML = html;
 }
 
@@ -375,39 +275,50 @@ function showHome() {
   const topics = ARTICLE_LIST.filter(a => a.dir === 'topics');
   const frameworks = ARTICLE_LIST.filter(a => a.dir === 'frameworks');
 
+  // Stage-based categories for the home page
+  const stageCategories = [
+    { name: 'Idea & Getting Started', icon: '💡', slugs: ['startup-ideas', 'cofounders', 'founder-mindset'] },
+    { name: 'Building & Pre-PMF', icon: '🔨', slugs: ['early-stage-tactics', 'product-development'] },
+    { name: 'Growth & Distribution', icon: '📈', slugs: ['growth', 'sales-and-distribution'] },
+    { name: 'Fundraising & Finance', icon: '💰', slugs: ['fundraising', 'financial-survival', 'board-governance'] },
+    { name: 'People & Organization', icon: '👥', slugs: ['hiring', 'management'] },
+    { name: 'Frameworks & Mental Models', icon: '🧠', slugs: ['do-things-that-don-t-scale', 'default-alive-or-dead'] },
+  ];
+
   let html = `
     <h1>Founder Wiki</h1>
-    <div class="stats-bar">
-      <span><strong>${ARTICLE_LIST.length}</strong> articles</span>
-      <span><strong>${topics.length}</strong> topics</span>
-      <span><strong>${frameworks.length}</strong> frameworks</span>
-      <span>Source: YC Library (47 blog posts absorbed)</span>
+    <div class="home-welcome">
+      <h2>Welcome to Founder Wiki</h2>
+      <p>A compiled knowledge base of startup and founder wisdom, built from Y Combinator's library of essays, lectures, and founder stories using the <a href="https://x.com/karpathy/status/2039805659525644595" target="_blank">LLM Knowledge Base pattern</a>.</p>
+      <p>Articles synthesize advice from multiple sources into concept-centric pages with citations and cross-references. Every claim links back to its source.</p>
+      <div class="home-stats">${ARTICLE_LIST.length} articles across ${stageCategories.length} categories · ${topics.length} topics · ${frameworks.length} frameworks · Source: YC Library</div>
     </div>
-    <p>A compiled, queryable knowledge base of startup and founder wisdom. Built using the <a href="https://x.com/karpathy/status/2039805659525644595" target="_blank">LLM Knowledge Base pattern</a>.</p>
-    <h2>Topics</h2>
-    <div class="home-grid">
-  `;
-  topics.sort((a,b) => (a.title||'').localeCompare(b.title||'')).forEach(a => {
-    const aliases = Array.isArray(a.aliases) ? a.aliases.slice(0, 3).join(', ') : '';
-    const sources = Array.isArray(a.sources) ? a.sources.length : 0;
-    html += `<div class="home-card" onclick="navigateTo('${a.slug}')">
-      <h3>${a.title}</h3>
-      <p>${aliases}</p>
-      <p style="color:#72777d; font-size:12px;">${sources} sources</p>
-    </div>`;
-  });
-  html += '</div>';
 
-  if (frameworks.length) {
-    html += '<h2>Frameworks</h2><div class="home-grid">';
-    frameworks.forEach(a => {
-      html += `<div class="home-card" onclick="navigateTo('${a.slug}')">
-        <h3>${a.title}</h3>
-        <p>${a.originated_by ? 'by ' + a.originated_by : ''}</p>
-      </div>`;
+    <h2 style="border:none; margin-bottom:12px;">Browse by category</h2>
+  `;
+
+  // Two-column layout
+  html += '<div class="home-columns">';
+  html += '<div class="home-col">';
+
+  stageCategories.forEach((cat, i) => {
+    if (i === 3) { html += '</div><div class="home-col">'; } // Switch to right column
+    html += `<div class="category-section">`;
+    html += `<h2>${cat.name}</h2>`;
+    html += `<div class="category-list"><ul>`;
+    cat.slugs.forEach(slug => {
+      const a = ARTICLES[slug];
+      if (!a) return;
+      const typeLabel = a.type === 'framework' ? 'framework' : '';
+      html += `<li><a href="#" onclick="navigateTo('${slug}'); return false;">${a.title}</a>`;
+      if (typeLabel) html += ` <span class="item-type">— ${typeLabel}</span>`;
+      html += `</li>`;
     });
-    html += '</div>';
-  }
+    html += `</ul></div></div>`;
+  });
+
+  html += '</div></div>';
+
   content.innerHTML = html;
   document.querySelectorAll('.sidebar a').forEach(a => a.classList.remove('active'));
 }
@@ -416,28 +327,28 @@ function navigateTo(slug) {
   const article = ARTICLES[slug];
   if (!article) { console.warn('Article not found:', slug); return; }
 
-  // Build TOC from h2 headers
-  const h2s = article.body.match(/^## .+$/gm) || [];
-  let toc = '';
-  if (h2s.length > 2) {
-    toc = '<div class="toc"><h4>Contents</h4>';
-    h2s.forEach(h => {
-      const text = h.replace('## ', '');
-      const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-      toc += `<a href="#${id}">${text}</a>`;
-    });
-    toc += '</div>';
-  }
-
-  // Metadata bar
-  let meta = '<div class="article-meta">';
-  if (article.type) meta += `<span class="type-badge">${article.type}</span>`;
+  // Article meta line
+  let metaLine = '<div class="article-meta-line">';
+  if (article.type) metaLine += `<span class="meta-type">${article.type}</span>`;
   if (article.speakers_referenced) {
     const speakers = Array.isArray(article.speakers_referenced) ? article.speakers_referenced : [article.speakers_referenced];
-    meta += `<span class="speakers">Speakers: ${speakers.join(', ')}</span>`;
+    metaLine += `Contributors: ${speakers.join(', ')}`;
   }
-  if (article.originated_by) meta += `<span class="speakers">Originated by: ${article.originated_by}</span>`;
-  meta += '</div>';
+  if (article.originated_by) metaLine += `Originated by: ${article.originated_by}`;
+  metaLine += '</div>';
+
+  // Build TOC from h2 headers — Wikipedia style
+  const h2s = article.body.match(/^## .+$/gm) || [];
+  let toc = '';
+  if (h2s.length > 1) {
+    toc = '<div class="toc-box"><div class="toc-title">Contents</div><ol>';
+    h2s.forEach((h, i) => {
+      const text = h.replace('## ', '');
+      const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+      toc += `<li><a href="#${id}">${text}</a></li>`;
+    });
+    toc += '</ol></div>';
+  }
 
   // Render markdown
   let rendered = marked.parse(article.body);
@@ -445,18 +356,29 @@ function navigateTo(slug) {
 
   // Add IDs to h2 for TOC linking
   rendered = rendered.replace(/<h2>(.*?)<\/h2>/g, (m, text) => {
-    const id = text.replace(/<[^>]+>/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-');
+    const cleanText = text.replace(/<[^>]+>/g, '');
+    const id = cleanText.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
     return `<h2 id="${id}">${text}</h2>`;
   });
 
-  document.getElementById('content').innerHTML = meta + toc + rendered;
+  // Backlinks
+  const backlinks = getBacklinks(slug);
+  let blHtml = '';
+  if (backlinks.length) {
+    blHtml = '<div class="backlinks"><h3>Pages that link here</h3>';
+    backlinks.forEach(b => {
+      blHtml += `<a href="#" onclick="navigateTo('${b.slug}'); return false;">${b.title}</a>`;
+    });
+    blHtml += '</div>';
+  }
+
+  document.getElementById('content').innerHTML = metaLine + toc + rendered + blHtml;
 
   // Highlight active sidebar item
   document.querySelectorAll('.sidebar a').forEach(a => {
     a.classList.toggle('active', a.textContent === article.title);
   });
 
-  // Close search
   document.getElementById('searchResults').classList.remove('active');
   document.getElementById('search').value = '';
   window.scrollTo(0, 0);
@@ -470,22 +392,24 @@ function onSearch(query) {
   const matches = ARTICLE_LIST.filter(a => {
     if ((a.title || '').toLowerCase().includes(q)) return true;
     const aliases = Array.isArray(a.aliases) ? a.aliases : [];
-    return aliases.some(al => al.toLowerCase().includes(q));
+    if (aliases.some(al => al.toLowerCase().includes(q))) return true;
+    // Also search body text
+    if ((a.body || '').toLowerCase().includes(q)) return true;
+    return false;
   });
 
   if (!matches.length) { results.classList.remove('active'); return; }
 
-  results.innerHTML = matches.map(a => {
-    const aliases = Array.isArray(a.aliases) ? a.aliases.slice(0, 3).join(', ') : '';
+  results.innerHTML = matches.slice(0, 8).map(a => {
+    const aliases = Array.isArray(a.aliases) ? a.aliases.slice(0, 4).join(', ') : '';
     return `<div class="search-result-item" onclick="navigateTo('${a.slug}')">
-      <div class="title">${a.title}</div>
-      <div class="aliases">${aliases}</div>
+      <div class="sr-title">${a.title}</div>
+      <div class="sr-aliases">${aliases}</div>
     </div>`;
   }).join('');
   results.classList.add('active');
 }
 
-// Close search on click outside
 document.addEventListener('click', e => {
   if (!e.target.closest('.search-bar')) {
     document.getElementById('searchResults').classList.remove('active');
