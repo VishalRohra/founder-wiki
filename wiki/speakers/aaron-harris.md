@@ -4,7 +4,7 @@ type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["Aaron Harris"]
-related: ["[[Seed Fundraising]]", "[[Series A Fundraising]]", "[[Pitch Deck]]"]
+related: ["[[Seed Fundraising]]", "[[Series A Fundraising]]", "pitch deck"]
 sources: ["2u-how-to-build-your-seed-round-pitch-deck", "3h-series-a-diligence-checklist"]
 speakers_referenced: []
 ---
@@ -27,13 +27,6 @@ Harris's advice is built around a principle of radical simplicity:
 
 - **YC Seed Deck Template**: A 10-slide structure covering title, problem, solution, traction, metrics, insights, business model, market, team, and the ask [1]
 - **Series A Diligence Checklist**: Comprehensive checklist for data room preparation, covering corporate records, IP, securities, material agreements, litigation, and employee information [2]
-
-## Source Inventory
-
-| Source | Type | Key Contribution |
-|--------|------|------------------|
-| [How to Build Your Seed Round Pitch Deck](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck) | Post | YC's canonical seed deck template |
-| [Series A Diligence Checklist](https://www.ycombinator.com/library/3h-series-a-diligence-checklist) | Post | Complete data room checklist for Series A closing |
 
 ## References
 

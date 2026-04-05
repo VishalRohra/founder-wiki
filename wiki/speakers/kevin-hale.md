@@ -27,12 +27,6 @@ He draws on his experience at Wufoo, where the company became known for obsessiv
 
 Hale is distinctive for treating the pitch deck as a product design challenge rather than a sales exercise. Where other pitch advisors focus on narrative and persuasion, Hale focuses on information design -- font sizes, data density, visual hierarchy, and cognitive load.
 
-## Source Inventory
-
-| Source | Key Contribution |
-|--------|-----------------|
-| [How to Design a Better Pitch Deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck) | The Legible Simple Obvious framework; pitch deck as design problem |
-
 ## References
 
 1. [How to Design a Better Pitch Deck](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck) -- Kevin Hale (December 2015)

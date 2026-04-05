@@ -1,565 +1,882 @@
 {
-  "phase": "merged",
-  "created": "2026-04-05",
-  "total_sources_absorbed": 50,
-  "sources_absorbed": [
-    {
-      "id": "2s-advice-for-new-managers",
-      "title": "Advice for new managers",
-      "author": "Aaron Epstein",
-      "type": "post",
-      "articles_created": [
-        "topics/startup-management.md"
-      ]
-    },
-    {
-      "id": "2u-how-to-build-your-seed-round-pitch-deck",
-      "title": "How to build your seed round pitch deck",
-      "author": "Aaron Harris",
-      "type": "post",
-      "articles_created": [
-        "topics/seed-fundraising.md",
-        "speakers/aaron-harris.md"
-      ]
-    },
-    {
-      "id": "2z-pinduoduo-and-the-rise-of-social-e-commerce",
-      "title": "Pinduoduo and the rise of social e-commerce",
-      "author": "Anu Hariharan, Nic Dardenne",
-      "type": "post",
-      "articles_created": [
-        "case-studies/pinduoduo.md",
-        "topics/social-commerce.md",
-        "topics/china-tech-ecosystem.md",
-        "speakers/anu-hariharan.md"
-      ]
-    },
-    {
-      "id": "3Z-advice-for-companies-with-less-than-1-year-of-runway",
-      "title": "Advice for companies with less than 1 year of runway",
-      "author": "Dalton Caldwell",
-      "type": "post",
-      "articles_created": [
-        "topics/runway-management.md"
-      ]
-    },
-    {
-      "id": "3h-series-a-diligence-checklist",
-      "title": "Series A diligence checklist",
-      "author": "Aaron Harris, Jason Kwon",
-      "type": "post",
-      "articles_created": [
-        "topics/series-a-fundraising.md",
-        "speakers/aaron-harris.md"
-      ]
-    },
-    {
-      "id": "3j-how-to-measure-leadership",
-      "title": "How to measure leadership",
-      "author": "Ali Rowghani",
-      "type": "post",
-      "articles_created": [
-        "topics/startup-leadership.md",
-        "frameworks/three-traits-of-great-leadership.md",
-        "speakers/ali-rowghani.md"
-      ]
-    },
-    {
-      "id": "3k-the-second-job-of-a-startup-ceo",
-      "title": "The second job of a startup CEO",
-      "author": "Ali Rowghani",
-      "type": "post",
-      "articles_created": [
-        "topics/startup-leadership.md",
-        "frameworks/mission-to-metrics.md",
-        "speakers/ali-rowghani.md"
-      ]
-    },
-    {
-      "id": "3t-how-wechat-grew-to-be-the-1-app-in-the-world",
-      "title": "How WeChat grew to be the #1 app in the world",
-      "author": "Anu Hariharan",
-      "type": "post",
-      "articles_created": [
-        "case-studies/wechat.md",
-        "topics/social-commerce.md",
-        "topics/china-tech-ecosystem.md",
-        "speakers/anu-hariharan.md"
-      ]
-    },
-    {
-      "id": "3w-how-to-create-and-manage-a-board",
-      "title": "How to create and manage a board",
-      "author": "Anu Hariharan",
-      "type": "post",
-      "articles_created": [
-        "topics/board-management.md",
-        "speakers/anu-hariharan.md"
-      ]
-    },
-    {
-      "id": "3x-the-hidden-forces-behind-china-s-content-king-toutiao",
-      "title": "The hidden forces behind China's content king Toutiao",
-      "author": "Anu Hariharan",
-      "type": "post",
-      "articles_created": [
-        "case-studies/toutiao.md",
-        "topics/china-tech-ecosystem.md",
-        "speakers/anu-hariharan.md"
-      ]
-    },
-    {
-      "id": "4A-a-guide-to-seed-fundraising",
-      "title": "A guide to seed fundraising",
-      "author": "Geoff Ralston",
-      "type": "post",
-      "articles_created": [
-        "topics/seed-fundraising.md"
-      ]
-    },
-    {
-      "id": "4D-yc-s-essential-startup-advice",
-      "title": "YC's essential startup advice",
-      "author": "Y Combinator",
-      "absorbed_into": [
-        "topics/startup-essentials.md",
-        "speakers/michael-seibel.md"
-      ]
-    },
-    {
-      "id": "4G-convincing-engineers-to-join-your-team",
-      "title": "Convincing engineers to join your team",
-      "author": "Harj Taggar",
-      "absorbed_into": [
-        "topics/hiring-engineers.md",
-        "speakers/harj-taggar.md"
-      ]
-    },
-    {
-      "id": "4H-how-to-hire-your-first-engineer",
-      "title": "How to hire your first engineer",
-      "author": "Harj Taggar",
-      "absorbed_into": [
-        "topics/hiring-engineers.md",
-        "speakers/harj-taggar.md"
-      ]
-    },
-    {
-      "id": "4L-how-biotech-startup-funding-will-change-in-the-next-10-years",
-      "title": "How biotech startup funding will change in the next 10 years",
-      "author": "Jared Friedman",
-      "absorbed_into": [
-        "topics/biotech-startup-funding.md"
-      ]
-    },
-    {
-      "id": "4P-a-standard-and-clean-series-a-term-sheet",
-      "title": "A standard and clean Series A term sheet",
-      "author": "Jason Kwon, Aaron Harris",
-      "absorbed_into": [
-        "topics/series-a-term-sheets.md"
-      ]
-    },
-    {
-      "id": "4T-how-to-design-a-better-pitch-deck",
-      "title": "How to design a better pitch deck",
-      "author": "Kevin Hale",
-      "absorbed_into": [
-        "topics/pitch-deck-design.md",
-        "frameworks/legible-simple-obvious.md"
-      ]
-    },
-    {
-      "id": "4c-getting-press-for-your-startup",
-      "title": "Getting press for your startup",
-      "author": "Michael Seibel",
-      "absorbed_into": [
-        "topics/getting-press.md",
-        "speakers/michael-seibel.md"
-      ]
-    },
-    {
-      "id": "4d-a-letter-to-college-students",
-      "title": "A letter to college students",
-      "author": "Michael Seibel",
-      "absorbed_into": [
-        "topics/becoming-a-founder.md",
-        "speakers/michael-seibel.md"
-      ]
-    },
-    {
-      "id": "4e-guide-to-product-development",
-      "title": "Guide to product development",
-      "author": "Michael Seibel",
-      "absorbed_into": [
-        "topics/product-development.md",
-        "speakers/michael-seibel.md"
-      ]
-    },
-    {
-      "id": "4h-three-paths-in-the-tech-industry-founder-executive-or-employee",
-      "title": "Three paths in the tech industry: founder, executive, or employee",
-      "author": "Michael Seibel",
-      "absorbed_into": [
-        "topics/becoming-a-founder.md",
-        "speakers/michael-seibel.md"
-      ]
-    },
-    {
-      "id": "4l-advice-for-job-seekers-on-resumes-and-reaching-out",
-      "title": "Advice for job seekers on resumes and reaching out",
-      "author": "Ryan Choi",
-      "absorbed_into": [
-        "topics/hiring-engineers.md"
-      ]
-    },
-    {
-      "id": "4m-enterprise-sales-for-hackers",
-      "title": "Enterprise sales for hackers",
-      "author": "Ryan Junee",
-      "type": "post",
-      "articles_created": [
-        "topics/enterprise-sales.md"
-      ]
-    },
-    {
-      "id": "4p-before-growing-your-startup",
-      "title": "Before growing your startup",
-      "author": "Sam Altman",
-      "type": "post",
-      "articles_created": [
-        "topics/growth.md",
-        "speakers/sam-altman.md"
-      ]
-    },
-    {
-      "id": "4q-later-stage-advice-for-startups",
-      "title": "Later stage advice for startups",
-      "author": "Sam Altman",
-      "type": "post",
-      "articles_created": [
-        "topics/scaling-and-later-stage-operations.md",
-        "speakers/sam-altman.md"
-      ]
-    },
-    {
-      "id": "4s-navigating-success-for-your-startup",
-      "title": "Navigating success for your startup",
-      "author": "Sam Altman",
-      "type": "post",
-      "articles_created": [
-        "topics/startup-outcomes-and-optionality.md",
-        "speakers/sam-altman.md"
-      ]
-    },
-    {
-      "id": "4x-on-starting-a-company-from-a-hackathon-project",
-      "title": "On starting a company from a hackathon project",
-      "author": "Tanay Tandon",
-      "type": "post",
-      "articles_created": [
-        "topics/hard-tech-startups.md",
-        "case-studies/athelas.md"
-      ]
-    },
-    {
-      "id": "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team",
-      "title": "How to set up, hire, and scale a growth strategy and team",
-      "author": "Anu Hariharan",
-      "type": "post",
-      "articles_created": [
-        "topics/growth.md",
-        "speakers/anu-hariharan.md"
-      ]
-    },
-    {
-      "id": "5Q-on-starting-and-scaling-aerospace-company-boom",
-      "title": "On starting and scaling aerospace company Boom",
-      "author": "Blake Scholl",
-      "type": "post",
-      "articles_created": [
-        "topics/hard-tech-startups.md",
-        "case-studies/boom-technology.md",
-        "speakers/blake-scholl.md"
-      ]
-    },
-    {
-      "id": "8d-how-to-build-a-great-series-a-pitch-and-deck",
-      "title": "How to build a great Series A pitch and deck",
-      "author": "Janelle Tam",
-      "type": "post",
-      "articles_created": [
-        "topics/series-a-fundraising.md"
-      ]
-    },
-    {
-      "id": "8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup",
-      "title": "How to spin your scientific research out of a university and into a startup",
-      "author": "Jared Friedman",
-      "type": "post",
-      "articles_created": [
-        "topics/university-spinouts.md",
-        "speakers/jared-friedman.md"
-      ]
-    },
-    {
-      "id": "8p-how-to-prioritize-features",
-      "title": "How to prioritize features",
-      "author": "Emmett Shear",
-      "type": "post",
-      "articles_created": [
-        "frameworks/feature-prioritization-frameworks.md",
-        "speakers/emmett-shear.md"
-      ]
-    },
-    {
-      "id": "8s-startup-growth",
-      "title": "Startup = growth",
-      "author": "Paul Graham",
-      "type": "post",
-      "articles_created": [
-        "topics/growth.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "8t-the-18-mistakes-that-kill-startups",
-      "title": "The 18 Mistakes That Kill Startups",
-      "author": "Paul Graham",
-      "date": "2006-10",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/startup-ideas.md",
-        "topics/early-stage-mistakes.md",
-        "topics/financial-survival.md",
-        "topics/founder-mindset.md",
-        "topics/growth.md",
-        "topics/starting-young.md",
-        "topics/doing-things-that-dont-scale.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "8u-the-equity-equation",
-      "title": "The Equity Equation",
-      "author": "Paul Graham",
-      "date": "2007-07",
-      "type": "post",
-      "articles_contributed_to": [
-        "frameworks/equity-equation.md",
-        "topics/financial-survival.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "8w-the-hardest-lessons-for-startups-to-learn",
-      "title": "The Hardest Lessons for Startups to Learn",
-      "author": "Paul Graham",
-      "date": "2006-04",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/founder-mindset.md",
-        "topics/growth.md",
-        "topics/early-stage-mistakes.md",
-        "topics/doing-things-that-dont-scale.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "8x-why-to-not-not-start-a-startup",
-      "title": "Why to Not Not Start a Startup",
-      "author": "Paul Graham",
-      "date": "2007-03",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/starting-young.md",
-        "topics/startup-ideas.md",
-        "topics/founder-mindset.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "8y-before-the-startup",
-      "title": "Before the Startup",
-      "author": "Paul Graham",
-      "date": "2014-10",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/founder-mindset.md",
-        "topics/startup-ideas.md",
-        "topics/starting-young.md",
-        "topics/early-stage-mistakes.md",
-        "frameworks/schlep-filter.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "8z-how-to-get-startup-ideas",
-      "title": "How to Get Startup Ideas",
-      "author": "Paul Graham",
-      "date": "2012-11",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/startup-ideas.md",
-        "frameworks/schlep-filter.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "91-why-smart-people-have-bad-ideas",
-      "title": "Why Smart People Have Bad Ideas",
-      "author": "Paul Graham",
-      "date": "2005-04",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/startup-ideas.md",
-        "topics/early-stage-mistakes.md",
-        "topics/starting-young.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "93-a-student-s-guide-to-startups",
-      "title": "A Student's Guide to Startups",
-      "author": "Paul Graham",
-      "date": "2006-10",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/starting-young.md",
-        "topics/financial-survival.md",
-        "topics/early-stage-mistakes.md",
-        "topics/founder-mindset.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "94-be-relentlessly-resourceful",
-      "title": "Be Relentlessly Resourceful",
-      "author": "Paul Graham",
-      "date": "2009-03",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/founder-mindset.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "95-default-alive-or-default-dead",
-      "title": "Default Alive or Default Dead",
-      "author": "Paul Graham",
-      "date": "2015-10",
-      "type": "post",
-      "articles_contributed_to": [
-        "frameworks/default-alive-or-dead.md",
-        "topics/financial-survival.md",
-        "topics/growth.md",
-        "topics/early-stage-mistakes.md",
-        "topics/doing-things-that-dont-scale.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "96-do-things-that-don-t-scale",
-      "title": "Do Things That Don't Scale",
-      "author": "Paul Graham",
-      "date": "2013-07",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/doing-things-that-dont-scale.md",
-        "topics/growth.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "98-how-to-convince-investors",
-      "title": "How to convince investors",
-      "author": "Paul Graham",
-      "date": "2013-08",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/convincing-investors.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "9M-billionaires-build",
-      "title": "Billionaires build",
-      "author": "Paul Graham",
-      "date": "2020-12",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/convincing-investors.md",
-        "topics/co-founders.md",
-        "speakers/paul-graham.md"
-      ]
-    },
-    {
-      "id": "Cq-does-co-founder-matching-work",
-      "title": "Does co-founder matching work?",
-      "author": "Catheryn Li",
-      "date": "2021",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/co-founders.md"
-      ]
-    },
-    {
-      "id": "D0-startups-for-students",
-      "title": "Startups for students",
-      "author": "Tamanna Khemani, Kat Ma\u00f1alac",
-      "date": "2021",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/startups-for-students.md",
-        "topics/co-founders.md"
-      ]
-    },
-    {
-      "id": "Gu-snapdocs-aaron-king-on-navigating-market-cycles",
-      "title": "Snapdocs' Aaron King on navigating market cycles",
-      "author": "Lindsay Amos (interviewing Aaron King)",
-      "date": "2022",
-      "type": "post",
-      "articles_contributed_to": [
-        "case-studies/snapdocs.md",
-        "speakers/aaron-king.md"
-      ]
-    },
-    {
-      "id": "Hj-10-questions-to-discuss-with-a-potential-co-founder",
-      "title": "10 questions to discuss with a potential co-founder",
-      "author": "Y Combinator",
-      "date": "2022",
-      "type": "post",
-      "articles_contributed_to": [
-        "topics/co-founders.md"
-      ]
-    }
-  ],
-  "draft_logs_merged": [
-    "wiki_draft_1",
-    "wiki_draft_2",
-    "wiki_draft_3",
-    "wiki_draft_4",
-    "wiki_draft_5"
-  ],
-  "overlapping_articles_merged": {
-    "paul-graham.md": [
-      "wiki_draft_3",
-      "wiki_draft_4",
-      "wiki_draft_5"
-    ],
-    "growth.md": [
-      "wiki_draft_3",
-      "wiki_draft_4"
-    ],
-    "series-a-fundraising.md": [
-      "wiki_draft_1",
-      "wiki_draft_3"
-    ],
-    "anu-hariharan.md": [
-      "wiki_draft_1",
-      "wiki_draft_3"
+  "4T-how-to-design-a-better-pitch-deck": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/kevin-hale.md",
+      "wiki/frameworks/legible-simple-obvious.md",
+      "wiki/topics/pitch-deck-design.md"
+    ]
+  },
+  "LI-how-to-price-for-b2b": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/tom-blomfield.md",
+      "wiki/topics/b2b-pricing.md"
+    ]
+  },
+  "MN-how-to-get-the-most-out-of-vibe-coding": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/tom-blomfield.md",
+      "wiki/topics/ai-in-startups.md"
+    ]
+  },
+  "KR-key-startup-metrics": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/tom-blomfield.md",
+      "wiki/topics/startup-metrics.md"
+    ]
+  },
+  "KT-consumer-startup-metrics": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/tom-blomfield.md",
+      "wiki/topics/startup-metrics.md"
+    ]
+  },
+  "Iy-yc-s-group-partners-share-their-favorite-pivot-stories": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/tom-blomfield.md",
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/pivoting.md"
+    ]
+  },
+  "6r-building-culture": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/tim-brady.md",
+      "wiki/topics/startup-culture.md"
+    ]
+  },
+  "6W-elon-musk-on-how-to-build-the-future": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/elon-musk.md"
+    ]
+  },
+  "6Q-diane-greene-s-advice-for-founders": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/diane-greene.md"
+    ]
+  },
+  "8p-how-to-prioritize-features": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/emmett-shear.md",
+      "wiki/frameworks/feature-prioritization-frameworks.md"
+    ]
+  },
+  "Gu-snapdocs-aaron-king-on-navigating-market-cycles": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/aaron-king.md",
+      "wiki/case-studies/snapdocs.md"
+    ]
+  },
+  "4G-convincing-engineers-to-join-your-team": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/harj-taggar.md",
+      "wiki/topics/hiring-engineers.md"
+    ]
+  },
+  "4H-how-to-hire-your-first-engineer": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/harj-taggar.md",
+      "wiki/topics/hiring-engineers.md"
+    ]
+  },
+  "9t-how-to-choose-a-startup-to-join": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/harj-taggar.md",
+      "wiki/topics/choosing-a-startup-to-join.md"
+    ]
+  },
+  "8z-how-to-get-startup-ideas": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/frameworks/schlep-filter.md",
+      "wiki/topics/startup-ideas.md"
+    ]
+  },
+  "8t-the-18-mistakes-that-kill-startups": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/doing-things-that-dont-scale.md",
+      "wiki/topics/starting-young.md",
+      "wiki/topics/financial-survival.md",
+      "wiki/topics/growth.md",
+      "wiki/topics/startup-ideas.md",
+      "wiki/topics/early-stage-mistakes.md"
+    ]
+  },
+  "8u-the-equity-equation": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/frameworks/equity-equation.md",
+      "wiki/topics/financial-survival.md"
+    ]
+  },
+  "8w-the-hardest-lessons-for-startups-to-learn": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/doing-things-that-dont-scale.md",
+      "wiki/topics/financial-survival.md",
+      "wiki/topics/growth.md",
+      "wiki/topics/early-stage-mistakes.md"
+    ]
+  },
+  "8x-why-to-not-not-start-a-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/starting-young.md",
+      "wiki/topics/startup-ideas.md"
+    ]
+  },
+  "8y-before-the-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/frameworks/schlep-filter.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/starting-young.md",
+      "wiki/topics/startup-ideas.md",
+      "wiki/topics/early-stage-mistakes.md"
+    ]
+  },
+  "91-why-smart-people-have-bad-ideas": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/starting-young.md",
+      "wiki/topics/startup-ideas.md",
+      "wiki/topics/early-stage-mistakes.md"
+    ]
+  },
+  "93-a-student-s-guide-to-startups": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/starting-young.md",
+      "wiki/topics/financial-survival.md",
+      "wiki/topics/startup-ideas.md",
+      "wiki/topics/early-stage-mistakes.md"
+    ]
+  },
+  "94-be-relentlessly-resourceful": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/founder-mindset.md"
+    ]
+  },
+  "95-default-alive-or-default-dead": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/frameworks/default-alive-or-dead.md",
+      "wiki/topics/financial-survival.md",
+      "wiki/topics/growth.md",
+      "wiki/topics/early-stage-mistakes.md"
+    ]
+  },
+  "96-do-things-that-don-t-scale": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/doing-things-that-dont-scale.md",
+      "wiki/topics/growth.md"
+    ]
+  },
+  "8s-startup-growth": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/growth.md"
+    ]
+  },
+  "98-how-to-convince-investors": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/convincing-investors.md"
+    ]
+  },
+  "9M-billionaires-build": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/convincing-investors.md"
+    ]
+  },
+  "J7-garry-tan-s-tips-for-applying-to-yc": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/garry-tan.md",
+      "wiki/topics/applying-to-yc.md"
+    ]
+  },
+  "JG-the-main-function-how-to-go-from-startup-dream-to-reality": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/garry-tan.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/confronting-reality.md"
+    ]
+  },
+  "3t-how-wechat-grew-to-be-the-1-app-in-the-world": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/anu-hariharan.md",
+      "wiki/case-studies/wechat.md",
+      "wiki/topics/china-tech-ecosystem.md",
+      "wiki/topics/network-effects.md",
+      "wiki/topics/social-commerce.md"
+    ]
+  },
+  "2z-pinduoduo-and-the-rise-of-social-e-commerce": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/anu-hariharan.md",
+      "wiki/case-studies/pinduoduo.md",
+      "wiki/topics/china-tech-ecosystem.md",
+      "wiki/topics/network-effects.md",
+      "wiki/topics/social-commerce.md"
+    ]
+  },
+  "3x-the-hidden-forces-behind-china-s-content-king-toutiao": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/anu-hariharan.md",
+      "wiki/case-studies/toutiao.md",
+      "wiki/topics/china-tech-ecosystem.md",
+      "wiki/topics/network-effects.md"
+    ]
+  },
+  "3w-how-to-create-and-manage-a-board": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/anu-hariharan.md",
+      "wiki/topics/board-management.md"
+    ]
+  },
+  "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/anu-hariharan.md",
+      "wiki/topics/growth.md"
+    ]
+  },
+  "5b-how-do-you-convince-someone-to-join-your-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/recruiting-early-team-members.md",
+      "wiki/topics/convincing-investors.md"
+    ]
+  },
+  "7L-how-do-you-create-luck": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/creating-luck.md"
+    ]
+  },
+  "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/seed-fundraising.md",
+      "wiki/topics/fundraising-mistakes.md"
+    ]
+  },
+  "DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "DX-dalton-michael-understanding-investor-terms-and-incentives": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/investor-incentives.md"
+    ]
+  },
+  "LU-how-to-live-in-the-social-media-matrix": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/online-presence.md"
+    ]
+  },
+  "IO-dalton-michael-how-generosity-built-tech-giants": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/value-creation.md"
+    ]
+  },
+  "KV-do-technical-founders-need-a-business-co-founder": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "Jd-dalton-michael-why-investors-secretly-love-y-combinator": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/investor-incentives.md"
+    ]
+  },
+  "LQ-how-to-influence-decision-makers": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/influencing-decision-makers.md"
+    ]
+  },
+  "Ie-dalton-michael-will-openai-kill-all-startups": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/ai-and-startups.md"
+    ]
+  },
+  "3Z-advice-for-companies-with-less-than-1-year-of-runway": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/runway-management.md"
+    ]
+  },
+  "Ia-dalton-michael-how-to-earn-customers-for-life": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/customer-relationships.md"
+    ]
+  },
+  "IP-dalton-michael-secrets-you-can-learn-from-your-customers": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/customer-relationships.md"
+    ]
+  },
+  "IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/startup-location.md"
+    ]
+  },
+  "KO-does-your-tech-startup-really-need-a-technical-co-founder-yes": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/technical-co-founders.md"
+    ]
+  },
+  "IW-dalton-michael-elon-musk-and-the-midwit-meme": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/frameworks/midwit-meme.md"
+    ]
+  },
+  "Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/zero-sum-vs-positive-sum.md"
+    ]
+  },
+  "IY-dalton-michael-the-cult-of-conformity-in-silicon-valley": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/conformists-vs-nonconformists.md"
+    ]
+  },
+  "IR-dalton-michael-silicon-valley-s-cargo-culting-problem": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/frameworks/cargo-culting.md"
+    ]
+  },
+  "DW-dalton-michael-should-you-follow-your-passion": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/passion-and-motivation.md"
+    ]
+  },
+  "DV-dalton-michael-successful-founders-are-ok-with-rejection": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/talking-to-users.md"
+    ]
+  },
+  "KF-how-to-not-get-screwed-over-as-a-software-engineer": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/hiring-at-early-stage.md"
+    ]
+  },
+  "Jw-dalton-michael-why-you-shouldn-t-copy-your-tech-idols": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/survivorship-bias-in-advice.md"
+    ]
+  },
+  "IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/hard-conversations.md"
+    ]
+  },
+  "IS-dalton-michael-y-combinator-is-back-in-person": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md"
+    ]
+  },
+  "Ih-dalton-michael-why-you-should-leave-your-faang-job": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/leaving-big-tech.md"
+    ]
+  },
+  "DU-dalton-michael-where-do-great-startup-ideas-come-from": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md"
+    ]
+  },
+  "Ik-dalton-michael-how-future-billionaires-get-sh-t-done": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/founder-productivity.md"
+    ]
+  },
+  "DT-dalton-michael-simple-products-that-became-big-companies": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/simple-products.md"
+    ]
+  },
+  "IX-dalton-michael-how-to-deal-with-setbacks": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/dealing-with-setbacks.md"
+    ]
+  },
+  "Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/founder-optimism-pessimism.md"
+    ]
+  },
+  "IT-dalton-michael-why-investors-can-t-fix-your-company": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/topics/investor-advice-pitfalls.md"
+    ]
+  },
+  "3j-how-to-measure-leadership": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/ali-rowghani.md",
+      "wiki/frameworks/three-traits-of-great-leadership.md",
+      "wiki/topics/startup-leadership.md"
+    ]
+  },
+  "3k-the-second-job-of-a-startup-ceo": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/ali-rowghani.md",
+      "wiki/frameworks/mission-to-metrics.md",
+      "wiki/topics/startup-leadership.md"
+    ]
+  },
+  "5Q-on-starting-and-scaling-aerospace-company-boom": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/blake-scholl.md",
+      "wiki/case-studies/boom-technology.md",
+      "wiki/topics/hard-tech-startups.md"
+    ]
+  },
+  "4p-before-growing-your-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/growth.md"
+    ]
+  },
+  "4q-later-stage-advice-for-startups": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/scaling-and-later-stage-operations.md"
+    ]
+  },
+  "4s-navigating-success-for-your-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/startup-outcomes-and-optionality.md"
+    ]
+  },
+  "8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/jared-friedman.md",
+      "wiki/topics/university-spinouts.md",
+      "wiki/topics/equity-split.md",
+      "wiki/topics/hard-tech-startups.md"
+    ]
+  },
+  "2u-how-to-build-your-seed-round-pitch-deck": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/aaron-harris.md",
+      "wiki/topics/seed-fundraising.md"
+    ]
+  },
+  "3h-series-a-diligence-checklist": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/aaron-harris.md",
+      "wiki/topics/series-a-fundraising.md"
+    ]
+  },
+  "4c-getting-press-for-your-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/getting-press.md"
+    ]
+  },
+  "4d-a-letter-to-college-students": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/becoming-a-founder.md"
+    ]
+  },
+  "4e-guide-to-product-development": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/product-development.md"
+    ]
+  },
+  "4h-three-paths-in-the-tech-industry-founder-executive-or-employee": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/becoming-a-founder.md"
+    ]
+  },
+  "4D-yc-s-essential-startup-advice": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/startup-essentials.md"
+    ]
+  },
+  "5z-the-real-product-market-fit": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/product-market-fit.md"
+    ]
+  },
+  "63-why-fundraising-is-different-in-silicon-valley": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/silicon-valley-fundraising.md",
+      "wiki/topics/seed-fundraising.md"
+    ]
+  },
+  "65-how-to-cold-email-investors": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/cold-emailing-investors.md"
+    ]
+  },
+  "5x-how-to-split-equity-among-co-founders": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/equity-split.md"
+    ]
+  },
+  "7x-how-to-get-and-test-ideas": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/michael-seibel.md",
+      "wiki/topics/startup-ideas.md"
+    ]
+  },
+  "4x-on-starting-a-company-from-a-hackathon-project": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/case-studies/athelas.md",
+      "wiki/topics/hard-tech-startups.md"
+    ]
+  },
+  "N6-inside-the-startup-launching-ai-into-space": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/case-studies/starcloud.md"
+    ]
+  },
+  "Km-how-to-survive-the-crypto-boom-bust-cycle": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/case-studies/cointracker.md"
+    ]
+  },
+  "Lm-you-don-t-have-to-be-a-billionaire-to-launch-satellites": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/case-studies/astranis.md"
+    ]
+  },
+  "6h-startup-pricing-101": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/frameworks/pricing-thermometer.md",
+      "wiki/topics/startup-pricing.md"
+    ]
+  },
+  "M3-how-to-use-ai-in-your-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/ai-in-startups.md"
+    ]
+  },
+  "4L-how-biotech-startup-funding-will-change-in-the-next-10-years": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/biotech-startup-funding.md"
+    ]
+  },
+  "Hj-10-questions-to-discuss-with-a-potential-co-founder": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/equity-split.md",
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "LP-co-founder-equity-mistakes-to-avoid": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/equity-split.md"
+    ]
+  },
+  "6l-how-to-improve-conversion-rates": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/conversion-rates.md"
+    ]
+  },
+  "5p-creating-good-company-culture-and-sticking-to-it": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/company-culture.md"
+    ]
+  },
+  "J3-inside-the-group-partner-lounge-turning-users-into-paid-customers": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/pricing-and-monetization.md"
+    ]
+  },
+  "Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/competing-with-big-companies.md"
+    ]
+  },
+  "2s-advice-for-new-managers": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/startup-management.md"
+    ]
+  },
+  "4A-a-guide-to-seed-fundraising": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/seed-fundraising.md"
+    ]
+  },
+  "4m-enterprise-sales-for-hackers": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/enterprise-sales.md"
+    ]
+  },
+  "J5-inside-the-group-partner-lounge-the-ideal-customer": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/selling-to-startups.md"
+    ]
+  },
+  "ND-how-to-get-your-first-users": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/getting-first-users.md"
+    ]
+  },
+  "J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/hiring-at-early-stage.md"
+    ]
+  },
+  "K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/founder-productivity.md"
+    ]
+  },
+  "J6-inside-the-group-partner-lounge-advantages-of-a-first-time-founder": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/first-time-founders.md"
+    ]
+  },
+  "J0-inside-the-group-partner-lounge-when-to-launch-your-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/launching.md"
+    ]
+  },
+  "LG-why-startup-founders-should-launch-companies-sooner-than-they-think": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/launching.md"
+    ]
+  },
+  "Ir-the-best-way-to-launch-your-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/launching.md"
+    ]
+  },
+  "Iq-how-to-talk-to-users": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/talking-to-users.md"
+    ]
+  },
+  "Li-how-do-billion-dollar-startups-start": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/survivorship-bias-in-advice.md"
+    ]
+  },
+  "4P-a-standard-and-clean-series-a-term-sheet": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/series-a-term-sheets.md"
+    ]
+  },
+  "Cq-does-co-founder-matching-work": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "D0-startups-for-students": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/co-founders.md",
+      "wiki/topics/startups-for-students.md"
+    ]
+  },
+  "JD-founder-faq-how-did-you-meet-your-co-founder": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "Ld-how-to-find-a-co-founder": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "8G-advice-for-hard-tech-and-biotech-founders": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/hard-tech-startups.md"
+    ]
+  },
+  "8d-how-to-build-a-great-series-a-pitch-and-deck": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/series-a-fundraising.md"
+    ]
+  },
+  "J1-inside-the-group-partner-lounge-investors-said-no-now-what": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/handling-investor-rejection.md"
+    ]
+  },
+  "4l-advice-for-job-seekers-on-resumes-and-reaching-out": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/hiring-engineers.md"
+    ]
+  },
+  "K0-sam-altman-on-how-to-pick-which-startup-to-work-at": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/choosing-a-startup-to-join.md"
+    ]
+  },
+  "8g-how-to-get-startup-ideas": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/startup-ideas.md"
     ]
   }
 }

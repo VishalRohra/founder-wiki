@@ -32,12 +32,6 @@ Shear is one of the few YC voices to provide a complete product prioritization s
 
 His candor about the limitations of each framework is distinctive. He openly acknowledges that certain product types (new categories where users cannot articulate preferences and the founder is not the user) do not fit any framework well. "It's really really hard!" [1].
 
-## Source Inventory
-
-| Source | Key Contribution |
-|--------|-----------------|
-| [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) | Three-framework progression for product prioritization; interview methodology |
-
 ## References
 
 1. [How to Prioritize Features](https://www.ycombinator.com/library/8p-how-to-prioritize-features) -- Emmett Shear (n.d.)

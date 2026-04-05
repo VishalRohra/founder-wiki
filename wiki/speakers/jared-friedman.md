@@ -26,12 +26,6 @@ He is particularly pointed about the catch-22 that traps academic founders: they
 
 **Tech Transfer Terms**: Four key terms in university license agreements -- equity (3-5% typical), royalty (ideally zero), milestone payments, and sublicensing terms [1].
 
-## Source Inventory
-
-| Source | Key Contribution |
-|--------|-----------------|
-| [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) | Comprehensive guide to university spinouts: who, when, equity, tech transfer |
-
 ## References
 
 1. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- Jared Friedman (n.d.)

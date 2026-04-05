@@ -68,7 +68,7 @@ YC tells most students to finish their degree. The exception: "if the only thing
 
 ### Non-Technical Founders
 
-YC has funded startups without a technical co-founder. Roughly 10% of companies in each batch are founded by non-technical founders. But among YC's top companies, only three were founded by non-technical founders: Flexport, [[Snapdocs]], and UpKeep. YC strongly recommends finding a technical co-founder for software companies. Even non-technical founders should learn the basics of coding [1].
+YC has funded startups without a technical co-founder. Roughly 10% of companies in each batch are founded by non-technical founders. But among YC's top companies, only three were founded by non-technical founders: Flexport, Snapdocs, and UpKeep. YC strongly recommends finding a technical co-founder for software companies. Even non-technical founders should learn the basics of coding [1].
 
 ## Working at a Startup Instead
 

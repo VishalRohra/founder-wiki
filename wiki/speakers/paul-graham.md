@@ -128,25 +128,6 @@ Certain companies and people appear across many of Graham's essays as touchstone
 - **Pebble** -- Assembled first several hundred watches themselves, learned the value of good screws [10]
 - **Dropbox** -- Rejected by Boston VCs, illustration of how investors miscalculate market size [13]
 
-## Source Inventory
-
-| Source | Date | Key Contribution |
-|--------|------|-----------------|
-| [Why Smart People Have Bad Ideas](https://www.ycombinator.com/library/91-why-smart-people-have-bad-ideas) | April 2005 | The still life effect; the Artix story; "make something people want" |
-| [The Hardest Lessons for Startups to Learn](https://www.ycombinator.com/library/8w-the-hardest-lessons-for-startups-to-learn) | April 2006 | Release early; determination > intelligence; don't get your hopes up |
-| [A Student's Guide to Startups](https://www.ycombinator.com/library/93-a-student-s-guide-to-startups) | October 2006 | Young founder advantages; class project problem; cofounders from school |
-| [The 18 Mistakes That Kill Startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups) | October 2006 | Comprehensive taxonomy of startup failure modes |
-| [Why to Not Not Start a Startup](https://www.ycombinator.com/library/8x-why-to-not-not-start-a-startup) | March 2007 | 16 excuses dismantled; founders > ideas; the default shift |
-| [The Equity Equation](https://www.ycombinator.com/library/8u-the-equity-equation) | July 2007 | The 1/(1-n) formula for equity decisions |
-| [Be Relentlessly Resourceful](https://www.ycombinator.com/library/94-be-relentlessly-resourceful) | March 2009 | Two-word description of the ideal founder |
-| [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) | November 2012 | The organic method; the well model; schlep and unsexy filters |
-| [Startup = Growth](https://www.ycombinator.com/library/8s-startup-growth) | September 2012 | Definition of startup as growth; growth rate as compass; S-curve phases; expected value reasoning |
-| [Do Things That Don't Scale](https://www.ycombinator.com/library/96-do-things-that-don-t-scale) | July 2013 | Collison installation; contained fire; Meraki; consulting technique |
-| [How to Convince Investors](https://www.ycombinator.com/library/98-how-to-convince-investors) | August 2013 | Formidable founders, market sizing, handling rejection, the three-step recipe |
-| [Before the Startup](https://www.ycombinator.com/library/8y-before-the-startup) | October 2014 | Startups are counterintuitive; playing house; "just learn" |
-| [Default Alive or Default Dead](https://www.ycombinator.com/library/95-default-alive-or-default-dead) | October 2015 | The binary diagnostic; fatal pinch; overhiring as #1 killer |
-| [Billionaires Build](https://www.ycombinator.com/library/9M-billionaires-build) | December 2020 | YC interview mechanics, larval markets, authenticity of motivation, why bad people make bad founders |
-
 ## References
 
 1. [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) -- Paul Graham (November 2012)

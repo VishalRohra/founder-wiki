@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["hard tech", "hardware startups", "deep tech", "aerospace startups", "hardtech", "hardware at YC"]
 related: ["[[University Spinouts]]", "[[Growth]]", "[[Series A Fundraising]]", "[[Athelas]]", "[[Boom Technology]]"]
-sources: ["5Q-on-starting-and-scaling-aerospace-company-boom", "4x-on-starting-a-company-from-a-hackathon-project", "8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup"]
+sources: ["5Q-on-starting-and-scaling-aerospace-company-boom", "4x-on-starting-a-company-from-a-hackathon-project", "8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup", "8G-advice-for-hard-tech-and-biotech-founders"]
 speakers_referenced: ["Blake Scholl", "Tanay Tandon", "Jared Friedman"]
 ---
 
@@ -82,12 +82,52 @@ Scholl argues that bigger ideas can actually be easier because they motivate the
 
 His advice for choosing what to work on: "Find something in the world that you desperately want to exist." All startups go through hell; the question is whether it is worth it. "If you haven't found that, don't start a startup just to start a startup. I did that my first time and it was a horrible idea" [1].
 
+## Definition and Scope
+
+Friedman provides a two-criteria definition of hard tech [4]:
+1. It will take a lot of time and money to build the first product
+2. Even with lots of time and money, it is not clear if building it is possible at all
+
+The key distinction: **market risk vs. technical risk**. A website or mobile app has mostly market risk (will people want this?) but little technical risk (building apps is a solved problem). A hard tech company probably has something people clearly want -- the question is whether it can be built at all [4].
+
+## The Sam Altman Paradox: Hard Companies Are Easier
+
+[[Sam Altman]] observed: "In many ways, it's easier to start a hard company than an easy company" [4]. Friedman uses [[Boom Technology]] to explain. Scholl's first company was a mobile shopping app. Launching was easy, but getting press, attracting talent, and getting investor meetings were hard. With Boom, building the product is incredibly hard, but everything else is easy. "From the very beginning, back when Boom was like an idea, Blake was able to get some of the most talented people in the world to want to help him" [4].
+
+## YC Hard Tech Stats
+
+YC has funded 250+ bio companies and 200+ hard tech companies. YC is the largest bio seed investor and the largest hard tech seed investor in the world. Hard tech applicants have a roughly 10x higher acceptance rate than other application types [4].
+
+## The Heavy MVP Problem
+
+The biggest hard tech problem: you need millions of dollars to build the first product, and you do not have millions of dollars. The answer: "Figure out some way to make some progress on your idea that doesn't require millions of dollars" [4].
+
+Seven examples of creative MVPs [4]:
+1. **Boom**: Built computer simulations, assembled advisors, built a plastic model, used the model to get airline interest
+2. **Solugen**: Applied to YC with a beaker that could produce one cup of hydrogen peroxide using synthetic biology
+3. **AirX**: Used an existing approved medical device and wrote software around it, launching during YC with no FDA approval needed
+4. **Notable Labs**: Started by providing tumor-screening services to pharma companies, generating revenue and data
+5. **Astranis**: Built a test satellite during YC for under $50K in under three months
+6. **Ginkgo Bioworks**: Closed contracts first ("If Ginkgo makes these organisms, we will pay you") then raised money to actually make the organisms
+7. **Cruise**: Built an MVP self-driving car during YC in less than three months. Later acquired by GM for $1B
+
+## Proving Demand Before Building
+
+### Letters of Intent (LOIs)
+
+For situations where pre-sales are not possible, YC developed the LOI format. An LOI is a non-binding contract to buy the product when ready [4]. Despite being non-binding, LOIs are effective because customers take them seriously. The specificity principle: the more specific the LOI (quantity, price, timeline, technical requirements), the more valuable it is [4].
+
+## Fundraising Strategy: The Staircase, Not the Wall
+
+The worst fundraising plan: "I need $50M, I'll go pitch until someone gives it to me." The correct plan: split $50M into five discrete raises, starting very small. Each raise requires specific milestones. The critical principle: "No step should be too large" [4].
+
 ## Regulatory and Validation Challenges
 
-Hard tech startups often face regulatory hurdles that software companies do not. Athelas needed FDA approval (Class 2 510(k)) to ship its blood diagnostics device [2]. [[Jared Friedman]] notes that for hardtech and biotech companies, [[Series A Fundraising]] traction sections should focus on technology efficacy, patents, LOIs, and specific regulatory milestones like 510(k) or IND filings [3].
+Hard tech startups often face regulatory hurdles that software companies do not. Athelas needed FDA approval (Class 2 510(k)) to ship its blood diagnostics device [2]. Friedman notes that for hardtech and biotech companies, [[Series A Fundraising]] traction sections should focus on technology efficacy, patents, LOIs, and specific regulatory milestones like 510(k) or IND filings [3].
 
 ## References
 
 1. [On Starting and Scaling Aerospace Company Boom](https://www.ycombinator.com/library/5Q-on-starting-and-scaling-aerospace-company-boom) -- [[Blake Scholl]] (n.d.)
 2. [On Starting a Company from a Hackathon Project](https://www.ycombinator.com/library/4x-on-starting-a-company-from-a-hackathon-project) -- Tanay Tandon (January 2017)
 3. [How to Spin Your Scientific Research Out of a University and Into a Startup](https://www.ycombinator.com/library/8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup) -- [[Jared Friedman]] (n.d.)
+4. [Advice for Hard Tech and Biotech Founders](https://www.ycombinator.com/library/8G-advice-for-hard-tech-and-biotech-founders) -- [[Jared Friedman]] (2019)

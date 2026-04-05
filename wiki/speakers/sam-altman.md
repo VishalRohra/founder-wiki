@@ -34,14 +34,6 @@ Altman is unusual in the YC canon for explicitly addressing what happens when th
 
 On management, he is firmly in the "keep it simple" camp -- no innovation on org structure, clear single-manager reporting, compensation bands, and frequent written communication as the highest-leverage management tool.
 
-## Source Inventory
-
-| Source | Key Contribution |
-|--------|-----------------|
-| [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) | Do not grow before the product is loved; leaky bucket problem |
-| [Later Stage Advice for Startups](https://www.ycombinator.com/library/4q-later-stage-advice-for-startups) | Management transition at 25+ employees; HR, delegation, alignment test |
-| [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) | Airplane vs. spaceship framework; overvaluation trap; acquisition positioning |
-
 ## References
 
 1. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- Sam Altman (n.d.)

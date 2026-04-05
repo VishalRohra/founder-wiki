@@ -1,309 +1,20 @@
 {
-  "Pitch Deck Design": [
-    "Aaron Harris",
-    "Kevin Hale",
-    "Legible Simple Obvious",
+  "AI and Startups": [
+    "Dalton Caldwell"
+  ],
+  "AI in Startups": [
+    "Tom Blomfield"
+  ],
+  "Aaron Harris": [
     "Seed Fundraising",
-    "Series A Fundraising"
-  ],
-  "Legible Simple Obvious": [
-    "Kevin Hale",
-    "Pitch Deck Design"
-  ],
-  "Seed Fundraising": [
-    "Aaron Harris",
-    "Biotech Startup Funding",
-    "Convincing Investors",
-    "Equity Split",
-    "Growth",
-    "Kevin Hale",
-    "Pitch Deck Design",
-    "Runway Management",
-    "Scaling and Later-Stage Operations",
     "Series A Fundraising",
-    "Series A Term Sheets",
-    "Startup Essentials",
-    "Startup Outcomes and Optionality",
-    "University Spinouts"
-  ],
-  "Feature Prioritization Frameworks": [
-    "Emmett Shear"
-  ],
-  "Product-Market Fit": [
-    "Convincing Investors",
-    "Emmett Shear",
-    "Enterprise Sales",
-    "Feature Prioritization Frameworks",
-    "Growth",
-    "Product Development",
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising",
-    "Startup Essentials",
-    "University Spinouts"
-  ],
-  "Growth": [
-    "Anu Hariharan",
-    "Blake Scholl",
-    "Boom Technology",
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Emmett Shear",
-    "Enterprise Sales",
-    "Feature Prioritization Frameworks",
-    "Financial Survival",
-    "Getting Press",
-    "Hard Tech Startups",
-    "Network Effects",
-    "Paul Graham",
-    "Product-Market Fit",
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising",
-    "Startup Outcomes and Optionality"
-  ],
-  "Snapdocs: Navigating Market Cycles": [
-    "Aaron King",
-    "Startups for Students"
-  ],
-  "Hiring Engineers": [
-    "Becoming a Founder",
-    "Harj Taggar"
-  ],
-  "Startup Ideas": [
-    "Convincing Investors",
-    "Doing Things That Don't Scale",
-    "Early-Stage Mistakes",
-    "Founder Mindset",
-    "Paul Graham",
-    "Product-Market Fit",
-    "Schlep Filter",
-    "Starting Young",
-    "Startups for Students"
-  ],
-  "Doing Things That Don't Scale": [
-    "Default Alive or Default Dead",
-    "Early-Stage Mistakes",
-    "Founder Mindset",
-    "Growth",
-    "Paul Graham",
-    "Product-Market Fit",
-    "Schlep Filter",
-    "Starting Young",
-    "Startup Essentials",
-    "Startup Ideas"
-  ],
-  "Founder Mindset": [
-    "Doing Things That Don't Scale",
-    "Early-Stage Mistakes",
-    "Paul Graham",
-    "Schlep Filter",
-    "Starting Young",
-    "Startup Ideas"
-  ],
-  "Financial Survival": [
-    "Default Alive or Default Dead",
-    "Early-Stage Mistakes",
-    "Equity Equation",
-    "Growth",
-    "Paul Graham",
-    "Starting Young"
-  ],
-  "Early-Stage Mistakes": [
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Equity Equation",
-    "Financial Survival",
-    "Founder Mindset",
-    "Growth",
-    "Paul Graham",
-    "Starting Young",
-    "Startup Ideas"
-  ],
-  "Starting Young": [
-    "Founder Mindset",
-    "Paul Graham"
-  ],
-  "Equity Equation": [
-    "Equity Split",
-    "Financial Survival",
-    "Paul Graham"
-  ],
-  "Default Alive or Default Dead": [
-    "Doing Things That Don't Scale",
-    "Early-Stage Mistakes",
-    "Financial Survival",
-    "Growth",
-    "Paul Graham"
-  ],
-  "Schlep Filter": [
-    "Paul Graham",
-    "Startup Ideas"
-  ],
-  "Convincing Investors": [
-    "Co-Founders",
-    "Paul Graham",
-    "Snapdocs: Navigating Market Cycles",
-    "Startups for Students"
-  ],
-  "Co-Founders": [
-    "Equity Split",
-    "Paul Graham",
-    "Snapdocs: Navigating Market Cycles",
-    "Startups for Students"
-  ],
-  "Startups for Students": [
-    "Co-Founders",
-    "Paul Graham"
-  ],
-  "WeChat": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Network Effects",
-    "Pinduoduo",
-    "Social Commerce",
-    "Toutiao"
-  ],
-  "Pinduoduo": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Network Effects",
-    "Social Commerce",
-    "Toutiao",
-    "WeChat"
-  ],
-  "Toutiao": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Network Effects",
-    "Social Commerce",
-    "WeChat"
-  ],
-  "Board Management": [
-    "Anu Hariharan",
-    "Series A Fundraising",
-    "Startup Leadership",
-    "Startup Management"
-  ],
-  "Social Commerce": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Network Effects",
-    "Pinduoduo"
-  ],
-  "China Tech Ecosystem": [
-    "Anu Hariharan"
-  ],
-  "Startup Leadership": [
-    "Ali Rowghani",
-    "Board Management",
-    "Mission-to-Metrics Framework",
-    "Startup Management",
-    "Three Traits of Great Leadership"
-  ],
-  "Three Traits of Great Leadership": [
-    "Ali Rowghani",
-    "Startup Leadership"
-  ],
-  "Mission-to-Metrics Framework": [
-    "Ali Rowghani",
-    "Startup Leadership",
-    "Startup Management",
-    "Three Traits of Great Leadership"
-  ],
-  "Hard Tech Startups": [
-    "Athelas",
-    "Blake Scholl",
-    "Boom Technology",
-    "Jared Friedman",
-    "University Spinouts"
-  ],
-  "Enterprise Sales": [
-    "Blake Scholl",
-    "Boom Technology",
-    "Growth",
-    "Product-Market Fit"
-  ],
-  "Scaling and Later-Stage Operations": [
-    "Enterprise Sales",
-    "Sam Altman",
-    "Startup Outcomes and Optionality"
-  ],
-  "Startup Outcomes and Optionality": [
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising"
-  ],
-  "University Spinouts": [
-    "Athelas",
-    "Equity Split",
-    "Hard Tech Startups",
-    "Jared Friedman"
-  ],
-  "Equity Split": [
-    "Co-Founders",
-    "Jared Friedman",
-    "University Spinouts"
-  ],
-  "Series A Fundraising": [
-    "Aaron Harris",
-    "Board Management",
-    "Enterprise Sales",
-    "Hard Tech Startups",
-    "Product-Market Fit",
-    "Runway Management",
-    "Seed Fundraising"
-  ],
-  "Product Development": [
-    "Michael Seibel",
-    "Snapdocs: Navigating Market Cycles",
-    "Startup Essentials"
-  ],
-  "Getting Press": [
-    "Michael Seibel"
-  ],
-  "Becoming a Founder": [
-    "Hiring Engineers",
-    "Michael Seibel",
-    "Startup Essentials"
-  ],
-  "Startup Essentials": [
-    "Becoming a Founder",
-    "Biotech Startup Funding",
-    "Getting Press",
-    "Michael Seibel",
-    "Pitch Deck Design",
-    "Product Development",
-    "Product-Market Fit",
     "Series A Term Sheets"
   ],
-  "Paul Graham": [
-    "Co-Founders",
-    "Convincing Investors",
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Early-Stage Mistakes",
-    "Equity Equation",
-    "Equity Split",
-    "Financial Survival",
-    "Founder Mindset",
-    "Growth",
-    "Michael Seibel",
-    "Network Effects",
-    "Product-Market Fit",
-    "Runway Management",
-    "Schlep Filter",
-    "Seed Fundraising",
-    "Starting Young",
-    "Startup Essentials",
-    "Startup Ideas",
-    "Startups for Students"
-  ],
-  "Network Effects": [
-    "Pinduoduo",
-    "Social Commerce",
-    "Toutiao",
-    "WeChat"
+  "Ali Rowghani": [
+    "Mission-to-Metrics Framework",
+    "Startup Leadership",
+    "Startup Management",
+    "Three Traits of Great Leadership"
   ],
   "Anu Hariharan": [
     "Board Management",
@@ -316,79 +27,844 @@
     "Toutiao",
     "WeChat"
   ],
+  "Applying to YC": [
+    "Cold Emailing Investors",
+    "Convincing Investors",
+    "Garry Tan"
+  ],
+  "Astranis: Building Satellites Without Being a Billionaire": [
+    "Hard Tech Startups"
+  ],
+  "Athelas": [
+    "Hard Tech Startups"
+  ],
+  "B2B Pricing": [
+    "Tom Blomfield"
+  ],
+  "Becoming a Founder": [
+    "Choosing a Startup to Join",
+    "First-Time Founders",
+    "Hiring Engineers",
+    "Leaving Big Tech",
+    "Michael Seibel",
+    "Startup Essentials",
+    "Survivorship Bias in Startup Advice"
+  ],
+  "Biotech Startup Funding": [
+    "Series A Term Sheets"
+  ],
   "Blake Scholl": [
     "Boom Technology",
     "Hard Tech Startups"
   ],
-  "Aaron King": [
-    "Snapdocs: Navigating Market Cycles"
+  "Board Management": [
+    "Anu Hariharan",
+    "Series A Fundraising",
+    "Startup Leadership",
+    "Startup Management"
+  ],
+  "Boom Technology": [
+    "Astranis: Building Satellites Without Being a Billionaire",
+    "First-Time Founders",
+    "Hard Tech Startups",
+    "Startup Ideas"
+  ],
+  "Cargo Culting": [
+    "Conformists vs. Non-Conformists",
+    "Dalton Caldwell"
+  ],
+  "China Tech Ecosystem": [
+    "Anu Hariharan"
+  ],
+  "Choosing a Startup to Join": [
+    "Harj Taggar"
+  ],
+  "Co-Founders": [
+    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
+    "Dalton Caldwell",
+    "Dealing with Setbacks",
+    "Diane Greene",
+    "Equity Split",
+    "Hard Conversations",
+    "Hiring at Early Stage",
+    "Paul Graham",
+    "Recruiting Early Team Members",
+    "Snapdocs: Navigating Market Cycles",
+    "Startup Ideas",
+    "Startups for Students",
+    "Technical Co-Founders"
+  ],
+  "Cold Emailing Investors": [
+    "Applying to YC",
+    "Convincing Investors",
+    "Fundraising Mistakes",
+    "Michael Seibel",
+    "Seed Fundraising",
+    "Silicon Valley Fundraising"
+  ],
+  "Competing with Big Companies": [
+    "Dalton Caldwell"
+  ],
+  "Conformists vs. Non-Conformists": [
+    "Dalton Caldwell"
+  ],
+  "Confronting Reality": [
+    "Founder Mindset",
+    "Garry Tan"
+  ],
+  "Conversion Rates": [
+    "Startup Pricing"
+  ],
+  "Convincing Investors": [
+    "Applying to YC",
+    "Co-Founders",
+    "Cold Emailing Investors",
+    "Dealing with Setbacks",
+    "First-Time Founders",
+    "Fundraising Mistakes",
+    "Handling Investor Rejection",
+    "Influencing Decision Makers",
+    "Investor Advice Pitfalls",
+    "Investor Incentives",
+    "Passion and Motivation",
+    "Paul Graham",
+    "Silicon Valley Fundraising",
+    "Snapdocs: Navigating Market Cycles",
+    "Startups for Students",
+    "Zero-Sum vs. Positive-Sum Games"
+  ],
+  "Creating Luck": [
+    "Confronting Reality",
+    "Dalton Caldwell",
+    "Founder Mindset",
+    "Recruiting Early Team Members"
+  ],
+  "Customer Relationships": [
+    "Dalton Caldwell",
+    "Launching"
+  ],
+  "Dalton Caldwell": [
+    "AI and Startups",
+    "Cargo Culting",
+    "Co-Founders",
+    "Conformists vs. Non-Conformists",
+    "Convincing Investors",
+    "Creating Luck",
+    "Customer Relationships",
+    "Dealing with Setbacks",
+    "Founder Mindset",
+    "Founder Optimism and Pessimism",
+    "Founder Productivity",
+    "Fundraising Mistakes",
+    "Hard Conversations",
+    "Hiring at Early Stage",
+    "Influencing Decision Makers",
+    "Investor Advice Pitfalls",
+    "Investor Incentives",
+    "Leaving Big Tech",
+    "Michael Seibel",
+    "Online Presence",
+    "Passion and Motivation",
+    "Pivoting",
+    "Recruiting Early Team Members",
+    "Seed Fundraising",
+    "Simple Products",
+    "Startup Ideas",
+    "Startup Location",
+    "Survivorship Bias in Startup Advice",
+    "Talking to Users",
+    "Technical Co-Founders",
+    "The Midwit Meme",
+    "Tom Blomfield",
+    "Value Creation",
+    "Zero-Sum vs. Positive-Sum Games"
+  ],
+  "Dealing with Setbacks": [
+    "Dalton Caldwell",
+    "Founder Optimism and Pessimism"
+  ],
+  "Default Alive or Default Dead": [
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "Financial Survival",
+    "Growth",
+    "Hiring at Early Stage",
+    "Paul Graham"
+  ],
+  "Doing Things That Don't Scale": [
+    "Astranis: Building Satellites Without Being a Billionaire",
+    "Customer Relationships",
+    "Default Alive or Default Dead",
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "Founder Mindset",
+    "Getting First Users",
+    "Growth",
+    "Launching",
+    "Paul Graham",
+    "Pricing and Monetization",
+    "Product-Market Fit",
+    "Schlep Filter",
+    "Starting Young",
+    "Startup Essentials",
+    "Startup Ideas",
+    "Talking to Users",
+    "Value Creation"
+  ],
+  "Early-Stage Mistakes": [
+    "Cargo Culting",
+    "Confronting Reality",
+    "Default Alive or Default Dead",
+    "Doing Things That Don't Scale",
+    "Equity Equation",
+    "Financial Survival",
+    "Founder Mindset",
+    "Founder Optimism and Pessimism",
+    "Growth",
+    "Investor Advice Pitfalls",
+    "Paul Graham",
+    "Pivoting",
+    "Product-Market Fit",
+    "Simple Products",
+    "Starting Young",
+    "Startup Ideas",
+    "Startup Location",
+    "The Midwit Meme"
   ],
   "Emmett Shear": [
     "Feature Prioritization Frameworks",
     "Product-Market Fit"
   ],
-  "Ali Rowghani": [
-    "Mission-to-Metrics Framework",
+  "Enterprise Sales": [
+    "B2B Pricing",
+    "Blake Scholl",
+    "Boom Technology",
+    "Growth",
+    "Influencing Decision Makers",
+    "Pricing and Monetization",
+    "Product-Market Fit",
+    "Selling to Startups",
+    "Tom Blomfield",
+    "Value Creation"
+  ],
+  "Equity Equation": [
+    "Equity Split",
+    "Financial Survival",
+    "Paul Graham"
+  ],
+  "Equity Split": [
+    "Co-Founders",
+    "Jared Friedman",
+    "Michael Seibel",
+    "University Spinouts"
+  ],
+  "Feature Prioritization Frameworks": [
+    "Emmett Shear"
+  ],
+  "Financial Survival": [
+    "Default Alive or Default Dead",
+    "Early-Stage Mistakes",
+    "Equity Equation",
+    "Fundraising Mistakes",
+    "Growth",
+    "Hiring at Early Stage",
+    "Investor Advice Pitfalls",
+    "Investor Incentives",
+    "Paul Graham",
+    "Starting Young",
+    "Startup Metrics"
+  ],
+  "Founder Mindset": [
+    "AI and Startups",
+    "Cargo Culting",
+    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
+    "Company Culture",
+    "Competing with Big Companies",
+    "Conformists vs. Non-Conformists",
+    "Confronting Reality",
+    "Creating Luck",
+    "Dalton Caldwell",
+    "Dealing with Setbacks",
+    "Diane Greene",
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "Elon Musk",
+    "First-Time Founders",
+    "Founder Optimism and Pessimism",
+    "Founder Productivity",
+    "Garry Tan",
+    "Handling Investor Rejection",
+    "Hard Conversations",
+    "Influencing Decision Makers",
+    "Investor Advice Pitfalls",
+    "Leaving Big Tech",
+    "Online Presence",
+    "Passion and Motivation",
+    "Paul Graham",
+    "Pivoting",
+    "Recruiting Early Team Members",
+    "Schlep Filter",
+    "Simple Products",
+    "StarCloud",
+    "Starting Young",
+    "Startup Ideas",
+    "Startup Location",
+    "Survivorship Bias in Startup Advice",
+    "The Midwit Meme",
+    "Zero-Sum vs. Positive-Sum Games"
+  ],
+  "Founder Optimism and Pessimism": [
+    "Dalton Caldwell"
+  ],
+  "Founder Productivity": [
+    "AI in Startups",
+    "Dalton Caldwell"
+  ],
+  "Fundraising Mistakes": [
+    "Convincing Investors",
+    "Dalton Caldwell",
+    "Michael Seibel",
+    "Seed Fundraising"
+  ],
+  "Garry Tan": [
+    "Applying to YC",
+    "Cold Emailing Investors",
+    "Confronting Reality",
+    "Founder Mindset",
+    "Launching"
+  ],
+  "Getting First Users": [
+    "Product-Market Fit",
+    "Startup Ideas"
+  ],
+  "Getting Press": [
+    "Launching",
+    "Michael Seibel",
+    "Online Presence"
+  ],
+  "Growth": [
+    "AI and Startups",
+    "Anu Hariharan",
+    "B2B Pricing",
+    "Blake Scholl",
+    "Boom Technology",
+    "Choosing a Startup to Join",
+    "Competing with Big Companies",
+    "Conversion Rates",
+    "Customer Relationships",
+    "Default Alive or Default Dead",
+    "Doing Things That Don't Scale",
+    "Emmett Shear",
+    "Enterprise Sales",
+    "Feature Prioritization Frameworks",
+    "Financial Survival",
+    "Getting First Users",
+    "Getting Press",
+    "Hard Tech Startups",
+    "Launching",
+    "Network Effects",
+    "Paul Graham",
+    "Pricing Thermometer",
+    "Pricing and Monetization",
+    "Product-Market Fit",
+    "Sam Altman",
+    "Scaling and Later-Stage Operations",
+    "Selling to Startups",
+    "Series A Fundraising",
+    "Startup Metrics",
+    "Startup Outcomes and Optionality",
+    "Startup Pricing",
+    "Tom Blomfield"
+  ],
+  "Hard Conversations": [
+    "Dalton Caldwell"
+  ],
+  "Hard Tech Startups": [
+    "AI and Startups",
+    "Astranis: Building Satellites Without Being a Billionaire",
+    "Athelas",
+    "Blake Scholl",
+    "Boom Technology",
+    "Diane Greene",
+    "Elon Musk",
+    "Jared Friedman",
+    "StarCloud",
+    "University Spinouts"
+  ],
+  "Harj Taggar": [
+    "Choosing a Startup to Join",
+    "Co-Founders",
+    "Competing with Big Companies",
+    "Dalton Caldwell",
+    "First-Time Founders",
+    "Handling Investor Rejection",
+    "Hiring Engineers",
+    "Hiring at Early Stage",
+    "Launching",
+    "Pivoting",
+    "Pricing and Monetization",
+    "Selling to Startups",
+    "Tom Blomfield"
+  ],
+  "Hiring Engineers": [
+    "Becoming a Founder",
+    "Choosing a Startup to Join",
+    "Harj Taggar",
+    "Hiring at Early Stage",
+    "Influencing Decision Makers",
+    "Recruiting Early Team Members",
+    "Startup Culture",
+    "Technical Co-Founders"
+  ],
+  "Hiring at Early Stage": [
+    "Dalton Caldwell"
+  ],
+  "Influencing Decision Makers": [
+    "Dalton Caldwell",
+    "Online Presence"
+  ],
+  "Investor Advice Pitfalls": [
+    "Dalton Caldwell",
+    "Founder Optimism and Pessimism"
+  ],
+  "Investor Incentives": [
+    "Dalton Caldwell"
+  ],
+  "Jared Friedman": [
+    "Astranis: Building Satellites Without Being a Billionaire",
+    "Biotech Startup Funding",
+    "Dalton Caldwell",
+    "Equity Split",
+    "Hard Tech Startups",
+    "Pivoting",
+    "Startup Ideas",
+    "Survivorship Bias in Startup Advice",
+    "Tom Blomfield",
+    "University Spinouts"
+  ],
+  "Kevin Hale": [
+    "Conversion Rates",
+    "Legible Simple Obvious",
+    "Pitch Deck Design",
+    "Pricing Thermometer",
+    "Startup Pricing"
+  ],
+  "Launching": [
+    "Astranis: Building Satellites Without Being a Billionaire",
+    "Dalton Caldwell"
+  ],
+  "Leaving Big Tech": [
+    "Dalton Caldwell"
+  ],
+  "Legible Simple Obvious": [
+    "Kevin Hale",
+    "Pitch Deck Design"
+  ],
+  "Michael Seibel": [
+    "AI and Startups",
+    "Applying to YC",
+    "Becoming a Founder",
+    "Board Management",
+    "Cargo Culting",
+    "Co-Founders",
+    "Cold Emailing Investors",
+    "Competing with Big Companies",
+    "Conformists vs. Non-Conformists",
+    "Customer Relationships",
+    "Dalton Caldwell",
+    "Dealing with Setbacks",
+    "Equity Split",
+    "First-Time Founders",
+    "Founder Optimism and Pessimism",
+    "Founder Productivity",
+    "Fundraising Mistakes",
+    "Getting First Users",
+    "Getting Press",
+    "Handling Investor Rejection",
+    "Hard Conversations",
+    "Hiring Engineers",
+    "Hiring at Early Stage",
+    "Influencing Decision Makers",
+    "Investor Advice Pitfalls",
+    "Investor Incentives",
+    "Launching",
+    "Leaving Big Tech",
+    "Online Presence",
+    "Passion and Motivation",
+    "Pivoting",
+    "Pricing and Monetization",
+    "Product Development",
+    "Product-Market Fit",
+    "Seed Fundraising",
+    "Selling to Startups",
+    "Silicon Valley Fundraising",
+    "Simple Products",
+    "Startup Essentials",
+    "Startup Ideas",
+    "Startup Location",
+    "Startups for Students",
+    "Survivorship Bias in Startup Advice",
+    "Talking to Users",
+    "Technical Co-Founders",
+    "The Midwit Meme",
+    "Tom Blomfield",
+    "University Spinouts",
+    "Value Creation",
+    "Zero-Sum vs. Positive-Sum Games"
+  ],
+  "Mission-to-Metrics Framework": [
+    "Ali Rowghani",
     "Startup Leadership",
     "Startup Management",
     "Three Traits of Great Leadership"
   ],
-  "Startup Management": [
-    "Mission-to-Metrics Framework",
-    "Startup Leadership"
+  "Network Effects": [
+    "Pinduoduo",
+    "Social Commerce",
+    "Startup Metrics",
+    "Tom Blomfield",
+    "Toutiao",
+    "WeChat"
   ],
-  "Kevin Hale": [
-    "Legible Simple Obvious",
-    "Pitch Deck Design",
-    "Seed Fundraising"
+  "Online Presence": [
+    "Dalton Caldwell"
   ],
-  "Michael Seibel": [
-    "Becoming a Founder",
-    "Board Management",
+  "Passion and Motivation": [
+    "Dalton Caldwell"
+  ],
+  "Paul Graham": [
     "Co-Founders",
-    "Getting Press",
-    "Hiring Engineers",
-    "Product Development",
-    "Startup Essentials",
-    "Startups for Students",
-    "University Spinouts"
-  ],
-  "Jared Friedman": [
-    "Biotech Startup Funding",
+    "Convincing Investors",
+    "Dalton Caldwell",
+    "Default Alive or Default Dead",
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "Equity Equation",
     "Equity Split",
-    "Hard Tech Startups",
+    "Financial Survival",
+    "Founder Mindset",
+    "Founder Productivity",
+    "Growth",
+    "Michael Seibel",
+    "Network Effects",
+    "Online Presence",
+    "Product-Market Fit",
+    "Recruiting Early Team Members",
+    "Runway Management",
+    "Schlep Filter",
     "Seed Fundraising",
-    "University Spinouts"
+    "Starting Young",
+    "Startup Essentials",
+    "Startup Ideas",
+    "Startups for Students",
+    "Talking to Users",
+    "Tom Blomfield"
   ],
-  "Series A Term Sheets": [
-    "Biotech Startup Funding",
+  "Pinduoduo": [
+    "Anu Hariharan",
+    "China Tech Ecosystem",
+    "Network Effects",
+    "Social Commerce",
+    "Toutiao",
+    "WeChat"
+  ],
+  "Pitch Deck Design": [
+    "Aaron Harris",
+    "Kevin Hale",
+    "Legible Simple Obvious",
+    "Seed Fundraising",
     "Series A Fundraising"
   ],
-  "Sam Altman": [
+  "Pivoting": [
+    "Dalton Caldwell",
+    "Tom Blomfield"
+  ],
+  "Product Development": [
+    "AI in Startups",
+    "Founder Productivity",
+    "Michael Seibel",
+    "Simple Products",
+    "Snapdocs: Navigating Market Cycles",
+    "Startup Essentials"
+  ],
+  "Product-Market Fit": [
+    "B2B Pricing",
+    "Choosing a Startup to Join",
+    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
+    "Confronting Reality",
+    "Conversion Rates",
+    "Convincing Investors",
+    "Customer Relationships",
+    "Dalton Caldwell",
+    "Emmett Shear",
+    "Enterprise Sales",
+    "Equity Split",
+    "Feature Prioritization Frameworks",
+    "First-Time Founders",
+    "Founder Productivity",
+    "Getting First Users",
     "Growth",
+    "Hiring at Early Stage",
+    "Influencing Decision Makers",
+    "Investor Advice Pitfalls",
+    "Launching",
+    "Michael Seibel",
+    "Pivoting",
+    "Pricing and Monetization",
+    "Product Development",
+    "Sam Altman",
+    "Scaling and Later-Stage Operations",
+    "Selling to Startups",
+    "Series A Fundraising",
+    "Simple Products",
+    "Startup Culture",
+    "Startup Essentials",
+    "Startup Metrics",
+    "Startup Pricing",
+    "Talking to Users",
+    "University Spinouts",
+    "Value Creation"
+  ],
+  "Recruiting Early Team Members": [
+    "Co-Founders",
+    "Convincing Investors",
+    "Creating Luck",
+    "Dalton Caldwell",
+    "Founder Mindset"
+  ],
+  "Runway Management": [
+    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
+    "Dalton Caldwell",
+    "Seed Fundraising",
+    "Startup Metrics"
+  ],
+  "Sam Altman": [
+    "Choosing a Startup to Join",
+    "Elon Musk",
+    "Growth",
+    "Hard Tech Startups",
     "Product-Market Fit",
     "Scaling and Later-Stage Operations",
+    "StarCloud",
     "Startup Essentials",
     "Startup Outcomes and Optionality"
   ],
-  "Runway Management": [
+  "Scaling and Later-Stage Operations": [
+    "Company Culture",
+    "Enterprise Sales",
+    "Hiring at Early Stage",
+    "Sam Altman",
+    "Startup Culture",
+    "Startup Outcomes and Optionality"
+  ],
+  "Seed Fundraising": [
+    "Aaron Harris",
+    "Applying to YC",
+    "Biotech Startup Funding",
+    "Cold Emailing Investors",
+    "Convincing Investors",
+    "Equity Split",
+    "Fundraising Mistakes",
+    "Growth",
+    "Handling Investor Rejection",
+    "Investor Incentives",
+    "Kevin Hale",
+    "Pitch Deck Design",
+    "Runway Management",
+    "Scaling and Later-Stage Operations",
+    "Series A Fundraising",
+    "Series A Term Sheets",
+    "Silicon Valley Fundraising",
+    "Startup Essentials",
+    "Startup Outcomes and Optionality",
+    "University Spinouts"
+  ],
+  "Series A Fundraising": [
+    "Aaron Harris",
+    "Board Management",
+    "Dealing with Setbacks",
+    "Enterprise Sales",
+    "Handling Investor Rejection",
+    "Hard Tech Startups",
+    "Product-Market Fit",
+    "Runway Management",
     "Seed Fundraising"
   ],
-  "Aaron Harris": [
-    "Seed Fundraising",
-    "Series A Fundraising",
-    "Series A Term Sheets"
+  "Series A Term Sheets": [
+    "Biotech Startup Funding",
+    "Investor Incentives",
+    "Series A Fundraising"
   ],
-  "Biotech Startup Funding": [
-    "Series A Term Sheets"
+  "Silicon Valley Fundraising": [
+    "Cold Emailing Investors",
+    "Convincing Investors",
+    "Fundraising Mistakes",
+    "Michael Seibel",
+    "Seed Fundraising"
   ],
-  "Athelas": [
-    "Hard Tech Startups"
+  "Simple Products": [
+    "Dalton Caldwell"
   ],
-  "Boom Technology": [
-    "Hard Tech Startups"
+  "Snapdocs: Navigating Market Cycles": [
+    "Aaron King",
+    "Snapdocs: Navigating Market Cycles",
+    "Startups for Students"
   ],
-  "Harj Taggar": [
-    "Hiring Engineers"
+  "Social Commerce": [
+    "Anu Hariharan",
+    "China Tech Ecosystem",
+    "Network Effects",
+    "Pinduoduo"
+  ],
+  "Starting Young": [
+    "Conformists vs. Non-Conformists",
+    "Founder Mindset",
+    "Leaving Big Tech",
+    "Paul Graham",
+    "Survivorship Bias in Startup Advice"
+  ],
+  "Startup Culture": [
+    "Tim Brady"
+  ],
+  "Startup Essentials": [
+    "Becoming a Founder",
+    "Biotech Startup Funding",
+    "Founder Productivity",
+    "Getting Press",
+    "Launching",
+    "Michael Seibel",
+    "Pitch Deck Design",
+    "Pricing and Monetization",
+    "Product Development",
+    "Product-Market Fit",
+    "Series A Term Sheets",
+    "Talking to Users",
+    "Value Creation"
+  ],
+  "Startup Ideas": [
+    "AI and Startups",
+    "AI in Startups",
+    "Applying to YC",
+    "Cargo Culting",
+    "Choosing a Startup to Join",
+    "Competing with Big Companies",
+    "Confronting Reality",
+    "Convincing Investors",
+    "Creating Luck",
+    "Dalton Caldwell",
+    "Doing Things That Don't Scale",
+    "Early-Stage Mistakes",
+    "First-Time Founders",
+    "Founder Mindset",
+    "Garry Tan",
+    "Getting First Users",
+    "Michael Seibel",
+    "Passion and Motivation",
+    "Paul Graham",
+    "Pivoting",
+    "Product-Market Fit",
+    "Schlep Filter",
+    "Selling to Startups",
+    "Simple Products",
+    "Starting Young",
+    "Startup Ideas",
+    "Startups for Students",
+    "Survivorship Bias in Startup Advice",
+    "Talking to Users",
+    "Technical Co-Founders",
+    "The Midwit Meme"
+  ],
+  "Startup Leadership": [
+    "Ali Rowghani",
+    "Board Management",
+    "Company Culture",
+    "Diane Greene",
+    "Mission-to-Metrics Framework",
+    "Startup Culture",
+    "Startup Leadership",
+    "Startup Management",
+    "Three Traits of Great Leadership"
+  ],
+  "Startup Location": [
+    "Dalton Caldwell"
+  ],
+  "Startup Management": [
+    "Company Culture",
+    "Founder Productivity",
+    "Hard Conversations",
+    "Mission-to-Metrics Framework",
+    "Startup Culture",
+    "Startup Leadership",
+    "Tim Brady"
+  ],
+  "Startup Metrics": [
+    "Tom Blomfield"
+  ],
+  "Startup Outcomes and Optionality": [
+    "Investor Incentives",
+    "Sam Altman",
+    "Scaling and Later-Stage Operations",
+    "Series A Fundraising"
+  ],
+  "Startup Pricing": [
+    "Conversion Rates",
+    "Pricing Thermometer"
+  ],
+  "Startups for Students": [
+    "Co-Founders",
+    "Paul Graham"
+  ],
+  "Survivorship Bias in Startup Advice": [
+    "Dalton Caldwell"
+  ],
+  "Technical Co-Founders": [
+    "Co-Founders",
+    "Dalton Caldwell"
+  ],
+  "The Midwit Meme": [
+    "Dalton Caldwell"
+  ],
+  "Three Traits of Great Leadership": [
+    "Ali Rowghani",
+    "Startup Leadership"
+  ],
+  "Tim Brady": [
+    "Startup Culture"
+  ],
+  "Tom Blomfield": [
+    "AI in Startups",
+    "B2B Pricing",
+    "Dalton Caldwell",
+    "Launching",
+    "Pivoting",
+    "Startup Metrics"
+  ],
+  "Toutiao": [
+    "Anu Hariharan",
+    "China Tech Ecosystem",
+    "Network Effects",
+    "Social Commerce",
+    "Toutiao",
+    "WeChat"
+  ],
+  "University Spinouts": [
+    "Athelas",
+    "Equity Split",
+    "Hard Tech Startups",
+    "Jared Friedman"
+  ],
+  "Value Creation": [
+    "Dalton Caldwell"
+  ],
+  "WeChat": [
+    "Anu Hariharan",
+    "China Tech Ecosystem",
+    "Network Effects",
+    "Pinduoduo",
+    "Social Commerce",
+    "Toutiao"
+  ],
+  "Zero-Sum vs. Positive-Sum Games": [
+    "Dalton Caldwell"
   ]
 }
