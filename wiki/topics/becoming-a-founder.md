@@ -3,10 +3,10 @@ title: Becoming a Founder
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
-aliases: ["becoming a founder", "starting a startup", "founder preparation", "college and startups", "should I start a startup", "career paths tech", "founder vs employee"]
-related: ["[[Michael Seibel]]", "[[Startup Essentials]]", "[[Hiring Engineers]]", "[[First-Time Founders]]"]
-sources: ["4d-a-letter-to-college-students", "4h-three-paths-in-the-tech-industry-founder-executive-or-employee"]
-speakers_referenced: ["Michael Seibel"]
+aliases: ["becoming a founder", "starting a startup", "founder preparation", "college and startups", "should I start a startup", "career paths tech", "founder vs employee", "underdog mentality"]
+related: ["[[Michael Seibel", "[[Harj Taggar]]", "[[Sam Altman]]", "[[Choosing a Startup to Join]]", "[[Co-Founders]]", "[[Starting Young]]", "[[Startup Essentials]]", "[[Hiring Engineers]]", "[[First-Time Founders]]"]
+sources: ["4d-a-letter-to-college-students", "4h-three-paths-in-the-tech-industry-founder-executive-or-employee", "GV-should-you-start-a-startup", "89-how-to-succeed-with-a-startup", "60-should-i-start-a-startup"]
+speakers_referenced: ["Michael Seibel", "Harj Taggar", "Sam Altman"]
 ---
 
 # Becoming a Founder
@@ -88,7 +88,76 @@ When hard barriers prevent starting immediately, Seibel recommends moving to a t
 
 Seibel warns against overextending the discovery phase. If it takes 5-10 years to get truly good at something and 10 years are spent discovering what to get good at, "it's going to take a long time for you to feel like a highly skilled productive person." Exploration is not wrong, but its costs must be understood and planned for [2].
 
+## The Three Types of People (Michael Seibel)
+
+Seibel identifies three groups when it comes to the startup question [3]:
+
+**Group 1: Natural entrepreneurs (~1% of the population).** "The only thing they can really do is work in a radically entrepreneurial job. They will not enjoy their life inside of a big company." Historically, these people started small businesses [3].
+
+**Group 2: Fence-sitters (also rare).** Equally capable as a founder or as an effective big-company operator. "A lot of people confuse themselves for this group when in reality this group is also probably pretty small" [3].
+
+**Group 3: Big-company operators (the largest group).** "They want a system to optimize. They want an existing path, an existing set of rules they can operate and play by" [3].
+
+Seibel warns against guilt-tripping in either direction. He admits his own past bias: "When I first started giving people advice, I really assumed that because you could sort of start a startup, you should start a startup. I quickly realized working at YC that's a bad idea" [3].
+
+## The Self-Assessment
+
+Seibel's diagnostic questions [3]:
+
+- **Where am I at my best?** Not just resilient, but actually delivering peak results.
+- **Where am I organically applying effort?** Where is motivation 100% self-generated?
+- **When do I outperform?** For Seibel, his high-gear moments never happened in structured K-12 settings.
+
+Three yes answers suggest the startup path: (1) Do I like being the underdog? (2) Do I seek the hard challenges that most people shy away from? (3) Do I thrive when I take personal responsibility for success or failure? [3]
+
+## The Underdog as Motivation
+
+Seibel uses his own biography to illustrate the underdog drive [3]. In high school, he was placed in the "regular" track instead of the "gifted" track. At Yale, he was kicked out for poor grades. Two months later, the anger returned. At Justin.tv/Twitch: "Doing startups was never my plan but looking at my history in high school and college I really needed to be an underdog in order to motivate myself to succeed. Startups are the classic underdog, 99% of the time -- they fail. This was so motivating that I didn't even need to believe in our first idea to stay excited" [3].
+
+The Justin.tv survival story: on five separate occasions over five years, the company nearly died. "All of these adversities were exactly what we needed to stay hungry" [3].
+
+## Beware Biased Advice
+
+Seibel identifies three sources of biased career advice [3]:
+
+**Big companies.** Google's recruiting machine has three purposes: (1) get smart people to work on hard tasks, (2) get smart people so they are not working for competitors, and (3) get smart people so they are not creating companies that will compete with Google [3].
+
+**Peers.** In school through college, peers are excellent information sources. Then suddenly, with career advice, "they almost are horrible." The shift happens because college goes "from one track to a thousand tracks" [3].
+
+**Prestige culture.** "Do you actually want to do the work of a lawyer? No, of course not" [3].
+
+## Should You Start a Startup? (Harj Taggar)
+
+[[Harj Taggar]] addresses the question from the perspective of someone who has worked with almost a thousand startup founders at YC [4].
+
+### Resilience Is the Key Trait
+
+Taggar identifies resilience as the single most important quality for startup founders. He warns against using confidence as a proxy: "Someone could appear very confident initially, but not be resilient when their startup hit roadblocks" [4]. He cites Sajith of Benchling as an example of hidden resilience: quietly spoken, struggled at Demo Day, made no revenue for over a year, now runs a $6 billion company [4].
+
+### Motivations Can Change
+
+Taggar argues that initial motivations matter less than people think. "It's fine to start a startup to become rich" [4]. The enduring motivations are genuine interest in the problem and love for the people you work with [4].
+
+### The Worst-Case Analysis
+
+Taggar's practical framework: "Ask yourself, What do I have to lose?" -- not rhetorically, but as a concrete exercise. The calculus differs by situation. A recent college graduate faces minimal risk. A FAANG employee nine years in stands to lose more [4].
+
+### The Learning Value of Failing
+
+Taggar argues the learning from starting a company is undervalued in worst-case analysis. Rippling hires former founders to run product divisions. Nick Grandy went from a failed startup to Airbnb's first employee to $3 billion Outschool [4].
+
+### When to Quit and Start
+
+The signal: "If you find your job is draining, but you have energy to work on your side projects on evenings and weekends, that's a sign it may be time to quit" [4].
+
+## How to Succeed (Sam Altman)
+
+[[Sam Altman]] adds that ambitious visions make it easier, not harder, to build a team. "In 2018, at least in Silicon Valley, it's easier to start a hard startup than it is to start an easy startup." Employee 20 joins because the mission matters [5]. See [[Founder Mindset]] for more on Altman's founder trait framework.
+
 ## References
 
 1. [A Letter to College Students](https://www.ycombinator.com/library/4d-a-letter-to-college-students) — [[Michael Seibel]] (March 2017)
 2. [Three Paths in the Tech Industry: Founder, Executive, or Employee](https://www.ycombinator.com/library/4h-three-paths-in-the-tech-industry-founder-executive-or-employee) — [[Michael Seibel]] (September 2017)
+3. [Should I Start a Startup?](https://www.ycombinator.com/library/60-should-i-start-a-startup) -- [[Michael Seibel]] (2018)
+4. [Should You Start a Startup?](https://ycombinator.com/library/GV-should-you-start-a-startup) -- [[Harj Taggar]] (2022)
+5. [How to Succeed with a Startup](https://ycombinator.com/library/89-how-to-succeed-with-a-startup) -- [[Sam Altman]] (August 2018)

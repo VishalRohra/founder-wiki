@@ -4,9 +4,9 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["determination", "relentlessly resourceful", "founder qualities", "founder traits", "startup mindset", "commitment", "grit"]
-related: ["[[Paul Graham]]", "[[Doing Things That Don't Scale]]", "[[Early-Stage Mistakes]]", "[[Starting Young]]", "[[Startup Ideas]]", "[[Recruiting Early Team Members]]", "[[Creating Luck]]", "[[Confronting Reality]]", "[[Dalton Caldwell]]", "[[Garry Tan]]", "[[First-Time Founders]]", "[[Elon Musk]]", "[[Diane Greene]]"]
-sources: ["94-be-relentlessly-resourceful", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "93-a-student-s-guide-to-startups", "5b-how-do-you-convince-someone-to-join-your-startup", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "69-on-starting-and-scaling-meal-kit-company-gobble", "5I-on-starting-and-scaling-healthcare-startup-23andme", "5N-on-starting-and-scaling-bloom-institute-of-technology", "6L-on-starting-and-scaling-construction-startup-plangrid"]
-speakers_referenced: ["Paul Graham", "Dalton Caldwell", "Garry Tan", "Ooshma Garg", "Anne Wojcicki", "Austen Allred", "Tracy Young", "Sam Altman"]
+related: ["[[Paul Graham", "[[Sam Altman]]", "[[Harj Taggar]]", "[[Why Now]]", "[[Doing Things That Don't Scale]]", "[[Early-Stage Mistakes]]", "[[Starting Young]]", "[[Startup Ideas]]", "[[Recruiting Early Team Members]]", "[[Creating Luck]]", "[[Confronting Reality]]", "[[Dalton Caldwell]]", "[[Garry Tan]]", "[[First-Time Founders]]", "[[Elon Musk]]", "[[Diane Greene]]"]
+sources: ["94-be-relentlessly-resourceful", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "93-a-student-s-guide-to-startups", "5b-how-do-you-convince-someone-to-join-your-startup", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "69-on-starting-and-scaling-meal-kit-company-gobble", "5I-on-starting-and-scaling-healthcare-startup-23andme", "5N-on-starting-and-scaling-bloom-institute-of-technology", "6L-on-starting-and-scaling-construction-startup-plangrid", "89-how-to-succeed-with-a-startup", "GV-should-you-start-a-startup"]
+speakers_referenced: ["Paul Graham", "Dalton Caldwell", "Garry Tan", "Ooshma Garg", "Anne Wojcicki", "Austen Allred", "Tracy Young", "Sam Altman", "Harj Taggar"]
 ---
 
 # Founder Mindset
@@ -72,6 +72,30 @@ Young's executive coach identified a pattern called "negative ego" -- constant s
 
 Garg describes the loneliness of founder knowledge: at her lowest point, she had just made the last full payroll she could afford. "Nobody knew this but me. Starting and running a company, as a founder, is a very lonely experience" [9].
 
+## The Evangelical Founder (Sam Altman)
+
+[[Sam Altman]] identifies a specific founder trait: the evangelical founder, usually the CEO, who "recruits, sells the product, talks to the press, raises money" [13]. This person "infects with enthusiasm the whole world about what the company is trying to do." An ambitious vision supports this evangelism: "Ambitious visions are exciting. They're fun to work on." In 2018, Altman argues, it is easier to start a hard startup than an easy one [13].
+
+## Confident and Definite View of the Future
+
+Altman observes that the best founders have "a confident and definite view of the future. They may be wrong. And so we say, it's good to be confident and flexible" [13].
+
+## The Blessing of Inexperience
+
+Altman describes what YC calls "the blessing of inexperience": startups that accomplish things because "no one told them it was hard." He quotes Steve Wozniak: "All the best things he ever did came from having no experience whatsoever and having no money" [13].
+
+## Never Lose Momentum
+
+Altman identifies momentum as one of the most critical founder responsibilities. "If you have momentum, people keep delivering results beyond what they think they're capable of. If you lose momentum, it's very difficult to get it back" [13].
+
+## Frugality, Focus, Obsession, and Love
+
+Altman credits Paul Buchheit with distilling the traits of the best YC founders into four words: "frugality, focus, obsession, and love" [13].
+
+## Resilience Over Confidence (Harj Taggar)
+
+[[Harj Taggar]] adds a diagnostic insight: confidence is not a reliable proxy for founder resilience. He has seen "someone could appear very confident initially, but not be resilient when their startup hit roadblocks" -- and conversely, "some of the quietest and least confident seeming founders at first turned out to be the most resilient" [14]. See [[Becoming a Founder]] for the full treatment.
+
 ## References
 
 1. [Be Relentlessly Resourceful](https://www.ycombinator.com/library/94-be-relentlessly-resourceful) -- [[Paul Graham]] (March 2009)
@@ -86,3 +110,5 @@ Garg describes the loneliness of founder knowledge: at her lowest point, she had
 10. [On starting and scaling healthcare startup 23andMe](https://ycombinator.com/library/5I-on-starting-and-scaling-healthcare-startup-23andme) -- [[Anne Wojcicki]], [[Sam Altman]] (2018)
 11. [On starting and scaling Bloom Institute of Technology](https://ycombinator.com/library/5N-on-starting-and-scaling-bloom-institute-of-technology) -- [[Austen Allred]] (2019)
 12. [On starting and scaling construction startup PlanGrid](https://ycombinator.com/library/6L-on-starting-and-scaling-construction-startup-plangrid) -- [[Tracy Young]], Kat Manalac (2019)
+13. [How to Succeed with a Startup](https://ycombinator.com/library/89-how-to-succeed-with-a-startup) -- [[Sam Altman]] (August 2018)
+14. [Should You Start a Startup?](https://ycombinator.com/library/GV-should-you-start-a-startup) -- [[Harj Taggar]] (2022)

@@ -4,8 +4,8 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["competing with big companies", "competition", "startup competition", "competing with Google", "competing with Amazon", "land grab", "structural advantage", "startup vs big company"]
-related: ["[[Growth]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Brad Flora]]"]
-sources: ["Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google", "MC-how-to-build-the-future-aravind-srinivas", "MJ-how-to-build-the-future-tony-xu", "Lp-how-to-build-the-future-sam-altman"]
+related: ["[[Growth", "[[Sam Altman]]", "[[Why Now]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Brad Flora]]"]
+sources: ["Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google", "MC-how-to-build-the-future-aravind-srinivas", "MJ-how-to-build-the-future-tony-xu", "Lp-how-to-build-the-future-sam-altman", "89-how-to-succeed-with-a-startup"]
 speakers_referenced: ["Michael Seibel", "Harj Taggar", "Brad Flora", "Aravind Srinivas", "Tony Xu", "Sam Altman"]
 ---
 
@@ -86,9 +86,26 @@ Seibel's approach in office hours is to redirect founder anxiety to the fundamen
 
 [[Sam Altman]] describes how OpenAI, far less resourced than DeepMind, used focus as a weapon: "They're going to try a lot of things, and we've just got to pick one and really concentrate" [4]. The startup advantage is not resources but conviction and speed [4].
 
+## Three Structural Advantages for Startups (Sam Altman)
+
+[[Sam Altman]] identifies three specific areas where startups repeatedly beat big companies [5]:
+
+### Ideas That Sound Bad But Are Good
+
+At a big company, a product manager with an idea that sounds bad but is actually good must get "everybody from your boss, sometimes all the way up to the CEO to say yes. So one no can kill you." At a startup, any of thousands of investors at Demo Day can say yes. "For those ideas that sound bad but are good, because of this phenomenon, this one no versus one yes, startups can win" [5].
+
+### Fast-Changing Markets
+
+A startup's great advantage is agility and speed. "The more a market is changing the higher the number of decisions you get to make and the higher number of tweaks to your product and strategy you get to make." Big companies will make those decisions "on average, worse and certainly much slower" [5].
+
+### Big Platform Shifts
+
+Startups come in clusters, usually after a major platform shift. Large companies operate on annual cadences and "are not good at making a big enough strategic pivot. The battleship just turns too slowly." A startup can commit fully to a new direction overnight [5]. See [[Why Now]] for Garry Tan's complementary treatment of platform shifts.
+
 ## References
 
 1. [How to Compete with Amazon and Google](https://www.ycombinator.com/library/Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google) -- [[Harj Taggar]], [[Michael Seibel]], [[Brad Flora]] (2021)
 2. [How To Build The Future: Aravind Srinivas](https://ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas) -- [[Aravind Srinivas]], [[David Lieb]] (2025)
 3. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], [[Garry Tan]] (2025)
 4. [How To Build The Future: Sam Altman](https://ycombinator.com/library/Lp-how-to-build-the-future-sam-altman) -- [[Sam Altman]], [[Garry Tan]] (2024)
+5. [How to Succeed with a Startup](https://ycombinator.com/library/89-how-to-succeed-with-a-startup) -- [[Sam Altman]] (August 2018)

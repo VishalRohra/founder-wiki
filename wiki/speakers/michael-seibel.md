@@ -3,9 +3,9 @@ title: Michael Seibel
 type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
-sources: ["4e-guide-to-product-development", "4d-a-letter-to-college-students", "4c-getting-press-for-your-startup", "4D-yc-s-essential-startup-advice", "4h-three-paths-in-the-tech-industry-founder-executive-or-employee", "5z-the-real-product-market-fit", "63-why-fundraising-is-different-in-silicon-valley", "65-how-to-cold-email-investors", "5x-how-to-split-equity-among-co-founders", "7x-how-to-get-and-test-ideas", "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes", "DV-dalton-michael-successful-founders-are-ok-with-rejection", "DW-dalton-michael-should-you-follow-your-passion", "IP-dalton-michael-secrets-you-can-learn-from-your-customers", "IT-dalton-michael-why-investors-can-t-fix-your-company", "DT-dalton-michael-simple-products-that-became-big-companies"]
+sources: ["4e-guide-to-product-development", "4d-a-letter-to-college-students", "4c-getting-press-for-your-startup", "4D-yc-s-essential-startup-advice", "4h-three-paths-in-the-tech-industry-founder-executive-or-employee", "5z-the-real-product-market-fit", "63-why-fundraising-is-different-in-silicon-valley", "65-how-to-cold-email-investors", "5x-how-to-split-equity-among-co-founders", "7x-how-to-get-and-test-ideas", "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes", "DV-dalton-michael-successful-founders-are-ok-with-rejection", "DW-dalton-michael-should-you-follow-your-passion", "IP-dalton-michael-secrets-you-can-learn-from-your-customers", "IT-dalton-michael-why-investors-can-t-fix-your-company", "DT-dalton-michael-simple-products-that-became-big-companies", "7v-should-i-use-a-dev-shop", "KZ-should-your-startup-bootstrap-or-raise-venture-capital", "Kw-when-should-you-trust-your-gut", "60-should-i-start-a-startup", "6f-how-to-plan-an-mvp"]
 aliases: ["Michael Seibel", "Seibel"]
-related: ["[[Product Development]]", "[[Getting Press]]", "[[Becoming a Founder]]", "[[Startup Essentials]]", "[[Product-Market Fit]]", "[[Equity Split]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Fundraising Mistakes]]", "[[Startup Ideas]]", "[[Dalton Caldwell]]"]
+related: ["[[Product Development", "[[Dev Shops]]", "[[Bootstrapping vs. Venture Capital]]", "[[Commit or Validate]]", "[[MVP Planning]]", "[[Launching]]", "[[Getting Press]]", "[[Becoming a Founder]]", "[[Startup Essentials]]", "[[Product-Market Fit]]", "[[Equity Split]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Fundraising Mistakes]]", "[[Startup Ideas]]", "[[Dalton Caldwell]]"]
 
 speakers_referenced: ["Michael Seibel"]
 ---
@@ -68,6 +68,33 @@ On fundraising, Seibel frequently partners with Caldwell to diagnose common mist
 - **Intrinsic vs. Extrinsic Motivation**: Extrinsic motivators (money, status, approval) are "great for getting to a good high school or a good college, not so good for the startup game" [13].
 - **The Founder as Filter**: Unlike employees who are protected by layers of management, founders are the filter -- they absorb unfiltered reality and must process it for their team [12].
 - **Seven Investor Types**: Taxonomy of investor biases based on background: finance, big company exec, non-tech entrepreneur, junior investor, influencer, other founders, extremely young investors [15].
+- **Iteration Speed Over Traction**: What early investors actually want is the ability to iterate, not a polished product with metrics [17].
+- **The Dev Shop Trap**: Outsourced development feels like progress but creates a money pit that blocks fundraising and iteration [17].
+- **Three Types of People**: Natural entrepreneurs, fence-sitters, and big-company operators [20].
+- **The Underdog Test**: Three yes/no questions to determine if you are suited for startup life [20].
+- **Screwdriver Metaphor**: Keep the user and the problem constant; iterate on the solution [21].
+- **Four MVP Hacks**: Time box the spec, write the spec, cut the spec, don't fall in love [21].
+
+
+## The Dev Shop Trap
+
+Seibel warns non-technical founders that outsourcing initial product development to a dev shop is one of the most common traps. The key insight: early-stage investors care more about iteration speed than traction. "The vast majority of good early stage investors care more about whether you can build something than what you've built" [17]. A technical co-founder provides faster, cheaper iteration than a dev shop [17]. See [[Dev Shops]].
+
+## On Bootstrap vs. VC
+
+Seibel dismisses the bootstrap-vs-VC debate as a "confusingly controversial" non-controversy. "The vast majority of businesses should not raise venture capital" and "venture capital is not interested in investing in the vast majority of businesses" [18]. He uses a personal example to validate bootstrapping: a friend earning $30,000-$50,000/month on 7-10 hours of maintenance. "Am I the idiot?" Seibel asked himself while watching his friend's life on Facebook during his own grinding startup years [18]. See [[Bootstrapping vs. Venture Capital]].
+
+## On Founder Intuition
+
+In the [[Commit or Validate]] framework with Caldwell, Seibel provides the diagnostic: "If you were inside of a company, you built a tool, everyone at the company uses the tool, it's still being used even though you don't work there anymore, you probably know more than you think" [19]. The failure mode he identifies: expert founders who abandon their domain knowledge to chase AI trends for fundraising purposes [19].
+
+## The Three Types of People
+
+Seibel identifies three groups when it comes to the startup question [20]: natural entrepreneurs (~1% of the population), fence-sitters (also rare), and big-company operators (the largest group). "The only thing they can really do is work in a radically entrepreneurial job. They will not enjoy their life inside of a big company" [20]. He warns against guilt-tripping in either direction [20].
+
+## MVP as Learning Tool
+
+Seibel defines MVP as "something ridiculously simple -- the first thing you can give to the very first set of users you want to target, in order to see if you can deliver any value at all" [21]. Key contributions: the screwdriver metaphor for iteration ("keep the mechanic, keep the problem, fix the screwdriver"), the "hold the problem tightly, hold the solution loosely" principle, and the rule to ask users for problems not features [21]. See [[MVP Planning]].
 
 ## References
 
@@ -87,3 +114,8 @@ On fundraising, Seibel frequently partners with Caldwell to diagnose common mist
 14. [Secrets You Can Learn From Your Customers](https://ycombinator.com/library/IP-dalton-michael-secrets-you-can-learn-from-your-customers) -- [[Dalton Caldwell]], Michael Seibel (2023)
 15. [Why Investors Can't Fix Your Company](https://ycombinator.com/library/IT-dalton-michael-why-investors-can-t-fix-your-company) -- [[Dalton Caldwell]], Michael Seibel (n.d.)
 16. [Simple Products That Became Big Companies](https://ycombinator.com/library/DT-dalton-michael-simple-products-that-became-big-companies) -- [[Dalton Caldwell]], Michael Seibel (2022)
+17. [Should I Use a Dev Shop?](https://ycombinator.com/library/7v-should-i-use-a-dev-shop) -- Michael Seibel (2019)
+18. [Should Your Startup Bootstrap or Raise Venture Capital?](https://ycombinator.com/library/KZ-should-your-startup-bootstrap-or-raise-venture-capital) -- [[Dalton Caldwell]], Michael Seibel (2024)
+19. [When Should You Trust Your Gut?](https://ycombinator.com/library/Kw-when-should-you-trust-your-gut) -- [[Dalton Caldwell]], Michael Seibel (2024)
+20. [Should I Start a Startup?](https://www.ycombinator.com/library/60-should-i-start-a-startup) -- Michael Seibel (2018)
+21. [How to Plan an MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp) -- Michael Seibel (2019)

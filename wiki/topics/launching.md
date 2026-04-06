@@ -4,8 +4,8 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["launching", "when to launch", "launch strategy", "launching early", "launch timing", "MVP launch", "startup launch", "how to launch", "launch early", "launch often", "first launch", "product launch"]
-related: ["[[Growth]]", "[[Doing Things That Don't Scale]]", "[[Product-Market Fit]]", "[[Startup Essentials]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Getting Press]]", "[[Talking to Users]]"]
-sources: ["J0-inside-the-group-partner-lounge-when-to-launch-your-startup", "LG-why-startup-founders-should-launch-companies-sooner-than-they-think", "Ir-the-best-way-to-launch-your-startup"]
+related: ["[[Growth", "[[Kat Manalac]]", "[[Dev Tools]]", "[[Doing Things That Don't Scale]]", "[[Product-Market Fit]]", "[[Startup Essentials]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Getting Press]]", "[[Talking to Users]]"]
+sources: ["J0-inside-the-group-partner-lounge-when-to-launch-your-startup", "LG-why-startup-founders-should-launch-companies-sooner-than-they-think", "Ir-the-best-way-to-launch-your-startup", "6i-how-to-launch-again-and-again"]
 speakers_referenced: ["Harj Taggar", "Michael Seibel", "Brad Flora", "Diana Hu", "Gustaf Alstromer", "Tom Blomfield", "Kat Manalac", "Garry Tan", "Aaron Epstein", "Pete Koomen", "Serby"]
 ---
 
@@ -132,8 +132,58 @@ Seibel closes: if you are a Parker Conrad -- you have already built a billion-do
 
 Manalac explicitly sets aside press as a launch strategy for early-stage companies. If you have not raised a million dollars or more, landing press stories is very difficult. Even when you do, "it's not a silver bullet. It's not a scalable way to get users. It will not get you to product-market fit" [3]. See [[Getting Press]] for the appropriate approach once the product is working.
 
+## Kat Manalac: Launching Is Continuous
+
+[[Kat Manalac]] provides the most comprehensive catalog of launch types and reinforces the core YC principle: launching is not a one-shot event [4]. She opens with a common failure pattern: a team that spent six months perfecting every pixel and every line of copy before sharing the product. "If you're like most startups, you will launch something, no one will care. And if it took you six months to get there, your startup is probably going to be dead before you get another chance to launch" [4].
+
+### Pre-Product Launches
+
+Even before a fully functioning product exists, founders can launch to test their pitch and see how people respond [4]:
+
+**Silent Launch.** The minimum: a domain name, company name, short description, contact, and a call to action. Manalac checked 10 random Startup School companies and found only half had landing pages [4]. Product Hunt's "Ship" feature allows pre-launch companies to collect subscriber interest [4].
+
+**Friends and Family Launch.** Test the one-sentence pitch on friends and family. Reddit's earliest version was shared among the first YC batch -- just eight companies. Manalac found the original site on the Wayback Machine: upvotes were still called "boosts" [4]. Warning: "Don't stay in this phase for too long because your friends and family might not be the exact right, ideal user" [4].
+
+**Launch to Strangers.** Lugg (on-demand movers) went to IKEA before having a functional app. Founders watched shoppers struggling to tie furniture to their cars, then ran up and offered to help. When customers pushed the button in the app, the founder would sprint to the truck and drive up. "The customer would be like, 'Oh, my God, it's you'" [4]. It confirmed the hair-on-fire problem before they built real infrastructure [4].
+
+### Online Community Launches
+
+Manalac considers this one of the best early-stage strategies: "Plan a launch for every single community that you are part of" [4].
+
+**Magic's viral community launch.** Magic was building a blood pressure monitoring app. Growth stalled, so they tested a side idea: a simple website saying "Text this phone number and we'll make anything happen like magic." A friend shared it on Reddit and Hacker News. Over a weekend, 40,000 people signed up [4]. They then added a waitlist with viral elements -- tweeting about Magic let you skip spots in line [4].
+
+**Hacker News.** Manalac asked the HN moderators which company types perform best. Their answer: "It's absolutely not true" that only dev tools do well. "If you actually look at the numbers, all sorts of companies do well." The highest engagement often comes from founders who lean into intellectual curiosity: "Is there something really interesting that you've learned from your users that you can share?" [4]. One of the top-performing YC launches on HN was 70 Million Jobs, a solo non-technical founder connecting people with criminal records to employment [4].
+
+**Community etiquette.** "Write like you talk. Do not talk like a marketing robot" [4]. Introduce yourself, explain what you are building, share why, and offer to answer questions. Tee up the conversation: "I'm an expert in X, Y, and Z, and I'm happy to answer questions on these topics" [4].
+
+### Request for Access / Waitlist Launch
+
+Superhuman uses this model: users request access and can skip the line via referrals. Every email sent by a Superhuman user includes a "Sent by Superhuman" tag, generating organic referral requests [4].
+
+### Blogger and SEO Launches
+
+Joy (wedding website builder) was one of the fastest-growing companies in their YC batch, largely from being listed on "best wedding website builders" blog posts. They identified who was ranking on the first pages of Google results for their category, contacted over 50 bloggers, and got four responses. "Those four responses made a huge impact for their early growth" [4]. Manalac warns: "Some blogger and influencer opportunities are pay-to-play. I do not want you paying early on" [4].
+
+### Pre-Order Campaigns (Hardware)
+
+Sheertex (unbreakable pantyhose) combined multiple launch types: a compelling video, press pitches, Hacker News (which responded enthusiastically despite the male-skewing audience because they found the technical innovation interesting), Product Hunt, and friends/family/investors spreading the word [4].
+
+### New Feature and Product Line Launches
+
+Stripe launches every new product (like Stripe Atlas) on Hacker News with founders in the thread, accompanied by blog posts, social media, and press [4]. Glossier releases products on a specific cadence every six to eight weeks, hitting "every single launch button again and again: community, social media, press, advertising" [4].
+
+### Building Your Own Community Pre-Launch
+
+Gadi Evron of Cymmetria built an email list before launching by adding every person he discussed his startup with. When their TechCrunch article launched, he emailed the entire list asking for help spreading the word. "He even saw VCs who hadn't invested in them sharing the story from their own personal Twitter accounts" [4]. His advice: "You would be really surprised by who comes out of the woodwork to help when you ask for it" [4].
+
+### On Launch Parties
+
+Manalac's position: do not spend a ton of money. "Back in the day, people were spending tens of thousands of dollars on these elaborate launch parties, and it's bananas" [4]. Something small and fun is fine [4].
+
+
 ## References
 
 1. [Inside the Group Partner Lounge: When to Launch Your Startup](https://www.ycombinator.com/library/J0-inside-the-group-partner-lounge-when-to-launch-your-startup) -- [[Harj Taggar]], [[Michael Seibel]], [[Brad Flora]] (2021)
 2. [Why Startup Founders Should Launch Companies Sooner Than They Think](https://ycombinator.com/library/LG-why-startup-founders-should-launch-companies-sooner-than-they-think) -- [[Michael Seibel]], Diana Hu, Gustaf Alstromer, [[Tom Blomfield]], [[Harj Taggar]], Pete Koomen, Aaron Epstein, Serby, [[Garry Tan]] (2023)
 3. [The Best Way to Launch Your Startup](https://ycombinator.com/library/Ir-the-best-way-to-launch-your-startup) -- Kat Manalac (2020)
+4. [How to Launch (Again and Again)](https://www.ycombinator.com/library/6i-how-to-launch-again-and-again) -- [[Kat Manalac]] (2019)

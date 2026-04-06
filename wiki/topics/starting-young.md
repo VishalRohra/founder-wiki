@@ -5,8 +5,8 @@ created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["student founders", "college startups", "young founders", "age", "when to start a startup", "student guide"]
 related: ["[[Paul Graham]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Early-Stage Mistakes]]", "[[Financial Survival]]"]
-sources: ["93-a-student-s-guide-to-startups", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "91-why-smart-people-have-bad-ideas"]
-speakers_referenced: ["Paul Graham"]
+sources: ["93-a-student-s-guide-to-startups", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "91-why-smart-people-have-bad-ideas", "IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder"]
+speakers_referenced: ["Paul Graham", "Dalton Caldwell", "Michael Seibel"]
 ---
 
 # Starting Young
@@ -93,6 +93,69 @@ Graham sees the shift from employment as default to startups as an option in his
 
 Graham believes startups may represent another such historic shift in how wealth is created [2].
 
+## Dalton & Michael: The Student's Guide
+
+[[Dalton Caldwell]] and [[Michael Seibel]], both of whom started their first companies in their early 20s, provide specific advice for high school students who want to become founders [6]. The opening message: "The startup game isn't going away. You've got time" [6].
+
+### Level Up Before You Play the Boss
+
+Caldwell uses a Final Fantasy VII analogy: you can fight the boss at your current level and get destroyed, or you can grind for ten more hours and crush it [6]. "Investing and leveling yourself up can produce a lot of benefits later on. Like deferring a little bit of that satisfaction of getting started right now so you can upskill makes you ten times more powerful later" [6].
+
+But the grinding has to be real: "If I just stood there and didn't grind, my character got no better" [6].
+
+### Skills to Develop
+
+**Learn to code.** Caldwell and Seibel are emphatic. Even if you think "I'm not going to be a coder my whole life, I want to be a founder, I want to be a product person" -- learn to code anyway [6]. Seibel, who was the "business guy" at Justin.tv: "There are many moments in the early stage of a company where I felt borderline useless and certainly I didn't have the power to impact the product anywhere near as much as my other three co-founders, who were software engineers" [6].
+
+Seibel pushes harder: "Get this complicated view of 'I don't want to be a coder' out of your head. The coders are the most powerful people inside of software companies. They're the most highly compensated. They're the hardest to replace. They often have the best ideas" [6].
+
+Resources: AP Computer Science, Replit, Code Academy. "It doesn't matter" if you were not a thirteen-year-old prodigy. Learning at nineteen or twenty is fine [6].
+
+**Learn design.** Caldwell recalls needing to use Photoshop when no designer was available: "If a button needs to be made and we didn't have a designer, make the button. It didn't even have to look that good" [6].
+
+**Launch products.** Going through the full cycle of conceiving, building, and releasing a project is irreplaceable practice [6]. Seibel's example: Mark Zuckerberg and Adam D'Angelo built a music recommendation plugin for Winamp in high school called "the Brain." It got millions of downloads. "It had nothing to do with what they did later on in life, but they knew how to write code, they knew how to make something they themselves wanted, and they released it" [6].
+
+Caldwell observes this pattern in successful YC founders: "You ask them, 'Well, why were you doing that?' And they almost don't understand the question. It's their nature to build things and release them" [6].
+
+**Learn to talk to people.** "This is 100 percent a learnable skill, and anyone who says otherwise is really doing you a disservice" [6]. Caldwell notes that high school identities feel permanent ("That's a nerd. That's a jock") but they are not. "You can experiment. You can play. You can be whoever you want to be" [6]. And "everyone else feels shy too. Even the people who you think don't feel shy" [6].
+
+**Learn to help people.** Caldwell recounts tutoring a ninth grader in high school -- initially to check a box for the National Merit Scholarship. When the parents smiled at him with genuine gratitude, something clicked: "If you actually help someone, they'll really appreciate it. If you care, and I actually took it more seriously" [6]. He connects this to customer relationships: even when you screw up, if customers know you genuinely care, "they're not gonna fire you. It is so rare to find products or people who actually care" [6].
+
+### Play the Credential Game (Strategically)
+
+Caldwell acknowledges that credentials matter in the real world, despite not being a meritocratic filter [6]. He warns against both extremes: embracing the system uncritically ("the teacher's pets") or rejecting it entirely ("rage against the machine"). "Either extreme is bad" [6].
+
+Seibel's framing: the system is somewhat arbitrary. With that understanding, you can reject it (and be held back by missing credentials), or you can fail to see its arbitrariness (and be crushed when credentials do not equal personal merit), or you can use the system as a tool to accomplish your goals [6].
+
+### Distinguish Fads from Value
+
+When young people get excited about something (crypto, stock trading, AI), they should ask: does this create real value, or is it passing? [6] "Fads stick when they really add value and fads pass when they don't" [6]. Zuckerberg's Winamp plugin was part of the Napster fad -- but he was building something, not just consuming the trend.
+
+The startup-world version: COVID triggered a wave of Zoom competitors; Wall Street Bets triggered Robinhood clones. "The Zoom guys thought people need a video call way before COVID" [6]. The fad is often hiding the real underlying value.
+
+### Stay Excited About Technology
+
+Seibel notes a generational shift. When he was young, journalism was uniformly tech-optimistic. Now the default narrative is tech-skeptical: "This is bad. A lot of these people are bad. Every new technology -- how is it going to try to screw us?" [6]. Both extremes are wrong, but Seibel argues the pessimistic frame is especially corrosive for young people: "Your job is to be an optimist. Your job is to believe amazing things about what you can do with your life and what you do in the world. When you're young, that's the point. That's why the world needs young people" [6].
+
+### Learn to Be Honest
+
+Caldwell argues that self-honesty is the most important habit: "If your own relationship with yourself -- if you can't be honest about things, what do you really feel, what do you really think, who are you really -- it's going to be rough" [6].
+
+He connects honesty to the startup ecosystem: "A lot of the reasons why early adopting customers will use you is because they think you're going to be honest. A lot of reasons why investors might give you money, why your co-founders might work with you -- a lot of reasons why people make things happen in startup world is because we're in a high trust environment" [6].
+
+Seibel adds the positive reframing of "nerd honesty": the person who raises their hand to say the product sucks is doing something valuable, even if polite society considers it impolite [6].
+
+### Learn to Love Long Games
+
+Seibel recounts a formative experience: his startup lawyer, at age 30, told him the average startup takes seven to ten years to exit. "I just thought that couldn't be the case." The lawyer worked at a firm representing roughly a quarter of all tech companies -- he had the data. Seven years later, when the company sold, Seibel was 30 and the lawyer was 37. "The guy was right. This is a long game" [6].
+
+Caldwell provides a non-startup example: his high school girlfriend loved poetry and became the New York Times poetry critic. "Probably not everyone that likes poetry when they're like a six-year-old is gonna go there. But if you actually put in your whole life towards something and you have a dream and you're not ashamed of the dream, and you keep the dream going into your thirties -- a lot of people have dreams when they're young, and they lose their dreams" [6].
+
+### The Deferred Gratification Paradox
+
+Seibel recalls being a poor startup founder in his 20s, watching friends in New York banking and finance live it up. "The fun that a 25-year-old has in New York? To be honest, it's pretty shitty. A wealthy 30-year-old? Way more fun" [6].
+
+
 ## References
 
 1. [A Student's Guide to Startups](https://www.ycombinator.com/library/93-a-student-s-guide-to-startups) -- [[Paul Graham]] (October 2006)
@@ -100,3 +163,4 @@ Graham believes startups may represent another such historic shift in how wealth
 3. [Before the Startup](https://www.ycombinator.com/library/8y-before-the-startup) -- [[Paul Graham]] (October 2014)
 4. [The 18 Mistakes That Kill Startups](https://www.ycombinator.com/library/8t-the-18-mistakes-that-kill-startups) -- [[Paul Graham]] (October 2006)
 5. [Why Smart People Have Bad Ideas](https://www.ycombinator.com/library/91-why-smart-people-have-bad-ideas) -- [[Paul Graham]] (April 2005)
+6. [The Student's Guide to Becoming a Successful Startup Founder](https://www.ycombinator.com/library/IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder) -- [[Dalton Caldwell]], [[Michael Seibel]] (2024)

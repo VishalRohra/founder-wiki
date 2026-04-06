@@ -1,1327 +1,825 @@
 {
-  "case-studies/23andme.md": [
-    "Anne Wojcicki"
-  ],
-  "topics/ai-and-startups.md": [
-    "Aravind Srinivas",
-    "Brad Flora",
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Dalton Caldwell",
-    "David Lieb",
-    "Garry Tan",
-    "OpenAI: From Flip Chart to AGI",
-    "Parker Conrad",
-    "Perplexity: Building the Next Search Engine",
-    "Rippling: Building the Same Company Twice",
-    "Sam Altman",
-    "Tom Blomfield"
-  ],
-  "speakers/aaron-harris.md": [
-    "Seed Fundraising",
-    "Series A Fundraising",
-    "Series A Term Sheets"
-  ],
-  "speakers/aaron-king.md": [
-    "Snapdocs: Navigating Market Cycles"
-  ],
-  "speakers/ali-rowghani.md": [
-    "Mission-to-Metrics Framework",
-    "Startup Leadership",
-    "Startup Management",
-    "Three Traits of Great Leadership"
-  ],
-  "speakers/anne-wojcicki.md": [
-    "23andMe: Disrupting Healthcare by Empowering the Consumer",
-    "Founder Mindset",
-    "Hard Tech Startups",
-    "Hiring at Early Stage",
-    "Sam Altman"
-  ],
-  "speakers/anu-hariharan.md": [
-    "Board Management",
-    "China Tech Ecosystem",
-    "Growth",
-    "Network Effects",
-    "Pinduoduo",
-    "Product-Market Fit",
-    "Social Commerce",
-    "Toutiao",
-    "WeChat"
-  ],
-  "topics/applying-to-yc.md": [
-    "Cold Emailing Investors",
-    "Convincing Investors",
-    "Garry Tan"
-  ],
-  "speakers/aravind-srinivas.md": [
-    "AI and Startups",
-    "Competing with Big Companies",
-    "Customer Relationships",
-    "David Lieb",
-    "Perplexity: Building the Next Search Engine",
-    "Pivoting",
-    "Product-Market Fit",
-    "Talking to Users"
-  ],
-  "case-studies/athelas.md": [
-    "Hard Tech Startups"
-  ],
-  "speakers/austen-allred.md": [
-    "Founder Mindset",
-    "Lambda School (BloomTech): Reinventing CS Education with Income Share Agreements",
-    "Seed Fundraising"
-  ],
-  "topics/b2b-pricing.md": [
-    "Harry Zhang",
-    "Lob: From Inkjet Printer to Enterprise Mail API",
-    "Tom Blomfield"
-  ],
-  "topics/becoming-a-founder.md": [
-    "Choosing a Startup to Join",
-    "First-Time Founders",
-    "Hiring Engineers",
-    "Leaving Big Tech",
-    "Michael Seibel",
-    "Startup Essentials",
-    "Survivorship Bias in Startup Advice"
-  ],
-  "topics/biotech-startup-funding.md": [
-    "Series A Term Sheets",
-    "Surbhi Sarna",
-    "nVision Medical: From Ovarian Cyst to $275M Acquisition"
-  ],
-  "speakers/blake-scholl.md": [
-    "Boom Technology",
-    "Hard Tech Startups"
-  ],
-  "topics/board-management.md": [
-    "Anu Hariharan",
-    "Series A Fundraising",
-    "Startup Leadership",
-    "Startup Management"
-  ],
-  "case-studies/boom-technology.md": [
-    "Astranis: Building Satellites Without Being a Billionaire",
-    "First-Time Founders",
-    "Hard Tech Startups",
-    "Startup Ideas"
-  ],
-  "speakers/brad-flora.md": [
-    "AI and Startups",
-    "Competing with Big Companies",
-    "First-Time Founders",
-    "Handling Investor Rejection",
-    "Hiring at Early Stage",
-    "Launching",
-    "Pivoting",
-    "Pricing and Monetization",
-    "Selling to Startups",
-    "Survivorship Bias in Startup Advice"
-  ],
-  "case-studies/bump-and-google-photos.md": [
-    "David Lieb"
-  ],
-  "frameworks/cargo-culting.md": [
-    "Conformists vs. Non-Conformists",
-    "Dalton Caldwell"
-  ],
-  "topics/china-tech-ecosystem.md": [
-    "Anu Hariharan"
-  ],
-  "topics/choosing-a-startup-to-join.md": [
-    "Harj Taggar"
-  ],
-  "topics/co-founders.md": [
-    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
-    "Dalton Caldwell",
-    "Dealing with Setbacks",
-    "Diane Greene",
-    "Drew Houston",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "Equity Split",
-    "Gene Pool Engineering",
-    "Hard Conversations",
-    "Hiring at Early Stage",
-    "Lever: Building Recruiting Software from the Inside Out",
-    "Meesho: Social Commerce in India",
-    "Paul Graham",
-    "PlanGrid: Building Software for an Industry That Had Never Used It",
-    "Recruiting Early Team Members",
-    "Sarah Nahm",
-    "Snapdocs: Navigating Market Cycles",
-    "Startup Ideas",
-    "Startups for Students",
-    "Technical Co-Founders",
-    "Tracy Young",
-    "Vidit Aatrey",
-    "Vinod Khosla"
-  ],
-  "topics/cold-emailing-investors.md": [
-    "Applying to YC",
-    "Convincing Investors",
-    "Fundraising Mistakes",
-    "Michael Seibel",
-    "Seed Fundraising",
-    "Silicon Valley Fundraising"
-  ],
-  "topics/company-culture.md": [
-    "Hiring at Early Stage",
-    "Lever: Building Recruiting Software from the Inside Out",
-    "Sarah Nahm",
-    "Startup Management"
-  ],
-  "topics/competing-with-big-companies.md": [
-    "Aravind Srinivas",
-    "Brad Flora",
-    "Dalton Caldwell",
-    "DoorDash: Creating a Market from Scratch",
-    "Drew Houston",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "OpenAI: From Flip Chart to AGI",
-    "Perplexity: Building the Next Search Engine",
-    "Tony Xu"
-  ],
-  "topics/conformists-vs-nonconformists.md": [
-    "Dalton Caldwell"
-  ],
-  "topics/confronting-reality.md": [
-    "Founder Mindset",
-    "Garry Tan"
-  ],
-  "topics/conversion-rates.md": [
-    "Startup Pricing"
-  ],
-  "topics/convincing-investors.md": [
-    "Applying to YC",
-    "Co-Founders",
-    "Cold Emailing Investors",
-    "Dealing with Setbacks",
-    "First-Time Founders",
-    "Fundraising Mistakes",
-    "Handling Investor Rejection",
-    "Influencing Decision Makers",
-    "Investor Advice Pitfalls",
-    "Investor Incentives",
-    "Passion and Motivation",
-    "Paul Graham",
-    "Silicon Valley Fundraising",
-    "Snapdocs: Navigating Market Cycles",
-    "Startups for Students",
-    "Zero-Sum vs. Positive-Sum Games"
-  ],
-  "topics/creating-luck.md": [
-    "Confronting Reality",
-    "Dalton Caldwell",
-    "Founder Mindset",
-    "Recruiting Early Team Members"
-  ],
-  "topics/customer-relationships.md": [
-    "Dalton Caldwell",
-    "DoorDash: Creating a Market from Scratch",
-    "Meesho: Social Commerce in India",
-    "Tony Xu",
-    "Vidit Aatrey"
-  ],
-  "speakers/dalton-caldwell.md": [
-    "AI and Startups",
-    "Brad Flora",
-    "Cargo Culting",
-    "Co-Founders",
-    "Conformists vs. Non-Conformists",
-    "Convincing Investors",
-    "Creating Luck",
-    "Customer Relationships",
-    "Dealing with Setbacks",
-    "Founder Mindset",
-    "Founder Optimism and Pessimism",
-    "Founder Productivity",
-    "Fundraising Mistakes",
-    "Hard Conversations",
-    "Hiring at Early Stage",
-    "Influencing Decision Makers",
-    "Investor Advice Pitfalls",
-    "Investor Incentives",
-    "Leaving Big Tech",
-    "Lob: From Inkjet Printer to Enterprise Mail API",
-    "Michael Seibel",
-    "Online Presence",
-    "Passion and Motivation",
-    "Pivoting",
-    "Recruiting Early Team Members",
-    "Seed Fundraising",
-    "Simple Products",
-    "Startup Ideas",
-    "Startup Location",
-    "Survivorship Bias in Startup Advice",
-    "Talking to Users",
-    "Technical Co-Founders",
-    "The Midwit Meme",
-    "Tom Blomfield",
-    "Value Creation",
-    "Zero-Sum vs. Positive-Sum Games"
-  ],
-  "speakers/david-lieb.md": [
-    "AI and Startups",
-    "Aravind Srinivas",
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Competing with Big Companies",
-    "Customer Relationships",
-    "Doing Things That Don't Scale",
-    "Perplexity: Building the Next Search Engine",
-    "Pivoting",
-    "Product-Market Fit",
-    "Talking to Users"
-  ],
-  "topics/dealing-with-setbacks.md": [
-    "Dalton Caldwell",
-    "DoorDash: Creating a Market from Scratch",
-    "Founder Optimism and Pessimism",
-    "Gobble: Five Years in the Trough of Sorrow",
-    "Ooshma Garg",
-    "Parker Conrad",
-    "Rippling: Building the Same Company Twice",
-    "Surbhi Sarna",
-    "Tom Blomfield",
-    "Tony Xu",
-    "nVision Medical: From Ovarian Cyst to $275M Acquisition"
-  ],
-  "frameworks/default-alive-or-dead.md": [
-    "Doing Things That Don't Scale",
-    "Early-Stage Mistakes",
-    "Financial Survival",
-    "Growth",
-    "Hiring at Early Stage",
-    "Paul Graham"
-  ],
-  "speakers/diane-greene.md": [
-    "Founder Mindset",
-    "Startup Leadership"
-  ],
-  "topics/doing-things-that-dont-scale.md": [
-    "23andMe: Disrupting Healthcare by Empowering the Consumer",
-    "Astranis: Building Satellites Without Being a Billionaire",
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Customer Relationships",
-    "Default Alive or Default Dead",
-    "DoorDash: Creating a Market from Scratch",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "Early-Stage Mistakes",
-    "Founder Mindset",
-    "Getting First Users",
-    "Gobble: Five Years in the Trough of Sorrow",
-    "Growth",
-    "Harry Zhang",
-    "Lambda School (BloomTech): Reinventing CS Education with Income Share Agreements",
-    "Launching",
-    "Lever: Building Recruiting Software from the Inside Out",
-    "Lob: From Inkjet Printer to Enterprise Mail API",
-    "Meesho: Social Commerce in India",
-    "Paul Graham",
-    "PlanGrid: Building Software for an Industry That Had Never Used It",
-    "Pricing and Monetization",
-    "Product-Market Fit",
-    "Schlep Filter",
-    "Starting Young",
-    "Startup Essentials",
-    "Startup Ideas",
-    "Talking to Users",
-    "Tony Xu",
-    "Tracy Young",
-    "Value Creation"
-  ],
-  "case-studies/doordash.md": [
-    "Garry Tan",
-    "Talking to Users",
-    "Tony Xu"
-  ],
-  "speakers/drew-houston.md": [
-    "Co-Founders",
-    "Dealing with Setbacks",
-    "Growth",
-    "Pivoting",
-    "Sam Altman",
-    "Startup Leadership"
-  ],
-  "case-studies/dropbox.md": [
-    "Drew Houston"
-  ],
-  "topics/early-stage-mistakes.md": [
-    "Cargo Culting",
-    "Confronting Reality",
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Equity Equation",
-    "Financial Survival",
-    "Founder Mindset",
-    "Founder Optimism and Pessimism",
-    "Growth",
-    "Investor Advice Pitfalls",
-    "Paul Graham",
-    "Pivoting",
-    "Product-Market Fit",
-    "Simple Products",
-    "Starting Young",
-    "Startup Ideas",
-    "Startup Location",
-    "The Midwit Meme"
-  ],
-  "speakers/elon-musk.md": [
-    "Founder Mindset"
-  ],
-  "case-studies/embark-trucks.md": [
-    "Geoff Ralston"
-  ],
-  "speakers/emmett-shear.md": [
-    "Feature Prioritization Frameworks",
-    "Product-Market Fit"
-  ],
-  "topics/enterprise-sales.md": [
-    "B2B Pricing",
-    "Blake Scholl",
-    "Boom Technology",
-    "Growth",
-    "Harry Zhang",
-    "Influencing Decision Makers",
-    "Kevin Hale",
-    "Lob: From Inkjet Printer to Enterprise Mail API",
-    "PlanGrid: Building Software for an Industry That Had Never Used It",
-    "Pricing and Monetization",
-    "Product-Market Fit",
-    "Selling to Startups",
-    "The Compound Startup",
-    "Tom Blomfield",
-    "Value Creation"
-  ],
-  "frameworks/equity-equation.md": [
-    "Equity Split",
-    "Financial Survival",
-    "Paul Graham"
-  ],
-  "topics/equity-split.md": [
-    "Co-Founders",
-    "Gene Pool Engineering",
-    "Jared Friedman",
-    "Michael Seibel",
-    "University Spinouts",
-    "Vinod Khosla"
-  ],
-  "frameworks/feature-prioritization-frameworks.md": [
-    "Emmett Shear"
-  ],
-  "topics/financial-survival.md": [
-    "Default Alive or Default Dead",
-    "Early-Stage Mistakes",
-    "Equity Equation",
-    "Fundraising Mistakes",
-    "Growth",
-    "Hiring at Early Stage",
-    "Investor Advice Pitfalls",
-    "Investor Incentives",
-    "Paul Graham",
-    "Starting Young",
-    "Startup Metrics"
-  ],
-  "topics/first-time-founders.md": [
-    "Becoming a Founder",
-    "Brad Flora",
-    "Founder Mindset"
-  ],
-  "topics/founder-mindset.md": [
-    "23andMe: Disrupting Healthcare by Empowering the Consumer",
-    "AI and Startups",
-    "Anne Wojcicki",
-    "Austen Allred",
-    "Cargo Culting",
-    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
-    "Company Culture",
-    "Competing with Big Companies",
-    "Conformists vs. Non-Conformists",
-    "Confronting Reality",
-    "Creating Luck",
-    "Dalton Caldwell",
-    "Dealing with Setbacks",
-    "Diane Greene",
-    "Doing Things That Don't Scale",
-    "Drew Houston",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "Early-Stage Mistakes",
-    "Elon Musk",
-    "Embark Trucks: From Campus Shuttles to Self-Driving Semis",
-    "First-Time Founders",
-    "Founder Optimism and Pessimism",
-    "Founder Productivity",
-    "Garry Tan",
-    "Gobble: Five Years in the Trough of Sorrow",
-    "Handling Investor Rejection",
-    "Hard Conversations",
-    "Influencing Decision Makers",
-    "Investor Advice Pitfalls",
-    "Lambda School (BloomTech): Reinventing CS Education with Income Share Agreements",
-    "Leaving Big Tech",
-    "Online Presence",
-    "Ooshma Garg",
-    "OpenAI: From Flip Chart to AGI",
-    "Parker Conrad",
-    "Passion and Motivation",
-    "Paul Graham",
-    "Pivoting",
-    "Recruiting Early Team Members",
-    "Rippling: Building the Same Company Twice",
-    "Schlep Filter",
-    "Simple Products",
-    "StarCloud",
-    "Starting Young",
-    "Startup Ideas",
-    "Startup Location",
-    "Survivorship Bias in Startup Advice",
-    "The Midwit Meme",
-    "Tom Blomfield",
-    "Vinod Khosla",
-    "Zero-Sum vs. Positive-Sum Games",
-    "nVision Medical: From Ovarian Cyst to $275M Acquisition"
-  ],
-  "topics/founder-optimism-pessimism.md": [
-    "Dalton Caldwell"
-  ],
-  "topics/founder-productivity.md": [
-    "AI and Startups",
-    "Dalton Caldwell"
-  ],
-  "topics/fundraising-mistakes.md": [
-    "Convincing Investors",
-    "Dalton Caldwell",
-    "DoorDash: Creating a Market from Scratch",
-    "Michael Seibel",
-    "Seed Fundraising"
-  ],
-  "speakers/garry-tan.md": [
-    "AI and Startups",
-    "Applying to YC",
-    "Co-Founders",
-    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
-    "Cold Emailing Investors",
-    "Competing with Big Companies",
-    "Confronting Reality",
-    "Customer Relationships",
-    "Dealing with Setbacks",
-    "Doing Things That Don't Scale",
-    "DoorDash: Creating a Market from Scratch",
-    "Founder Mindset",
-    "Founder Productivity",
-    "Growth",
-    "Investor Incentives",
-    "Launching",
-    "OpenAI: From Flip Chart to AGI",
-    "Parker Conrad",
-    "Pivoting",
-    "Product-Market Fit",
-    "Rippling: Building the Same Company Twice",
-    "Sam Altman",
-    "Startup Leadership",
-    "Talking to Users",
-    "The Compound Startup",
-    "Tom Blomfield",
-    "Tony Xu"
-  ],
-  "frameworks/gene-pool-engineering.md": [
-    "Equity Split",
-    "Hiring at Early Stage"
-  ],
-  "speakers/geoff-ralston.md": [
-    "Embark Trucks: From Campus Shuttles to Self-Driving Semis",
-    "Hard Tech Startups",
-    "Pivoting"
-  ],
-  "topics/getting-first-users.md": [
-    "Product-Market Fit",
-    "Startup Ideas"
-  ],
-  "topics/getting-press.md": [
-    "Launching",
-    "Michael Seibel",
-    "Online Presence"
-  ],
-  "case-studies/gobble.md": [
-    "Ooshma Garg"
-  ],
-  "topics/growth.md": [
-    "AI and Startups",
-    "Anu Hariharan",
-    "B2B Pricing",
-    "Blake Scholl",
-    "Boom Technology",
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Choosing a Startup to Join",
-    "Competing with Big Companies",
-    "Conversion Rates",
-    "Customer Relationships",
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Drew Houston",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "Emmett Shear",
-    "Enterprise Sales",
-    "Feature Prioritization Frameworks",
-    "Financial Survival",
-    "Getting First Users",
-    "Getting Press",
-    "Hard Tech Startups",
-    "Launching",
-    "Meesho: Social Commerce in India",
-    "Network Effects",
-    "Parker Conrad",
-    "Paul Graham",
-    "Perplexity: Building the Next Search Engine",
-    "Pricing Thermometer",
-    "Pricing and Monetization",
-    "Product-Market Fit",
-    "Rippling: Building the Same Company Twice",
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Selling to Startups",
-    "Series A Fundraising",
-    "Startup Metrics",
-    "Startup Outcomes and Optionality",
-    "Startup Pricing",
-    "Tom Blomfield"
-  ],
-  "topics/handling-investor-rejection.md": [
-    "Brad Flora",
-    "Fundraising Mistakes",
-    "Seed Fundraising"
-  ],
-  "topics/hard-conversations.md": [
-    "Dalton Caldwell",
-    "Michael Seibel"
-  ],
-  "topics/hard-tech-startups.md": [
-    "23andMe: Disrupting Healthcare by Empowering the Consumer",
-    "AI and Startups",
-    "Anne Wojcicki",
-    "Astranis: Building Satellites Without Being a Billionaire",
-    "Athelas",
-    "Blake Scholl",
-    "Boom Technology",
-    "Diane Greene",
-    "Elon Musk",
-    "Embark Trucks: From Campus Shuttles to Self-Driving Semis",
-    "Geoff Ralston",
-    "Jared Friedman",
-    "OpenAI: From Flip Chart to AGI",
-    "StarCloud",
-    "Surbhi Sarna",
-    "University Spinouts",
-    "nVision Medical: From Ovarian Cyst to $275M Acquisition"
-  ],
-  "speakers/harj-taggar.md": [
-    "Brad Flora",
-    "Choosing a Startup to Join",
-    "Co-Founders",
-    "Competing with Big Companies",
-    "Dalton Caldwell",
-    "First-Time Founders",
-    "Handling Investor Rejection",
-    "Hiring Engineers",
-    "Hiring at Early Stage",
-    "Launching",
-    "Pivoting",
-    "Pricing and Monetization",
-    "Selling to Startups",
-    "Tom Blomfield"
-  ],
-  "speakers/harry-zhang.md": [
-    "Doing Things That Don't Scale",
-    "Enterprise Sales",
-    "Hiring at Early Stage",
-    "Kevin Hale",
-    "Lob: From Inkjet Printer to Enterprise Mail API",
-    "Pricing and Monetization"
-  ],
-  "topics/hiring-engineers.md": [
-    "Becoming a Founder",
-    "Choosing a Startup to Join",
-    "Harj Taggar",
-    "Hiring at Early Stage",
-    "Influencing Decision Makers",
-    "Lever: Building Recruiting Software from the Inside Out",
-    "Lob: From Inkjet Printer to Enterprise Mail API",
-    "Recruiting Early Team Members",
-    "Sarah Nahm",
-    "Startup Culture",
-    "Technical Co-Founders"
-  ],
-  "topics/hiring-at-early-stage.md": [
-    "Anne Wojcicki",
-    "Brad Flora",
-    "Dalton Caldwell",
-    "Gene Pool Engineering",
-    "Lever: Building Recruiting Software from the Inside Out",
-    "PlanGrid: Building Software for an Industry That Had Never Used It",
-    "Sarah Nahm",
-    "Tracy Young",
-    "Vinod Khosla"
-  ],
-  "topics/influencing-decision-makers.md": [
-    "Dalton Caldwell",
-    "Online Presence"
-  ],
-  "topics/investor-advice-pitfalls.md": [
-    "Dalton Caldwell",
-    "Founder Optimism and Pessimism",
-    "Meesho: Social Commerce in India",
-    "Michael Seibel",
-    "Vidit Aatrey"
-  ],
-  "topics/investor-incentives.md": [
-    "Dalton Caldwell",
-    "Vinod Khosla"
-  ],
-  "speakers/jared-friedman.md": [
-    "Astranis: Building Satellites Without Being a Billionaire",
-    "Biotech Startup Funding",
-    "Brad Flora",
-    "Dalton Caldwell",
-    "Equity Split",
-    "Hard Tech Startups",
-    "Pivoting",
-    "Startup Ideas",
-    "Survivorship Bias in Startup Advice",
-    "Tom Blomfield",
-    "University Spinouts",
-    "nVision Medical: From Ovarian Cyst to $275M Acquisition"
-  ],
-  "speakers/kevin-hale.md": [
-    "Conversion Rates",
-    "Doing Things That Don't Scale",
-    "Enterprise Sales",
-    "Hiring at Early Stage",
-    "Legible Simple Obvious",
-    "Lob: From Inkjet Printer to Enterprise Mail API",
-    "Pitch Deck Design",
-    "Pricing Thermometer",
-    "Pricing and Monetization",
-    "Startup Pricing"
-  ],
-  "case-studies/lambda-school.md": [
-    "Austen Allred"
-  ],
-  "topics/launching.md": [
-    "Astranis: Building Satellites Without Being a Billionaire",
-    "Brad Flora",
-    "Dalton Caldwell",
-    "Dropbox: From Thumb Drives to 500 Million Users"
-  ],
-  "topics/leaving-big-tech.md": [
-    "Dalton Caldwell"
-  ],
-  "frameworks/legible-simple-obvious.md": [
-    "Kevin Hale",
-    "Pitch Deck Design"
-  ],
-  "case-studies/lever.md": [
-    "Sarah Nahm"
-  ],
-  "case-studies/lob.md": [
-    "Harry Zhang",
-    "Kevin Hale"
-  ],
-  "case-studies/meesho.md": [
-    "Vidit Aatrey"
-  ],
-  "speakers/michael-seibel.md": [
-    "AI and Startups",
-    "Applying to YC",
-    "Becoming a Founder",
-    "Board Management",
-    "Brad Flora",
-    "Cargo Culting",
-    "Co-Founders",
-    "Cold Emailing Investors",
-    "Competing with Big Companies",
-    "Conformists vs. Non-Conformists",
-    "Customer Relationships",
-    "Dalton Caldwell",
-    "Dealing with Setbacks",
-    "Equity Split",
-    "First-Time Founders",
-    "Founder Optimism and Pessimism",
-    "Founder Productivity",
-    "Fundraising Mistakes",
-    "Getting First Users",
-    "Getting Press",
-    "Handling Investor Rejection",
-    "Hard Conversations",
-    "Hiring Engineers",
-    "Hiring at Early Stage",
-    "Influencing Decision Makers",
-    "Investor Advice Pitfalls",
-    "Investor Incentives",
-    "Launching",
-    "Leaving Big Tech",
-    "Online Presence",
-    "Passion and Motivation",
-    "Pivoting",
-    "Pricing and Monetization",
-    "Product Development",
-    "Product-Market Fit",
-    "Seed Fundraising",
-    "Selling to Startups",
-    "Silicon Valley Fundraising",
-    "Simple Products",
-    "Startup Essentials",
-    "Startup Ideas",
-    "Startup Location",
-    "Startups for Students",
-    "Survivorship Bias in Startup Advice",
-    "Talking to Users",
-    "Technical Co-Founders",
-    "The Midwit Meme",
-    "Tom Blomfield",
-    "University Spinouts",
-    "Value Creation",
-    "Zero-Sum vs. Positive-Sum Games"
-  ],
-  "frameworks/mission-to-metrics.md": [
-    "Ali Rowghani",
-    "Startup Leadership",
-    "Startup Management",
-    "Three Traits of Great Leadership"
-  ],
-  "topics/network-effects.md": [
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Pinduoduo",
-    "Social Commerce",
-    "Startup Metrics",
-    "Tom Blomfield",
-    "Toutiao",
-    "WeChat"
-  ],
-  "topics/online-presence.md": [
-    "Dalton Caldwell"
-  ],
-  "speakers/ooshma-garg.md": [
-    "Co-Founders",
-    "Doing Things That Don't Scale",
-    "Founder Mindset",
-    "Gobble: Five Years in the Trough of Sorrow",
-    "Pivoting",
-    "Seed Fundraising"
-  ],
-  "case-studies/openai.md": [
-    "Garry Tan",
-    "Sam Altman"
-  ],
-  "speakers/parker-conrad.md": [
-    "AI and Startups",
-    "Co-Founders",
-    "Dealing with Setbacks",
-    "Garry Tan",
-    "Growth",
-    "Pivoting",
-    "Product-Market Fit",
-    "Startup Leadership",
-    "The Compound Startup"
-  ],
-  "topics/passion-and-motivation.md": [
-    "Dalton Caldwell"
-  ],
-  "speakers/paul-graham.md": [
-    "Co-Founders",
-    "Convincing Investors",
-    "Dalton Caldwell",
-    "Default Alive or Default Dead",
-    "Doing Things That Don't Scale",
-    "Early-Stage Mistakes",
-    "Equity Equation",
-    "Equity Split",
-    "Financial Survival",
-    "Founder Mindset",
-    "Founder Productivity",
-    "Gobble: Five Years in the Trough of Sorrow",
-    "Growth",
-    "Michael Seibel",
-    "Network Effects",
-    "Online Presence",
-    "Ooshma Garg",
-    "Product-Market Fit",
-    "Recruiting Early Team Members",
-    "Runway Management",
-    "Sam Altman",
-    "Schlep Filter",
-    "Seed Fundraising",
-    "Starting Young",
-    "Startup Essentials",
-    "Startup Ideas",
-    "Startups for Students",
-    "Talking to Users",
-    "Tom Blomfield"
-  ],
-  "case-studies/perplexity.md": [
-    "AI and Startups",
-    "Aravind Srinivas",
-    "David Lieb"
-  ],
-  "case-studies/pinduoduo.md": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Network Effects",
-    "Social Commerce",
-    "Toutiao",
-    "WeChat"
-  ],
-  "topics/pitch-deck-design.md": [
-    "Kevin Hale",
-    "Legible Simple Obvious",
-    "Seed Fundraising",
-    "Series A Fundraising"
-  ],
-  "topics/pivoting.md": [
-    "Brad Flora",
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Dalton Caldwell",
-    "David Lieb",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "Embark Trucks: From Campus Shuttles to Self-Driving Semis",
-    "Gobble: Five Years in the Trough of Sorrow",
-    "Meesho: Social Commerce in India",
-    "Ooshma Garg",
-    "Rippling: Building the Same Company Twice",
-    "Tom Blomfield",
-    "Vidit Aatrey"
-  ],
-  "case-studies/plangrid.md": [
-    "Tracy Young"
-  ],
-  "frameworks/pricing-thermometer.md": [
-    "Startup Pricing"
-  ],
-  "topics/pricing-and-monetization.md": [
-    "Brad Flora",
-    "Growth",
-    "Product Development",
-    "Startup Pricing"
-  ],
-  "topics/product-development.md": [
-    "AI and Startups",
-    "Founder Productivity",
-    "Michael Seibel",
-    "Simple Products",
-    "Snapdocs: Navigating Market Cycles",
-    "Startup Essentials"
-  ],
-  "topics/product-market-fit.md": [
-    "23andMe: Disrupting Healthcare by Empowering the Consumer",
-    "Aravind Srinivas",
-    "B2B Pricing",
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Choosing a Startup to Join",
-    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
-    "Confronting Reality",
-    "Conversion Rates",
-    "Convincing Investors",
-    "Customer Relationships",
-    "Dalton Caldwell",
-    "David Lieb",
-    "DoorDash: Creating a Market from Scratch",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "Emmett Shear",
-    "Enterprise Sales",
-    "Equity Split",
-    "Feature Prioritization Frameworks",
-    "First-Time Founders",
-    "Founder Productivity",
-    "Getting First Users",
-    "Gobble: Five Years in the Trough of Sorrow",
-    "Growth",
-    "Hiring at Early Stage",
-    "Influencing Decision Makers",
-    "Investor Advice Pitfalls",
-    "Launching",
-    "Lever: Building Recruiting Software from the Inside Out",
-    "Meesho: Social Commerce in India",
-    "Michael Seibel",
-    "Ooshma Garg",
-    "Parker Conrad",
-    "Perplexity: Building the Next Search Engine",
-    "Pivoting",
-    "PlanGrid: Building Software for an Industry That Had Never Used It",
-    "Pricing and Monetization",
-    "Product Development",
-    "Rippling: Building the Same Company Twice",
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Selling to Startups",
-    "Series A Fundraising",
-    "Simple Products",
-    "Startup Culture",
-    "Startup Essentials",
-    "Startup Metrics",
-    "Startup Pricing",
-    "Talking to Users",
-    "The Compound Startup",
-    "University Spinouts",
-    "Value Creation"
-  ],
-  "topics/recruiting-early-team-members.md": [
-    "Co-Founders",
-    "Convincing Investors",
-    "Creating Luck",
-    "Dalton Caldwell",
-    "Founder Mindset",
-    "Gene Pool Engineering",
-    "Vinod Khosla"
-  ],
-  "case-studies/rippling.md": [
-    "Garry Tan",
-    "Parker Conrad",
-    "The Compound Startup"
-  ],
-  "topics/runway-management.md": [
-    "CoinTracker: Surviving Crypto's Boom-Bust Cycles",
-    "Dalton Caldwell",
-    "Seed Fundraising",
-    "Startup Metrics"
-  ],
-  "speakers/sam-altman.md": [
-    "23andMe: Disrupting Healthcare by Empowering the Consumer",
-    "AI and Startups",
-    "Anne Wojcicki",
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Choosing a Startup to Join",
-    "Co-Founders",
-    "Competing with Big Companies",
-    "Dealing with Setbacks",
-    "Drew Houston",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "Elon Musk",
-    "Equity Split",
-    "Founder Mindset",
-    "Garry Tan",
-    "Gene Pool Engineering",
-    "Growth",
-    "Hard Tech Startups",
-    "Hiring at Early Stage",
-    "Investor Incentives",
-    "OpenAI: From Flip Chart to AGI",
-    "Pivoting",
-    "Product-Market Fit",
-    "Scaling and Later-Stage Operations",
-    "StarCloud",
-    "Startup Essentials",
-    "Startup Leadership",
-    "Startup Outcomes and Optionality",
-    "Vinod Khosla"
-  ],
-  "speakers/sarah-nahm.md": [
-    "Co-Founders",
-    "Company Culture",
-    "Hiring at Early Stage",
-    "Pivoting",
-    "Product-Market Fit",
-    "Startup Leadership",
-    "Talking to Users"
-  ],
-  "topics/scaling-and-later-stage-operations.md": [
-    "Company Culture",
-    "Enterprise Sales",
-    "Hiring at Early Stage",
-    "Lambda School (BloomTech): Reinventing CS Education with Income Share Agreements",
-    "PlanGrid: Building Software for an Industry That Had Never Used It",
-    "Sam Altman",
-    "Startup Culture",
-    "Startup Outcomes and Optionality",
-    "Tracy Young"
-  ],
-  "frameworks/schlep-filter.md": [
-    "Paul Graham",
-    "Startup Ideas"
-  ],
-  "topics/seed-fundraising.md": [
-    "Aaron Harris",
-    "Applying to YC",
-    "Austen Allred",
-    "Biotech Startup Funding",
-    "Cold Emailing Investors",
-    "Convincing Investors",
-    "Equity Split",
-    "Fundraising Mistakes",
-    "Gobble: Five Years in the Trough of Sorrow",
-    "Growth",
-    "Handling Investor Rejection",
-    "Investor Incentives",
-    "Kevin Hale",
-    "Lambda School (BloomTech): Reinventing CS Education with Income Share Agreements",
-    "Pitch Deck Design",
-    "Runway Management",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising",
-    "Series A Term Sheets",
-    "Silicon Valley Fundraising",
-    "Startup Essentials",
-    "Startup Outcomes and Optionality",
-    "University Spinouts",
-    "nVision Medical: From Ovarian Cyst to $275M Acquisition"
-  ],
-  "topics/selling-to-startups.md": [
-    "Brad Flora",
-    "Enterprise Sales",
-    "Growth"
-  ],
-  "topics/series-a-fundraising.md": [
-    "Aaron Harris",
-    "Board Management",
-    "Dealing with Setbacks",
-    "Enterprise Sales",
-    "Handling Investor Rejection",
-    "Hard Tech Startups",
-    "Product-Market Fit",
-    "Runway Management",
-    "Seed Fundraising",
-    "Series A Term Sheets"
-  ],
-  "topics/series-a-term-sheets.md": [
-    "Biotech Startup Funding",
-    "Investor Incentives",
-    "Series A Fundraising"
-  ],
-  "topics/silicon-valley-fundraising.md": [
-    "Cold Emailing Investors",
-    "Convincing Investors",
-    "Fundraising Mistakes",
-    "Michael Seibel",
-    "Seed Fundraising"
-  ],
-  "topics/simple-products.md": [
-    "Dalton Caldwell"
-  ],
-  "case-studies/snapdocs.md": [
-    "Aaron King"
-  ],
-  "topics/social-commerce.md": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Meesho: Social Commerce in India",
-    "Network Effects",
-    "Pinduoduo",
-    "Vidit Aatrey"
-  ],
-  "case-studies/starcloud.md": [
-    "Hard Tech Startups"
-  ],
-  "topics/starting-young.md": [
-    "Conformists vs. Non-Conformists",
-    "Embark Trucks: From Campus Shuttles to Self-Driving Semis",
-    "Founder Mindset",
-    "Geoff Ralston",
-    "Leaving Big Tech",
-    "Paul Graham",
-    "Survivorship Bias in Startup Advice"
-  ],
-  "topics/startup-culture.md": [
-    "Tim Brady"
-  ],
-  "topics/startup-essentials.md": [
-    "Becoming a Founder",
-    "Biotech Startup Funding",
-    "Founder Productivity",
-    "Getting Press",
-    "Launching",
-    "Michael Seibel",
-    "Pitch Deck Design",
-    "Pricing and Monetization",
-    "Product Development",
-    "Product-Market Fit",
-    "Series A Term Sheets",
-    "Talking to Users",
-    "Value Creation"
-  ],
-  "topics/startup-ideas.md": [
-    "AI and Startups",
-    "Applying to YC",
-    "Austen Allred",
-    "Cargo Culting",
-    "Choosing a Startup to Join",
-    "Competing with Big Companies",
-    "Confronting Reality",
-    "Convincing Investors",
-    "Creating Luck",
-    "Dalton Caldwell",
-    "Doing Things That Don't Scale",
-    "Dropbox: From Thumb Drives to 500 Million Users",
-    "Early-Stage Mistakes",
-    "First-Time Founders",
-    "Founder Mindset",
-    "Garry Tan",
-    "Getting First Users",
-    "Lambda School (BloomTech): Reinventing CS Education with Income Share Agreements",
-    "Lever: Building Recruiting Software from the Inside Out",
-    "Meesho: Social Commerce in India",
-    "Michael Seibel",
-    "Parker Conrad",
-    "Passion and Motivation",
-    "Paul Graham",
-    "Pivoting",
-    "Product-Market Fit",
-    "Rippling: Building the Same Company Twice",
-    "Schlep Filter",
-    "Selling to Startups",
-    "Simple Products",
-    "Starting Young",
-    "Startups for Students",
-    "Survivorship Bias in Startup Advice",
-    "Talking to Users",
-    "Technical Co-Founders",
-    "The Compound Startup",
-    "The Midwit Meme"
-  ],
-  "topics/startup-leadership.md": [
-    "Ali Rowghani",
-    "Board Management",
-    "Company Culture",
-    "Diane Greene",
-    "Drew Houston",
-    "Mission-to-Metrics Framework",
-    "Startup Culture",
-    "Startup Management",
-    "Three Traits of Great Leadership"
-  ],
-  "topics/startup-location.md": [
-    "Dalton Caldwell"
-  ],
-  "topics/startup-management.md": [
-    "Company Culture",
-    "Founder Productivity",
-    "Hard Conversations",
-    "Mission-to-Metrics Framework",
-    "Startup Culture",
-    "Startup Leadership",
-    "Tim Brady"
-  ],
-  "topics/startup-metrics.md": [
-    "Tom Blomfield"
-  ],
-  "topics/startup-outcomes-and-optionality.md": [
-    "Investor Incentives",
-    "Sam Altman",
-    "Scaling and Later-Stage Operations",
-    "Series A Fundraising"
-  ],
-  "topics/startup-pricing.md": [
-    "Conversion Rates",
-    "Harry Zhang",
-    "Lob: From Inkjet Printer to Enterprise Mail API",
-    "Pricing Thermometer"
-  ],
-  "topics/startups-for-students.md": [
-    "Co-Founders",
-    "Paul Graham"
-  ],
-  "speakers/surbhi-sarna.md": [
-    "Talking to Users"
-  ],
-  "topics/survivorship-bias-in-advice.md": [
-    "Brad Flora",
-    "Dalton Caldwell"
-  ],
-  "topics/talking-to-users.md": [
-    "Aravind Srinivas",
-    "Bump to Google Photos: From Contact Sharing to a Billion Users",
-    "Dalton Caldwell",
-    "David Lieb",
-    "DoorDash: Creating a Market from Scratch",
-    "Launching",
-    "Meesho: Social Commerce in India",
-    "Michael Seibel",
-    "Perplexity: Building the Next Search Engine",
-    "Surbhi Sarna",
-    "Tony Xu",
-    "Vidit Aatrey",
-    "nVision Medical: From Ovarian Cyst to $275M Acquisition"
-  ],
-  "topics/technical-co-founders.md": [
-    "Co-Founders",
-    "Dalton Caldwell"
-  ],
-  "frameworks/midwit-meme.md": [
-    "Dalton Caldwell"
-  ],
-  "frameworks/three-traits-of-great-leadership.md": [
-    "Ali Rowghani",
-    "Startup Leadership"
-  ],
-  "speakers/tim-brady.md": [
-    "Startup Culture"
-  ],
-  "speakers/tom-blomfield.md": [
-    "AI and Startups",
-    "B2B Pricing",
-    "Brad Flora",
-    "Dalton Caldwell",
-    "Dealing with Setbacks",
-    "Launching",
-    "Pivoting",
-    "Startup Metrics"
-  ],
-  "speakers/tony-xu.md": [
-    "Competing with Big Companies",
-    "Customer Relationships",
-    "Doing Things That Don't Scale",
-    "DoorDash: Creating a Market from Scratch",
-    "Garry Tan",
-    "Investor Incentives",
-    "Product-Market Fit",
-    "Talking to Users"
-  ],
-  "case-studies/toutiao.md": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Network Effects",
-    "Social Commerce",
-    "WeChat"
-  ],
-  "speakers/tracy-young.md": [
-    "Co-Founders",
-    "Doing Things That Don't Scale",
-    "Founder Mindset",
-    "Hiring at Early Stage",
-    "PlanGrid: Building Software for an Industry That Had Never Used It"
-  ],
-  "topics/university-spinouts.md": [
-    "Athelas",
-    "Equity Split",
-    "Hard Tech Startups",
-    "Jared Friedman"
-  ],
-  "topics/value-creation.md": [
-    "Dalton Caldwell"
-  ],
-  "speakers/vidit-aatrey.md": [
-    "Co-Founders",
-    "Growth",
-    "Pivoting",
-    "Product-Market Fit",
-    "Startup Leadership",
-    "Talking to Users"
-  ],
-  "speakers/vinod-khosla.md": [
-    "Equity Split",
-    "Gene Pool Engineering",
-    "Hiring at Early Stage",
-    "Investor Incentives",
-    "Sam Altman"
-  ],
-  "case-studies/wechat.md": [
-    "Anu Hariharan",
-    "China Tech Ecosystem",
-    "Network Effects",
-    "Pinduoduo",
-    "Social Commerce",
-    "Toutiao"
-  ],
-  "topics/zero-sum-vs-positive-sum.md": [
-    "Dalton Caldwell"
-  ],
-  "case-studies/nvision-medical.md": [
-    "Surbhi Sarna"
+  "aaron-epstein": [
+    "business-models",
+    "cold-emails"
+  ],
+  "aaron-harris": [
+    "seed-fundraising",
+    "series-a-term-sheets",
+    "series-a-fundraising"
+  ],
+  "aaron-king": [
+    "snapdocs"
+  ],
+  "ali-rowghani": [
+    "three-traits-of-great-leadership",
+    "mission-to-metrics",
+    "startup-management",
+    "startup-leadership"
+  ],
+  "anne-wojcicki": [
+    "sam-altman",
+    "23andme",
+    "founder-mindset",
+    "hiring-at-early-stage",
+    "hard-tech-startups"
+  ],
+  "anu-hariharan": [
+    "toutiao",
+    "wechat",
+    "pinduoduo",
+    "board-management",
+    "china-tech-ecosystem",
+    "product-market-fit",
+    "network-effects",
+    "growth",
+    "social-commerce"
+  ],
+  "applying-to-yc": [
+    "garry-tan",
+    "dalton-caldwell",
+    "cold-emailing-investors"
+  ],
+  "aravind-srinivas": [
+    "david-lieb",
+    "product-market-fit",
+    "competing-with-big-companies",
+    "ai-and-startups",
+    "pivoting",
+    "talking-to-users",
+    "customer-relationships"
+  ],
+  "athelas": [
+    "hard-tech-startups"
+  ],
+  "austen-allred": [
+    "lambda-school",
+    "founder-mindset",
+    "seed-fundraising"
+  ],
+  "b2b-pricing": [
+    "tom-blomfield",
+    "sales-for-founders"
+  ],
+  "becoming-a-founder": [
+    "michael-seibel",
+    "founder-mindset"
+  ],
+  "blake-scholl": [
+    "boom-technology",
+    "hard-tech-startups"
+  ],
+  "bob-mcgrew": [
+    "garry-tan"
+  ],
+  "boom-technology": [
+    "astranis",
+    "first-time-founders",
+    "hard-tech-startups",
+    "startup-ideas"
+  ],
+  "bootstrapping-vs-venture-capital": [
+    "dalton-caldwell",
+    "michael-seibel",
+    "startup-terminology"
+  ],
+  "brad-flora": [
+    "pricing-and-monetization",
+    "competing-with-big-companies",
+    "ai-and-startups",
+    "pivoting",
+    "selling-to-startups",
+    "hiring-at-early-stage",
+    "first-time-founders",
+    "launching",
+    "survivorship-bias-in-advice",
+    "handling-investor-rejection"
+  ],
+  "business-models": [
+    "aaron-epstein"
+  ],
+  "cargo-culting": [
+    "dalton-caldwell"
+  ],
+  "ceo-role-and-co-ceo": [
+    "garry-tan"
+  ],
+  "choosing-a-startup-to-join": [
+    "harj-taggar"
+  ],
+  "co-founders": [
+    "equity-split",
+    "startups-for-students",
+    "startup-ideas"
+  ],
+  "cohort-retention": [
+    "david-lieb",
+    "business-models"
+  ],
+  "cold-emailing-investors": [
+    "michael-seibel",
+    "seed-fundraising",
+    "applying-to-yc"
+  ],
+  "cold-emails": [
+    "aaron-epstein"
+  ],
+  "commit-or-validate": [
+    "dalton-caldwell",
+    "michael-seibel"
+  ],
+  "company-culture": [
+    "startup-management",
+    "hiring-at-early-stage"
+  ],
+  "competing-with-big-companies": [
+    "sam-altman",
+    "why-now"
+  ],
+  "confronting-reality": [
+    "garry-tan",
+    "founder-mindset"
+  ],
+  "creating-luck": [
+    "dalton-caldwell",
+    "recruiting-early-team-members",
+    "applying-to-yc"
+  ],
+  "cursor": [
+    "michael-truell"
+  ],
+  "customer-relationships": [
+    "vidit-aatrey"
+  ],
+  "dalton-caldwell": [
+    "tom-blomfield",
+    "brad-flora",
+    "michael-seibel",
+    "lob",
+    "commit-or-validate",
+    "cargo-culting",
+    "midwit-meme",
+    "creating-luck",
+    "technical-co-founders",
+    "founder-mindset",
+    "leaving-big-tech",
+    "investor-advice-pitfalls",
+    "recruiting-early-team-members",
+    "convincing-investors",
+    "simple-products",
+    "starting-young",
+    "ai-and-startups",
+    "passion-and-motivation",
+    "seed-fundraising",
+    "fundraising-mistakes",
+    "dealing-with-setbacks",
+    "pivoting",
+    "hiring-at-early-stage",
+    "founder-productivity",
+    "conformists-vs-nonconformists",
+    "talking-to-users",
+    "customer-relationships",
+    "survivorship-bias-in-advice",
+    "influencing-decision-makers",
+    "co-founders",
+    "investor-incentives",
+    "online-presence",
+    "value-creation",
+    "bootstrapping-vs-venture-capital",
+    "zero-sum-vs-positive-sum",
+    "founder-optimism-pessimism",
+    "applying-to-yc",
+    "startup-ideas",
+    "startup-terminology",
+    "startup-location",
+    "hard-conversations"
+  ],
+  "david-lieb": [
+    "pete-koomen",
+    "aravind-srinivas",
+    "bump-and-google-photos",
+    "perplexity",
+    "doing-things-that-dont-scale",
+    "product-market-fit",
+    "competing-with-big-companies",
+    "ai-and-startups",
+    "pivoting",
+    "ai-native-software",
+    "talking-to-users",
+    "customer-relationships",
+    "cohort-retention"
+  ],
+  "default-alive-or-dead": [
+    "paul-graham",
+    "doing-things-that-dont-scale",
+    "financial-survival",
+    "early-stage-mistakes"
+  ],
+  "dev-shops": [
+    "michael-seibel"
+  ],
+  "diana-hu": [
+    "technical-founders",
+    "mvp-planning"
+  ],
+  "diane-greene": [
+    "founder-mindset",
+    "startup-leadership"
+  ],
+  "doing-things-that-dont-scale": [
+    "tracy-young",
+    "plangrid",
+    "default-alive-or-dead",
+    "starting-young",
+    "getting-first-users",
+    "growth",
+    "mvp-planning"
+  ],
+  "doordash": [
+    "sales-for-founders",
+    "talking-to-users",
+    "why-now"
+  ],
+  "drew-houston": [
+    "sam-altman",
+    "dealing-with-setbacks",
+    "pivoting",
+    "startup-leadership",
+    "co-founders",
+    "growth"
+  ],
+  "dropbox": [
+    "drew-houston"
+  ],
+  "early-stage-mistakes": [
+    "product-market-fit",
+    "starting-young"
+  ],
+  "elon-musk": [
+    "garry-tan",
+    "founder-mindset"
+  ],
+  "emmett-shear": [
+    "feature-prioritization-frameworks",
+    "product-market-fit"
+  ],
+  "equity-equation": [
+    "paul-graham",
+    "equity-split",
+    "financial-survival"
+  ],
+  "equity-split": [
+    "michael-seibel",
+    "co-founders",
+    "startup-terminology"
+  ],
+  "financial-survival": [
+    "startup-terminology",
+    "early-stage-mistakes"
+  ],
+  "first-time-founders": [
+    "founder-mindset",
+    "becoming-a-founder"
+  ],
+  "founder-mindset": [
+    "recruiting-early-team-members",
+    "becoming-a-founder",
+    "early-stage-mistakes"
+  ],
+  "fundraising-mistakes": [
+    "dalton-caldwell",
+    "michael-seibel",
+    "seed-fundraising"
+  ],
+  "garry-tan": [
+    "tom-blomfield",
+    "elon-musk",
+    "parker-conrad",
+    "tony-xu",
+    "bob-mcgrew",
+    "sam-altman",
+    "openai",
+    "cointracker",
+    "rippling",
+    "doordash",
+    "learn-earn-quit",
+    "compound-startup",
+    "founder-mindset",
+    "doing-things-that-dont-scale",
+    "product-market-fit",
+    "competing-with-big-companies",
+    "ai-and-startups",
+    "dealing-with-setbacks",
+    "pivoting",
+    "founder-productivity",
+    "startup-leadership",
+    "launching",
+    "talking-to-users",
+    "customer-relationships",
+    "why-now",
+    "co-founders",
+    "investor-incentives",
+    "growth",
+    "confronting-reality",
+    "applying-to-yc",
+    "ceo-role-and-co-ceo",
+    "cold-emailing-investors"
+  ],
+  "gene-pool-engineering": [
+    "equity-split",
+    "hiring-at-early-stage"
+  ],
+  "geoff-ralston": [
+    "embark-trucks",
+    "pivoting",
+    "hard-tech-startups"
+  ],
+  "getting-first-users": [
+    "startup-ideas"
+  ],
+  "getting-press": [
+    "launching"
+  ],
+  "growth": [
+    "sam-altman",
+    "conversion-rates",
+    "product-market-fit"
+  ],
+  "gustaf-alstromer": [
+    "sales-for-founders"
+  ],
+  "handling-investor-rejection": [
+    "fundraising-mistakes"
+  ],
+  "hard-conversations": [
+    "michael-seibel"
+  ],
+  "harj-taggar": [
+    "tom-blomfield",
+    "brad-flora",
+    "dalton-caldwell",
+    "kat-manalac",
+    "founder-mindset",
+    "pricing-and-monetization",
+    "competing-with-big-companies",
+    "becoming-a-founder",
+    "pivoting",
+    "selling-to-startups",
+    "hiring-at-early-stage",
+    "first-time-founders",
+    "launching",
+    "co-founders",
+    "handling-investor-rejection",
+    "hiring-engineers",
+    "choosing-a-startup-to-join"
+  ],
+  "harry-zhang": [
+    "kevin-hale",
+    "lob",
+    "doing-things-that-dont-scale",
+    "pricing-and-monetization",
+    "enterprise-sales",
+    "hiring-at-early-stage"
+  ],
+  "inventing-the-future": [
+    "alan-kay"
+  ],
+  "investor-advice-pitfalls": [
+    "vidit-aatrey",
+    "michael-seibel"
+  ],
+  "jared-friedman": [
+    "tom-blomfield",
+    "brad-flora",
+    "dalton-caldwell",
+    "astranis",
+    "nvision-medical",
+    "university-spinouts",
+    "biotech-startup-funding",
+    "equity-split",
+    "pivoting",
+    "survivorship-bias-in-advice",
+    "hard-tech-startups",
+    "startup-ideas"
+  ],
+  "kat-manalac": [
+    "launching"
+  ],
+  "kevin-hale": [
+    "pete-koomen",
+    "lob",
+    "pricing-thermometer",
+    "legible-simple-obvious",
+    "conversion-rates",
+    "doing-things-that-dont-scale",
+    "pricing-and-monetization",
+    "enterprise-sales",
+    "hiring-at-early-stage",
+    "pitch-deck-design",
+    "startup-pricing"
+  ],
+  "learn-earn-quit": [
+    "garry-tan"
+  ],
+  "legible-simple-obvious": [
+    "kevin-hale",
+    "pitch-deck-design"
+  ],
+  "lever": [
+    "sarah-nahm"
+  ],
+  "meesho": [
+    "vidit-aatrey"
+  ],
+  "michael-seibel": [
+    "tom-blomfield",
+    "diana-hu",
+    "brad-flora",
+    "dalton-caldwell",
+    "kat-manalac",
+    "commit-or-validate",
+    "cargo-culting",
+    "midwit-meme",
+    "board-management",
+    "technical-co-founders",
+    "university-spinouts",
+    "equity-split",
+    "leaving-big-tech",
+    "investor-advice-pitfalls",
+    "pricing-and-monetization",
+    "product-market-fit",
+    "simple-products",
+    "starting-young",
+    "competing-with-big-companies",
+    "ai-and-startups",
+    "passion-and-motivation",
+    "silicon-valley-fundraising",
+    "seed-fundraising",
+    "fundraising-mistakes",
+    "dealing-with-setbacks",
+    "becoming-a-founder",
+    "pivoting",
+    "selling-to-startups",
+    "dev-shops",
+    "hiring-at-early-stage",
+    "founder-productivity",
+    "first-time-founders",
+    "conformists-vs-nonconformists",
+    "getting-press",
+    "launching",
+    "talking-to-users",
+    "customer-relationships",
+    "survivorship-bias-in-advice",
+    "influencing-decision-makers",
+    "co-founders",
+    "investor-incentives",
+    "online-presence",
+    "startups-for-students",
+    "value-creation",
+    "product-development",
+    "bootstrapping-vs-venture-capital",
+    "handling-investor-rejection",
+    "zero-sum-vs-positive-sum",
+    "startup-essentials",
+    "founder-optimism-pessimism",
+    "mvp-planning",
+    "applying-to-yc",
+    "startup-ideas",
+    "startup-location",
+    "cold-emailing-investors",
+    "hard-conversations"
+  ],
+  "midwit-meme": [
+    "dalton-caldwell"
+  ],
+  "mission-to-metrics": [
+    "ali-rowghani",
+    "startup-management",
+    "startup-leadership"
+  ],
+  "mvp-planning": [
+    "pete-koomen",
+    "michael-seibel",
+    "technical-founders"
+  ],
+  "network-effects": [
+    "startup-metrics",
+    "business-models"
+  ],
+  "nicolas-dessaigne": [
+    "dev-tools",
+    "sales-for-founders"
+  ],
+  "nvision-medical": [
+    "surbhi-sarna"
+  ],
+  "ooshma-garg": [
+    "gobble",
+    "founder-mindset",
+    "doing-things-that-dont-scale",
+    "seed-fundraising",
+    "pivoting",
+    "co-founders"
+  ],
+  "parker-conrad": [
+    "garry-tan",
+    "compound-startup",
+    "product-market-fit",
+    "ai-and-startups",
+    "dealing-with-setbacks",
+    "pivoting",
+    "startup-leadership",
+    "why-now",
+    "co-founders",
+    "growth"
+  ],
+  "paul-graham": [
+    "tom-blomfield",
+    "ooshma-garg",
+    "bob-mcgrew",
+    "dalton-caldwell",
+    "sam-altman",
+    "michael-seibel",
+    "cursor",
+    "gobble",
+    "default-alive-or-dead",
+    "equity-equation",
+    "schlep-filter",
+    "founder-mindset",
+    "equity-split",
+    "recruiting-early-team-members",
+    "convincing-investors",
+    "doing-things-that-dont-scale",
+    "product-market-fit",
+    "starting-young",
+    "network-effects",
+    "founder-productivity",
+    "runway-management",
+    "financial-survival",
+    "talking-to-users",
+    "co-founders",
+    "online-presence",
+    "growth",
+    "startup-essentials",
+    "startup-ideas",
+    "early-stage-mistakes"
+  ],
+  "perplexity": [
+    "ai-and-startups"
+  ],
+  "pete-koomen": [
+    "david-lieb",
+    "conversion-rates",
+    "ai-native-software"
+  ],
+  "pinduoduo": [
+    "anu-hariharan",
+    "china-tech-ecosystem",
+    "network-effects",
+    "social-commerce"
+  ],
+  "plangrid": [
+    "sales-for-founders"
+  ],
+  "pricing-and-monetization": [
+    "aaron-epstein",
+    "sales-for-founders",
+    "business-models",
+    "growth"
+  ],
+  "pricing-thermometer": [
+    "startup-pricing"
+  ],
+  "product-development": [
+    "michael-seibel"
+  ],
+  "product-market-fit": [
+    "david-lieb",
+    "ooshma-garg",
+    "parker-conrad",
+    "dalton-caldwell",
+    "bump-and-google-photos",
+    "lever",
+    "rippling",
+    "gobble",
+    "learn-earn-quit",
+    "equity-split",
+    "scaling-and-later-stage-operations",
+    "enterprise-sales",
+    "technical-founders",
+    "hiring-at-early-stage",
+    "startup-culture",
+    "founder-productivity",
+    "influencing-decision-makers",
+    "series-a-fundraising",
+    "growth",
+    "startup-essentials",
+    "mvp-planning",
+    "ceo-role-and-co-ceo",
+    "startup-terminology"
+  ],
+  "recruiting-early-team-members": [
+    "dalton-caldwell",
+    "founder-mindset",
+    "convincing-investors"
+  ],
+  "rippling": [
+    "parker-conrad"
+  ],
+  "runway-management": [
+    "dalton-caldwell",
+    "startup-terminology"
+  ],
+  "sales-for-founders": [
+    "dev-tools"
+  ],
+  "sam-altman": [
+    "drew-houston",
+    "elon-musk",
+    "vinod-khosla",
+    "garry-tan",
+    "anne-wojcicki",
+    "openai",
+    "dropbox",
+    "bump-and-google-photos",
+    "starcloud",
+    "23andme",
+    "gene-pool-engineering",
+    "founder-mindset",
+    "equity-split",
+    "scaling-and-later-stage-operations",
+    "product-market-fit",
+    "competing-with-big-companies",
+    "ai-and-startups",
+    "dealing-with-setbacks",
+    "becoming-a-founder",
+    "startup-outcomes-and-optionality",
+    "pivoting",
+    "hiring-at-early-stage",
+    "startup-leadership",
+    "why-now",
+    "co-founders",
+    "hard-tech-startups",
+    "investor-incentives",
+    "growth",
+    "startup-essentials",
+    "choosing-a-startup-to-join"
+  ],
+  "sarah-nahm": [
+    "company-culture",
+    "product-market-fit",
+    "pivoting",
+    "hiring-at-early-stage",
+    "startup-leadership",
+    "talking-to-users",
+    "co-founders"
+  ],
+  "schlep-filter": [
+    "paul-graham",
+    "startup-ideas"
+  ],
+  "seed-fundraising": [
+    "startup-terminology",
+    "cold-emailing-investors"
+  ],
+  "selling-to-startups": [
+    "enterprise-sales",
+    "growth"
+  ],
+  "series-a-fundraising": [
+    "product-market-fit",
+    "series-a-term-sheets",
+    "hard-tech-startups",
+    "startup-terminology"
+  ],
+  "series-a-term-sheets": [
+    "startup-terminology"
+  ],
+  "silicon-valley-fundraising": [
+    "seed-fundraising"
+  ],
+  "snapdocs": [
+    "aaron-king"
+  ],
+  "starcloud": [
+    "hard-tech-startups"
+  ],
+  "starting-young": [
+    "michael-truell",
+    "dalton-caldwell",
+    "geoff-ralston"
+  ],
+  "startup-ideas": [
+    "creating-luck",
+    "product-market-fit",
+    "ai-and-startups",
+    "confronting-reality",
+    "applying-to-yc",
+    "startup-terminology",
+    "early-stage-mistakes"
+  ],
+  "startup-leadership": [
+    "startup-management"
+  ],
+  "startup-management": [
+    "mission-to-metrics"
+  ],
+  "startup-outcomes-and-optionality": [
+    "investor-incentives"
+  ],
+  "startup-pricing": [
+    "pricing-thermometer",
+    "business-models"
+  ],
+  "startup-terminology": [
+    "dalton-caldwell"
+  ],
+  "surbhi-sarna": [
+    "talking-to-users"
+  ],
+  "talking-to-users": [
+    "vidit-aatrey",
+    "surbhi-sarna",
+    "dalton-caldwell",
+    "michael-seibel",
+    "cohort-retention"
+  ],
+  "technical-co-founders": [
+    "dalton-caldwell",
+    "dev-shops",
+    "co-founders"
+  ],
+  "three-traits-of-great-leadership": [
+    "ali-rowghani",
+    "startup-leadership"
+  ],
+  "tom-blomfield": [
+    "david-lieb",
+    "pete-koomen",
+    "brad-flora",
+    "dalton-caldwell",
+    "b2b-pricing",
+    "ai-and-startups",
+    "startup-metrics",
+    "dealing-with-setbacks",
+    "pivoting",
+    "ai-native-software",
+    "launching"
+  ],
+  "tony-xu": [
+    "garry-tan",
+    "doordash",
+    "doing-things-that-dont-scale",
+    "product-market-fit",
+    "competing-with-big-companies",
+    "talking-to-users",
+    "customer-relationships",
+    "investor-incentives"
+  ],
+  "toutiao": [
+    "anu-hariharan",
+    "china-tech-ecosystem",
+    "network-effects",
+    "social-commerce"
+  ],
+  "tracy-young": [
+    "plangrid",
+    "founder-mindset",
+    "doing-things-that-dont-scale",
+    "hiring-at-early-stage",
+    "co-founders"
+  ],
+  "university-spinouts": [
+    "equity-split"
+  ],
+  "value-creation": [
+    "dalton-caldwell"
+  ],
+  "vidit-aatrey": [
+    "product-market-fit",
+    "pivoting",
+    "startup-leadership",
+    "talking-to-users",
+    "co-founders",
+    "growth"
+  ],
+  "vinod-khosla": [
+    "sam-altman",
+    "gene-pool-engineering",
+    "equity-split",
+    "hiring-at-early-stage",
+    "investor-incentives"
+  ],
+  "wechat": [
+    "anu-hariharan",
+    "pinduoduo",
+    "china-tech-ecosystem",
+    "network-effects",
+    "social-commerce"
+  ],
+  "why-now": [
+    "garry-tan",
+    "sam-altman",
+    "competing-with-big-companies"
   ]
 }

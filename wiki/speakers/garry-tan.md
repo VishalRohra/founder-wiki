@@ -3,15 +3,15 @@ title: Garry Tan
 type: speaker
 created: 2026-04-05
 last_updated: 2026-04-05
-sources: ["J7-garry-tan-s-tips-for-applying-to-yc", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "Lp-how-to-build-the-future-sam-altman", "MJ-how-to-build-the-future-tony-xu", "M2-how-to-build-the-future-parker-conrad"]
+sources: ["J7-garry-tan-s-tips-for-applying-to-yc", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "Lp-how-to-build-the-future-sam-altman", "MJ-how-to-build-the-future-tony-xu", "M2-how-to-build-the-future-parker-conrad", "Jq-garry-s-channel-should-you-be-the-ceo", "Jg-garry-s-channel-learn-earn-or-quit-my-job-career-advice", "Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas", "M6-how-to-build-the-agi-future-bob-mcgrew", "MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful"]
 aliases: ["Garry Tan", "Gary Tan", "Tan"]
-related: ["[[Applying to YC]]", "[[Confronting Reality]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[AI and Startups]]", "[[Sam Altman]]", "[[Tony Xu]]", "[[Parker Conrad]]", "[[OpenAI: From Flip Chart to AGI]]", "[[DoorDash: Creating a Market from Scratch]]", "[[Rippling: Building the Same Company Twice]]"]
+related: ["[[Applying to YC", "[[CEO Role and the Co-CEO Mistake]]", "[[Learn, Earn, or Quit]]", "[[Why Now]]", "[[Elon Musk]]", "[[Bob McGrew]]", "[[Confronting Reality]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[AI and Startups]]", "[[Sam Altman]]", "[[Tony Xu]]", "[[Parker Conrad]]", "[[OpenAI: From Flip Chart to AGI]]", "[[DoorDash: Creating a Market from Scratch]]", "[[Rippling: Building the Same Company Twice]]"]
 speakers_referenced: ["Garry Tan"]
 ---
 
 # Garry Tan
 
-Garry Tan is President and CEO of Y Combinator. He was previously a YC partner for five years (working with 700+ companies) and founded Initialized Capital, a venture fund. Before that, he cofounded Posterous (2008), a blogging platform that experienced rapid growth before stalling. He hosts the rebooted "How to Build the Future" series, interviewing founders including [[Sam Altman]], [[Tony Xu]], and [[Parker Conrad]].
+Garry Tan is President and CEO of Y Combinator. He was previously a YC partner for five years (working with 700+ companies) and founded Initialized Capital, a venture fund. Before that, he cofounded Posterous (2008), a blogging platform that experienced rapid growth before stalling. He hosts the rebooted "How to Build the Future" series, interviewing founders including [[Sam Altman]], [[Tony Xu]], [[Parker Conrad]], [[Bob McGrew]], and [[Elon Musk]].
 
 ## Worldview
 
@@ -59,6 +59,28 @@ As an interviewer, Tan is notable for connecting founders' stories to broader pr
 - **The Dreamland-Reality Bridge**: Founders must believe in a future that does not exist while maintaining honest assessment of present reality. The bridge is built through surrounding yourself with smart, independent thinkers who challenge groupthink [2].
 - **The Idea Maze**: Know the full history of attempts in your space. If you are doing exactly what previous failed attempts did, you need to articulate what is different this time [2].
 - **No Adults in the Room**: Tan describes as a "big unlock in life" understanding that no one has all the answers and there are no adults who will tell you what to do. "You just kind of have to iterate quickly and find your way" [3].
+- **The Co-CEO Trap**: Shared leadership slows decision-making to the point of lethality for startups. The only exception is a Google-level founding duo [6].
+- **Learn, Earn, or Quit**: Two-axis career evaluation. Best position: both. Worst: neither. Recommended sequence: learn first [7].
+- **Three "Why Nows"**: Technology curves, behavior change, regulation. The strongest startup ideas sit at the intersection of these forces [8].
+
+
+## On the CEO Decision
+
+Tan draws on his experience at Posterous to argue against co-CEO structures. In 2010, he and his co-founder told Andreessen Horowitz that they were both CEO. "The meeting might as well have ended at that moment" [6]. After the Series A, his co-founder became CEO. Tan regrets this: "It took me too long in my career to realize, actually, I needed to be CEO" [6].
+
+His diagnostic: "If things are broken, are you okay with someone else being in charge of fixing it? If you're going to be incredibly frustrated that you don't have the authority and can't fix it, then maybe you do need to be CEO" [6]. He frames it not as ego but as self-knowledge: "It's okay to need agency" [6]. See [[CEO Role and the Co-CEO Mistake]].
+
+## The Learn/Earn Framework
+
+Tan proposes a career evaluation framework: at any point in your career, ask whether you are learning, earning, or both [7]. If neither, quit. He recommends learning first, then earning, and warns about the hedonic treadmill of lifestyle inflation. He identifies equity as the highest-leverage form of earning, whether as a founder (starting with 100% of something worth nothing) or early employee (0.25% to 2%+ at a fast-growing company) [7]. See [[Learn, Earn, or Quit]].
+
+## The Three "Why Nows"
+
+Tan identifies three forces that create windows for startup opportunity: new technology (exponential curves creating orders-of-magnitude improvements), behavior change (mass adoption of platforms like smartphones), and regulation (government mandates creating new markets) [8]. He uses the General Magic vs. iPhone contrast and the Webvan vs. Instacart contrast as canonical timing examples [8]. See [[Why Now]].
+
+## On AGI and AI Interviews
+
+In his interviews with [[Bob McGrew]] [9] and [[Elon Musk]] [10], Tan explores the frontier of AGI, reasoning, and robotics. He compares the AI economy to one that could be "thousands of times, maybe millions of times bigger than the economy today" if civilization scales beyond Kardashev level one [10].
 
 ## References
 
@@ -67,3 +89,8 @@ As an interviewer, Tan is notable for connecting founders' stories to broader pr
 3. [How To Build The Future: Sam Altman](https://ycombinator.com/library/Lp-how-to-build-the-future-sam-altman) -- [[Sam Altman]], Garry Tan (2024)
 4. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], Garry Tan (2025)
 5. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], Garry Tan (2025)
+6. [Should You Be the CEO?](https://ycombinator.com/library/Jq-garry-s-channel-should-you-be-the-ceo) -- Garry Tan (2021)
+7. [LEARN, EARN or QUIT: My Job/Career Advice](https://ycombinator.com/library/Jg-garry-s-channel-learn-earn-or-quit-my-job-career-advice) -- Garry Tan (2021)
+8. [Why Now? The Key to Million Dollar Startup Ideas](https://ycombinator.com/library/Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas) -- Garry Tan (2022)
+9. [How To Build The AGI Future: Bob McGrew](https://ycombinator.com/library/M6-how-to-build-the-agi-future-bob-mcgrew) -- [[Bob McGrew]], Garry Tan (2025)
+10. [Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful](https://ycombinator.com/library/MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful) -- [[Elon Musk]], Garry Tan (June 2025)

@@ -1137,5 +1137,204 @@
       "wiki/speakers/surbhi-sarna.md",
       "wiki/topics/talking-to-users.md"
     ]
+  },
+  "7v-should-i-use-a-dev-shop": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/dev-shops.md",
+      "wiki/speakers/michael-seibel.md"
+    ]
+  },
+  "Jq-garry-s-channel-should-you-be-the-ceo": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/ceo-role-and-co-ceo.md",
+      "wiki/speakers/garry-tan.md"
+    ]
+  },
+  "Kw-when-should-you-trust-your-gut": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/frameworks/commit-or-validate.md",
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/speakers/michael-seibel.md"
+    ]
+  },
+  "KZ-should-your-startup-bootstrap-or-raise-venture-capital": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/bootstrapping-vs-venture-capital.md",
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/speakers/michael-seibel.md"
+    ]
+  },
+  "Jg-garry-s-channel-learn-earn-or-quit-my-job-career-advice": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/frameworks/learn-earn-quit.md",
+      "wiki/speakers/garry-tan.md"
+    ]
+  },
+  "Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/why-now.md",
+      "wiki/speakers/garry-tan.md"
+    ]
+  },
+  "89-how-to-succeed-with-a-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/why-now.md",
+      "wiki/topics/becoming-a-founder.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/competing-with-big-companies.md",
+      "wiki/speakers/sam-altman.md"
+    ]
+  },
+  "GV-should-you-start-a-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/becoming-a-founder.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/speakers/harj-taggar.md"
+    ]
+  },
+  "Lk-starting-a-company-the-key-terms-you-should-know": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/startup-terminology.md",
+      "wiki/topics/bootstrapping-vs-venture-capital.md",
+      "wiki/speakers/dalton-caldwell.md"
+    ]
+  },
+  "60-should-i-start-a-startup": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/becoming-a-founder.md",
+      "wiki/speakers/michael-seibel.md"
+    ]
+  },
+  "6f-how-to-plan-an-mvp": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/mvp-planning.md",
+      "wiki/speakers/michael-seibel.md"
+    ]
+  },
+  "Ip-how-to-get-your-first-customers": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/sales-for-founders.md",
+      "wiki/speakers/gustaf-alstromer.md"
+    ]
+  },
+  "KD-how-to-convert-more-visitors-into-customers": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/conversion-rates.md",
+      "wiki/speakers/pete-koomen.md"
+    ]
+  },
+  "6i-how-to-launch-again-and-again": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/launching.md",
+      "wiki/speakers/kat-manalac.md"
+    ]
+  },
+  "It-how-to-apply-and-succeed-at-yc": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/applying-to-yc.md",
+      "wiki/speakers/dalton-caldwell.md"
+    ]
+  },
+  "Is-tips-for-technical-startup-founders": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/technical-founders.md",
+      "wiki/topics/mvp-planning.md",
+      "wiki/speakers/diana-hu.md"
+    ]
+  },
+  "IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/starting-young.md",
+      "wiki/speakers/dalton-caldwell.md",
+      "wiki/speakers/michael-seibel.md"
+    ]
+  },
+  "Lu-how-to-start-a-dev-tools-company": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/dev-tools.md",
+      "wiki/topics/sales-for-founders.md",
+      "wiki/speakers/nicolas-dessaigne.md"
+    ]
+  },
+  "8h-how-to-find-the-right-co-founder": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/harj-taggar.md"
+    ]
+  },
+  "LV-how-to-improve-cohort-retention": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/cohort-retention.md",
+      "wiki/speakers/david-lieb.md"
+    ]
+  },
+  "M6-how-to-build-the-agi-future-bob-mcgrew": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/bob-mcgrew.md",
+      "wiki/speakers/garry-tan.md"
+    ]
+  },
+  "Ms-michael-truell-building-cursor-at-23-taking-on-github-copilot-and-advice-to-engineering-students": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/case-studies/cursor.md",
+      "wiki/speakers/michael-truell.md"
+    ]
+  },
+  "MR-ai-apps-are-broken-here-s-how-to-fix-them": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/ai-native-software.md",
+      "wiki/speakers/pete-koomen.md",
+      "wiki/speakers/david-lieb.md"
+    ]
+  },
+  "LZ-how-to-convert-customers-with-cold-emails": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/cold-emails.md",
+      "wiki/speakers/aaron-epstein.md"
+    ]
+  },
+  "Gh-yc-guide-to-business-models": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/business-models.md",
+      "wiki/speakers/aaron-epstein.md"
+    ]
+  },
+  "MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/speakers/elon-musk.md",
+      "wiki/speakers/garry-tan.md"
+    ]
+  },
+  "76-how-to-invent-the-future-part-2": {
+    "absorbed_date": "2026-04-05",
+    "articles_touched": [
+      "wiki/topics/inventing-the-future.md",
+      "wiki/speakers/alan-kay.md"
+    ]
   }
 }
