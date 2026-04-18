@@ -54,7 +54,7 @@
     "description": "Sam Altman, former YC partner and president, shares his thoughts on how you can succeed with a startup.",
     "url": "https://www.ycombinator.com/library/89-how-to-succeed-with-a-startup",
     "feature_score": 990,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6W-elon-musk-on-how-to-build-the-future": {
@@ -75,7 +75,7 @@
     "description": "Elon Musk discusses what high value ideas people should work on today and what's important for future of the humanity, including artificial intelligence and genetics.",
     "url": "https://www.ycombinator.com/library/6W-elon-musk-on-how-to-build-the-future",
     "feature_score": 980,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "4A-a-guide-to-seed-fundraising": {
@@ -139,7 +139,7 @@
     "description": "Mark Zuckerberg, co-founder & CEO of Facebook, discusses his journey as a founder, some of the hardest decisions he's had to make, and more.",
     "url": "https://www.ycombinator.com/library/5s-mark-zuckerberg-on-building-a-startup",
     "feature_score": 940,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team": {
@@ -189,7 +189,7 @@
     "description": "YC's Michael Seibel on the biggest mistakes he sees first-time founders make, including not working on the right problems, communication with co-founders, not launching and more.",
     "url": "https://www.ycombinator.com/library/66-biggest-mistakes-first-time-founders-make",
     "feature_score": 900,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5x-how-to-split-equity-among-co-founders": {
@@ -212,7 +212,7 @@
     "description": "Founders often make mistakes when figuring out equity for each co-founder. Equity should be split equally because all the work is ahead of you.",
     "url": "https://www.ycombinator.com/library/5x-how-to-split-equity-among-co-founders",
     "feature_score": 890,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "4T-how-to-design-a-better-pitch-deck": {
@@ -257,7 +257,7 @@
     "description": "David Rusenko, co-founder of Weebly (YC W07), details the story of how Weebly developed one of the most popular website creation and hosting sites on the web today.",
     "url": "https://www.ycombinator.com/library/7V-how-to-find-product-market-fit",
     "feature_score": 840,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8L-what-s-different-about-unicorns": {
@@ -279,7 +279,7 @@
     "description": "Jessica Livingston gives a talk on how to be not just successful, but massively successful, and points to women-founded billion dollar companies as the next focus. Originally from Female Founders Conference 2017.",
     "url": "https://www.ycombinator.com/library/8L-what-s-different-about-unicorns",
     "feature_score": 830,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6f-how-to-plan-an-mvp": {
@@ -300,7 +300,7 @@
     "description": "YC's Michael Seibel shares his approach to building an MVP and getting your first users as a pre-launch startup.",
     "url": "https://www.ycombinator.com/library/6f-how-to-plan-an-mvp",
     "feature_score": 830,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7s-building-product": {
@@ -331,7 +331,7 @@
     "description": "YC's Michael Seibel outlines how successful startups think about building something people want.",
     "url": "https://www.ycombinator.com/library/7s-building-product",
     "feature_score": 800,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "4h-three-paths-in-the-tech-industry-founder-executive-or-employee": {
@@ -372,7 +372,7 @@
     "description": "YC's Dalton Caldwell gives insight into how YC admissions works and what makes for a successful YC experience.",
     "url": "https://www.ycombinator.com/library/6t-how-to-apply-and-succeed-at-y-combinator",
     "feature_score": 600,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6i-how-to-launch-again-and-again": {
@@ -391,7 +391,7 @@
     "description": "YC's Kat Manalac on how startups should think about launching, and why you should do it repeatedly.",
     "url": "https://www.ycombinator.com/library/6i-how-to-launch-again-and-again",
     "feature_score": 490,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6p-all-about-pivoting": {
@@ -412,7 +412,7 @@
     "description": "YC's Dalton Caldwell gives us the rundown on pivoting and shares his advice on how founders should think about it for their startups.",
     "url": "https://www.ycombinator.com/library/6p-all-about-pivoting",
     "feature_score": 470,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6k-growth-for-startups": {
@@ -433,7 +433,7 @@
     "description": "YC's Gustaf Alstromer talks about how to measure product market fit, how to decide on a growth channel, metrics that lie about PMF and other mechanics of growth for startups.",
     "url": "https://www.ycombinator.com/library/6k-growth-for-startups",
     "feature_score": 460,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ed-dalton-michael-save-your-startup-during-an-economic-downturn": {
@@ -461,7 +461,7 @@
     "description": "Dalton Caldwell and Michael Seibel discuss Paul Graham's essay \"Default Alive or Default Dead.\" They share strategies to cut your company's burn rate and keep your startup alive to see another day.",
     "url": "https://www.ycombinator.com/library/Ed-dalton-michael-save-your-startup-during-an-economic-downturn",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Da-data-rooms-and-additional-documents-to-prepare-for-seed-fundraising": {
@@ -497,7 +497,7 @@
     "description": "\nWe asked YC founders: Is there a simple fact you wish you knew when you started your company or a rookie mistake you wish you could take back?",
     "url": "https://www.ycombinator.com/library/DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "DY-dalton-michael-yc-founders-made-these-fundraising-mistakes": {
@@ -522,7 +522,7 @@
     "description": "Dalton and Michael talk about fundraising mistakes. Learn how you can best build leverage as you set out to raise money, with examples from Airbnb, Google and Facebook.",
     "url": "https://www.ycombinator.com/library/DY-dalton-michael-yc-founders-made-these-fundraising-mistakes",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "DX-dalton-michael-understanding-investor-terms-and-incentives": {
@@ -551,7 +551,7 @@
     "description": "Dalton Caldwell and Michael Seibel talk about investor terms and incentives, and how a clear understanding of them can help you get the most out of your fundraising conversations and meetings.",
     "url": "https://www.ycombinator.com/library/DX-dalton-michael-understanding-investor-terms-and-incentives",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "DW-dalton-michael-should-you-follow-your-passion": {
@@ -578,7 +578,7 @@
     "description": "Dalton Caldwell and Michael Seibel talk about solutions in search of a problem, whether or not to follow your passion, how to figure out what to work on, and how to motivate yourself as you set out to start your company.",
     "url": "https://www.ycombinator.com/library/DW-dalton-michael-should-you-follow-your-passion",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "DV-dalton-michael-successful-founders-are-ok-with-rejection": {
@@ -599,7 +599,7 @@
     "description": "Dalton Caldwell and Michael Seibel on the importance of talking to your users, why successful founders are ok with rejection from potential customers, and how protecting your ego by not talking to your users can kill your startup.",
     "url": "https://www.ycombinator.com/library/DV-dalton-michael-successful-founders-are-ok-with-rejection",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "DU-dalton-michael-where-do-great-startup-ideas-come-from": {
@@ -621,7 +621,7 @@
     "description": "Dalton Caldwell and Michael Seibel talk about where the ideas for Airbnb, Coinbase, and Stripe came from, and lessons you can learn from these founders.",
     "url": "https://www.ycombinator.com/library/DU-dalton-michael-where-do-great-startup-ideas-come-from",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "DT-dalton-michael-simple-products-that-became-big-companies": {
@@ -643,7 +643,7 @@
     "description": "Dalton Caldwell and Michael Seibel talk about OpenSea, Gusto, and the importance of building simple products that solve a real problem.",
     "url": "https://www.ycombinator.com/library/DT-dalton-michael-simple-products-that-became-big-companies",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "D0-startups-for-students": {
@@ -702,7 +702,7 @@
     "description": "Embark Trucks (W16), self-driving semi trucks, went public.",
     "url": "https://www.ycombinator.com/library/Co-embark-trucks-w16-road-to-ipo",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "CP-one-order-of-operations-for-starting-a-startup": {
@@ -720,7 +720,7 @@
     "description": "Michael Seibel shares his framework for coming up with startup ideas and getting started as a founder. This guide can help you walk the path from nothing to a launched minimal viable product (MVP).",
     "url": "https://www.ycombinator.com/library/CP-one-order-of-operations-for-starting-a-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "AQ-how-to-pick-which-startup-to-work-at": {
@@ -738,7 +738,7 @@
     "description": "YC alum Justin Kan and former YC President Sam Altman talk about why you should or should not work at a startup, and what being an employee at one entails.",
     "url": "https://www.ycombinator.com/library/AQ-how-to-pick-which-startup-to-work-at",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "9u-why-do-startups-fail": {
@@ -790,7 +790,7 @@
     "description": "YC's Harj Taggar, former CEO of Triplebyte, advises on choosing a startup to join.",
     "url": "https://www.ycombinator.com/library/9t-how-to-choose-a-startup-to-join",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "9i-how-to-choose-a-metric-and-set-your-kpi": {
@@ -1056,7 +1056,7 @@
     "description": "YC's Harj Taggar shares advice on how to find the right co-founder for your startup.",
     "url": "https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8g-how-to-get-startup-ideas": {
@@ -1078,7 +1078,7 @@
     "description": "YC's Jared Friedman shares advice on how to get startup ideas.",
     "url": "https://www.ycombinator.com/library/8g-how-to-get-startup-ideas",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8f-how-to-spin-your-scientific-research-out-of-a-university-and-into-a-startup": {
@@ -1152,7 +1152,7 @@
     "description": "Michael Seibel goes over how problems finding product market fit, listening to investors, co-founder conflict, copying startups around you, and slow product development can kill startups.",
     "url": "https://www.ycombinator.com/library/8a-the-5-things-that-kill-startups-post-seed-rounds",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8I-managing-startup-finances": {
@@ -1172,7 +1172,7 @@
     "description": "YC's Kirsty Nathoo shares the most common mistakes startups make with their finances and how they can prevent them.",
     "url": "https://www.ycombinator.com/library/8I-managing-startup-finances",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8H-analytics-for-startups": {
@@ -1196,7 +1196,7 @@
     "description": "Ilya Volodarsky, co-founder of Segment, presents his tactics for setting up analytics to build your MVP and measure your metrics.",
     "url": "https://www.ycombinator.com/library/8H-analytics-for-startups",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8G-advice-for-hard-tech-and-biotech-founders": {
@@ -1214,7 +1214,7 @@
     "description": "YC Partner Jared Friedman covers hard tech companies and why founders should consider starting one. He also covers a couple of the most common problems hard tech companies face and how to solve them, with examples from seven YC companies. From YC's Startup School in 2019.",
     "url": "https://www.ycombinator.com/library/8G-advice-for-hard-tech-and-biotech-founders",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8F-modern-startup-funding": {
@@ -1239,7 +1239,7 @@
     "description": "YC's Carolynn Levy details the basics of startup financing and how modern early stage rounds of financing are done using convertible securities, like the SAFE.",
     "url": "https://www.ycombinator.com/library/8F-modern-startup-funding",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8D-live-office-hours-with-sam-altman-and-yuri-sagalov": {
@@ -1260,7 +1260,7 @@
     "description": "Former YC Partner Sam Altman and YC alumYuri Sagalov, CEO of Amium, hold Live Office Hours with three startups. They'll discuss their ideas and their thought processes around building their companies, and get live advice. From YC's Startup School in 2017.",
     "url": "https://www.ycombinator.com/library/8D-live-office-hours-with-sam-altman-and-yuri-sagalov",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8C-how-to-measure-your-product": {
@@ -1287,7 +1287,7 @@
     "description": "Suhail Doshi, founder of Mixpanel (YC S09) and an expert on measurement, details how startups should think about discovering the important facts about how their product is used.",
     "url": "https://www.ycombinator.com/library/8C-how-to-measure-your-product",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working": {
@@ -1309,7 +1309,7 @@
     "description": "Stewart Butterfield, Co-founder and CEO of Slack, and Adam D'Angelo, Co-founder and CEO of Quora, explore the process of getting an idea, followed by measuring and tracking metrics for your company. From YC's Startup School in 2017.",
     "url": "https://www.ycombinator.com/library/8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "86-how-to-start-a-startup-finding-product-market-fit": {
@@ -1328,7 +1328,7 @@
     "description": "Peter Reinhardt, Co-founder and CEO of Segment (YC S11), draws from his experience to shed some light on finding product-market fit and how much it is tied to solving real problems. From YC's Startup School in 2017.",
     "url": "https://www.ycombinator.com/library/86-how-to-start-a-startup-finding-product-market-fit",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "84-live-office-hours-with-yc-s-paul-graham-and-sam-altman-2013": {
@@ -1342,7 +1342,7 @@
     "description": "YC's Paul Graham and Sam Altman hold office hours.",
     "url": "https://www.ycombinator.com/library/84-live-office-hours-with-yc-s-paul-graham-and-sam-altman-2013",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "82-the-path-to-100b": {
@@ -1367,7 +1367,7 @@
     "description": "YC Group Partner and the creator of Gmail, Paul Buchheit, in conversation with YC's Geoff Ralston, describes how he thinks about companies that manage to scale to the ultimate level.",
     "url": "https://www.ycombinator.com/library/82-the-path-to-100b",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "80-patrick-collison-on-effectively-running-a-startup": {
@@ -1385,7 +1385,7 @@
     "description": "YC's  Adora Cheung and Patrick Collison, co-founder of Stripe (YC S09), discuss how to most effectively run a startup.",
     "url": "https://www.ycombinator.com/library/80-patrick-collison-on-effectively-running-a-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7y-how-to-build-a-product-with-reddit-s-steve-huffman-and-twitch-s-emmett-shear": {
@@ -1403,7 +1403,7 @@
     "description": "YC's Michael Seibel interviews Reddit co-founder Steve Huffman and Twitch co-founder Emmett Shear on how they built their products.",
     "url": "https://www.ycombinator.com/library/7y-how-to-build-a-product-with-reddit-s-steve-huffman-and-twitch-s-emmett-shear",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7x-how-to-get-and-test-ideas": {
@@ -1429,7 +1429,7 @@
     "description": "Y Combinator Group Partner Michael Seibel on getting and testing startup ideas.",
     "url": "https://www.ycombinator.com/library/7x-how-to-get-and-test-ideas",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7v-should-i-use-a-dev-shop": {
@@ -1451,7 +1451,7 @@
     "description": "Y Combinator Partner Michael Seibel on using development shops to build your startup, and how it can be trap in the long run.",
     "url": "https://www.ycombinator.com/library/7v-should-i-use-a-dev-shop",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7u-how-pitching-investors-is-different-than-pitching-customers": {
@@ -1476,7 +1476,7 @@
     "description": "Pitching your startup to customers is different than pitching to investors. Y Combinator Group Partner Michael Seibel shares how you can craft your message for each audience and when to use them in your conversations.",
     "url": "https://www.ycombinator.com/library/7u-how-pitching-investors-is-different-than-pitching-customers",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7n-live-office-hours-with-yc-s-kevin-hale-and-dalton-caldwell-2017": {
@@ -1497,7 +1497,7 @@
     "description": "YC's Kevin Hale and Dalton Caldwell hold office hours with three startups: HubHaus, Lambda Intelligence, and Commaful.",
     "url": "https://www.ycombinator.com/library/7n-live-office-hours-with-yc-s-kevin-hale-and-dalton-caldwell-2017",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7g-how-to-build-and-manage-teams": {
@@ -1517,7 +1517,7 @@
     "description": "Anu Hariharan, Partner at YC Continuity, sits down with Vinod Khosla, Founder of Khosla Ventures and previously the founding CEO and Co-Founder of Sun Microsystems, to talk about belief systems around hiring, and how to manage your company's growth internally. This was a talk for YC's Startup School in 2017.",
     "url": "https://www.ycombinator.com/library/7g-how-to-build-and-manage-teams",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7e-how-and-why-to-start-a-startup": {
@@ -1535,7 +1535,7 @@
     "description": "Sam Altman, former YC partner and president, and Dustin Moskovitz, co-founder of Facebook and Asana, discuss why to start a startup. Sam introduces the 4 key components of starting a startup: idea, product, team, and execution.",
     "url": "https://www.ycombinator.com/library/7e-how-and-why-to-start-a-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7a-how-to-build-a-product-with-whatsapp-co-founder-jan-koum": {
@@ -1553,7 +1553,7 @@
     "description": "Jan Koum, co-founder of WhatsApp, shares his journey building his company.",
     "url": "https://www.ycombinator.com/library/7a-how-to-build-a-product-with-whatsapp-co-founder-jan-koum",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7S-quantum-computing-with-chad-rigetti": {
@@ -1571,7 +1571,7 @@
     "description": "Chad Rigetti, founder of Rigetti Quantum Computing (YC S14), talks about quantum computing and Rigetti's founding story.",
     "url": "https://www.ycombinator.com/library/7S-quantum-computing-with-chad-rigetti",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7R-startup-legal-mechanics": {
@@ -1594,7 +1594,7 @@
     "description": "YC's Carolynn Levy, Jon Levy, and Jason Kwon discuss legal mechanics for startups, in addition to common mistakes and problems.",
     "url": "https://www.ycombinator.com/library/7R-startup-legal-mechanics",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7N-building-an-engineering-team": {
@@ -1623,7 +1623,7 @@
     "description": "YC Partner and Co-founder of Triplebyte (YC S15) Harj Taggar, along with Co-founder Ammon Bartram, discuss a topic startups often struggle with most: finding and hiring the key engineers who will build your product.  This was a talk for YC's Startup School in 2018.",
     "url": "https://www.ycombinator.com/library/7N-building-an-engineering-team",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7M-most-startups-are-undercharging": {
@@ -1644,7 +1644,7 @@
     "description": "Dalton Caldwell, Y Combinator partner and founder of imeem and Mixed Media Labs, on pricing and how most startups undercharge. He also shares examples of how companies like Doordash, Zapier and Dropbox, determined their pricing strategy.",
     "url": "https://www.ycombinator.com/library/7M-most-startups-are-undercharging",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7L-how-do-you-create-luck": {
@@ -1666,7 +1666,7 @@
     "description": "To create luck, you need to move fast, make things, and give yourself as many opportunities as possible. YC Partner Dalton Caldwell shares his advice for founders, with examples from companies like Brex and Retool.",
     "url": "https://www.ycombinator.com/library/7L-how-do-you-create-luck",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7H-design-for-startups-part-2": {
@@ -1685,7 +1685,7 @@
     "description": "YC's Garry Tan describes how to effectively integrate design into a product development process.",
     "url": "https://www.ycombinator.com/library/7H-design-for-startups-part-2",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "7G-design-for-startups-part-1": {
@@ -1704,7 +1704,7 @@
     "description": "YC Partner Garry Tan, co-founder of Initialized Capital and a design expert describes how to effectively integrate design and design thinking into a product development process.  This was a talk for YC's Startup School in 2018.",
     "url": "https://www.ycombinator.com/library/7G-design-for-startups-part-1",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "77-how-to-invent-the-future-part-1": {
@@ -1722,7 +1722,7 @@
     "description": "One of the pioneers of personal computing, Alan Kay shares his story and how to think about building for the future. From YC's Startup School in 2017.",
     "url": "https://www.ycombinator.com/library/77-how-to-invent-the-future-part-1",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "76-how-to-invent-the-future-part-2": {
@@ -1740,7 +1740,7 @@
     "description": "Alan Kay, one of the pioneers of personal computing, speaks about the history of the technology we know today.",
     "url": "https://www.ycombinator.com/library/76-how-to-invent-the-future-part-2",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "73-how-to-start-a-startup-building-for-the-enterprise": {
@@ -1762,7 +1762,7 @@
     "description": "Aaron Levie, CEO and Co-founder of Box talks about his lessons learned building an enterprise software company, and why he made the decision to change their business model to what it is today. From Startup School 2017.",
     "url": "https://www.ycombinator.com/library/73-how-to-start-a-startup-building-for-the-enterprise",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "70-template-sales-agreement": {
@@ -1804,7 +1804,7 @@
     "description": "YC Group Partner Tim Brady covers the importance of building a strong and coherent culture early and shares six things that you can do now to help you create a solid foundation for your startup.",
     "url": "https://www.ycombinator.com/library/6r-building-culture",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6m-understanding-safes-and-priced-equity-rounds": {
@@ -1826,7 +1826,7 @@
     "description": "YC's Kirsty Nathoo gives the lowdown on several different ways to capitalize your company and how those impact founder equity and cap tables overall.",
     "url": "https://www.ycombinator.com/library/6m-understanding-safes-and-priced-equity-rounds",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6l-how-to-improve-conversion-rates": {
@@ -1847,7 +1847,7 @@
     "description": "YC's Kevin Hale covers the first principles of conversion, one of the main drivers of growth for your startup, and how you can improve it starting with your landing page.",
     "url": "https://www.ycombinator.com/library/6l-how-to-improve-conversion-rates",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6h-startup-pricing-101": {
@@ -1870,7 +1870,7 @@
     "description": "YC's Kevin Hale goes over the fundamentals of pricing and monetization, how it affects your customer acquisition strategy, and how to optimize it through a few rules of thumb.",
     "url": "https://www.ycombinator.com/library/6h-startup-pricing-101",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6a-on-starting-and-scaling-direct-mail-automation-startup-lob": {
@@ -1888,7 +1888,7 @@
     "description": "Harry Zhang, CEO & founder of Lob (YC S13), talks about his journey as a founder, the genesis and evolution of Lob, and lessons he's learned along the way.",
     "url": "https://www.ycombinator.com/library/6a-on-starting-and-scaling-direct-mail-automation-startup-lob",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6S-on-starting-and-scaling-dropbox-yc-w07": {
@@ -1906,7 +1906,7 @@
     "description": "Drew Houston, co-founder & CEO of Dropbox (YC W07) talks about how he started Dropbox and went through YC after being rejected once and how has since grown it to over 500 million users today.",
     "url": "https://www.ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6R-how-pachama-uses-tech-to-tackle-climate-change": {
@@ -1924,7 +1924,7 @@
     "description": "Diego Saez Gil is the founder of Pachama (YC W19). Pachama is building a marketplace where companies can support carbon offset projects. He discusses the genesis of the idea and how climate change is a big business problem to work on.",
     "url": "https://www.ycombinator.com/library/6R-how-pachama-uses-tech-to-tackle-climate-change",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6Q-diane-greene-s-advice-for-founders": {
@@ -1943,7 +1943,7 @@
     "description": "Diane Greene has been the co-founder and CEO of three startups, including VMWare. She talks about lessons learned that has helped her along her founder journey.",
     "url": "https://www.ycombinator.com/library/6Q-diane-greene-s-advice-for-founders",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6N-vinod-khosla-on-how-to-build-the-future": {
@@ -1969,7 +1969,7 @@
     "description": "Vinod Khosla, founding CEO of Sun Microsystems and founder of Khosla Ventures, talks on the importance of hiring and picking the right people, being generous with early employee equity, and his gripes with other investors.",
     "url": "https://www.ycombinator.com/library/6N-vinod-khosla-on-how-to-build-the-future",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6M-on-starting-and-scaling-indian-shopping-site-meesho": {
@@ -1987,7 +1987,7 @@
     "description": "Vidit Aatrey is the co-founder and CEO of Meesho (YC S16), the most downloaded shopping app in India. He talks about how Meesho started and pivoted, how he thinks about building a business in India and how his role has changed.",
     "url": "https://www.ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6L-on-starting-and-scaling-construction-startup-plangrid": {
@@ -2007,7 +2007,7 @@
     "description": "Tracy Young, CEO & co-founder of PlanGrid (YC W12), talks about her journey as a founder and lessons she's learned from scaling PlanGrid to 400+ people.",
     "url": "https://www.ycombinator.com/library/6L-on-starting-and-scaling-construction-startup-plangrid",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "6I-on-starting-and-scaling-recruiting-software-startup-lever": {
@@ -2027,7 +2027,7 @@
     "description": "Sarah Nahm, CEO & co-founder of Lever (YC S12), discusses her journey to becoming a founder, the decision to leave Google to build Lever, initial challenges of the startup, and lessons learned along the way about hiring and diversity.",
     "url": "https://www.ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "69-on-starting-and-scaling-meal-kit-company-gobble": {
@@ -2048,7 +2048,7 @@
     "description": "Ooshma Garg, the founder and CEO of dinner kit delivery service Gobble (YC W14), details her company's complicated years-long path to what might look from the outside like simple success, and described how building a startup is like a daily game of Snakes and Ladders that can take you two steps forward, and then two steps back. She also gave her best advice for other entrepreneurs.",
     "url": "https://www.ycombinator.com/library/69-on-starting-and-scaling-meal-kit-company-gobble",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "68-product-and-design-process-for-remote-teams": {
@@ -2066,7 +2066,7 @@
     "description": "Mike Knoop, co-founder and head of product of Zapier (YC S12), talks about how to jumpstart a SaaS ecosystem, the decision to go fully remote and how to manage a remote team.",
     "url": "https://www.ycombinator.com/library/68-product-and-design-process-for-remote-teams",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "67-user-you-don-t-want": {
@@ -2091,7 +2091,7 @@
     "description": "Many startups will take every user they can get in the beginning. But this may cause all sorts of problems. Some of them will try to hijack your product to solve a problem you didn't intend to solve. By and large, these hijackers are users you don't want. Learn how to identify and avoid this.",
     "url": "https://www.ycombinator.com/library/67-user-you-don-t-want",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "65-how-to-cold-email-investors": {
@@ -2112,7 +2112,7 @@
     "description": "The best way to communicate with investors over cold email is simple: make it short. Your goal is to get a reply. Here are a few components to also include and consider to optimize for this.",
     "url": "https://www.ycombinator.com/library/65-how-to-cold-email-investors",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "64-what-makes-great-founders-stand-out": {
@@ -2133,7 +2133,7 @@
     "description": "It's a short list: Good communication. Great execution. And motivation. Being relentlessly resource creates formidability. Here's why.",
     "url": "https://www.ycombinator.com/library/64-what-makes-great-founders-stand-out",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "63-why-fundraising-is-different-in-silicon-valley": {
@@ -2152,7 +2152,7 @@
     "description": "Investors are not spread evenly around the world; they are concentrated in Sillicon Valley. Each has much more likely passed on a big deal and it will make them pause each time moving forward. This means there's a different, more positive mentality to funding startups.",
     "url": "https://www.ycombinator.com/library/63-why-fundraising-is-different-in-silicon-valley",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "62-how-to-build-product-as-a-small-startup": {
@@ -2206,7 +2206,7 @@
     "description": "When and how should you start a startup? This guide will help you walk the path from nothing to a launched minimal viable product (MVP).",
     "url": "https://www.ycombinator.com/library/61-order-of-operations-for-starting-a-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "60-should-i-start-a-startup": {
@@ -2226,7 +2226,7 @@
     "description": "Are you cut out to be a startup founder? Here are some questions to ask yourself.",
     "url": "https://www.ycombinator.com/library/60-should-i-start-a-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5z-the-real-product-market-fit": {
@@ -2245,7 +2245,7 @@
     "description": "Founders often believe they've found product/market fit when they haven't. This is a huge problem because they start hiring people, increasing burn, and optimizing their product before they've actually discovered what needs to be built. Here's a way to understand when you've really found product/market fit.",
     "url": "https://www.ycombinator.com/library/5z-the-real-product-market-fit",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5p-creating-good-company-culture-and-sticking-to-it": {
@@ -2265,7 +2265,7 @@
     "description": "Kathryn Minshew, the co-founder of the job search and career advice platform The Muse (YC W12), shares four key pieces of advice she's learned as a founder so far, including being painfully honest about the state of your startup, how crucial it is to construct a positive company culture, and staying motivated by remembering your roots.",
     "url": "https://www.ycombinator.com/library/5p-creating-good-company-culture-and-sticking-to-it",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5n-why-you-should-or-should-not-work-at-a-startup": {
@@ -2283,7 +2283,7 @@
     "description": "Justin Kan, co-founder of Twitch and former YC partner, discusses why you should, but also why you shouldn't join a startup.",
     "url": "https://www.ycombinator.com/library/5n-why-you-should-or-should-not-work-at-a-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5l-how-not-to-fail": {
@@ -2301,7 +2301,7 @@
     "description": "Jessica Livingston has seen over 1000 companies go through YC and shares her learnings about what it takes to succeed as a founder. She emphasizes the importance of avoiding distraction and making something people want.",
     "url": "https://www.ycombinator.com/library/5l-how-not-to-fail",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5j-jeff-dean-on-building-intelligent-systems-with-large-scale-deep-learning": {
@@ -2323,7 +2323,7 @@
     "description": "Jeff Dean is a Google Senior Fellow in the Research Group, where he leads the Google Brain project. He discusses state of the art machine learning research, state of Tensorflow, real-world applications he's excited about, and more.",
     "url": "https://www.ycombinator.com/library/5j-jeff-dean-on-building-intelligent-systems-with-large-scale-deep-learning",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps": {
@@ -2341,7 +2341,7 @@
     "description": "David Lieb, founder of Bump (YC S09) and former head of Google Photos, talks about his journey as a founder and how Bump became one of the biggest apps on the App Store. He discusses how Bump pivoted from contact sharing to photo app, and his transition to scaling today's biggest photo app, Google Photos.",
     "url": "https://www.ycombinator.com/library/5f-on-starting-and-scaling-one-of-the-biggest-ios-apps",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5b-how-do-you-convince-someone-to-join-your-startup": {
@@ -2368,7 +2368,7 @@
     "description": "You must first convince yourself of your own idea. People can tell if you don't believe in what you're doing. Your confidence will flow out to others, including potential co-founders, employees and customers. How do you convince yourself?",
     "url": "https://www.ycombinator.com/library/5b-how-do-you-convince-someone-to-join-your-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5a-consume-information-that-encourages-you-to-do-more": {
@@ -2389,7 +2389,7 @@
     "description": "There is a lot of information out there geared towards aspiring founders. A lot of it is not good and discouraging. Here's a way to consume the right information to help you build your future and startup.",
     "url": "https://www.ycombinator.com/library/5a-consume-information-that-encourages-you-to-do-more",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5Q-on-starting-and-scaling-aerospace-company-boom": {
@@ -2426,7 +2426,7 @@
     "description": "This is a story of how one founder, Avni Patel, struggled with her first startup but eventually discovered a problem many people had that was unsolved.",
     "url": "https://www.ycombinator.com/library/5O-building-a-startup-is-about-solving-a-problem",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5N-on-starting-and-scaling-bloom-institute-of-technology": {
@@ -2444,7 +2444,7 @@
     "description": "The Bloom Institute of Technology (YC S17) provides a CS education that's free until you get a job. Austen Allred, CEO & founder, discusses his journey as a founder, including how the idea formed, what he thinks about copycats and the decision to be remote.",
     "url": "https://www.ycombinator.com/library/5N-on-starting-and-scaling-bloom-institute-of-technology",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5I-on-starting-and-scaling-healthcare-startup-23andme": {
@@ -2463,7 +2463,7 @@
     "description": "Anne Wojcicki, co-founder & CEO of 23andMe, on why and how she started and grew 23andMe. Anne talks about the best decisions she's made and the struggles of running a company in a regulated industry. She also covers the importance of thoughtful hiring, communication, and persistance.",
     "url": "https://www.ycombinator.com/library/5I-on-starting-and-scaling-healthcare-startup-23andme",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "5G-on-raising-seed-and-series-a-as-a-woman-founder": {
@@ -2483,7 +2483,7 @@
     "description": "Two women founders talk about their fundraising histories and what they've learned about the process.",
     "url": "https://www.ycombinator.com/library/5G-on-raising-seed-and-series-a-as-a-woman-founder",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "4x-on-starting-a-company-from-a-hackathon-project": {
@@ -2990,7 +2990,7 @@
     "description": "Fran\u00e7ois Chollet has spent years asking a different question than most of the AI world. Instead of scaling what already works, he\u2019s trying to understand what intelligence actually is\u2014and how to build it from first principles.",
     "url": "https://www.ycombinator.com/library/NP-fran-ois-chollet-arc-agi-3-beyond-deep-learning-a-new-approach-to-ml",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry": {
@@ -3004,7 +3004,7 @@
     "description": "In this episode of Hard Tech, YC's Jared Friedman visits co-founders Gaurab Chakrabarti and Sean Hunt at their Houston HQ to see how they went from a $7,000 PVC reactor to a billion-dollar company competing with industry giants.",
     "url": "https://www.ycombinator.com/library/NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "NN-agents-for-non-technical-users": {
@@ -3018,7 +3018,7 @@
     "description": "Emergent lets anyone build and ship production-ready software. It's one of the fastest-growing platforms to do it: in just eight months, users have created more than 7 million apps, with the number doubling in just the last 45 days.",
     "url": "https://www.ycombinator.com/library/NN-agents-for-non-technical-users",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "NM-how-to-build-the-future-max-hodak": {
@@ -3130,7 +3130,7 @@
     "description": "Diffusion is the foundational machine learning framework behind state-of-the-art AI image and video generation, including Sora, Midjourney and Google Veo. In this episode of Decoded, YC General Partner Ankit Gupta sits down with YC Visiting Partner Francois Chaubard to discuss how diffusion works, walk through a code sample, and explain why everyone training models should understand it.",
     "url": "https://www.ycombinator.com/library/NE-the-10-lines-of-code-behind-ai-image-gen",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "ND-how-to-get-your-first-users": {
@@ -3144,7 +3144,7 @@
     "description": "When you're starting out, it isn\u2019t enough to just build a minimum viable product. You also need a minimum evolvable product - one that can adapt to the needs of those critical early customers. ",
     "url": "https://www.ycombinator.com/library/ND-how-to-get-your-first-users",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "NC-inside-the-startup-building-reusable-rockets": {
@@ -3158,7 +3158,7 @@
     "description": "Stoke Space is racing to build the world's first fully reusable rockets that can launch, survive reentry, and fly again and again.",
     "url": "https://www.ycombinator.com/library/NC-inside-the-startup-building-reusable-rockets",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "NB-what-surprised-us-most-in-2025": {
@@ -3172,7 +3172,7 @@
     "description": "2025 was the year AI stopped feeling chaotic and started feeling buildable. In this Lightcone episode, the YC partners break down the surprises of the year, from shifting model dominance to why the real opportunity is moving back to the application layer, and why the next wave of AI startups may be just getting started.",
     "url": "https://www.ycombinator.com/library/NB-what-surprised-us-most-in-2025",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "NA-from-pivot-hell-to-1-4-billion-unicorn": {
@@ -3186,7 +3186,7 @@
     "description": "In just a few years, James Hawkins took PostHog from an idea hacked together right before YC's W20 deadline to a unicorn powering product analytics for thousands of teams.",
     "url": "https://www.ycombinator.com/library/NA-from-pivot-hell-to-1-4-billion-unicorn",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N9-what-founders-have-to-unlearn-to-become-great-ceos": {
@@ -3200,7 +3200,7 @@
     "description": "Spenser Skates has spent more than a decade building Amplitude from a YC startup into a public company, and in that time, he's had to reinvent himself just as much as the product.",
     "url": "https://www.ycombinator.com/library/N9-what-founders-have-to-unlearn-to-become-great-ceos",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N8-cursor-head-of-design-reviews-startup-websites": {
@@ -3214,7 +3214,7 @@
     "description": "Cursor Head of Design Ryo Lu has spent his career at the intersection of design and engineering\u2014from building fan sites as a kid to designing products at Stripe, Asana, and Notion. Now he's rethinking how software itself gets made.  On this episode of Design Review, Ryo joins YC's Aaron Epstein to break down how great product websites communicate what a company does.",
     "url": "https://www.ycombinator.com/library/N8-cursor-head-of-design-reviews-startup-websites",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N7-ai-is-eating-logistics": {
@@ -3228,7 +3228,7 @@
     "description": "Ryan Petersen, founder & CEO of Flexport, joins the Lightcone to break down how AI is finally touching the physical world: making shipping cheaper, speeding up global trade, and automating work that used to live inside emails, spreadsheets, and phone calls.",
     "url": "https://www.ycombinator.com/library/N7-ai-is-eating-logistics",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N6-inside-the-startup-launching-ai-into-space": {
@@ -3242,7 +3242,7 @@
     "description": "Starcloud recently made history by launching a satellite with an NVIDIA H100 into orbit \u2014 the first time a GPU that powerful has ever operated in space. It's the first step toward building AI data centers in orbit, powered by continuous sunlight and cooled by radiating heat into deep space.",
     "url": "https://www.ycombinator.com/library/N6-inside-the-startup-launching-ai-into-space",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N5-how-to-recruit-the-best-engineers-and-sales-reps": {
@@ -3256,7 +3256,7 @@
     "description": "Juicebox co-founder & CEO David Paffenholz joins YC's Harj Taggar to share how early-stage founders can find, pitch, and close top engineering and sales talent\u2014 from crafting better outreach to winning great hires from Big Tech\u2014 even when you're an unknown startup.",
     "url": "https://www.ycombinator.com/library/N5-how-to-recruit-the-best-engineers-and-sales-reps",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N4-inside-the-mit-ai-study-everyone-misunderstood-and-what-it-means-for-startups": {
@@ -3270,7 +3270,7 @@
     "description": "Garry, Harj, Diana, and Jared break down what the study really says, why in-house enterprise AI efforts keep stalling, and how startups are filling the gap with products that learn, integrate, and actually deliver value.",
     "url": "https://www.ycombinator.com/library/N4-inside-the-mit-ai-study-everyone-misunderstood-and-what-it-means-for-startups",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N3-transformers-explained-the-discovery-that-changed-ai-forever": {
@@ -3284,7 +3284,7 @@
     "description": "YC's Ankit Gupta traces how AI learned to understand language \u2014 from early RNNs and LSTMs to attention mechanisms and the breakthrough 2017 paper Attention Is All You Need \u2014 the discovery that unlocked the modern AI era.",
     "url": "https://www.ycombinator.com/library/N3-transformers-explained-the-discovery-that-changed-ai-forever",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N2-yc-partners-answer-your-questions-office-hours": {
@@ -3298,7 +3298,7 @@
     "description": "In this episode of Office Hours, YC partners Pete, Brad, Nico, and Gustaf answer real questions from founders and share stories about how great teams build conviction, learn faster, and make better decisions as they grow.",
     "url": "https://www.ycombinator.com/library/N2-yc-partners-answer-your-questions-office-hours",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N1-what-everyone-is-getting-wrong-about-ai-and-jobs": {
@@ -3312,7 +3312,7 @@
     "description": "For years, we've heard two major narratives about AI. One predicting the end of human work, the other dismissing it as hype. The truth is more nuanced, and more hopeful. Garry explores what history, economics, and real companies show us\u2014 that technology doesn't replace people, it redefines what we can do.",
     "url": "https://www.ycombinator.com/library/N1-what-everyone-is-getting-wrong-about-ai-and-jobs",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "N0-unpopular-ideas-that-became-billion-dollar-businesses": {
@@ -3326,7 +3326,7 @@
     "description": "Garry, Harj, Jared, and Diana talk about contrarian bets \u2014 the ideas that look impossible until they work. From Uber and Coinbase to DoorDash and Flock Safety, they share how founders find opportunity where others see dead ends.",
     "url": "https://www.ycombinator.com/library/N0-unpopular-ideas-that-became-billion-dollar-businesses",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mz-the-world-s-first-commercial-mobile-carbon-capture-device": {
@@ -3340,7 +3340,7 @@
     "description": "Paul Gross and his team at Remora are trying to do something that\u2019s never been done before. They're building mobile carbon capture devices for commercial trucks and trains\u2014capturing CO2 from moving vehicles before it enters the atmosphere, then turning those emissions into revenue by selling it to customers that can turn the liquified CO2 into new products.",
     "url": "https://www.ycombinator.com/library/Mz-the-world-s-first-commercial-mobile-carbon-capture-device",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "My-every-ai-founder-should-be-asking-these-questions": {
@@ -3354,7 +3354,7 @@
     "description": "Jordan Fisher is the co-founder & CEO of Standard AI and now leads an AI alignment research team at Anthropic. In his talk at AI Startup School, he frames the future of startups through questions rather than answers\u2014asking how founders should navigate a world where AGI may be just a few years away.",
     "url": "https://www.ycombinator.com/library/My-every-ai-founder-should-be-asking-these-questions",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mx-the-7-most-powerful-moats-for-ai-startup": {
@@ -3368,7 +3368,7 @@
     "description": "In this episode of Lightcone, we dive into Hamilton Helmer\u2019s Seven Powers framework to find out how these timeless business strategies hold up in today's world of AI startups.",
     "url": "https://www.ycombinator.com/library/Mx-the-7-most-powerful-moats-for-ai-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mw-how-to-train-an-llm-with-anthropic-s-head-of-pretraining": {
@@ -3382,7 +3382,7 @@
     "description": "YC's Ankit Gupta sits down with Nick Joseph, Anthropic's Head of Pre-training, to explore the engineering challenges behind training Claude\u2014from managing thousands of GPUs and debugging cursed bugs to balancing compute between pre-training and RL.",
     "url": "https://www.ycombinator.com/library/Mw-how-to-train-an-llm-with-anthropic-s-head-of-pretraining",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mv-fintech-3-0-now-is-the-best-time-to-build-in-crypto": {
@@ -3396,7 +3396,7 @@
     "description": "In this episode of Main Function, YC's Harj Taggar and Base's Jesse Pollak sat down to discuss what kinds of companies they're most excited to see, why this is such an exciting time in crypto, and what the future could look like onchain.",
     "url": "https://www.ycombinator.com/library/Mv-fintech-3-0-now-is-the-best-time-to-build-in-crypto",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mu-the-future-of-software-creation-with-replit-ceo-amjad-masad": {
@@ -3410,7 +3410,7 @@
     "description": "Amjad traces the arc of computing from mainframes to personal computers to a future where AI agents can create software on demand. He explains why the value of traditional software will approach zero, fundamentally reshaping how companies are built and how work gets done.",
     "url": "https://www.ycombinator.com/library/Mu-the-future-of-software-creation-with-replit-ceo-amjad-masad",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mt-the-fde-playbook-for-ai-startups-with-bob-mcgrew": {
@@ -3424,7 +3424,7 @@
     "description": "Bob McGrew, who helped shape PayPal, Palantir, and OpenAI\u2014where he led the development of ChatGPT, GPT-4, and the o1 reasoning model\u2014joins The Lightcone to share how his Forward Deployed Engineer model shaped today\u2019s AI boom, why \u201cdoing things that don\u2019t scale at scale\u201d works, and where the biggest opportunities lie for founders in AI.",
     "url": "https://www.ycombinator.com/library/Mt-the-fde-playbook-for-ai-startups-with-bob-mcgrew",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ms-michael-truell-building-cursor-at-23-taking-on-github-copilot-and-advice-to-engineering-students": {
@@ -3438,7 +3438,7 @@
     "description": "In this fireside chat with YC General Partner Diana Hu, he shares the lessons that came from years of failed projects with his co-founders, why he believes programming is still essential even as AI changes how we code, and how Cursor is taking on GitHub Copilot with the conviction that all of software development will flow through models.",
     "url": "https://www.ycombinator.com/library/Ms-michael-truell-building-cursor-at-23-taking-on-github-copilot-and-advice-to-engineering-students",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mr-gpt-oss-vs-qwen-vs-deepseek-comparing-open-source-llm-architectures": {
@@ -3452,7 +3452,7 @@
     "description": "OpenAI recently released its first open-weights model since GPT-2, entering a field led by DeepSeek and Alibaba's Qwen. YC's Ankit Gupta breaks down everything you need to know about these top OSS models, including what sets them apart under the hood.",
     "url": "https://www.ycombinator.com/library/Mr-gpt-oss-vs-qwen-vs-deepseek-comparing-open-source-llm-architectures",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mq-how-this-25-year-old-built-a-675m-legal-ai-startup-with-no-legal-experience": {
@@ -3466,7 +3466,7 @@
     "description": "At 23, with no legal background, Max Junestrand co-founded Legora to transform how lawyers work. Today, Legora\u2019s AI workspace is used by tens of thousands of lawyers, including top law firms like Goodwin and Cleary Gottlieb\u2014 and is valued at $675M just 13 months after launch.",
     "url": "https://www.ycombinator.com/library/Mq-how-this-25-year-old-built-a-675m-legal-ai-startup-with-no-legal-experience",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mp-anthropic-co-founder-building-claude-code-lessons-from-gpt-3-llm-system-design": {
@@ -3480,7 +3480,7 @@
     "description": "Tom Brown discusses his unconventional path from YC founder to AI researcher, the discovery of scaling laws that changed everything, and his advice for young engineers entering AI today.",
     "url": "https://www.ycombinator.com/library/Mp-anthropic-co-founder-building-claude-code-lessons-from-gpt-3-llm-system-design",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mo-the-sales-playbook-for-founders": {
@@ -3494,7 +3494,7 @@
     "description": "Drawing from his experience founding Monzo and GoCardless, YC's Tom Blomfield shares his playbook for running a tight sales process that lands real, recurring revenue.",
     "url": "https://www.ycombinator.com/library/Mo-the-sales-playbook-for-founders",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mn-figma-ceo-dylan-field-how-ai-will-transform-design": {
@@ -3508,7 +3508,7 @@
     "description": "Dylan Field co-founded Figma to bring the design process online and make it multiplayer. From a meme maker built on WebGL to a design platform powering millions, Figma\u2019s journey hit a major milestone with its IPO last week.",
     "url": "https://www.ycombinator.com/library/Mn-figma-ceo-dylan-field-how-ai-will-transform-design",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mm-the-finance-startup-bringing-agentic-ai-to-wall-street": {
@@ -3522,7 +3522,7 @@
     "description": "Brothers Chaz and Arnie Englander started Model ML after building and selling two YC companies. Now, their third company, Model ML, is a full AI-powered workspace purpose-built for financial services, empowering firms to create automations and workflows that reflect exactly how their teams operate. And it's already being used by 10% of the world's top investment banks and private equity firms.",
     "url": "https://www.ycombinator.com/library/Mm-the-finance-startup-bringing-agentic-ai-to-wall-street",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ml-scaling-and-the-road-to-human-level-ai-anthropic-co-founder-jared-kaplan": {
@@ -3536,7 +3536,7 @@
     "description": "Jared Kaplan helped uncover one of AI\u2019s most surprising truths: that intelligence scales in a predictable, almost physical way. That insight became foundational to the modern era of large language models\u2014and led him to co-found Anthropic.",
     "url": "https://www.ycombinator.com/library/Ml-scaling-and-the-road-to-human-level-ai-anthropic-co-founder-jared-kaplan",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mk-brand-design-tips-from-linear-founder-karri-saarinen": {
@@ -3550,7 +3550,7 @@
     "description": "For Design Review, Aaron is joined by Karri Saarinen, co-founder & CEO of Linear, to break down how today\u2019s best software companies design their sites.",
     "url": "https://www.ycombinator.com/library/Mk-brand-design-tips-from-linear-founder-karri-saarinen",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mj-chelsea-finn-building-robots-that-can-do-anything": {
@@ -3564,7 +3564,7 @@
     "description": "Chelsea Finn has built her career around teaching machines how to learn. A pioneer of meta\u2011learning methods, she\u2019s now using that foundation to bring learning-driven robotics into messy, real-world environments rather than confined lab setups.",
     "url": "https://www.ycombinator.com/library/Mj-chelsea-finn-building-robots-that-can-do-anything",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mi-replit-ceo-amjad-masad-coding-agents-autonomy-and-the-future-of-work": {
@@ -3578,7 +3578,7 @@
     "description": "Amjad Masad started Replit to make programming accessible to anyone, anywhere. What began as a tool for learning to code has grown into a platform pushing the limits of AI-assisted software creation and recently surpassed $100M in ARR.",
     "url": "https://www.ycombinator.com/library/Mi-replit-ceo-amjad-masad-coding-agents-autonomy-and-the-future-of-work",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mh-john-jumper-alphafold-and-the-future-of-science": {
@@ -3592,7 +3592,7 @@
     "description": "John Jumper is a physicist-turned-computational biologist who led DeepMind\u2019s AlphaFold team\u2014and earned the 2024 Nobel Prize in Chemistry for solving protein folding, a decades-old scientific challenge. ",
     "url": "https://www.ycombinator.com/library/Mh-john-jumper-alphafold-and-the-future-of-science",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mg-aravind-srinivas-the-race-to-build-the-ai-browser-of-the-future": {
@@ -3606,7 +3606,7 @@
     "description": "Aravind Srinivas started Perplexity with one goal: to rethink how we search, browse, and interact with information online. In this fireside, he shares the journey from hacking together a natural-language-to-SQL search tool to building a product used by millions around the world.",
     "url": "https://www.ycombinator.com/library/Mg-aravind-srinivas-the-race-to-build-the-ai-browser-of-the-future",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mf-andrew-ng-building-faster-with-ai": {
@@ -3620,7 +3620,7 @@
     "description": "Andrew Ng has helped shape some of the most influential movements in modern AI\u2014from online education to deep learning to AI entrepreneurship. In this talk, he shares what he\u2019s learning now: why execution speed matters more than ever, how agentic workflows are changing what startups can build, and why concreteness beats vagueness when turning ideas into products.",
     "url": "https://www.ycombinator.com/library/Mf-andrew-ng-building-faster-with-ai",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Me-how-to-spend-your-20s-in-the-ai-era": {
@@ -3634,7 +3634,7 @@
     "description": "In a special Lightcone Live at AI Startup School, Garry, Diana, Harj, and Jared discuss why it's now more important than ever to focus on building real skills, domain expertise, and agency rather than just chasing credentials.",
     "url": "https://www.ycombinator.com/library/Me-how-to-spend-your-20s-in-the-ai-era",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Md-fran-ois-chollet-the-arc-prize-how-we-get-to-agi": {
@@ -3648,7 +3648,7 @@
     "description": "A leading voice in AI, Fran\u00e7ois\u202fChollet has spent years thinking deeply about what intelligence actually is, and why scaling up today\u2019s AI models isn\u2019t enough to reach it. In this talk, he walks through the limits of pretraining and memorized skills, and lays out a path toward true general intelligence\u2014AI that can adapt on the fly, reason in new situations, and invent novel solutions.",
     "url": "https://www.ycombinator.com/library/Md-fran-ois-chollet-the-arc-prize-how-we-get-to-agi",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Mb-fei-fei-li-spatial-intelligence-is-the-next-frontier-in-ai": {
@@ -3662,7 +3662,7 @@
     "description": "Dr. Fei-Fei Li is often called the godmother of AI\u2014and for good reason. Before the world had AI as we know it, she was helping build the foundation. In this fireside at AI Startup School, she dives into the origin of computer vision and why spatial intelligence is the next frontier.",
     "url": "https://www.ycombinator.com/library/Mb-fei-fei-li-spatial-intelligence-is-the-next-frontier-in-ai",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MZ-satya-nadella-microsoft-s-ai-bets-hyperscaling-quantum-computing-breakthroughs": {
@@ -3676,7 +3676,7 @@
     "description": "Microsoft Chairman & CEO Satya Nadella shares how Microsoft is thinking about this moment\u2014 from the infrastructure needed to train frontier models, to the social permission required to use that compute.",
     "url": "https://www.ycombinator.com/library/MZ-satya-nadella-microsoft-s-ai-bets-hyperscaling-quantum-computing-breakthroughs",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MY-sam-altman-the-future-of-openai-chatgpt-s-origins-and-building-ai-hardware": {
@@ -3690,7 +3690,7 @@
     "description": null,
     "url": "https://www.ycombinator.com/library/MY-sam-altman-the-future-of-openai-chatgpt-s-origins-and-building-ai-hardware",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful": {
@@ -3704,7 +3704,7 @@
     "description": null,
     "url": "https://www.ycombinator.com/library/MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MW-andrej-karpathy-software-is-changing-again": {
@@ -3718,7 +3718,7 @@
     "description": "Drawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. We\u2019ve entered the era of \u201cSoftware 3.0,\u201d where natural language becomes the new programming interface and models do the rest. ",
     "url": "https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MV-alexandr-wang-building-scale-ai-transforming-work-with-agents-competing-with-china": {
@@ -3732,7 +3732,7 @@
     "description": "Today, Scale AI powers a multi-hundred-million dollar engine behind America's AI infrastructure\u2014 fueling everything from Fortune 500 workflows to real-time military planning. Founder Alexandr Wang joined us on the Lightcone to share how Scale evolved from a scrappy YC startup into the backbone of some of the world's most advanced AI systems.",
     "url": "https://www.ycombinator.com/library/MV-alexandr-wang-building-scale-ai-transforming-work-with-agents-competing-with-china",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MU-cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters": {
@@ -3746,7 +3746,7 @@
     "description": "Michael Truell, co-founder and CEO of Anysphere, the company behind @Cursor_ai, joined @garrytan to talk about building one of the fastest-growing startups of all time\u2014and why he's betting everything on a world beyond code.",
     "url": "https://www.ycombinator.com/library/MU-cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MT-fusion-energy-is-tech-s-next-big-unlock": {
@@ -3760,7 +3760,7 @@
     "description": "Gustaf explains the history of fusion, the physics behind it, and the engineering challenges that stalled it for nearly a century. He also looks at how Helion Energy is approaching the problem differently, as they develop a new fusion system expected to deliver power to Microsoft by 2028.",
     "url": "https://www.ycombinator.com/library/MT-fusion-energy-is-tech-s-next-big-unlock",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MS-state-of-the-art-prompting-for-ai-agents": {
@@ -3774,7 +3774,7 @@
     "description": "Garry, Harj, Diana, and Jared break down what they've learned from working with hundreds of founders building with LLMs: why prompting still matters, where it breaks down, and how teams are making it more reliable in production.",
     "url": "https://www.ycombinator.com/library/MS-state-of-the-art-prompting-for-ai-agents",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MR-ai-apps-are-broken-here-s-how-to-fix-them": {
@@ -3788,7 +3788,7 @@
     "description": "Tom, Dave, and Pete break down what it means to build AI-native software\u2014and why the future belongs to products that let users teach machines how they think.",
     "url": "https://www.ycombinator.com/library/MR-ai-apps-are-broken-here-s-how-to-fix-them",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MQ-startup-ideas-you-can-now-build-with-ai": {
@@ -3802,7 +3802,7 @@
     "description": "Garry, Harj, Diana and Jared talk through the kinds of startups that are suddenly viable thanks to LLMs\u2014from full-stack law firms to personalized tutors to recruiting platforms that can finally scale.",
     "url": "https://www.ycombinator.com/library/MQ-startup-ideas-you-can-now-build-with-ai",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MP-how-ai-coding-agents-will-change-your-job": {
@@ -3816,7 +3816,7 @@
     "description": "Tom and David discuss how AI coding tools are transforming software development, why small, high-agency teams will be able to do what once took armies of engineers, and why there's never been a better time to start something new.",
     "url": "https://www.ycombinator.com/library/MP-how-ai-coding-agents-will-change-your-job",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MO-windsurf-ceo-betting-on-ai-agents-pivoting-in-48-hours-and-the-future-of-coding": {
@@ -3830,7 +3830,7 @@
     "description": "Varun Mohan shares the inside story of how they pivoted at the edge of failure, trained new models from scratch, outpaced giants like GitHub Copilot, and what the future of building with AI looks like.",
     "url": "https://www.ycombinator.com/library/MO-windsurf-ceo-betting-on-ai-agents-pivoting-in-48-hours-and-the-future-of-coding",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MN-how-to-get-the-most-out-of-vibe-coding": {
@@ -3844,7 +3844,7 @@
     "description": "From writing full-stack apps to debugging with a single paste of an error message, AI is becoming a legit collaborator in the dev process. This video is a playbook for anyone who wants to get the most out of vibe coding and build faster.",
     "url": "https://www.ycombinator.com/library/MN-how-to-get-the-most-out-of-vibe-coding",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MM-the-next-breakthrough-in-ai-agents-is-here": {
@@ -3858,7 +3858,7 @@
     "description": "Usable AI agents are finally here. Garry dives into Manus\u2019 \u201cchain-of-thought injection\u201d technique that enables agents to actively update plans, what works particularly well with its UI, and how founders can create enduring value with application-level products.",
     "url": "https://www.ycombinator.com/library/MM-the-next-breakthrough-in-ai-agents-is-here",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "ML-how-zepto-became-india-s-fastest-growing-startup": {
@@ -3872,7 +3872,7 @@
     "description": "Imagine ordering groceries and having them show up at your doorstep in just 10 minutes. That\u2019s the promise of Zepto, the fastest-growing e-commerce company in India. Garry sits down with co-founder and CEO Aadit to unpack how a WhatsApp group during the pandemic turned into one of India\u2019s fastest-growing internet companies.",
     "url": "https://www.ycombinator.com/library/ML-how-zepto-became-india-s-fastest-growing-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MK-why-every-founder-should-care-about-design": {
@@ -3886,7 +3886,7 @@
     "description": "More founders should care about design in the earliest days of their startup. In this special episode of Design Review, Aaron sits down with Raphael Schaad, the Head of Calendar at Notion to discuss his leap from designer to founder, why illustration is an important first step when building a new product, and what ultimately makes designers uniquely qualified to start a company today.",
     "url": "https://www.ycombinator.com/library/MK-why-every-founder-should-care-about-design",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MJ-how-to-build-the-future-tony-xu": {
@@ -3900,7 +3900,7 @@
     "description": "Twelve years after starting DoorDash, co-founder & CEO Tony Xu and the entire team still personally make deliveries each year, staying true to their core value: customer obsession. Today, DoorDash is the largest food delivery platform in the US. Tony explains how their long-term vision won \u2014 helping create a new market while surviving near death and a global pandemic along the way.",
     "url": "https://www.ycombinator.com/library/MJ-how-to-build-the-future-tony-xu",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MI-how-to-navigate-co-founder-disputes": {
@@ -3914,7 +3914,7 @@
     "description": "Co-founder disputes can be startup killers\u2014 but it doesn't have to be that way. Garry, Harj, Jared, and Diana share their experiences navigating co-founder conflict and their advice for how you can manage these challenges at your own startup.",
     "url": "https://www.ycombinator.com/library/MI-how-to-navigate-co-founder-disputes",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MH-customer-obsession-made-gusto-a-9-6-billion-company": {
@@ -3928,7 +3928,7 @@
     "description": "Gusto made payroll and HR painless for small businesses, growing into a $9.6B company along the way.   Co-founder & CEO Josh Reeves joined YC's Harj Taggar to share how they built a payroll company from scratch, and their customer-first approach to product design and culture.",
     "url": "https://www.ycombinator.com/library/MH-customer-obsession-made-gusto-a-9-6-billion-company",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MG-the-future-of-design-with-figma-s-dylan-field": {
@@ -3942,7 +3942,7 @@
     "description": "Design isn\u2019t just about making things work\u2014it\u2019s about how they work, says Dylan Field, the co-founder & CEO of Figma.  As AI transforms tech, he believes a designer's judgment, taste, and agency will matter more than ever.",
     "url": "https://www.ycombinator.com/library/MG-the-future-of-design-with-figma-s-dylan-field",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MF-gpt-4-5-big-model-energy": {
@@ -3956,7 +3956,7 @@
     "description": "GPT-4.5 is here, and it has major big model energy. OpenAI's largest model to date, it excels at natural conversation, creative tasks and complex planning.",
     "url": "https://www.ycombinator.com/library/MF-gpt-4-5-big-model-energy",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "ME-vibe-coding-is-the-future": {
@@ -3970,7 +3970,7 @@
     "description": "Andrej Karpathy recently coined the term \u201cvibe coding\u201d to describe how LLMs are getting so good that devs can simply \u201cgive in to the vibes, embrace exponentials, and forget that the code even exists.\u201d We surveyed YC founders to get their take on how this new way of programming is changing how products are built.",
     "url": "https://www.ycombinator.com/library/ME-vibe-coding-is-the-future",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MD-design-experts-critique-ai-interfaces": {
@@ -3984,7 +3984,7 @@
     "description": "YC's Aaron Epstein and Raphael Schaad, founder & designer of Cron (now Notion Calendar) review a wide variety of AI user interfaces\u2014 from agents and adaptive UI to video prompts and realistic voice APIs\u2014 to get a glimpse of how it is changing the future of software.",
     "url": "https://www.ycombinator.com/library/MD-design-experts-critique-ai-interfaces",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MC-how-to-build-the-future-aravind-srinivas": {
@@ -3998,7 +3998,7 @@
     "description": "YC General Partner David Lieb sat down with Aravind Srinivas, the co-founder and CEO of Perplexity,  to discuss his Silicon Valley origins, what it's like to compete with Google, and his vision for the future of search.",
     "url": "https://www.ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MB-how-ai-is-changing-enterprise": {
@@ -4012,7 +4012,7 @@
     "description": "The Lightcone hosts sit down with Aaron Levie, the co-founder & CEO of Box, to hear reports from the front of how large enterprise and Fortune 500 companies are adapting to the AI age. ",
     "url": "https://www.ycombinator.com/library/MB-how-ai-is-changing-enterprise",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "MA-building-a-supersonic-plane-company-from-the-ground-up": {
@@ -4026,7 +4026,7 @@
     "description": "Imagine flying from NY to London in just a few hours. That\u2019s the future that Blake Scholl and his team at Boom Supersonic are working towards. ",
     "url": "https://www.ycombinator.com/library/MA-building-a-supersonic-plane-company-from-the-ground-up",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M9-the-right-and-wrong-way-to-spend-money-at-your-startup": {
@@ -4040,7 +4040,7 @@
     "description": "In this episode of Office Hours, YC General Partners  @bradflora ,  @koomen ,  @dessaigne , and  @gustaf  discuss how to spend responsibly at each stage of a startup and what spending mistakes to avoid.",
     "url": "https://www.ycombinator.com/library/M9-the-right-and-wrong-way-to-spend-money-at-your-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M8-how-to-get-ai-startup-ideas": {
@@ -4054,7 +4054,7 @@
     "description": "In this episode, the Lightcone hosts look at the different approaches founders can take to find AI startup ideas to work on.",
     "url": "https://www.ycombinator.com/library/M8-how-to-get-ai-startup-ideas",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M7-the-engineering-unlocks-behind-deepseek-yc-decoded": {
@@ -4068,7 +4068,7 @@
     "description": "In this episode of YC Decoded, General Partner Diana Hu breaks down the key engineering optimizations behind DeepSeek's remarkable new models \u2014 and contextualizes them within the broader history of recent AI breakthroughs.",
     "url": "https://www.ycombinator.com/library/M7-the-engineering-unlocks-behind-deepseek-yc-decoded",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M6-how-to-build-the-agi-future-bob-mcgrew": {
@@ -4082,7 +4082,7 @@
     "description": "In this episode of How to Build the Future, YC's Garry Tan sits down with OpenAI's former Chief Research Officer Bob McGrew to discuss the lessons learned from his time at OpenAI, scaling laws, his advice for startups, and what all of this means for the jobs of the future.",
     "url": "https://www.ycombinator.com/library/M6-how-to-build-the-agi-future-bob-mcgrew",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M5-ai-revolution-why-this-is-the-best-time-to-start-a-startup": {
@@ -4096,7 +4096,7 @@
     "description": "In this special episode of Lightcone, we\u2019re joined by YC partner and creator of Gmail, Paul Buchheit, to dig into some of the latest trends in the world of AI and startups.",
     "url": "https://www.ycombinator.com/library/M5-ai-revolution-why-this-is-the-best-time-to-start-a-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M4-how-scaling-laws-will-determine-ai-s-future": {
@@ -4110,7 +4110,7 @@
     "description": "In this episode of YC Decoded, President and CEO Garry Tan looks into both sides of the scaling laws debate and how a brand-new paradigm could potentially forecast the future of AI.",
     "url": "https://www.ycombinator.com/library/M4-how-scaling-laws-will-determine-ai-s-future",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M3-how-to-use-ai-in-your-startup": {
@@ -4124,7 +4124,7 @@
     "description": "YC Partners Brad Flora, Pete Koomen, Gustaf Alstromer, and Nicolas Dessaigne discuss what you should consider if you\u2019re thinking about pivoting to or incorporating AI as part of your startup.",
     "url": "https://www.ycombinator.com/library/M3-how-to-use-ai-in-your-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M2-how-to-build-the-future-parker-conrad": {
@@ -4138,7 +4138,7 @@
     "description": "Parker Conrad is the co-founder of two unicorns and has one of the more dramatic startup journeys in recent years. In this interview, he discusses his origin story, the lessons learned from his first two companies, how AI is changing the game, and why he thinks the future will be defined by \"compound\" software startups.",
     "url": "https://www.ycombinator.com/library/M2-how-to-build-the-future-parker-conrad",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M1-building-a-2-billion-saas-company-lessons-from-a-two-time-founder": {
@@ -4152,7 +4152,7 @@
     "description": "Two-time founder Rujul Zaparde knows a thing or two about resilience and learning from failure. In this conversation with YC's Dalton Caldwell, Rujul demystifies the world of enterprise sales, shares his hard-earned lessons about scaling a business from zero, and explains how founders can use first-principles thinking to better approach the challenges of building a startup.",
     "url": "https://www.ycombinator.com/library/M1-building-a-2-billion-saas-company-lessons-from-a-two-time-founder",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "M0-the-lightcone-2025-forecast": {
@@ -4166,7 +4166,7 @@
     "description": "Happy New Year! In this mini-episode, the Lightcone hosts ring in 2025 with their predictions for startups, AI, crypto, and more.",
     "url": "https://www.ycombinator.com/library/M0-the-lightcone-2025-forecast",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ly-how-david-lieb-turned-a-failing-startup-into-google-photos": {
@@ -4180,7 +4180,7 @@
     "description": null,
     "url": "https://www.ycombinator.com/library/Ly-how-david-lieb-turned-a-failing-startup-into-google-photos",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lx-2024-s-biggest-startup-trends": {
@@ -4194,7 +4194,7 @@
     "description": "2024 has been quite a year for AI and startups. As we head into the holidays and the new year, the Lightcone hosts reflect on this year\u2019s biggest startup trends, moments, and breakthroughs.",
     "url": "https://www.ycombinator.com/library/Lx-2024-s-biggest-startup-trends",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lw-anthropic-s-claude-computer-use-is-a-game-changer": {
@@ -4208,7 +4208,7 @@
     "description": "The age of AI agents is here. Models can read, see, talk, and now, even use a computer all by themselves.\n\nYC President and CEO Garry Tan dives into how Claude Computer Use works, what it can do, and how it may change AI forever.",
     "url": "https://www.ycombinator.com/library/Lw-anthropic-s-claude-computer-use-is-a-game-changer",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lu-how-to-start-a-dev-tools-company": {
@@ -4222,7 +4222,7 @@
     "description": "Nicolas Dessaigne shares his advice for founders building a dev tools company from the ground up",
     "url": "https://www.ycombinator.com/library/Lu-how-to-start-a-dev-tools-company",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lt-vertical-ai-agents-could-be-10x-bigger-than-saas": {
@@ -4236,7 +4236,7 @@
     "description": "In this episode of the Lightcone, the hosts consider what effect vertical AI agents will have on incumbent SaaS companies, what use cases make the most sense, and how there could be 300 billion dollar companies in this category alone.",
     "url": "https://www.ycombinator.com/library/Lt-vertical-ai-agents-could-be-10x-bigger-than-saas",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ls-twitter-vs-x-product-lessons-for-startup-founders": {
@@ -4250,7 +4250,7 @@
     "description": "In the first episode of our new series, The Breakdown, YC\u2019s Tom Blomfield and David Lieb take a closer look at X to find what lessons there are for founders building consumer products.",
     "url": "https://www.ycombinator.com/library/Ls-twitter-vs-x-product-lessons-for-startup-founders",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lr-why-the-next-ai-breakthroughs-will-be-in-reasoning-not-scaling": {
@@ -4264,7 +4264,7 @@
     "description": "In this episode of the Lightcone, we dig into the results of a recent o1 hackathon hosted by YC to find out what can be unlocked when founders leverage a SOTA reasoning model.",
     "url": "https://www.ycombinator.com/library/Lr-why-the-next-ai-breakthroughs-will-be-in-reasoning-not-scaling",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lq-now-anyone-can-code-how-ai-agents-can-build-your-whole-app": {
@@ -4278,7 +4278,7 @@
     "description": "We speak with Amjad Masad, the CEO of Replit, an AI-powered software development and deployment platform, to see how coding power can be given to everyday users.",
     "url": "https://www.ycombinator.com/library/Lq-now-anyone-can-code-how-ai-agents-can-build-your-whole-app",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lp-how-to-build-the-future-sam-altman": {
@@ -4292,7 +4292,7 @@
     "description": "In this episode of our rebooted series \"How To Build The Future,\" YC President and CEO Garry Tan sits down with Sam Altman to talk about the origins of OpenAI, what\u2019s next for the company, and what advice he has for founders navigating this massive platform shift.",
     "url": "https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ln-the-10-trillion-parameter-ai-model-with-300-iq": {
@@ -4306,7 +4306,7 @@
     "description": "The hosts consider what a world with ultra-intelligent models would look like and what potential unlocks could be made possible.",
     "url": "https://www.ycombinator.com/library/Ln-the-10-trillion-parameter-ai-model-with-300-iq",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lm-you-don-t-have-to-be-a-billionaire-to-launch-satellites": {
@@ -4320,7 +4320,7 @@
     "description": null,
     "url": "https://www.ycombinator.com/library/Lm-you-don-t-have-to-be-a-billionaire-to-launch-satellites",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ll-why-openai-s-o1-is-a-huge-deal": {
@@ -4334,7 +4334,7 @@
     "description": "OpenAI\u2019s newest model, o1, makes huge leaps forward in domains like mathematics and coding and scores big on many of the toughest benchmarks. The secret to its success? It represents an entirely new class of models designed to reason or \u201cthink through\u201d complex problems.\n\nFor the very first episode of YC Decoded, we took a look inside.",
     "url": "https://www.ycombinator.com/library/Ll-why-openai-s-o1-is-a-huge-deal",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lk-starting-a-company-the-key-terms-you-should-know": {
@@ -4348,7 +4348,7 @@
     "description": "Dalton breaks down some of the most common terminology that you\u2019ll come across in the startup world.",
     "url": "https://www.ycombinator.com/library/Lk-starting-a-company-the-key-terms-you-should-know",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lj-why-design-matters-lessons-from-stripe-lyft-and-airbnb": {
@@ -4362,7 +4362,7 @@
     "description": "We spoke with Stripe's Head of Design, Katie Dill, about her design philosophy, and how important it is to instill a culture of design in your startup from day one.",
     "url": "https://www.ycombinator.com/library/Lj-why-design-matters-lessons-from-stripe-lyft-and-airbnb",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Li-how-do-billion-dollar-startups-start": {
@@ -4376,7 +4376,7 @@
     "description": "The Group Partners explore the humble origins of several top YC companies to try and identify common traits of the most successful founders.",
     "url": "https://www.ycombinator.com/library/Li-how-do-billion-dollar-startups-start",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lg-why-vertical-llm-agents-are-the-new-1-billion-saas-opportunities": {
@@ -4390,7 +4390,7 @@
     "description": "In this episode of the Lightcone, the hosts sit down with YC alum Jake Heller, the co-founder and CEO of Casetext (which sold to Thomson Reuters for $650 million in 2023) to discuss what it takes to build a successful vertical AI company.",
     "url": "https://www.ycombinator.com/library/Lg-why-vertical-llm-agents-are-the-new-1-billion-saas-opportunities",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lf-stripe-head-of-design-katie-dill-reviews-startup-websites": {
@@ -4404,7 +4404,7 @@
     "description": "Stripe Head of Design Katie Dill reviews startup landing pages with a focus on creating sites that build trust, converts customers and brings joy to the user experience.",
     "url": "https://www.ycombinator.com/library/Lf-stripe-head-of-design-katie-dill-reviews-startup-websites",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ld-how-to-find-a-co-founder": {
@@ -4418,7 +4418,7 @@
     "description": "YC Group Partner Harj Taggar explains why you need a co-founder, when to bring them on, where you can find one, and how to maintain the relationship.",
     "url": "https://www.ycombinator.com/library/Ld-how-to-find-a-co-founder",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Lb-building-the-world-s-best-image-diffusion-model": {
@@ -4432,7 +4432,7 @@
     "description": "Suhail Doshi sits down with the hosts to talk about his experience building Playground, and what it takes to make a SOTA model.",
     "url": "https://www.ycombinator.com/library/Lb-building-the-world-s-best-image-diffusion-model",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "La-signs-your-company-is-recovering-from-zirp": {
@@ -4446,7 +4446,7 @@
     "description": "Dalton & Michael examine how to know whether your company is recovering from ZIRP and how to know if it may be time to leave and do something else.",
     "url": "https://www.ycombinator.com/library/La-signs-your-company-is-recovering-from-zirp",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LZ-how-to-convert-customers-with-cold-emails": {
@@ -4460,7 +4460,7 @@
     "description": "YC Group Partner Aaron Epstein shares expert advice on how to write cold emails that have all the right ingredients to get noticed and convert new customers.",
     "url": "https://www.ycombinator.com/library/LZ-how-to-convert-customers-with-cold-emails",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LX-how-yc-was-created-with-jessica-livingston": {
@@ -4474,7 +4474,7 @@
     "description": "YC co-founder Jessica Livingston shares the stories and decisions of the early days that would form the foundations of YC as we know it today.",
     "url": "https://www.ycombinator.com/library/LX-how-yc-was-created-with-jessica-livingston",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LV-how-to-improve-cohort-retention": {
@@ -4488,7 +4488,7 @@
     "description": "YC Group Partner David Lieb explains how to define cohorts, track active users and determine the appropriate time frame for measuring successful retention rates.",
     "url": "https://www.ycombinator.com/library/LV-how-to-improve-cohort-retention",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LU-how-to-live-in-the-social-media-matrix": {
@@ -4502,7 +4502,7 @@
     "description": "Dalton and Michael discuss what to be aware of as we engage online and how we can leverage the social media matrix to our benefit. ",
     "url": "https://www.ycombinator.com/library/LU-how-to-live-in-the-social-media-matrix",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LR-are-we-in-an-ai-hype-cycle": {
@@ -4516,7 +4516,7 @@
     "description": "The Lightcone hosts discuss where AI might be if the hype cycle is real and what may remain once the buzz wears off.",
     "url": "https://www.ycombinator.com/library/LR-are-we-in-an-ai-hype-cycle",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LQ-how-to-influence-decision-makers": {
@@ -4530,7 +4530,7 @@
     "description": "Dalton and Michael discuss actions you can take to be more persuasive and create more favorable outcomes for yourself.",
     "url": "https://www.ycombinator.com/library/LQ-how-to-influence-decision-makers",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LP-co-founder-equity-mistakes-to-avoid": {
@@ -4544,7 +4544,7 @@
     "description": "Michael Seibel explains the ins and outs of co-founder equity, why it's important to be generous with that equity, and how to avoid bad advice that can lead to co-founder breakups.",
     "url": "https://www.ycombinator.com/library/LP-co-founder-equity-mistakes-to-avoid",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LO-how-nothing-founder-carl-pei-built-a-multi-million-dollar-smartphone-brand-in-just-2-years": {
@@ -4558,7 +4558,7 @@
     "description": "On this episode of The Main Function, Carl Pei reflects on the highs and lows that have come with the journey of pursuing excellence in hard tech.",
     "url": "https://www.ycombinator.com/library/LO-how-nothing-founder-carl-pei-built-a-multi-million-dollar-smartphone-brand-in-just-2-years",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LN-gmail-creator-paul-buchheit-on-agi-open-source-models-freedom": {
@@ -4572,7 +4572,7 @@
     "description": "The hosts sit down with Paul Buchheit, one of Google\u2019s earliest employees, the creator of Gmail and a YC Group Partner.",
     "url": "https://www.ycombinator.com/library/LN-gmail-creator-paul-buchheit-on-agi-open-source-models-freedom",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LM-the-problem-with-startup-experts": {
@@ -4586,7 +4586,7 @@
     "description": "Dalton Caldwell and Michael Seibel discuss the phenomenon of local startup experts and why they may be doing a disservice to your entrepreneurial journey.",
     "url": "https://www.ycombinator.com/library/LM-the-problem-with-startup-experts",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LI-how-to-price-for-b2b": {
@@ -4600,7 +4600,7 @@
     "description": "YC Group Partner Tom Blomfield guides you on how to come up with a price and then justify that number to customers.",
     "url": "https://www.ycombinator.com/library/LI-how-to-price-for-b2b",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LH-tarpit-ideas-the-sequel": {
@@ -4614,7 +4614,7 @@
     "description": "Dalton and Michael dispel some misconceptions about what a tarpit idea actually is and how it applies to current tech trends like AI.",
     "url": "https://www.ycombinator.com/library/LH-tarpit-ideas-the-sequel",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LG-why-startup-founders-should-launch-companies-sooner-than-they-think": {
@@ -4628,7 +4628,7 @@
     "description": "YC Partners discuss the common founder hesitation to launching and why it can be harmful to the journey and growth of a startup.",
     "url": "https://www.ycombinator.com/library/LG-why-startup-founders-should-launch-companies-sooner-than-they-think",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LF-enterprise-sales-for-founders": {
@@ -4642,7 +4642,7 @@
     "description": "Having led his startup, Optimizely, to $100M ARR, YC Group Partner Pete Koomen breaks down the enterprise sales funnel and shares his tips on how a technical founder can start closing real deals for their startup.",
     "url": "https://www.ycombinator.com/library/LF-enterprise-sales-for-founders",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LD-10-people-ai-billion-dollar-company": {
@@ -4656,7 +4656,7 @@
     "description": "Could a staff of ten or less \u2014 with the help of AI \u2014 create a unicorn? ",
     "url": "https://www.ycombinator.com/library/LD-10-people-ai-billion-dollar-company",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LC-what-is-zirp-and-how-did-it-poison-startups": {
@@ -4670,7 +4670,7 @@
     "description": "Dalton and Michael talk about the economic phenomenon and the ripples it caused in the startup world.",
     "url": "https://www.ycombinator.com/library/LC-what-is-zirp-and-how-did-it-poison-startups",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "LA-standing-up-for-startups-yc-goes-to-d-c": {
@@ -4684,7 +4684,7 @@
     "description": "Garry Tan sits down with YC's new Head of Public Policy, Luther Lowe, to discuss why YC is in D.C. advocating for the startup community.",
     "url": "https://www.ycombinator.com/library/LA-standing-up-for-startups-yc-goes-to-d-c",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "L9-better-ai-models-better-startups-lightcone-podcast-ep-7": {
@@ -4698,7 +4698,7 @@
     "description": "There's been a lot of news lately about the updates to some of the largest foundational AI models. But what does this mean for startups? How will future product releases from the AI giants effect the companies built on top of them? The hosts of Lightcone discuss how founders can take advantage of these developments and avoid being steamrolled by the competition.",
     "url": "https://www.ycombinator.com/library/L9-better-ai-models-better-startups-lightcone-podcast-ep-7",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "L8-yc-s-group-partners-discuss-doing-things-that-don-t-scale": {
@@ -4712,7 +4712,7 @@
     "description": "YC Partners discuss Paul Graham's \"Do Things That Don't Scale\" essay, its influence on Silicon Valley, and some prime examples of YC founders that embraced the mantra.",
     "url": "https://www.ycombinator.com/library/L8-yc-s-group-partners-discuss-doing-things-that-don-t-scale",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "L7-how-new-technology-creates-new-businesses": {
@@ -4726,7 +4726,7 @@
     "description": "When a major new technology comes out, huge new opportunities open up for founders that get in on the ground floor. In this episode of Dalton and Michael, we\u2019ll talk about why this is that moment for AI, who will find those opportunities, and where to look for the people that\u2019ll help you find them faster.",
     "url": "https://www.ycombinator.com/library/L7-how-new-technology-creates-new-businesses",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "L6-the-untold-stories-of-y-combinator-with-co-founder-jessica-livingston": {
@@ -4740,7 +4740,7 @@
     "description": "Come hear the untold stories of Y Combinator with Co-Founder Jessica Livingston, and learn how she got started in her incredible career in startups.",
     "url": "https://www.ycombinator.com/library/L6-the-untold-stories-of-y-combinator-with-co-founder-jessica-livingston",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "L5-why-this-is-the-perfect-time-to-start-a-startup-lightcone-podcast-live": {
@@ -4754,7 +4754,7 @@
     "description": "In April 2024 YC hosted Startup School East, a one-day event in Boston for university students. As part of the event, the Lightcone Podcast (Garry, Harj, Diana, and Jared) did their first live stage recording \u2014 and here it is!",
     "url": "https://www.ycombinator.com/library/L5-why-this-is-the-perfect-time-to-start-a-startup-lightcone-podcast-live",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "L3-does-your-startup-website-pass-the-first-impression-test": {
@@ -4768,7 +4768,7 @@
     "description": "When someone visits your website you only have a few seconds to convince them it\u2019s worth their time. So how do you do that?",
     "url": "https://www.ycombinator.com/library/L3-does-your-startup-website-pass-the-first-impression-test",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "L2-consumer-is-back-what-s-getting-funded-now-the-vibes-immaculate-lightcone-podcast-ep-6": {
@@ -4782,7 +4782,7 @@
     "description": "What's happening in startups right now and how can you get ahead of the curve? In this episode of the Lightcone podcast, we dive deep into the major trends we're seeing from the most recent batch of YC using data we've never shared publicly before. ",
     "url": "https://www.ycombinator.com/library/L2-consumer-is-back-what-s-getting-funded-now-the-vibes-immaculate-lightcone-podcast-ep-6",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "L1-yuri-sagalov-co-founder-of-aerofs": {
@@ -4866,7 +4866,7 @@
     "description": "When you\u2019re making important decisions as a founder \u2014 like what to build, or how it should work \u2014 should you spend lots of time gathering input from others or just trust your gut? ",
     "url": "https://www.ycombinator.com/library/Kw-when-should-you-trust-your-gut",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Kq-inside-the-hard-tech-startups-turning-sci-fi-into-reality-lightcone-podcast-ep-5": {
@@ -4880,7 +4880,7 @@
     "description": "In this latest episode of Lightcone, Garry, Diana, Harj and Jared talk about a number of YC\u2019s hard tech companies, how far they\u2019ve come since Day 1, and some of the ways they got there faster.",
     "url": "https://www.ycombinator.com/library/Kq-inside-the-hard-tech-startups-turning-sci-fi-into-reality-lightcone-podcast-ep-5",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Km-how-to-survive-the-crypto-boom-bust-cycle": {
@@ -4894,7 +4894,7 @@
     "description": "In this latest episode of The Main Function, you\u2019ll hear about how CoinTracker, the time it nearly fell apart, and how they used a crypto winter to retool and emerge stronger than ever.",
     "url": "https://www.ycombinator.com/library/Km-how-to-survive-the-crypto-boom-bust-cycle",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Kl-building-ai-models-faster-and-cheaper-than-you-think-lightcone-podcast-ep-4": {
@@ -4908,7 +4908,7 @@
     "description": "Garry, Diana, Harj, and Jared discuss the strategies to build a foundational AI model with examples of YC companies doing just that. We also get an exclusive look at OpenAI's Sora!",
     "url": "https://www.ycombinator.com/library/Kl-building-ai-models-faster-and-cheaper-than-you-think-lightcone-podcast-ep-4",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Kk-why-founders-shouldn-t-think-like-investors": {
@@ -4922,7 +4922,7 @@
     "description": "It\u2019s easy to analyze your way out of taking the first step. It\u2019s something we see a lot, particularly when founders try to choose what to build based on what they think VCs will like.",
     "url": "https://www.ycombinator.com/library/Kk-why-founders-shouldn-t-think-like-investors",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Kj-where-is-the-real-cerebral-valley-lightcone-podcast-ep-3": {
@@ -4936,7 +4936,7 @@
     "description": "On this latest episode of the Lightcone Podcast, Garry, Diana, Harj and Jared talk about \u201cCerebral Valley\u201d and why San Francisco has become THE place to build an AI company.",
     "url": "https://www.ycombinator.com/library/Kj-where-is-the-real-cerebral-valley-lightcone-podcast-ep-3",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Kh-day-in-the-life-of-y-combinator-president-ceo-garry-tan-during-the-first-week-of-the-batch": {
@@ -4964,7 +4964,7 @@
     "description": "One trait that many of the best founders share is conviction. You can be great at programming, sales, and raising funds \u2014 but if you don\u2019t truly believe in what you\u2019re building, you\u2019re probably not going to make it.",
     "url": "https://www.ycombinator.com/library/Kg-building-confidence-in-yourself-and-your-ideas",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ke-the-secrets-of-y-combinator-s-early-success-with-yc-co-founder-jessica-livingston": {
@@ -4992,7 +4992,7 @@
     "description": "In this episode of the Lightcone Podcast, YC Group Partners discuss the launch of the Apple Vision Pro and the potential of this new platform for startups.",
     "url": "https://www.ycombinator.com/library/Kd-apple-vision-pro-startup-platform-of-the-future-lightcone-podcast-ep-2",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Kc-stop-innovating-on-the-wrong-things": {
@@ -5006,7 +5006,7 @@
     "description": "In this episode of Dalton & Michael we\u2019ll discuss the downsides of trying to \u201cinnovate\u201d on certain things and why that can make it LESS likely a company succeeds.",
     "url": "https://www.ycombinator.com/library/Kc-stop-innovating-on-the-wrong-things",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Kb-the-truth-about-building-ai-startups-today-lightcone-podcast-ep-1": {
@@ -5020,7 +5020,7 @@
     "description": "In the first episode of the Lightcone Podcast, YC Group Partners dig into everything they have learned working with the top founders building AI startups today. ",
     "url": "https://www.ycombinator.com/library/Kb-the-truth-about-building-ai-startups-today-lightcone-podcast-ep-1",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KZ-should-your-startup-bootstrap-or-raise-venture-capital": {
@@ -5034,7 +5034,7 @@
     "description": "In this episode of Dalton & Michael, we\u2019ll explain why this particular debate is a much simpler one than many make it out to be.",
     "url": "https://www.ycombinator.com/library/KZ-should-your-startup-bootstrap-or-raise-venture-capital",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KY-backstory-tom-blomfield": {
@@ -5048,7 +5048,7 @@
     "description": "There aren\u2019t a ton of people in the world who can say they founded a billion dollar company. There are far fewer that can say they did it\u00a0twice.\n\nYC Group Partner\u00a0Tom Blomfield\u00a0is one of them \u2014 and this is his story.",
     "url": "https://www.ycombinator.com/library/KY-backstory-tom-blomfield",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KV-do-technical-founders-need-a-business-co-founder": {
@@ -5062,7 +5062,7 @@
     "description": "Every software company needs a technical co-founder. But what kind of co-founder does the technical founder need?",
     "url": "https://www.ycombinator.com/library/KV-do-technical-founders-need-a-business-co-founder",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KT-consumer-startup-metrics": {
@@ -5076,7 +5076,7 @@
     "description": "In this episode of Startup School, YC Group Partner Tom Blomfield dives deeper into the metrics that matter most for consumer startups.",
     "url": "https://www.ycombinator.com/library/KT-consumer-startup-metrics",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KS-the-asymmetric-upside-of-being-positive": {
@@ -5090,7 +5090,7 @@
     "description": "In this episode of Dalton and Michael, we\u2019ll discuss the best ways for founders to think about weighing optimism and pessimism in their day-to-day lives.",
     "url": "https://www.ycombinator.com/library/KS-the-asymmetric-upside-of-being-positive",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KR-key-startup-metrics": {
@@ -5104,7 +5104,7 @@
     "description": "YC Group Partner Tom Blomfield discusses one of the most important elements of running any startup: metrics! Tom shares what key metrics to track and how to use them to make the best decisions for your company.",
     "url": "https://www.ycombinator.com/library/KR-key-startup-metrics",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KQ-garry-tan-speaks-at-stanford-s-entrepreneurial-thought-leaders-etl-lecture-series": {
@@ -5132,7 +5132,7 @@
     "description": "DevTools are more popular than ever. But having a great product isn't enough \u2014 you have to be able to convince developers to try it out. One of the best ways to do that is with a well designed website. For this episode of Design Review, Aaron Epstein and David Siegel will break down what that means.",
     "url": "https://www.ycombinator.com/library/KP-five-devtool-startups-get-their-websites-reviewed",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KO-does-your-tech-startup-really-need-a-technical-co-founder-yes": {
@@ -5146,7 +5146,7 @@
     "description": "Based on the thousands of companies YC has funded over the years, companies lacking a technical co-founder underperform. In this episode of Dalton + Michael, we\u2019ll discuss exactly why that is.",
     "url": "https://www.ycombinator.com/library/KO-does-your-tech-startup-really-need-a-technical-co-founder-yes",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KM-emmett-shear-co-founder-of-twitch": {
@@ -5174,7 +5174,7 @@
     "description": "When will we see AI that can do just about anything the human brain can do? We asked 33 AI-focused YC founders for their insights.",
     "url": "https://www.ycombinator.com/library/KL-33-ai-startup-founders-debate-the-creation-of-artificial-general-intelligence",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KK-how-psychedelics-will-change-society-for-the-better": {
@@ -5202,7 +5202,7 @@
     "description": "How did Casetext evolve from user-generated content to being one of the biggest wins in AI?\n\nYC President Garry Tan sits down with Casetext co-founder Jake Heller to learn the real story of their 10-year \u201covernight\u201d success.",
     "url": "https://www.ycombinator.com/library/KJ-the-10-year-overnight-success-story-of-casetext",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KI-test": {
@@ -5244,7 +5244,7 @@
     "description": "Edrizio De La Cruz's immigrant startup founder story is truly one of the biggest roller coasters. From underdog to undefeated, here\u2019s his founder story.",
     "url": "https://www.ycombinator.com/library/KG-from-underdog-to-undefeated-the-edrizio-de-la-cruz-founder-story",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KF-how-to-not-get-screwed-over-as-a-software-engineer": {
@@ -5262,7 +5262,7 @@
     "description": "The stories are true: technical founders (and early technical employees!) often end up with the short end of the stick when starting a company. In this episode of Dalton & Michael, we'll discuss how to keep that from happening to you.",
     "url": "https://www.ycombinator.com/library/KF-how-to-not-get-screwed-over-as-a-software-engineer",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KD-how-to-convert-more-visitors-into-customers": {
@@ -5276,7 +5276,7 @@
     "description": "Getting people to visit your startup\u2019s website is just step one. Getting them to actually sign up, buy something, or even just care to learn more is a whole different challenge \u2014 and it\u2019s one where good design is crucial.",
     "url": "https://www.ycombinator.com/library/KD-how-to-convert-more-visitors-into-customers",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "KC-dimitri-dadiomov-co-founder-ceo-of-modern-treasury": {
@@ -5304,7 +5304,7 @@
     "description": "If you\u2019re an employee of a late-stage company right now, how would you know when it\u2019s time to move on? There isn't an easy answer \u2014 but in this episode, Dalton + Michael share suggestions on the good/bad signs to look for.",
     "url": "https://www.ycombinator.com/library/KA-is-it-time-to-quit-your-job-at-a-unicorn",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "K7-why-yc-we-asked-50-founders-why-they-applied-to-y-combinator": {
@@ -5322,7 +5322,7 @@
     "description": "Why do founders apply to YC? For this episode of Founder FAQ, we asked them!",
     "url": "https://www.ycombinator.com/library/K7-why-yc-we-asked-50-founders-why-they-applied-to-y-combinator",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "K6-how-athelas-is-revolutionizing-healthcare": {
@@ -5336,7 +5336,7 @@
     "description": "Garry sits down with Athelas co-founder Tanay Tandon to hear how they built a revolutionary healthcare company.",
     "url": "https://www.ycombinator.com/library/K6-how-athelas-is-revolutionizing-healthcare",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done": {
@@ -5350,7 +5350,7 @@
     "description": "For this episode of Office Hours, YC's Group Partners are talking about productivity \u2014 what works for the founders they help, and, perhaps more importantly, what doesn\u2019t.",
     "url": "https://www.ycombinator.com/library/K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "K3-brian-armstrong-co-founder-and-ceo-of-coinbase": {
@@ -5378,7 +5378,7 @@
     "description": "Surbhi is a Group Partner at YC, where she mentors a generation of healthcare founders. Leading up to that is one of the most intense startup stories we\u2019ve ever heard \u2014 but it\u2019s one best told by Surbhi herself. Listen to her tell it in this debut episode of 'Backstory'.",
     "url": "https://www.ycombinator.com/library/K2-backstory-surbhi-sarna",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "K1-different-startup-stages-and-what-they-mean-for-you": {
@@ -5414,7 +5414,7 @@
     "description": "In this talk from 2018, Sam Altman (then president of Y Combinator, now CEO of OpenAI) shares his thoughts on when to take risks in your career, how to best use your time, and some of the unintuitive things he\u2019s learned along the way.",
     "url": "https://www.ycombinator.com/library/K0-sam-altman-on-how-to-pick-which-startup-to-work-at",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jz-founder-faq-40-ai-startup-founders-on-the-current-state-of-ai-tech": {
@@ -5428,7 +5428,7 @@
     "description": "At a recent meetup for Y Combinator founders working in AI, we asked them about the current state of AI technology\u2014the good, the challenges, and best practices.",
     "url": "https://www.ycombinator.com/library/Jz-founder-faq-40-ai-startup-founders-on-the-current-state-of-ai-tech",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jx-brian-chesky-co-founder-ceo-of-airbnb-part-ii": {
@@ -5456,7 +5456,7 @@
     "description": "For this episode of Dalton + Michael, we dig into why some advice givers might be tempted to say \u201cDo as I say, not as I DID.\u201d",
     "url": "https://www.ycombinator.com/library/Jw-dalton-michael-why-you-shouldn-t-copy-your-tech-idols",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jv-building-a-better-mobile-app": {
@@ -5474,7 +5474,7 @@
     "description": "There\u2019s a lot to think about when designing mobile apps, where seemingly small details can have a big impact. Viewers have been asking for a mobile-focused episode of Design Review \u2014 and here it is!",
     "url": "https://www.ycombinator.com/library/Jv-building-a-better-mobile-app",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ju-garry-s-channel-an-interview-with-kai-stinchcombe-founder-of-true-link-financial": {
@@ -5488,7 +5488,7 @@
     "description": "Today we\u2019re sitting down with my friend and YC/Initialized founder Kai Stinchcombe - the founder and CEO of True Link Financial. ",
     "url": "https://www.ycombinator.com/library/Ju-garry-s-channel-an-interview-with-kai-stinchcombe-founder-of-true-link-financial",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas": {
@@ -5502,7 +5502,7 @@
     "description": "As you think about whether you want to work on or at a startup, I want you to ask what great investors ask themselves all the time: WHY NOW?",
     "url": "https://www.ycombinator.com/library/Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Js-garry-s-channel-3-steps-for-billion-dollar-startups-how-airbnb-doordash-succeeded": {
@@ -5516,7 +5516,7 @@
     "description": "What society imposes on us is the wrong kind of thinking: one that is based on analogy and credentialism instead of first principles thinking. \n\nBut how do we break free? Here are 3 ways to do it.",
     "url": "https://www.ycombinator.com/library/Js-garry-s-channel-3-steps-for-billion-dollar-startups-how-airbnb-doordash-succeeded",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jr-garry-s-channel-how-to-design-everything-if-you-don-t-know-anything": {
@@ -5544,7 +5544,7 @@
     "description": "We were pitching A16z, with Marc Andreessen and Ben Horowitz. They asked us who was CEO. We said both. It was the wrong answer.",
     "url": "https://www.ycombinator.com/library/Jq-garry-s-channel-should-you-be-the-ceo",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jp-garry-s-channel-figma-s-20b-10-year-overnight-success": {
@@ -5558,7 +5558,7 @@
     "description": "In this video we\u2019ll look at some of the moments that were the hardest for Figma co-founder Dylan Field and his team as they built this incredible business from nothing.",
     "url": "https://www.ycombinator.com/library/Jp-garry-s-channel-figma-s-20b-10-year-overnight-success",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jo-garry-s-channel-flexport-ceo-ryan-petersen-on-scaling-a-startup-from-zero-to-8b": {
@@ -5572,7 +5572,7 @@
     "description": "Garry sits down with Ryan Petersen, CEO of Flexport.",
     "url": "https://www.ycombinator.com/library/Jo-garry-s-channel-flexport-ceo-ryan-petersen-on-scaling-a-startup-from-zero-to-8b",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jn-garry-s-channel-billion-dollar-startups-are-better-faster-or-cheaper": {
@@ -5586,7 +5586,7 @@
     "description": "Facebook wasn't the first social network. So maybe being first doesn't matter. But, being better, faster, or cheaper? That matters a lot.",
     "url": "https://www.ycombinator.com/library/Jn-garry-s-channel-billion-dollar-startups-are-better-faster-or-cheaper",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jm-garry-s-channel-how-real-movements-start-then-change-the-world": {
@@ -5600,7 +5600,7 @@
     "description": "The moment you realize the world can be influenced by your actions, everything changes. But how do you make a real dent in the world? You don't need fancy tools. Just do it yourself.",
     "url": "https://www.ycombinator.com/library/Jm-garry-s-channel-how-real-movements-start-then-change-the-world",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jl-garry-s-channel-6-skills-for-successful-startup-founders": {
@@ -5614,7 +5614,7 @@
     "description": "You can't guarantee success, but you can increase the chances of it by working on these six skills for startup founders. ",
     "url": "https://www.ycombinator.com/library/Jl-garry-s-channel-6-skills-for-successful-startup-founders",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jk-garry-s-channel-coinbase-ceo-brian-armstrong-on-cryptocurrency-and-the-future-of-decentralization": {
@@ -5628,7 +5628,7 @@
     "description": "Brian Armstrong started Coinbase in 2012 when bitcoin was $2 and almost no one knew what it was, let alone believed in it. ",
     "url": "https://www.ycombinator.com/library/Jk-garry-s-channel-coinbase-ceo-brian-armstrong-on-cryptocurrency-and-the-future-of-decentralization",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how": {
@@ -5642,7 +5642,7 @@
     "description": null,
     "url": "https://www.ycombinator.com/library/Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ji-garry-s-channel-billion-dollar-startup-ideas": {
@@ -5656,7 +5656,7 @@
     "description": "What makes you new, different, and unique in the world will often be the exact thing that makes you succeed. Embrace your differences, and you\u2019ll find something amazing in there.",
     "url": "https://www.ycombinator.com/library/Ji-garry-s-channel-billion-dollar-startup-ideas",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jh-garry-s-channel-my-200-million-startup-mistake": {
@@ -5670,7 +5670,7 @@
     "description": "It wasn't even a risky decision. I still said no, and it cost me $200M. ",
     "url": "https://www.ycombinator.com/library/Jh-garry-s-channel-my-200-million-startup-mistake",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jg-garry-s-channel-learn-earn-or-quit-my-job-career-advice": {
@@ -5684,7 +5684,7 @@
     "description": "If you're not learning AND earning... it's time to move on.",
     "url": "https://www.ycombinator.com/library/Jg-garry-s-channel-learn-earn-or-quit-my-job-career-advice",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jf-garry-s-channel-how-i-turned-300k-into-2-billion": {
@@ -5698,7 +5698,7 @@
     "description": "The story behind Garry's investment in Coinbase.",
     "url": "https://www.ycombinator.com/library/Jf-garry-s-channel-how-i-turned-300k-into-2-billion",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Je-garry-s-channel-stop-chasing-money-chase-wealth": {
@@ -5712,7 +5712,7 @@
     "description": "You want to get rich \u2014 but what you really want is wealth. Garry digs into the difference in this video.",
     "url": "https://www.ycombinator.com/library/Je-garry-s-channel-stop-chasing-money-chase-wealth",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jd-dalton-michael-why-investors-secretly-love-y-combinator": {
@@ -5730,7 +5730,7 @@
     "description": "How do investors really feel about YC? In this episode, Michael and Dalton dig in!",
     "url": "https://www.ycombinator.com/library/Jd-dalton-michael-why-investors-secretly-love-y-combinator",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Jc-paul-buchheit-creator-of-gmail": {
@@ -5870,7 +5870,7 @@
     "description": "For this latest episode of Office Hours, the Group Partners are sharing stories from their worst investor meetings. We\u2019ll outline some of the weird plays we\u2019ve seen investors try to pull \u2014 but we\u2019ll also confess times that we, as founders, bungled meetings we could\u2019ve nailed.",
     "url": "https://www.ycombinator.com/library/JT-yc-s-group-partners-share-their-worst-investor-meetings",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JS-how-to-start-a-startup-diversity-and-inclusion-at-early-stage-startups": {
@@ -5889,7 +5889,7 @@
     "description": "Kat Manalac, Managing Outreach Officer at YC, hosts a panel to discuss the importance of diversity and inclusion in the workforce for early stage companies.",
     "url": "https://www.ycombinator.com/library/JS-how-to-start-a-startup-diversity-and-inclusion-at-early-stage-startups",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JR-how-to-start-a-startup-startup-mechanics": {
@@ -5903,7 +5903,7 @@
     "description": "In this lecture, YC Managing Director Kirsty  Nathoo covers the basic issues that almost all startups face in their earliest days.",
     "url": "https://www.ycombinator.com/library/JR-how-to-start-a-startup-startup-mechanics",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JQ-how-to-start-a-startup-talking-to-users": {
@@ -5922,7 +5922,7 @@
     "description": "Emmett Shear, YC Partner and Co-founder/former CEO of Twitch, on how to talk to users and the questions you should ask them.",
     "url": "https://www.ycombinator.com/library/JQ-how-to-start-a-startup-talking-to-users",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JO-how-to-start-a-startup-building-company-culture-part-ii": {
@@ -5941,7 +5941,7 @@
     "description": "Ben Silberman (Co-founder of Pinterest), John Collison and Patrick Collison (Co-founders of Stripe) take Q&A from Sam Altman in Part II of a talk on hiring and building company culture.",
     "url": "https://www.ycombinator.com/library/JO-how-to-start-a-startup-building-company-culture-part-ii",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JN-how-to-start-a-startup-building-company-culture-part-i": {
@@ -5960,7 +5960,7 @@
     "description": "Brian Chesky, Founder of Airbnb, and Alfred Lin, Former COO of Zappos and Partner at Sequoia Capital discuss how to build a great company culture.",
     "url": "https://www.ycombinator.com/library/JN-how-to-start-a-startup-building-company-culture-part-i",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JM-how-to-start-a-startup-raising-money-and-succeeding-long-term": {
@@ -5979,7 +5979,7 @@
     "description": null,
     "url": "https://www.ycombinator.com/library/JM-how-to-start-a-startup-raising-money-and-succeeding-long-term",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JL-how-to-start-a-startup-getting-started-getting-press-and-doing-things-that-don-t-scale": {
@@ -6000,7 +6000,7 @@
     "description": "A talk from Stanley Tang (Doordash), Walker Williams (Teespring), and Justin Kan (Twitch).",
     "url": "https://www.ycombinator.com/library/JL-how-to-start-a-startup-getting-started-getting-press-and-doing-things-that-don-t-scale",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JK-how-to-start-a-startup-building-products-users-love": {
@@ -6019,7 +6019,7 @@
     "description": null,
     "url": "https://www.ycombinator.com/library/JK-how-to-start-a-startup-building-products-users-love",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JI-how-to-start-a-startup-before-the-startup": {
@@ -6037,7 +6037,7 @@
     "description": null,
     "url": "https://www.ycombinator.com/library/JI-how-to-start-a-startup-before-the-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JG-the-main-function-how-to-go-from-startup-dream-to-reality": {
@@ -6051,7 +6051,7 @@
     "description": "",
     "url": "https://www.ycombinator.com/library/JG-the-main-function-how-to-go-from-startup-dream-to-reality",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JF-the-immigrant-journey-behind-a-silicon-valley-success-story": {
@@ -6065,7 +6065,7 @@
     "description": "Y Combinator CEO Garry Tan sits down with one of the best founders of a generation, Tracy Young. She cofounded Plangrid which sold to Autodesk for $875M, and is back with her new startup called Tigereye. ",
     "url": "https://www.ycombinator.com/library/JF-the-immigrant-journey-behind-a-silicon-valley-success-story",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JE-founder-faq-how-did-you-get-your-first-customer": {
@@ -6083,7 +6083,7 @@
     "description": "We asked 50+ co-founders from the latest YC batch the same question: How\u2019d you get your first customer?",
     "url": "https://www.ycombinator.com/library/JE-founder-faq-how-did-you-get-your-first-customer",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JD-founder-faq-how-did-you-meet-your-co-founder": {
@@ -6101,7 +6101,7 @@
     "description": "We asked 50+ founders from YC\u2019s latest batch the same question: How did you meet your co-founder?",
     "url": "https://www.ycombinator.com/library/JD-founder-faq-how-did-you-meet-your-co-founder",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "JB-jessica-livingston-on-how-to-build-the-future": {
@@ -6195,7 +6195,7 @@
     "description": "Garry Tan shares his tips for applying to Y Combinator. ",
     "url": "https://www.ycombinator.com/library/J7-garry-tan-s-tips-for-applying-to-yc",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "J6-inside-the-group-partner-lounge-advantages-of-a-first-time-founder": {
@@ -6213,7 +6213,7 @@
     "description": "Step inside the Group Partner Lounge to hear Y Combinator Group Partners Harj Taggar, Michael Seibel and Brad Flora discuss the advantages of being a first-time founder and the instances when it pays to have experience founding a startup in the past.",
     "url": "https://www.ycombinator.com/library/J6-inside-the-group-partner-lounge-advantages-of-a-first-time-founder",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "J5-inside-the-group-partner-lounge-the-ideal-customer": {
@@ -6234,7 +6234,7 @@
     "description": "Step inside the Group Partner Lounge to hear Y Combinator Group Partners Harj Taggar, Michael Seibel and Brad Flora discuss the pros and cons of startups selling software to other startups. Or is there a better approach out there?",
     "url": "https://www.ycombinator.com/library/J5-inside-the-group-partner-lounge-the-ideal-customer",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "J4-inside-the-group-partner-lounge-top-ways-startups-waste-money": {
@@ -6256,7 +6256,7 @@
     "description": "Step inside the Group Partner Lounge to hear Y Combinator Group Partners Harj Taggar, Michael Seibel and Brad Flora discuss what startups waste money on\u2014from marketing and sales to legal and hiring.",
     "url": "https://www.ycombinator.com/library/J4-inside-the-group-partner-lounge-top-ways-startups-waste-money",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "J3-inside-the-group-partner-lounge-turning-users-into-paid-customers": {
@@ -6279,7 +6279,7 @@
     "description": "Step inside the Group Partner Lounge to hear Y Combinator Group Partners Harj Taggar, Michael Seibel and Brad Flora discuss when you should start charging your users and some exceptions when you shouldn't.",
     "url": "https://www.ycombinator.com/library/J3-inside-the-group-partner-lounge-turning-users-into-paid-customers",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes": {
@@ -6298,7 +6298,7 @@
     "description": "Step inside the Group Partner Lounge to hear Y Combinator Group Partners Harj Taggar, Michael Seibel and Brad Flora discuss the many different mistakes founders make when they approach hiring for their startup and how to grow your team the correct way.",
     "url": "https://www.ycombinator.com/library/J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "J1-inside-the-group-partner-lounge-investors-said-no-now-what": {
@@ -6318,7 +6318,7 @@
     "description": "Step inside the Group Partner Lounge to hear Y Combinator Group Partners Harj Taggar, Michael Seibel and Brad Flora discuss how you should handle rejection from investors and why you should \"believe the no, not the why.\"",
     "url": "https://www.ycombinator.com/library/J1-inside-the-group-partner-lounge-investors-said-no-now-what",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "J0-inside-the-group-partner-lounge-when-to-launch-your-startup": {
@@ -6337,7 +6337,7 @@
     "description": "Step inside the group partners' lounge to hear Y Combinator Partners Harj Taggar, Michael Seibel and Brad Flora discuss how startups should approach launching and the exceptions to the rules.",
     "url": "https://www.ycombinator.com/library/J0-inside-the-group-partner-lounge-when-to-launch-your-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google": {
@@ -6357,7 +6357,7 @@
     "description": "Step inside the Group Partner Lounge to hear Y Combinator Group Partners Harj Taggar, Michael Seibel and Brad Flora discuss the traps founders often fall into when looking at the competition.",
     "url": "https://www.ycombinator.com/library/Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Iy-yc-s-group-partners-share-their-favorite-pivot-stories": {
@@ -6376,7 +6376,7 @@
     "description": "In this first episode of our new series, Office Hours, Y Combinator Group Partners share their favorite stories of entrepreneurs who pivoted and went on to build game-changing companies.",
     "url": "https://www.ycombinator.com/library/Iy-yc-s-group-partners-share-their-favorite-pivot-stories",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ix-critiquing-startup-websites-with-instacart-s-first-designer-zain-ali": {
@@ -6394,7 +6394,7 @@
     "description": "In this first episode of Design Review, Y Combinator Group Partner, Aaron Epstein, is joined by Zain Ali, Instacart's first product designer and former Design Lead at Y Combinator. They review the websites of three Y Combinator funded companies from the most recent W22 batch.",
     "url": "https://www.ycombinator.com/library/Ix-critiquing-startup-websites-with-instacart-s-first-designer-zain-ali",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Iw-critiquing-startup-websites-with-webflow-ceo-vlad-magdalin": {
@@ -6412,7 +6412,7 @@
     "description": "In this episode of Design Review, Y Combinator Group Partner, Aaron Epstein, is joined by the CEO of Webflow, Vlad Magdalin. They review the websites of three Y Combinator funded companies\u2014as well as one website from our Youtube audience!",
     "url": "https://www.ycombinator.com/library/Iw-critiquing-startup-websites-with-webflow-ceo-vlad-magdalin",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Iv-critiquing-ai-startup-websites-with-yc-president-garry-tan": {
@@ -6430,7 +6430,7 @@
     "description": "For this episode of Design Review, Group Partner Aaron Epstein invited YC President and CEO Garry Tan to break down what\u2019s working (and what\u2019s not) on the websites of five different AI startups. ",
     "url": "https://www.ycombinator.com/library/Iv-critiquing-ai-startup-websites-with-yc-president-garry-tan",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Iu-setting-kpis-and-goals": {
@@ -6474,7 +6474,7 @@
     "description": "YC Group Partner Dalton Caldwell shares his strategies for how to think about applying to YC. ",
     "url": "https://www.ycombinator.com/library/It-how-to-apply-and-succeed-at-yc",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Is-tips-for-technical-startup-founders": {
@@ -6498,7 +6498,7 @@
     "description": "YC Group Partner Diana Hu was the CTO of her YC startup Escher Reality, which was acquired by Niantic (makers of Pokemon Go). She shares her advice for being a technical founder at the earliest stages.",
     "url": "https://www.ycombinator.com/library/Is-tips-for-technical-startup-founders",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ir-the-best-way-to-launch-your-startup": {
@@ -6520,7 +6520,7 @@
     "description": "Kat Ma\u00f1alac is the head of YC's Outreach team and advises early stage founders on their launches during the YC batch. She shares the multitude of ways to launch a product and how to get attention for them. ",
     "url": "https://www.ycombinator.com/library/Ir-the-best-way-to-launch-your-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Iq-how-to-talk-to-users": {
@@ -6539,7 +6539,7 @@
     "description": "YC often says \"talk to your users\", but actually doing that is surprisingly tricky. YC Group Partner Gustaf Alstr\u00f6mer gives advice on how to talk to both current and potential users, how to run a great user interview, and how to interpret the feedback in these conversations.",
     "url": "https://www.ycombinator.com/library/Iq-how-to-talk-to-users",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ip-how-to-get-your-first-customers": {
@@ -6558,7 +6558,7 @@
     "description": "YC Partner & Former Head of Growth at Airbnb, Gustaf Alstr\u00f6mer, gives tactical advice to answer the question: how do I get my first customers? ",
     "url": "https://www.ycombinator.com/library/Ip-how-to-get-your-first-customers",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Io-how-to-build-an-mvp": {
@@ -6615,7 +6615,7 @@
     "description": "YC Group Partner Brad Flora has seen startup fundraising from every angle: as a founder, as one of the most prolific angel investors in Silicon Valley, and now as a YC Group Partner. Brad has coached hundreds of companies on fundraising. In this talk, he shares stories and advice on how modern startup fundraising works.",
     "url": "https://www.ycombinator.com/library/Il-how-startup-fundraising-works",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ik-dalton-michael-how-future-billionaires-get-sh-t-done": {
@@ -6636,7 +6636,7 @@
     "description": "Dalton Caldwell and Michael Seibel take a look at Paul Graham's essay \"Maker's Schedule, Manager's Schedule\" and share tips on how to be more effective and productive on the journey to creating a billion dollar business.",
     "url": "https://www.ycombinator.com/library/Ik-dalton-michael-how-future-billionaires-get-sh-t-done",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ii-dalton-michael-most-important-lifestyle-habits-of-successful-founders": {
@@ -6658,7 +6658,7 @@
     "description": "Dalton Caldwell and Michael Seibel discuss the best approaches to developing a healthy lifestyle that ultimately helps you run and grow a successful startup. ",
     "url": "https://www.ycombinator.com/library/Ii-dalton-michael-most-important-lifestyle-habits-of-successful-founders",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ih-dalton-michael-why-you-should-leave-your-faang-job": {
@@ -6678,7 +6678,7 @@
     "description": "Dalton Caldwell and Michael Seibel discuss the struggles of working at FAANG (Facebook, Apple, Amazon, Netflix, Google) and how to strategize leaving a big tech job to become a founder at a startup.",
     "url": "https://www.ycombinator.com/library/Ih-dalton-michael-why-you-should-leave-your-faang-job",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ig-dalton-michael-things-that-don-t-scale-the-software-edition": {
@@ -6699,7 +6699,7 @@
     "description": "Dalton Caldwell and Michael Seibel on software hacks that don't scale. Companies discussed include Google, Facebook, Twitch, and imeem. ",
     "url": "https://www.ycombinator.com/library/Ig-dalton-michael-things-that-don-t-scale-the-software-edition",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale": {
@@ -6740,7 +6740,7 @@
     "description": "Will AI usher in a new generation of startups or is this the beginning of the end?",
     "url": "https://www.ycombinator.com/library/Ie-dalton-michael-will-openai-kill-all-startups",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Id-dalton-michael-setting-smarter-goals": {
@@ -6762,7 +6762,7 @@
     "description": "Michael Seibel and Dalton Caldwell provide tips and strategies for setting goals that will help keep you and your new business focused on success\u2014plus provide examples of bad goals to avoid as a startup.",
     "url": "https://www.ycombinator.com/library/Id-dalton-michael-setting-smarter-goals",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup": {
@@ -6784,7 +6784,7 @@
     "description": "Dalton Caldwell and Michael Seibel discuss the qualities that make a founder overly optimistic or far too pessimistic about their startup. Where is the right middle ground?",
     "url": "https://www.ycombinator.com/library/Ic-dalton-michael-the-two-mindsets-that-can-kill-your-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups": {
@@ -6804,7 +6804,7 @@
     "description": "Is your startup making a positive impact on the world or are your business practices a net negative in society?",
     "url": "https://www.ycombinator.com/library/Ib-dalton-michael-what-basic-game-theory-teaches-us-about-startups",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "Ia-dalton-michael-how-to-earn-customers-for-life": {
@@ -6823,7 +6823,7 @@
     "description": "Michael Seibel and Dalton Caldwell reveal how startups can gain a competitive advantage by doing something deceptively simple.",
     "url": "https://www.ycombinator.com/library/Ia-dalton-michael-how-to-earn-customers-for-life",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder": {
@@ -6843,7 +6843,7 @@
     "description": "Dalton Caldwell and Michael Seibel, two startup founders who started in their early 20s and are now top investors, sit down to share the hard-won advice they wish they had known back in high school. ",
     "url": "https://www.ycombinator.com/library/IZ-dalton-michael-the-student-s-guide-to-becoming-a-successful-startup-founder",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IY-dalton-michael-the-cult-of-conformity-in-silicon-valley": {
@@ -6864,7 +6864,7 @@
     "description": "Dalton and Michael offer advice about navigating a world that doesn't always reward nonconformists embarking on risky entrepreneurial journeys. Don't just think different, act different.",
     "url": "https://www.ycombinator.com/library/IY-dalton-michael-the-cult-of-conformity-in-silicon-valley",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IX-dalton-michael-how-to-deal-with-setbacks": {
@@ -6882,7 +6882,7 @@
     "description": "Dalton Caldwell and Michael Seibel discuss the best approaches to managing the many setbacks startup founders can face over the lifetime of starting and running a business.",
     "url": "https://www.ycombinator.com/library/IX-dalton-michael-how-to-deal-with-setbacks",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IW-dalton-michael-elon-musk-and-the-midwit-meme": {
@@ -6896,7 +6896,7 @@
     "description": "Dalton Caldwell and Michael Seibel on the midwit meme, how it applies to startups, and the best example: Elon Musk.",
     "url": "https://www.ycombinator.com/library/IW-dalton-michael-elon-musk-and-the-midwit-meme",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IU-dalton-michael-the-truth-about-y-combinator": {
@@ -6914,7 +6914,7 @@
     "description": "With the YC S22 batch coming to a close, Dalton Caldwell and Michael Seibel reflect on the recent batch and their experience fundraising. The two group partners also clear up some misconceptions about Y Combinator based on feedback from founders.",
     "url": "https://www.ycombinator.com/library/IU-dalton-michael-the-truth-about-y-combinator",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IT-dalton-michael-why-investors-can-t-fix-your-company": {
@@ -6932,7 +6932,7 @@
     "description": "Dalton Caldwell and Michael Seibel on common pitfalls in the advice from different types of investors and why you, the founder, are ultimately responsible for the success of your company.",
     "url": "https://www.ycombinator.com/library/IT-dalton-michael-why-investors-can-t-fix-your-company",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IS-dalton-michael-y-combinator-is-back-in-person": {
@@ -6952,7 +6952,7 @@
     "description": "Dalton Caldwell and Michael Seibel provide an update on the upcoming Summer 2022 batch along with the changes and trends they've noticed in the startup world today.",
     "url": "https://www.ycombinator.com/library/IS-dalton-michael-y-combinator-is-back-in-person",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IR-dalton-michael-silicon-valley-s-cargo-culting-problem": {
@@ -6970,7 +6970,7 @@
     "description": "In this episode Dalton and Michael break down the problem with cargo culting and offer advice on the right way to draw inspiration from other successful companies.",
     "url": "https://www.ycombinator.com/library/IR-dalton-michael-silicon-valley-s-cargo-culting-problem",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have": {
@@ -6990,7 +6990,7 @@
     "description": "In this video, Y Combinator partners Michael Seibel and Dalton Caldwell discuss the importance of having honest and difficult conversations.",
     "url": "https://www.ycombinator.com/library/IQ-dalton-michael-the-hard-conversations-founders-don-t-want-to-have",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IP-dalton-michael-secrets-you-can-learn-from-your-customers": {
@@ -7011,7 +7011,7 @@
     "description": "YC partners Michael Seibel and Dalton Caldwell discuss how spending real time with your users can unlock insights and growth. ",
     "url": "https://www.ycombinator.com/library/IP-dalton-michael-secrets-you-can-learn-from-your-customers",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IO-dalton-michael-how-generosity-built-tech-giants": {
@@ -7031,7 +7031,7 @@
     "description": "The core secret to startup success isn't fundraising or growth hacking - it's solving your customer's biggest problems. But most founders are afraid to really understand those problems. What if that fear is holding your startup back?",
     "url": "https://www.ycombinator.com/library/IO-dalton-michael-how-generosity-built-tech-giants",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco": {
@@ -7045,7 +7045,7 @@
     "description": "Should you and your startup live in San Francisco? Y Combinator Partners, Michael Seibel and Dalton Caldwell, debate their different opinions on whether startups are more likely to succeed in the Golden City or elsewhere. Where do they find common ground?",
     "url": "https://www.ycombinator.com/library/IN-dalton-michael-does-your-startup-need-to-be-in-san-francisco",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "IJ-successful-yc-application-video-teespring-yc-w2013": {
@@ -7193,7 +7193,7 @@
     "description": "Here are the nine most common business models we see in startups with primary metrics to focus on and key takeaways for each.",
     "url": "https://www.ycombinator.com/library/Gh-yc-guide-to-business-models",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   },
   "GV-should-you-start-a-startup": {
@@ -7215,7 +7215,7 @@
     "description": "YC Group Partner Harj Taggar shares his advice on the types of people best suited to be startup founders and how to prepare to start a company in the future.",
     "url": "https://www.ycombinator.com/library/GV-should-you-start-a-startup",
     "feature_score": 0,
-    "ingested": false,
+    "ingested": true,
     "absorbed": false
   }
 }

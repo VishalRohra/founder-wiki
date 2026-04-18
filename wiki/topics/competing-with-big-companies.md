@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["competing with big companies", "competition", "startup competition", "competing with Google", "competing with Amazon", "land grab", "structural advantage", "startup vs big company"]
-related: ["[[Growth", "[[Sam Altman]]", "[[Why Now]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Brad Flora]]"]
+related: ["Growth", "[[Sam Altman]]", "[[Why Now]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Brad Flora]]"]
 sources: ["Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google", "MC-how-to-build-the-future-aravind-srinivas", "MJ-how-to-build-the-future-tony-xu", "Lp-how-to-build-the-future-sam-altman", "89-how-to-succeed-with-a-startup"]
 speakers_referenced: ["Michael Seibel", "Harj Taggar", "Brad Flora", "Aravind Srinivas", "Tony Xu", "Sam Altman"]
 ---

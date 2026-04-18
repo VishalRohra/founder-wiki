@@ -45,13 +45,13 @@ git clone https://github.com/VishalRohra/founder-wiki.git
 cd founder-wiki
 ```
 
-### 2. Open your agent
+### 2. Point your agent at it
 
 ```bash
 claude  # or cursor, windsurf, codex — any agent that can read files
 ```
 
-That's it. Your agent reads `AGENTS.md` automatically, which tells it: start at `wiki/_index.md`, navigate by `[[wikilinks]]`, synthesize answers from wiki articles, cite sources.
+The repo includes a `CLAUDE.md` and `AGENTS.md` that tell the agent what this is and how to navigate it. Your agent picks these up automatically and knows to start at `wiki/_index.md`, follow `[[wikilinks]]`, and cite sources.
 
 There is no setup. The repo is the product. `AGENTS.md` is the API.
 
@@ -67,24 +67,67 @@ There is no setup. The repo is the product. `AGENTS.md` is the API.
 > I have 6 months of runway. What does YC say I should do?
 ```
 
-## What Your Agent Does
+How your agent navigates the wiki — how many articles it reads, how deep it follows links, whether it cites sources inline or at the end — is up to you and your agent. The wiki is structured data. The query plan is yours.
 
-When you ask a question, here's exactly what happens:
+Here are a few ways to use it depending on what you need:
 
-**Step 1: Scan the index.** The agent reads `wiki/_index.md` — a catalog of every article with aliases in parentheses. For "I feel too young to start a company," it matches:
+### Quick Answer (the default)
 
-- `[[Starting Young]]` — aliases: "young founders, age, when to start a startup" — **direct hit**, 5 sources
-- `[[Becoming a Founder]]` — aliases: "should I start a startup" — relevant
-- `[[Founder Mindset]]` — aliases: "founder qualities, determination" — adjacent
-- `[[Paul Graham]]` — speaker page, wrote "Before the Startup" — context
+This is what `CLAUDE.md` sets up out of the box. Your agent reads the index, finds matching articles, and gives you a grounded answer. Good for specific questions when you want a fast, cited response.
 
-**Step 2: Read 3-5 articles.** Each article is a rich synthesis — not a summary, but the full substance of what every source says about the topic. Specific examples, reasoning chains, direct quotes, cross-references.
+```
+Just ask your question — the CLAUDE.md handles the rest.
 
-**Step 3: Follow wikilinks.** The Starting Young article links to `[[Startup Ideas]]` (for Graham's "just learn and follow curiosity" advice for 20-year-olds) and to `[[Founder Mindset]]` (for what actually predicts founder success). The agent follows 1-2 links deep if needed.
+> What's the YC take on charging for a product before it's ready?
+```
 
-**Step 4: Synthesize.** The agent gives you an answer grounded in the wiki — with citations to specific articles and their underlying sources. Not generic advice. Attributed, specific, cross-referenced advice.
+### Deep Research
 
-Total: 4-6 file reads. No API calls, no embeddings, no vector search. Just an agent navigating structured markdown.
+When you're exploring a topic and want to understand the full landscape — who said what, where they agree, where they disagree. Tell your agent to go wider and deeper.
+
+```
+> Read the wiki index, find every article related to fundraising,
+> and give me a comprehensive briefing. Include who said what,
+> where the consensus is, and where people disagree.
+> Follow all wikilinks from those articles one level deep.
+```
+
+### Decision Mode
+
+You're in the middle of a real decision and want the wiki to pressure-test it. Give your agent your context and let it find what's relevant.
+
+```
+> Here's my situation: we're 4 months post-launch, growing 8% week
+> over week, but have 5 months of runway left. We're debating
+> whether to raise now or push for profitability.
+>
+> Search the wiki for everything relevant — fundraising timing,
+> default alive/dead, growth benchmarks, runway management.
+> Give me the YC-grounded answer, with citations.
+```
+
+### Cross-Project Reference
+
+You're working in a different repo and want to pull in the wiki for a specific question without switching context.
+
+```bash
+# From any Claude Code session:
+/add-dir /path/to/founder-wiki/wiki
+
+> Based on the founder-wiki, what does YC say about pricing
+> for developer tools specifically?
+```
+
+### Build Your Own
+
+You're building an app on top of the wiki — a chatbot, a coaching tool, a course generator. Load the schema and let your agent figure out the traversal.
+
+```
+> Read /path/to/founder-wiki/AGENTS.md.
+> You now have access to a structured knowledge base.
+> For every user question, follow the Query protocol in that file.
+> Always cite the specific wiki article and source.
+```
 
 ## Examples Where This Beats a Generic LLM Call
 

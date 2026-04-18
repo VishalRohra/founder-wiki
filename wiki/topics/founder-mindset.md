@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["determination", "relentlessly resourceful", "founder qualities", "founder traits", "startup mindset", "commitment", "grit"]
-related: ["[[Paul Graham", "[[Sam Altman]]", "[[Harj Taggar]]", "[[Why Now]]", "[[Doing Things That Don't Scale]]", "[[Early-Stage Mistakes]]", "[[Starting Young]]", "[[Startup Ideas]]", "[[Recruiting Early Team Members]]", "[[Creating Luck]]", "[[Confronting Reality]]", "[[Dalton Caldwell]]", "[[Garry Tan]]", "[[First-Time Founders]]", "[[Elon Musk]]", "[[Diane Greene]]"]
+related: ["Paul Graham", "[[Sam Altman]]", "[[Harj Taggar]]", "[[Why Now]]", "[[Doing Things That Don't Scale]]", "[[Early-Stage Mistakes]]", "[[Starting Young]]", "[[Startup Ideas]]", "[[Recruiting Early Team Members]]", "[[Creating Luck]]", "[[Confronting Reality]]", "[[Dalton Caldwell]]", "[[Garry Tan]]", "[[First-Time Founders]]", "[[Elon Musk]]", "[[Diane Greene]]"]
 sources: ["94-be-relentlessly-resourceful", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "93-a-student-s-guide-to-startups", "5b-how-do-you-convince-someone-to-join-your-startup", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "69-on-starting-and-scaling-meal-kit-company-gobble", "5I-on-starting-and-scaling-healthcare-startup-23andme", "5N-on-starting-and-scaling-bloom-institute-of-technology", "6L-on-starting-and-scaling-construction-startup-plangrid", "89-how-to-succeed-with-a-startup", "GV-should-you-start-a-startup"]
 speakers_referenced: ["Paul Graham", "Dalton Caldwell", "Garry Tan", "Ooshma Garg", "Anne Wojcicki", "Austen Allred", "Tracy Young", "Sam Altman", "Harj Taggar"]
 ---

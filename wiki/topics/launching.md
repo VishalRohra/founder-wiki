@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["launching", "when to launch", "launch strategy", "launching early", "launch timing", "MVP launch", "startup launch", "how to launch", "launch early", "launch often", "first launch", "product launch"]
-related: ["[[Growth", "[[Kat Manalac]]", "[[Dev Tools]]", "[[Doing Things That Don't Scale]]", "[[Product-Market Fit]]", "[[Startup Essentials]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Getting Press]]", "[[Talking to Users]]"]
+related: ["Growth", "[[Kat Manalac]]", "[[Dev Tools]]", "[[Doing Things That Don't Scale]]", "[[Product-Market Fit]]", "[[Startup Essentials]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Getting Press]]", "[[Talking to Users]]"]
 sources: ["J0-inside-the-group-partner-lounge-when-to-launch-your-startup", "LG-why-startup-founders-should-launch-companies-sooner-than-they-think", "Ir-the-best-way-to-launch-your-startup", "6i-how-to-launch-again-and-again"]
 speakers_referenced: ["Harj Taggar", "Michael Seibel", "Brad Flora", "Diana Hu", "Gustaf Alstromer", "Tom Blomfield", "Kat Manalac", "Garry Tan", "Aaron Epstein", "Pete Koomen", "Serby"]
 ---

@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 sources: ["4G-convincing-engineers-to-join-your-team", "4H-how-to-hire-your-first-engineer", "9t-how-to-choose-a-startup-to-join", "GV-should-you-start-a-startup", "8h-how-to-find-the-right-co-founder"]
 aliases: ["Harj Taggar", "Taggar"]
-related: ["[[Hiring Engineers", "[[Becoming a Founder]]", "[[Co-Founders]]", "[[Dealing with Setbacks]]", "[[Founder Mindset]]", "[[Choosing a Startup to Join]]"]
+related: ["Hiring Engineers", "[[Becoming a Founder]]", "[[Co-Founders]]", "[[Dealing with Setbacks]]", "[[Founder Mindset]]", "[[Choosing a Startup to Join]]"]
 
 speakers_referenced: ["Harj Taggar"]
 ---

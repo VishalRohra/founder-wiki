@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["becoming a founder", "starting a startup", "founder preparation", "college and startups", "should I start a startup", "career paths tech", "founder vs employee", "underdog mentality"]
-related: ["[[Michael Seibel", "[[Harj Taggar]]", "[[Sam Altman]]", "[[Choosing a Startup to Join]]", "[[Co-Founders]]", "[[Starting Young]]", "[[Startup Essentials]]", "[[Hiring Engineers]]", "[[First-Time Founders]]"]
+related: ["Michael Seibel", "[[Harj Taggar]]", "[[Sam Altman]]", "[[Choosing a Startup to Join]]", "[[Co-Founders]]", "[[Starting Young]]", "[[Startup Essentials]]", "[[Hiring Engineers]]", "[[First-Time Founders]]"]
 sources: ["4d-a-letter-to-college-students", "4h-three-paths-in-the-tech-industry-founder-executive-or-employee", "GV-should-you-start-a-startup", "89-how-to-succeed-with-a-startup", "60-should-i-start-a-startup"]
 speakers_referenced: ["Michael Seibel", "Harj Taggar", "Sam Altman"]
 ---

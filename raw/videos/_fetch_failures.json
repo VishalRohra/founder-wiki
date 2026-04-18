@@ -1,0 +1,247 @@
+{
+  "KI-test": {
+    "title": "test",
+    "author": null,
+    "youtube_id": null,
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "no_youtube_id"
+  },
+  "J9-yc-application-tips-you-don-t-need-to-know-someone": {
+    "title": "YC Application Tips: You don't need to know someone",
+    "author": "Stephanie Simon",
+    "youtube_id": "7j2eiMPqUcg",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "VideoUnplayable: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=7j2eiMPqUcg! This is most likely caused b"
+  },
+  "JA-yc-application-tips-when-to-apply": {
+    "title": "YC Application Tips: When to apply",
+    "author": "Stephanie Simon",
+    "youtube_id": "UO0n7zpk1U8",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "VideoUnplayable: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=UO0n7zpk1U8! This is most likely caused b"
+  },
+  "Jr-garry-s-channel-how-to-design-everything-if-you-don-t-know-anything": {
+    "title": "Garry's Channel: How To DESIGN EVERYTHING if you don't know ANYTHING",
+    "author": "Garry Tan",
+    "youtube_id": "K3Ctc1UN0bQ",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "NoTranscriptFound: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=K3Ctc1UN0bQ! This is most likely caused b"
+  },
+  "9i-how-to-choose-a-metric-and-set-your-kpi": {
+    "title": "How to choose a metric and set your KPI",
+    "author": "Michael Seibel",
+    "youtube_id": "kJIBAp48Pv8",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "TranscriptsDisabled: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=kJIBAp48Pv8! This is most likely caused b"
+  },
+  "9u-why-do-startups-fail": {
+    "title": "Why do startups fail?",
+    "author": "Harj Taggar",
+    "youtube_id": "gQ_rZc0YUNw",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "TranscriptsDisabled: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=gQ_rZc0YUNw! This is most likely caused b"
+  },
+  "NG-how-to-get-the-most-out-of-coding-agents": {
+    "title": "How To Get The Most Out Of Coding Agents",
+    "author": "Y Combinator",
+    "youtube_id": "qwmmWzPnhog",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=qwmmWzPnhog! This is most likely caused b"
+  },
+  "K1-different-startup-stages-and-what-they-mean-for-you": {
+    "title": "Different startup stages and what they mean for you",
+    "author": "Ryan Choi",
+    "youtube_id": "_7bnpjJB9T0",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=_7bnpjJB9T0! This is most likely caused b"
+  },
+  "NK-the-ai-agent-economy-is-here": {
+    "title": "The AI Agent Economy Is Here",
+    "author": "Y Combinator",
+    "youtube_id": "Q8wVMdwhlh4",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Q8wVMdwhlh4! This is most likely caused b"
+  },
+  "JB-jessica-livingston-on-how-to-build-the-future": {
+    "title": "Jessica Livingston on how to build the future",
+    "author": "Jessica Livingston",
+    "youtube_id": "nFOC-cgIWaY",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=nFOC-cgIWaY! This is most likely caused b"
+  },
+  "NJ-inside-claude-code-with-its-creator-boris-cherny": {
+    "title": "Inside Claude Code With Its Creator Boris Cherny",
+    "author": "Y Combinator",
+    "youtube_id": "PQU9o_5rHC4",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=PQU9o_5rHC4! This is most likely caused b"
+  },
+  "KK-how-psychedelics-will-change-society-for-the-better": {
+    "title": "How psychedelics will change society for the better",
+    "author": "Garry Tan",
+    "youtube_id": "Tzw6MsmJNAU",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Tzw6MsmJNAU! This is most likely caused b"
+  },
+  "NH-the-new-way-to-build-a-startup": {
+    "title": "The New Way To Build A Startup",
+    "author": "Garry Tan",
+    "youtube_id": "rWUWfj_PqmM",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=rWUWfj_PqmM! This is most likely caused b"
+  },
+  "62-how-to-build-product-as-a-small-startup": {
+    "title": "How to build product as a small startup",
+    "author": "Michael Seibel",
+    "youtube_id": "kzVvjKLdAbk",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=kzVvjKLdAbk! This is most likely caused b"
+  },
+  "5j-jeff-dean-on-building-intelligent-systems-with-large-scale-deep-learning": {
+    "title": "Jeff Dean on building intelligent systems with large scale deep learning",
+    "author": "Jeff Dean",
+    "youtube_id": "HcStlHGpjN8",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=HcStlHGpjN8! This is most likely caused b"
+  },
+  "Iu-setting-kpis-and-goals": {
+    "title": "Setting KPIs and goals",
+    "author": "Divya Bhat",
+    "youtube_id": "6DTK9yDP6p0",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=6DTK9yDP6p0! This is most likely caused b"
+  },
+  "64-what-makes-great-founders-stand-out": {
+    "title": "What makes great founders stand out?",
+    "author": "Michael Seibel",
+    "youtube_id": "ZtfTOuSHGg8",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=ZtfTOuSHGg8! This is most likely caused b"
+  },
+  "Kh-day-in-the-life-of-y-combinator-president-ceo-garry-tan-during-the-first-week-of-the-batch": {
+    "title": "Day in the Life of Y Combinator President & CEO Garry Tan during the first week of the batch",
+    "author": "Garry Tan",
+    "youtube_id": "GctjcD17iI4",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=GctjcD17iI4! This is most likely caused b"
+  },
+  "NL-common-mistakes-with-vibe-coded-websites": {
+    "title": "Common Mistakes With Vibe Coded Websites",
+    "author": "Aaron Epstein",
+    "youtube_id": "DNSXlBmukck",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=DNSXlBmukck! This is most likely caused b"
+  },
+  "5s-mark-zuckerberg-on-building-a-startup": {
+    "title": "Mark Zuckerberg on building a startup",
+    "author": "Mark Zuckerberg",
+    "youtube_id": "Lb4IcGF5iTQ",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Lb4IcGF5iTQ! This is most likely caused b"
+  },
+  "NP-fran-ois-chollet-arc-agi-3-beyond-deep-learning-a-new-approach-to-ml": {
+    "title": "Fran\u00e7ois Chollet: ARC-AGI-3, Beyond Deep Learning & A New Approach To ML",
+    "author": "Y Combinator",
+    "youtube_id": "k2ZLQC8P7dc",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=k2ZLQC8P7dc! This is most likely caused b"
+  },
+  "Ke-the-secrets-of-y-combinator-s-early-success-with-yc-co-founder-jessica-livingston": {
+    "title": "The Secrets of Y Combinator\u2019s Early Success (with YC Co-Founder Jessica Livingston)",
+    "author": "Garry Tan",
+    "youtube_id": "YV2YE0XvhOs",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=YV2YE0XvhOs! This is most likely caused b"
+  },
+  "NO-inside-the-startup-reinventing-america-s-trillion-dollar-chemical-industry": {
+    "title": "Inside The Startup Reinventing America\u2019s Trillion Dollar Chemical Industry",
+    "author": "Jared Friedman",
+    "youtube_id": "PCypBUVhff8",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=PCypBUVhff8! This is most likely caused b"
+  },
+  "NF-why-your-startup-website-isn-t-converting": {
+    "title": "Why Your Startup Website Isn't Converting",
+    "author": "Aaron Epstein",
+    "youtube_id": "leQ89XSHILw",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=leQ89XSHILw! This is most likely caused b"
+  },
+  "NN-agents-for-non-technical-users": {
+    "title": "Agents For Non-Technical Users",
+    "author": "Y Combinator",
+    "youtube_id": "8SVocWnDHwE",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=8SVocWnDHwE! This is most likely caused b"
+  },
+  "KQ-garry-tan-speaks-at-stanford-s-entrepreneurial-thought-leaders-etl-lecture-series": {
+    "title": "Garry Tan speaks at Stanford's Entrepreneurial Thought Leaders (ETL) lecture series",
+    "author": "Y Combinator",
+    "youtube_id": "Y4yMc99fpfY",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Y4yMc99fpfY! This is most likely caused b"
+  },
+  "NM-how-to-build-the-future-max-hodak": {
+    "title": "How To Build The Future: Max Hodak",
+    "author": "Garry Tan",
+    "youtube_id": "5gspRJVp9dI",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=5gspRJVp9dI! This is most likely caused b"
+  },
+  "J8-yc-application-tips-include-a-demo": {
+    "title": "YC Application Tips: Include a demo",
+    "author": "Stephanie Simon",
+    "youtube_id": "cV-MwxhRTNI",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=cV-MwxhRTNI! This is most likely caused b"
+  },
+  "Io-how-to-build-an-mvp": {
+    "title": "How to build an MVP",
+    "author": "Michael Seibel",
+    "youtube_id": "QRZ_l7cVzzU",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=QRZ_l7cVzzU! This is most likely caused b"
+  },
+  "Im-keys-to-successful-co-founder-relationships": {
+    "title": "Keys To Successful Co-Founder Relationships",
+    "author": "Catheryn Li, Divya Bhat",
+    "youtube_id": "A4SLDQDXdp0",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=A4SLDQDXdp0! This is most likely caused b"
+  },
+  "If-dalton-michael-what-does-it-really-mean-to-do-things-that-don-t-scale": {
+    "title": "Dalton & Michael: What does it really mean to do things that don't scale?",
+    "author": "Dalton Caldwell, Michael Seibel",
+    "youtube_id": "4RMjQal_c4U",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=4RMjQal_c4U! This is most likely caused b"
+  },
+  "IJ-successful-yc-application-video-teespring-yc-w2013": {
+    "title": "Successful YC Application video: Teespring (YC W2013)",
+    "author": null,
+    "youtube_id": "Ipf247AmhiI",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Ipf247AmhiI! This is most likely caused b"
+  },
+  "II-successful-yc-application-video-zenefits-yc-w2013": {
+    "title": "Successful YC Application video: Zenefits (YC W2013)",
+    "author": null,
+    "youtube_id": "-S83fysRwn4",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=-S83fysRwn4! This is most likely caused b"
+  },
+  "IH-successful-yc-application-video-flip-yc-w2015": {
+    "title": "Successful YC Application video: Flip (YC W2015)",
+    "author": null,
+    "youtube_id": "N5cBGeRMxms",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=N5cBGeRMxms! This is most likely caused b"
+  },
+  "IG-successful-yc-application-video-campus-job-yc-w2015": {
+    "title": "Successful YC Application video: Campus Job (YC W2015)",
+    "author": null,
+    "youtube_id": "4nxrkPtR348",
+    "pass1_error": "no_page_transcript",
+    "pass2_error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=4nxrkPtR348! This is most likely caused b"
+  }
+}

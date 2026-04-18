@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 sources: ["J7-garry-tan-s-tips-for-applying-to-yc", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "Lp-how-to-build-the-future-sam-altman", "MJ-how-to-build-the-future-tony-xu", "M2-how-to-build-the-future-parker-conrad", "Jq-garry-s-channel-should-you-be-the-ceo", "Jg-garry-s-channel-learn-earn-or-quit-my-job-career-advice", "Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas", "M6-how-to-build-the-agi-future-bob-mcgrew", "MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful"]
 aliases: ["Garry Tan", "Gary Tan", "Tan"]
-related: ["[[Applying to YC", "[[CEO Role and the Co-CEO Mistake]]", "[[Learn, Earn, or Quit]]", "[[Why Now]]", "[[Elon Musk]]", "[[Bob McGrew]]", "[[Confronting Reality]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[AI and Startups]]", "[[Sam Altman]]", "[[Tony Xu]]", "[[Parker Conrad]]", "[[OpenAI: From Flip Chart to AGI]]", "[[DoorDash: Creating a Market from Scratch]]", "[[Rippling: Building the Same Company Twice]]"]
+related: ["Applying to YC", "[[CEO Role and the Co-CEO Mistake]]", "[[Learn, Earn, or Quit]]", "[[Why Now]]", "[[Elon Musk]]", "[[Bob McGrew]]", "[[Confronting Reality]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[AI and Startups]]", "[[Sam Altman]]", "[[Tony Xu]]", "[[Parker Conrad]]", "[[OpenAI: From Flip Chart to AGI]]", "[[DoorDash: Creating a Market from Scratch]]", "[[Rippling: Building the Same Company Twice]]"]
 speakers_referenced: ["Garry Tan"]
 ---
 

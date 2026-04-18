@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-05
 sources: ["4p-before-growing-your-startup", "4q-later-stage-advice-for-startups", "4s-navigating-success-for-your-startup", "Lp-how-to-build-the-future-sam-altman", "6N-vinod-khosla-on-how-to-build-the-future", "5I-on-starting-and-scaling-healthcare-startup-23andme", "6S-on-starting-and-scaling-dropbox-yc-w07", "89-how-to-succeed-with-a-startup"]
 aliases: ["Altman", "Sam Altman"]
-related: ["[[Growth", "[[Founder Mindset]]", "[[Competing with Big Companies]]", "[[Why Now]]", "[[Scaling and Later-Stage Operations]]", "[[Startup Outcomes and Optionality]]", "[[Product-Market Fit]]", "[[OpenAI: From Flip Chart to AGI]]", "[[AI and Startups]]", "[[Vinod Khosla]]", "[[Garry Tan]]", "[[Anne Wojcicki]]", "[[Drew Houston]]"]
+related: ["Growth", "[[Founder Mindset]]", "[[Competing with Big Companies]]", "[[Why Now]]", "[[Scaling and Later-Stage Operations]]", "[[Startup Outcomes and Optionality]]", "[[Product-Market Fit]]", "[[OpenAI: From Flip Chart to AGI]]", "[[AI and Startups]]", "[[Vinod Khosla]]", "[[Garry Tan]]", "[[Anne Wojcicki]]", "[[Drew Houston]]"]
 speakers_referenced: ["Sam Altman"]
 ---
 

@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["conversion rate", "conversion optimization", "landing page optimization", "improving conversion", "conversion funnel", "knowledge gap"]
-related: ["[[Growth", "[[Pete Koomen]]", "[[Dev Tools]]", "[[Startup Pricing]]", "[[Kevin Hale]]", "[[Product-Market Fit]]"]
+related: ["Growth", "[[Pete Koomen]]", "[[Dev Tools]]", "[[Startup Pricing]]", "[[Kevin Hale]]", "[[Product-Market Fit]]"]
 sources: ["6l-how-to-improve-conversion-rates", "KD-how-to-convert-more-visitors-into-customers"]
 speakers_referenced: ["Kevin Hale", "Pete Koomen", "Aaron Epstein"]
 ---

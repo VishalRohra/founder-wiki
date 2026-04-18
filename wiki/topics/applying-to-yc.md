@@ -4,7 +4,7 @@ type: topic
 created: 2026-04-05
 last_updated: 2026-04-05
 aliases: ["YC application", "applying to Y Combinator", "YC tips", "YC interview", "getting into YC"]
-related: ["[[Convincing Investors", "[[Dalton Caldwell]]", "[[Creating Luck]]", "[[Garry Tan]]", "[[Seed Fundraising]]", "[[Startup Ideas]]"]
+related: ["Convincing Investors", "[[Dalton Caldwell]]", "[[Creating Luck]]", "[[Garry Tan]]", "[[Seed Fundraising]]", "[[Startup Ideas]]"]
 sources: ["J7-garry-tan-s-tips-for-applying-to-yc", "It-how-to-apply-and-succeed-at-yc"]
 speakers_referenced: ["Garry Tan", "Dalton Caldwell"]
 ---
