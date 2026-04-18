@@ -4,37 +4,31 @@ The compiled startup knowledge base. 350+ YC videos and 70+ blog posts, synthesi
 
 ## Inspiration
 
-This project implements [Karpathy's LLM Knowledge Base](https://x.com/karpathy/status/2039805659525644595) pattern. The idea: instead of RAG over raw documents, an LLM **compiles raw sources into a persistent wiki** — structured, interlinked, and maintained like Wikipedia. The knowledge is compiled once and kept current, not re-derived on every query.
+This project implements [Karpathy's LLM Knowledge Base](https://x.com/karpathy/status/2039805659525644595) pattern. Instead of RAG over raw documents, an LLM **compiles raw sources into a persistent wiki** — structured, interlinked, and maintained like Wikipedia. The knowledge is compiled once and kept current, not re-derived on every query.
 
-[Farzapedia](https://x.com/FarzaTV/status/2040563939797504467) demonstrated it with personal knowledge (2,500 diary entries into 400 articles). We're applying it to the entire public YC canon.
+[Farzapedia](https://x.com/FarzaTV/status/2040563939797504467) demonstrated this with personal knowledge (2,500 diary entries into 400 articles). We applied it to the entire public YC canon.
 
-> "Every business has a raw/ directory. Nobody's ever compiled it. That's the product." — [@tammireddy](https://x.com/tammireddy)
+## Why This Over a Generic LLM Call
 
-## The Key Insight
+An LLM already "knows" startup advice from training data. But what it knows is a **flattened composite** — it can't tell you where an idea came from, how thinking evolved, or who disagrees with whom.
 
-An LLM navigating structured markdown files is better than RAG over the same content. Why?
+**Grounded and verifiable.** Every claim traces to a specific talk, essay, or transcript. "Graham argues X" links to the actual essay. No hallucinated summaries. You can check the source yourself.
 
-**RAG** retrieves chunks. Chunks have no context. The LLM stitches them together on every query, and does it slightly differently each time. There's no memory, no cross-referencing, no accumulated understanding.
+**Cross-source synthesis.** The article on Startup Ideas weaves together what Paul Graham, Jared Friedman, Dalton Caldwell, and Michael Seibel each said — with their specific examples, frameworks, and disagreements. An LLM gives you a generic composite. The wiki shows you the full picture.
 
-**A compiled wiki** is the opposite. The synthesis happens once, during absorption. Every article weaves together what 5, 10, 15 different speakers said about the same topic — with attribution, specific examples, direct quotes, and `[[wikilinks]]` connecting it to everything else in the graph. When an agent queries it, it's reading a finished knowledge base, not assembling one on the fly.
+**The long tail.** An obscure comment in a 2019 Startup School lecture, a specific anecdote from a founder interview, a nuanced aside in a Dalton & Michael episode — the model may not have encoded these. The wiki preserves the specifics.
 
-The wiki is a **knowledge graph in markdown**. Every page is a node. Every `[[wikilink]]` is an edge. The graph's density is what makes it valuable — an agent reading the article on Fundraising discovers it connects to Growth (because growth drives valuation), to Financial Survival (because runway determines negotiating position), and to Paul Graham (because he wrote the canonical essay on convincing investors). Those connections are pre-compiled. A RAG system would have to discover them each time.
+**Evolution over time.** People change their minds. Markets shift. The wiki captures the trajectory — what someone said in 2015 vs. 2024, and why it changed.
 
-## Why Not Just Ask an LLM?
+**Consensus signals.** When 8 speakers across 15 years independently give the same advice, that convergence is information. The wiki surfaces it explicitly.
 
-An LLM already "knows" generic startup advice from its training data. But what it knows is a **flattened composite** — it can't tell you where an idea came from, how thinking evolved, or who disagrees with whom. founder-wiki adds:
+### Examples
 
-**Citation chains.** Every claim traces to a specific talk, essay, or transcript. "Graham argues X" links to the actual essay. No hallucinated summaries.
+**"Should I pivot?"** — A generic LLM gives textbook advice. founder-wiki gives you Dalton Caldwell's scoring system (rate ideas 1-10, pivot at 2.5), the Brex story (VR to fintech in six weeks), and the consensus from 6 speakers on pivot triggers. With citations.
 
-**Cross-source synthesis.** The article on Startup Ideas weaves together what Paul Graham, Jared Friedman, Dalton Caldwell, Michael Seibel, and Stewart Butterfield each said — with their specific examples, frameworks, and disagreements. An LLM call gives you a generic composite. The wiki shows you the full picture.
+**"How do I price my product?"** — A generic LLM says "value-based pricing." founder-wiki gives you Kevin Hale's pricing thermometer, the 10x rule with named companies, and the "charge more than you think" consensus reinforced independently by Hale, Graham, and Seibel.
 
-**The long tail.** An obscure comment in a 2019 Startup School lecture, a specific anecdote from a founder interview, a nuanced aside in a Dalton & Michael episode — the model may not have encoded these, or may have blurred them into generic advice. The wiki preserves the specifics.
-
-**Evolution over time.** People change their minds. Markets shift. The wiki captures the trajectory — what someone said in 2015 vs. 2024, and why it changed. An LLM flattens all of a person's views into one position.
-
-**Consensus signals.** When 8 speakers across 15 years independently give the same advice, that convergence is information. The wiki surfaces it explicitly: "Talking to users is one of the most reinforced principles in the YC canon, cited by Graham, Seibel, Caldwell, Alstromer, and Hale across 12+ sources."
-
-**Navigable structure.** Topics, frameworks, people, case studies — all interlinked. An agent can follow threads: start at Product-Market Fit, follow a link to the Schlep Filter framework, discover it connects to Startup Ideas, and surface a connection the user didn't think to ask about.
+**"What makes a good co-founder?"** — A generic LLM lists communication and shared vision. founder-wiki gives you Harj Taggar's diagnostic questions, Michael Seibel's advice on why co-founder conflict is the #1 startup killer, the equity split consensus, and specific breakup stories from YC companies.
 
 ## Get Started
 
@@ -51,7 +45,7 @@ cd founder-wiki
 claude  # or cursor, windsurf, codex — any agent that can read files
 ```
 
-The repo includes a `CLAUDE.md` and `AGENTS.md` that tell the agent what this is and how to navigate it. Your agent picks these up automatically and knows to start at `wiki/_index.md`, follow `[[wikilinks]]`, and cite sources.
+The repo includes `CLAUDE.md` and `AGENTS.md` that tell your agent what this is and how to navigate it. It starts at `wiki/_index.md`, follows `[[wikilinks]]`, and cites sources.
 
 There is no setup. The repo is the product. `AGENTS.md` is the API.
 
@@ -67,137 +61,34 @@ There is no setup. The repo is the product. `AGENTS.md` is the API.
 > I have 6 months of runway. What does YC say I should do?
 ```
 
-How your agent navigates the wiki — how many articles it reads, how deep it follows links, whether it cites sources inline or at the end — is up to you and your agent. The wiki is structured data. The query plan is yours.
-
-Here are a few ways to use it depending on what you need:
-
-### Quick Answer (the default)
-
-This is what `CLAUDE.md` sets up out of the box. Your agent reads the index, finds matching articles, and gives you a grounded answer. Good for specific questions when you want a fast, cited response.
-
-```
-Just ask your question — the CLAUDE.md handles the rest.
-
-> What's the YC take on charging for a product before it's ready?
-```
-
-### Deep Research
-
-When you're exploring a topic and want to understand the full landscape — who said what, where they agree, where they disagree. Tell your agent to go wider and deeper.
-
-```
-> Read the wiki index, find every article related to fundraising,
-> and give me a comprehensive briefing. Include who said what,
-> where the consensus is, and where people disagree.
-> Follow all wikilinks from those articles one level deep.
-```
-
-### Decision Mode
-
-You're in the middle of a real decision and want the wiki to pressure-test it. Give your agent your context and let it find what's relevant.
-
-```
-> Here's my situation: we're 4 months post-launch, growing 8% week
-> over week, but have 5 months of runway left. We're debating
-> whether to raise now or push for profitability.
->
-> Search the wiki for everything relevant — fundraising timing,
-> default alive/dead, growth benchmarks, runway management.
-> Give me the YC-grounded answer, with citations.
-```
-
-### Cross-Project Reference
-
-You're working in a different repo and want to pull in the wiki for a specific question without switching context.
-
-```bash
-# From any Claude Code session:
-/add-dir /path/to/founder-wiki/wiki
-
-> Based on the founder-wiki, what does YC say about pricing
-> for developer tools specifically?
-```
-
-### Build Your Own
-
-You're building an app on top of the wiki — a chatbot, a coaching tool, a course generator. Load the schema and let your agent figure out the traversal.
-
-```
-> Read /path/to/founder-wiki/AGENTS.md.
-> You now have access to a structured knowledge base.
-> For every user question, follow the Query protocol in that file.
-> Always cite the specific wiki article and source.
-```
-
-## Examples Where This Beats a Generic LLM Call
-
-### "Should I pivot?"
-
-**A generic LLM** gives you textbook advice about product-market fit signals.
-
-**founder-wiki** gives you Dalton Caldwell's specific scoring system (rate ideas 1-10, pivot at 2.5, commit at 7.75), the Brex story (pivoted from VR to fintech in six weeks by scoring half a dozen ideas), Emmett Shear's distinction between vision pivots and strategy pivots, and the consensus from 6 speakers on what the actual pivot trigger is. With citations.
-
-### "How do I price my product?"
-
-**A generic LLM** tells you about value-based pricing and competitive analysis.
-
-**founder-wiki** gives you Kevin Hale's specific pricing frameworks from Startup School, the 10x rule with named examples, the "charge more than you think" consensus (reinforced independently by Hale, Graham, and Seibel), and the specific mistakes YC companies made around pricing — with the company names and what happened.
-
-### "What makes a good co-founder relationship?"
-
-**A generic LLM** lists communication, complementary skills, shared vision.
-
-**founder-wiki** gives you Harj Taggar's diagnostic questions ("If your co-founder left tomorrow, would you keep going?"), Michael Seibel's advice from running YC ("the #1 killer is co-founder conflict, not competition"), the equity split consensus, Paul Graham's "relentlessly resourceful" test applied to co-founders, and specific breakup stories from YC companies.
-
-### "I'm a deep tech founder. Is YC right for me?"
-
-**A generic LLM** gives a generic yes with caveats.
-
-**founder-wiki** gives you Blake Scholl's story (Boom supersonic), the hard tech vs. software timeline differences, Anu Hariharan's biotech funding patterns, specific YC hard tech companies and what their early stages looked like, and the common mistake of over-building before talking to customers — with named examples from deep tech founders who made it and those who didn't.
-
 ## Architecture
-
-Three layers:
 
 ```
 raw/                           # Immutable source layer
-  _sources.json                # Master manifest of all sources
-  videos/{slug}.md             # Video transcripts (310 fetched, 35 pending)
-  posts/{slug}.md              # Blog posts
+  _sources.json                # Manifest of all 416 sources
+  videos/{slug}.md             # 310 video transcripts
+  posts/{slug}.md              # 70 blog posts
 
 wiki/                          # LLM-compiled knowledge graph
-  _index.md                    # Agent entry point — the table of contents
+  _index.md                    # Agent entry point
   _backlinks.json              # Reverse link index
-  _absorb_log.json             # Tracks which sources have been compiled
-  topics/                      # Broad thematic articles
-  frameworks/                  # Named mental models
-  speakers/                    # People pages — worldview, key ideas, source inventory
-  case-studies/                # Deep dives on specific companies
-  {new directories}/           # Emerge as the data demands
+  topics/                      # 91 thematic articles
+  speakers/                    # 43 people pages
+  case-studies/                # 25 company deep-dives
+  frameworks/                  # 14 named mental models
 
 AGENTS.md                      # Schema — tells any agent how the wiki works
 ```
 
-The wiki structure follows **emergence, not prescription**. Directories, categories, and article types are created by the absorbing agent as the data demands. If the content suggests `mistakes/`, `metrics/`, `debates/`, or `timelines/` — those get created. The only organizing principle is: whatever makes the knowledge graph most navigable and richly connected.
+The wiki is a **knowledge graph in markdown**. Every page is a node. Every `[[wikilink]]` is an edge. The structure follows emergence, not prescription — directories and article types are created as the data demands.
 
-## Source Material
-
-### Current: Y Combinator Library
-~350 videos + ~70 blog posts from [ycombinator.com/library](https://www.ycombinator.com/library). Startup School lectures, Dalton & Michael series, partner talks, PG essays, founder stories.
-
-310 video transcripts fetched (curated page transcripts with speaker attribution). 35 pending (logged for retry). 70 blog posts ingested.
-
-### Future Sources
-- South Park Commons and founder communities
-- Operator blogs and Twitter threads (Shreyas, DHH, Sahil, etc.)
-- Podcast transcripts, books, essays
-- New source types go in `raw/{source-type}/` — the wiki layer is source-agnostic
+**173 articles** compiled from 168 sources. 1,700+ wikilinks connecting them. 0 dead links.
 
 ## Contributing
 
-The most valuable contribution is **adding new raw sources**. The wiki gets richer with every source absorbed, and there's an enormous amount of founder wisdom that isn't in the YC library.
+The most valuable contribution is **adding new raw sources**. The wiki gets richer with every source absorbed.
 
-### How to contribute raw sources
+### How to contribute
 
 1. **Find a source** — a blog post, transcript, video, podcast episode, essay. Anything with substantive startup/founder advice.
 
@@ -207,7 +98,7 @@ The most valuable contribution is **adding new raw sources**. The wiki gets rich
 ---
 title: "The source title"
 slug: "a-unique-slug"
-media_type: "Blog" | "Video" | "Podcast" | ...
+media_type: "Blog" | "Video" | "Podcast"
 author: "Speaker Name"
 speakers: ["Speaker 1", "Speaker 2"]
 categories: ["Fundraising", "Growth"]
@@ -220,26 +111,9 @@ url: "https://original-source-url"
 {Full text content — transcript, essay, blog post. Not a summary.}
 ```
 
-3. **Add it** to the appropriate `raw/` subdirectory. Create a new subdirectory if the source type doesn't exist yet (e.g., `raw/podcasts/`, `raw/essays/`).
+3. **Add it** to `raw/`. Create a new subdirectory if the source type doesn't exist yet (e.g., `raw/podcasts/`, `raw/essays/`).
 
-4. **Open a PR** with just the raw source file(s). Don't modify `wiki/` — absorption is run centrally to maintain wiki quality and consistency.
-
-### Why raw sources only?
-
-Wiki compilation (absorption) is a nuanced process — it requires reading the full existing wiki, understanding cross-references, maintaining voice consistency, and deciding what deserves its own article vs. integration into an existing one. A bad absorption can fragment the wiki or create inconsistencies that are hard to undo.
-
-By keeping contributions to raw sources, we get the best of both worlds:
-- **Anyone can contribute content** — find a great founder talk? Extract the transcript and PR it.
-- **Wiki quality stays high** — absorption runs are reviewed and maintain the graph's integrity.
-
-Think of it like Wikipedia: anyone can contribute sources. Compilation into articles is a separate, careful process.
-
-### What makes a good source to add?
-
-- Substantive advice, not news or announcements
-- Specific frameworks, examples, or stories — not generic platitudes
-- Named speakers with a track record
-- Ideally, content that cross-references topics already in the wiki (this creates the richest synthesis)
+4. **Open a PR** with just the raw source file(s). Don't modify `wiki/` — absorption is run centrally to maintain consistency.
 
 ### Source ideas we'd love PRs for
 
@@ -247,25 +121,16 @@ Think of it like Wikipedia: anyone can contribute sources. Compilation into arti
 - **Blogs**: Paul Graham's remaining essays, Sam Altman's blog, First Round Review
 - **Books**: excerpts from The Hard Thing About Hard Things, Zero to One, The Lean Startup
 - **Twitter/X threads**: high-signal founder threads (Shreyas Doshi, Sahil Lavingia, etc.)
-- **Talks**: Stanford ETL lectures, SPC talks, a16z content
+- **Talks**: Stanford ETL lectures, South Park Commons talks, a16z content
 
 ## Build on Top of It
 
 If you build an app, tool, or experience on top of founder-wiki, we'd love to hear about it. Some ideas:
 
-- **Chat interface** — a web app where founders ask questions and get wiki-grounded answers
-- **YC Office Hours simulator** — a persona that gives feedback on your idea/pitch grounded in the actual YC canon
-- **Executive coaching agent** — structured coaching sessions pulling from leadership and management articles
-- **Startup course generator** — curated learning paths assembled from wiki articles by stage
-- **Pitch feedback tool** — submit your deck, get feedback grounded in Hale, Graham, and Tam's actual frameworks
-- **Graph explorer** — visual knowledge graph showing connections between topics, people, and frameworks
+- **Chat interface** — founders ask questions, get wiki-grounded answers
+- **YC Office Hours simulator** — feedback on your idea grounded in the actual YC canon
+- **Pitch feedback tool** — submit your deck, get feedback from Hale, Graham, and Tam's frameworks
+- **Graph explorer** — visual knowledge graph of topics, people, and frameworks
+- **Startup course generator** — learning paths assembled from wiki articles by stage
 
-If you build something, please:
-1. Credit this repo as the knowledge source
-2. Open an issue or PR to add your project to a showcase section here
-
-We want to see what's possible when founder wisdom is structured, cited, and queryable.
-
-## Related
-
-This project emerged from the broader exploration in [wiki-of-you](https://github.com/VishalRohra/wiki-of-you), which documents the Karpathy/Farzapedia pattern, candidate profiles, selection criteria, and the full brainstorm of use cases.
+If you build something, credit this repo and open an issue to showcase it.
