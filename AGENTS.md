@@ -461,7 +461,10 @@ From feedback during build:
 ## Source Material
 
 ### Current: Y Combinator Library
-~350 videos + ~70 blog posts from ycombinator.com/library. Includes Startup School lectures, Dalton & Michael series, partner talks, PG essays, founder stories.
+Source: [ycombinator.com/library](https://www.ycombinator.com/library) (416 entries: 345 videos + 71 blog posts).
+Fetched: 310 video transcripts + 69 blog posts.
+Absorbed into wiki: 118 videos + 50 blog posts = 168 sources → 173 articles.
+Remaining: ~211 fetched but unabsorbed sources in `raw/`.
 
 ### Future Extensions
 - South Park Commons and similar founder communities

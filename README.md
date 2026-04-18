@@ -1,6 +1,6 @@
 # founder-wiki
 
-The compiled startup knowledge base. 350+ YC videos and 70+ blog posts, synthesized into a structured wiki that any LLM agent can navigate and query. No RAG, no embeddings, no vector DB. Just markdown files and an index.
+The compiled startup knowledge base. 168 YC sources (118 videos + 50 blog posts) synthesized into 173 structured wiki articles that any LLM agent can navigate and query. No RAG, no embeddings, no vector DB. Just markdown files and an index.
 
 ## Inspiration
 
@@ -65,9 +65,9 @@ There is no setup. The repo is the product. `AGENTS.md` is the API.
 
 ```
 raw/                           # Immutable source layer
-  _sources.json                # Manifest of all 416 sources
-  videos/{slug}.md             # 310 video transcripts
-  posts/{slug}.md              # 70 blog posts
+  _sources.json                # Manifest of all sources
+  videos/{slug}.md             # 310 video transcripts (fetched)
+  posts/{slug}.md              # 69 blog posts (fetched)
 
 wiki/                          # LLM-compiled knowledge graph
   _index.md                    # Agent entry point
@@ -82,11 +82,23 @@ AGENTS.md                      # Schema — tells any agent how the wiki works
 
 The wiki is a **knowledge graph in markdown**. Every page is a node. Every `[[wikilink]]` is an edge. The structure follows emergence, not prescription — directories and article types are created as the data demands.
 
-**173 articles** compiled from 168 sources. 1,700+ wikilinks connecting them. 0 dead links.
+**173 articles** compiled from **168 absorbed sources** (118 videos + 50 blog posts). 1,700+ wikilinks connecting them. 0 dead links.
 
 ## Contributing
 
-The most valuable contribution is **adding new raw sources**. The wiki gets richer with every source absorbed.
+### Current coverage
+
+The primary source is the [YC Startup Library](https://www.ycombinator.com/library) — 416 entries (345 videos + 71 blog posts).
+
+| Source | Fetched | Absorbed into wiki |
+|--------|---------|-------------------|
+| YC Library videos | 310 | 118 |
+| YC Library blog posts | 69 | 50 |
+| **Total** | **379** | **168** |
+
+**~211 YC sources remain unabsorbed** — primarily Lightcone Podcast episodes, How to Start a Startup Stanford lectures, AI/tech deep-dives, design reviews, and miscellaneous founder interviews. The transcripts are already fetched in `raw/videos/` — they need absorption into the wiki.
+
+Beyond YC, the wiki is designed to absorb any source of founder wisdom. The most valuable contribution is **adding new raw sources**.
 
 ### How to contribute
 
