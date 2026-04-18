@@ -24,11 +24,11 @@ An LLM already "knows" startup advice from training data. But what it knows is a
 
 ### Examples
 
-**"Should I pivot?"** — A generic LLM gives textbook advice. founder-wiki gives you Dalton Caldwell's scoring system (rate ideas 1-10, pivot at 2.5), the Brex story (VR to fintech in six weeks), and the consensus from 6 speakers on pivot triggers. With citations.
-
 **"How do I price my product?"** — A generic LLM says "value-based pricing." founder-wiki gives you Kevin Hale's pricing thermometer, the 10x rule with named companies, and the "charge more than you think" consensus reinforced independently by Hale, Graham, and Seibel.
 
 **"What makes a good co-founder?"** — A generic LLM lists communication and shared vision. founder-wiki gives you Harj Taggar's diagnostic questions, Michael Seibel's advice on why co-founder conflict is the #1 startup killer, the equity split consensus, and specific breakup stories from YC companies.
+
+**"Should I pivot?"** — A generic LLM gives textbook advice. founder-wiki gives you Dalton Caldwell's scoring system (rate ideas 1-10, pivot at 2.5), the Brex story (VR to fintech in six weeks), and the consensus from 6 speakers on pivot triggers. With citations.
 
 ## Get Started
 
@@ -52,13 +52,15 @@ There is no setup. The repo is the product. `AGENTS.md` is the API.
 ### 3. Ask anything
 
 ```
-> I feel like I'm too young to start a company. What do you think?
+> My co-founder wants to leave. How do I handle this?
 
-> What's the YC consensus on when to raise a Series A?
+> We have some traction but I can't tell if this is real PMF. How do I know?
 
-> How do Dalton and Michael's views on pivoting differ from PG's?
+> Should I raise a seed round or bootstrap?
 
-> I have 6 months of runway. What does YC say I should do?
+> I have 5 months of runway and growth is flat. What should I do?
+
+> I'm a first-time founder. What should I focus on in the first 90 days?
 ```
 
 ## Architecture
