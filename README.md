@@ -137,7 +137,7 @@ AGENTS.md                      # Full schema — absorption, synthesis, standard
 
 The wiki is a **knowledge graph in markdown**. Every page is a node. Every `[[wikilink]]` is an edge. The structure follows emergence, not prescription — directories and article types are created as the data demands.
 
-**200+ articles** compiled from YC's library. Topics, speakers, case studies, and frameworks — all interlinked with 1,700+ wikilinks. 0 dead links.
+**203 articles** compiled from YC's library and Sam Altman's personal blog. Topics, speakers, case studies, and frameworks — all interlinked with 1,700+ wikilinks. 0 dead links.
 
 ## Contributing
 
@@ -149,8 +149,8 @@ The primary source is the [YC Startup Library](https://www.ycombinator.com/libra
 |--------|---------|-------------------|
 | YC Library videos | 310 | 144 |
 | YC Library blog posts | 69 | 50 |
-| External blog posts | 1 | 1 |
-| **Total** | **380** | **195** |
+| External blog posts | 9 | 9 |
+| **Total** | **388** | **203** |
 
 **~185 YC sources remain unabsorbed** — primarily Lightcone Podcast episodes, AI/tech deep-dives, design reviews, and miscellaneous founder interviews. The transcripts are already fetched in `raw/videos/` — they need absorption into the wiki.
 

@@ -163,7 +163,7 @@ Graph propagation is mandatory. Every absorption must update all connected nodes
 5. **Update the index.** Rebuild `wiki/_index.md` with all articles, 1-2 sentence summaries, aliases, and source counts. Categories emerge from the actual wikilink graph.
 6. **Audit article quality.** Spot-check the 5 most-connected articles. Are they rich enough to answer questions without going to source? Do they have consensus signals? Are images and external links included?
 7. **Rebuild viewer.** Regenerate `viewer/articles.json` and sync to `docs/articles.json` so the live site reflects all changes immediately.
-8. **Update repo-level counts.** Refresh article counts, source counts, and any other numbers in `README.md` and AGENTS.md so they reflect current state. Never leave stale numbers in documentation.
+8. **Update repo-level counts.** Refresh article and source counts in `README.md` — the single source of truth for numbers. Also refresh the article count in `wiki/_index.md`. Do not duplicate counts into AGENTS.md or elsewhere; all other instruction files link to README.md's `Current coverage` section.
 9. **Report.** Output a consistency report: total articles, dead links remaining (should be 0), orphan pages, articles without references.
 
 This three-phase approach is the **default for every absorption run**, including future video transcripts, external blog posts, and any new source type. It is not optional — skipping Phase 3 produces an inconsistent wiki.
@@ -517,11 +517,7 @@ The viewer is intentionally simple — navigation, search, and article rendering
 
 ## Source Material
 
-### Current: Y Combinator Library
-Source: [ycombinator.com/library](https://www.ycombinator.com/library) (416 entries: 345 videos + 71 blog posts).
-Fetched: 310 video transcripts + 69 blog posts.
-Absorbed into wiki: 144 videos + 50 blog posts from YC + 1 external blog post (Sam Altman personal blog) = 195 sources → 203 articles.
-Remaining: ~185 fetched but unabsorbed sources in `raw/`.
+Current corpus and current counts live in [README.md](README.md#current-coverage) — treat it as the single source of truth so numbers never drift across instruction files. In short: the primary source is the [YC Startup Library](https://www.ycombinator.com/library), with a growing tail of external sources (Sam Altman's personal blog is the first). A substantial portion of fetched sources remain unabsorbed in `raw/` — mostly Lightcone Podcast episodes, AI/tech deep-dives, design reviews, and founder interviews.
 
 ### Future Extensions
 - South Park Commons and similar founder communities
