@@ -168,6 +168,24 @@ Graph propagation is mandatory. Every absorption must update all connected nodes
 
 This three-phase approach is the **default for every absorption run**, including future video transcripts, external blog posts, and any new source type. It is not optional — skipping Phase 3 produces an inconsistent wiki.
 
+#### Auto-Parallelization Thresholds
+
+When the number of sources to absorb exceeds 3, automatically use the three-phase pipeline with parallel agents. Do not process 4+ sources sequentially — parallelism is the answer to speed, not skipping steps.
+
+| Sources | Mode |
+|---------|------|
+| 1-3 | Sequential (inline absorption, no draft directories) |
+| 4-10 | Parallel: 2-3 agents, ~3-5 sources each |
+| 11-25 | Parallel: 3-4 agents, ~6-8 sources each |
+| 26+ | Parallel: 5-6 agents, ~10-13 sources each |
+
+**Constraints validated empirically:**
+- **Max ~13 sources per agent.** More than that and agents start skimming. 52 per agent produced F-grade absorptions; 10-13 per agent produced A-grade.
+- **Balance by word count, not just source count.** Keep total words per agent under ~60K. A 25K-word transcript needs more room than a 2K-word one.
+- **All agents read the existing wiki** before writing — this ensures they enrich existing articles rather than creating duplicates.
+- **Draft directories prevent file conflicts.** Each agent writes to `wiki_draft_N/`. No two agents write to the same directory.
+- **Clean up draft directories** after Phase 3 (`rm -rf wiki_draft_*`).
+
 **Anti-cramming:** If you're adding a third paragraph about a sub-topic to an existing article, that sub-topic probably deserves its own page.
 
 **Anti-thinning:** Creating a page is not the win. Enriching it is. Every time you touch a page, it should get richer. Never add a source to an article with just one sentence of contribution — if the source has something to say on the topic, give it the space it needs.
