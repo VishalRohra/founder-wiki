@@ -62,6 +62,48 @@ Create a person page when someone appears as a speaker/author in 2+ sources. The
 
 Every wiki page should be densely linked to related pages. When you mention a concept that has its own page, use `[[wikilinks]]`. When you reference a person, link to their page. When a framework is mentioned in a topic article, link to the framework page. The wiki's value compounds through these connections — an agent traversing 3-8 pages should encounter dozens of links, each one a pathway to deeper context.
 
+## Development Lifecycle
+
+Two rules govern every change to this repo, regardless of what else you are working on. They exist because the `wiki/` folder is production data, and AGENTS.md is the source of truth every future agent will read.
+
+### Pre-commit Verification
+
+Before any commit that touches the `wiki/` folder, re-read the relevant sections of AGENTS.md and verify the staged changes actually follow the instructions. This is a hard gate, not a courtesy check. The check covers, at minimum:
+
+1. **Structure.** Does every modified article still follow the article rendering structure (frontmatter → body → References → optional Backlinks)? Is any content accidentally appended *after* References?
+2. **Synthesis.** Are new contributions woven into existing thematic sections (the default), or is there a per-source block that should have been integrated? If a per-source block exists, does it meet one of the case-by-case exceptions (see *Integration Over Appending* in Writing Standards)?
+3. **Propagation.** Does `_absorb_log.json`'s `articles_touched` list every article that actually received substantive content? Is a multi-topic source enriching every relevant topic article, not just a single hub page?
+4. **Citations and frontmatter.** References numbered correctly, publication dates present, `last_updated` bumped, and `sources` / `aliases` / `related` frontmatter current?
+5. **JSON rebuild.** Are `viewer/articles.json` and `docs/articles.json` regenerated and in sync?
+
+If any check fails, rewrite the staged changes before commit. If the rule is ambiguous in context, ask the user — don't guess.
+
+### Feedback Becomes Permanent Standards
+
+When the user identifies a problem, requests a change, or points out an inconsistency — the relevant principle in this file MUST be updated immediately, in the same response. Do not wait for the user to ask. Do not treat feedback as a one-time fix. Every fix becomes a permanent standard so the same issue never recurs. This is non-negotiable.
+
+The feedback loop is: user identifies issue → fix the issue → update AGENTS.md so the next agent does not repeat the mistake. If the user says "footnotes should scroll to references," update the Rendering Standards section. If the user says "dates should be in references," update the Citations section. If the user says "images are missing," update the Depth Standard. The update must follow the *Instruction-File Change Protocol* below — synthesize into the right existing section, not append a parallel bullet.
+
+### Instruction-File Change Protocol
+
+Any change to a markdown file that an agent reads as instruction (AGENTS.md, QUERY.md, CLAUDE.md, README.md, files under `.claude/skills/`) follows this protocol. Instruction files are the source of truth for every future agent run — incoherent instructions produce incoherent behavior.
+
+1. **Scan for conflicts first.** Before proposing a new principle, bullet, or section, scan the target file for existing content on the same topic. If the new content duplicates, contradicts, or overlaps with existing content, flag the conflict.
+2. **Ask the user to resolve.** Present the conflict with concrete options (keep A, keep B, merge, soften, delete). Do not pick a side silently.
+3. **Synthesize, don't append.** After resolution, update the relevant existing section — do not add a parallel bullet that shadows the existing rule. A parallel log of "evolved standards" that contradicts the main spec will produce inconsistent agent behavior.
+4. **No silent additions.** Never edit an instruction file in a way that future agents might interpret differently from existing content. If the change can't be made without a conflict check, it shouldn't be made in that turn.
+
+### QUERY.md Sync
+
+QUERY.md is a curated view of AGENTS.md for query agents — it contains only what a reader needs (Core Principle, Architecture, People pages, Query protocol, content character, citation format). AGENTS.md is the source of truth; QUERY.md is downstream.
+
+Rules:
+
+1. **AGENTS.md updates first.** Any change that affects query-agent behavior (how queries traverse the wiki, how content is organized, citation format, the character of articles, what to do when the wiki is thin) is made in AGENTS.md first, then synced into QUERY.md.
+2. **Do not edit QUERY.md in isolation.** If you find a needed improvement while reading QUERY.md, update AGENTS.md, then reflect it in QUERY.md.
+3. **Scope discipline.** Do not expand QUERY.md with build-side content. If a rule concerns absorption, synthesis, propagation, rendering standards, or lifecycle, it stays in AGENTS.md only.
+4. **Sync check on every AGENTS.md change.** Before committing any AGENTS.md edit, ask: does this change query-relevant behavior? If yes, update QUERY.md in the same commit. If no, leave QUERY.md alone.
+
 ## Operations
 
 ### Query
@@ -81,6 +123,12 @@ Absorption runs in **three phases** to balance speed (parallel agents) with grap
 #### Phase 1: Draft (parallel, fast)
 
 Multiple agents run simultaneously, each reading a batch of raw sources. Each agent writes articles to its own **isolated draft directory** (`wiki_draft_1/`, `wiki_draft_2/`, etc.) to avoid file conflicts. No agent reads another agent's output.
+
+**Absorption coverage principle.** Every existing topic article that a source substantively addresses must be enriched in the same absorption run. If a source has N distinct ideas, absorption should touch ~N articles. Updating only the speaker page when the source covers hiring, leadership, productivity, and growth is an absorption failure, not a trade-off — the speaker page is a hub, but topic pages are where the knowledge actually gets queried. A single-article entry in `articles_touched` for a multi-topic source is a bug.
+
+**Pre-write mapping step.** Before touching any wiki file, list every distinct idea, argument, or item in the source and map each to the specific wiki article(s) that should absorb it. Make that mapping explicit and visible in the absorption output — not an internal decision. Every article identified in the mapping must be updated in the same run, before commit.
+
+**Ingestion metadata.** Extract all available metadata when creating the raw entry: dates, authors, speaker labels, tags, images, external links, duration. Store in frontmatter even if not immediately used — having the data available is better than needing to re-scrape.
 
 Each agent:
 1. Read the raw/ entries **in full**
@@ -106,14 +154,17 @@ One agent reads ALL draft directories and the existing wiki, then produces the u
 
 #### Phase 3: Propagate (single agent)
 
-One agent ensures the graph is fully consistent:
+Graph propagation is mandatory. Every absorption must update all connected nodes — no orphan pages, no broken links, no stale cross-references. One agent ensures the graph is fully consistent:
+
 1. **Find and fix all dead wikilinks.** For every `[[link]]` that references a nonexistent page, either create the page (if enough material exists across the wiki) or remove/rewrite the link.
 2. **Ensure bidirectional linking.** If article A links to article B, check that B's backlinks include A. Update `wiki/_backlinks.json`.
 3. **Create missing person pages.** Any speaker referenced in 2+ articles who lacks a page gets one.
-4. **Update the index.** Rebuild `wiki/_index.md` with all articles, 1-2 sentence summaries, aliases, and source counts. Categories emerge from the actual wikilink graph.
-5. **Audit article quality.** Spot-check the 5 most-connected articles. Are they rich enough to answer questions without going to source? Do they have consensus signals? Are images and external links included?
-6. **Rebuild viewer.** Regenerate `viewer/articles.json` so the viewer reflects all changes immediately.
-7. **Report.** Output a consistency report: total articles, dead links remaining (should be 0), orphan pages, articles without references.
+4. **Co-speakers share sources.** When a video features multiple speakers (e.g., "Dalton & Michael"), every one of their speaker pages must list that video in the `sources` frontmatter field. If one speaker has it, the others must too.
+5. **Update the index.** Rebuild `wiki/_index.md` with all articles, 1-2 sentence summaries, aliases, and source counts. Categories emerge from the actual wikilink graph.
+6. **Audit article quality.** Spot-check the 5 most-connected articles. Are they rich enough to answer questions without going to source? Do they have consensus signals? Are images and external links included?
+7. **Rebuild viewer.** Regenerate `viewer/articles.json` and sync to `docs/articles.json` so the live site reflects all changes immediately.
+8. **Update repo-level counts.** Refresh article counts, source counts, and any other numbers in `README.md` and AGENTS.md so they reflect current state. Never leave stale numbers in documentation.
+9. **Report.** Output a consistency report: total articles, dead links remaining (should be 0), orphan pages, articles without references.
 
 This three-phase approach is the **default for every absorption run**, including future video transcripts, external blog posts, and any new source type. It is not optional — skipping Phase 3 produces an inconsistent wiki.
 
@@ -151,9 +202,13 @@ Absorption is not just extraction — it is **compilation**. The value of this w
 
 **Speaker pages must reflect what that person specifically said.** A D&M video should update both Dalton's and Michael's speaker pages — but with different content. Dalton's page gets his frameworks and examples. Michael's page gets his frameworks and examples. If you can't tell who said what (auto-caption without labels), note this limitation.
 
+**Co-speakers share sources in frontmatter.** The `sources` frontmatter array on every co-speaker's page must include the multi-speaker video. If Dalton's page has a D&M video, Michael's page must too — even if their inline content differs. Phase 3 propagation checks for this.
+
 **Repeated examples across speakers:** When the same example (e.g., "Airbnb's early photos") is mentioned by 5 speakers across 5 videos, mention it once in the topic article with citations to all sources: [1][4][7][12][15]. This shows consensus without repetition. In speaker pages, include the example only if that speaker draws a unique lesson from it.
 
 #### Transcript Quality
+
+**Always check the YC library page for a curated transcript before falling back to YouTube auto-captions.** YC page transcripts are editorially reviewed and have proper speaker labels; auto-captions have transcription errors and no labels. The `transcript_source` field in frontmatter records which source was used (`yc_page` or `youtube_auto`).
 
 **YC page transcripts** (transcript_source: "yc_page") have speaker labels and editorial review. Use direct quotes freely. Speaker attribution is reliable.
 
@@ -319,11 +374,14 @@ speakers_referenced: ["Dalton Caldwell", "Michael Seibel"]
 2. [Source Title](URL) — Speaker Name (Month Year)
 ```
 
+**Required frontmatter fields:** `title`, `type`, `created`, `last_updated`, `sources`. The `last_updated` field must be refreshed every time the article is modified — the viewer uses it to display "Last edited" timestamps.
+
 ### Key Principles
 
 - Articles are **concept-centric**, not speaker-centric. Speakers are attribution. But speakers also get their own pages as first-class graph nodes.
 - Cross-referencing the same idea across different speakers is the core value.
 - Use **attributed synthesis**: weave multiple speakers' views into one coherent article. Don't just list "Speaker A says X, Speaker B says Y." Show how the perspectives build on, complement, or contradict each other.
+- **Integration over appending.** When a new source contributes to an existing article, default to inline attributed synthesis — find the existing thematic section the contribution fits into, add 1-3 sentences of synthesis that connects the new voice to what's already there, and drop the `[N]` citation into that paragraph. Points from the same source do not cluster together just because they came from the same source; each point finds its own home. Per-source sections (e.g. "How to Succeed with a Startup (2018 Talk)") are acceptable on a case-by-case basis when (a) the source shows evolution of one person's thinking across a major work, (b) the source is a discrete lecture best treated as a unit, or (c) a new short article is being created around a distinct topic where inline doesn't apply. Default is integration; per-source blocks are the exception, not the pattern.
 - Use `[[wikilinks]]` for all cross-references between articles — including person pages.
 - **Aliases in frontmatter are critical** — this is how queries match to articles.
 - Every article must have a References section listing which raw entries contributed.
@@ -389,6 +447,8 @@ excited you are, and only pursue 7.5+ [3].
 - References are numbered in order of first appearance in the article.
 - Each reference entry includes: linked title, URL, and speaker/author name(s).
 - Speaker names in references should link to their person page if one exists.
+- **Publication dates are mandatory.** Format: `1. [Source Title](URL) — Speaker Name (Month Year)`. Extract the date from the raw source's frontmatter or body text. If no month is available, use the year from the URL or other metadata. Dates provide temporal context for advice that may evolve and are never optional.
+- **Only one citation section per article.** Use `## References` with `[N]` footnotes. Never create a parallel `## Source Talks` table or other citation block. If both exist, merge into References only.
 
 ### References Section (Replaces Source Talks Table)
 
@@ -418,6 +478,8 @@ Every article, when rendered, should have these visual sections (in order):
 5. **References** — numbered list of all sources cited
 6. **Backlinks** — auto-generated list of "Pages that link here"
 
+**Never add content after `## References`.** This is non-negotiable. Any edit that appends a new section below the References list is broken and must be redone before commit — new content goes into the relevant body section above References, and the citation is added to the References list in place.
+
 ### Wikilink Rendering
 
 `[[Article Title]]` renders as a clickable link to that article. `[[Article Title|display text]]` renders with custom display text. Dead links (referencing articles that don't exist yet) should render in red — this signals gaps in the wiki that need to be filled.
@@ -430,41 +492,17 @@ The viewer is intentionally simple — navigation, search, and article rendering
 - **Article pages:** Table of Contents, body with rendered wikilinks and citations, References, Backlinks
 - **Search:** Matches against titles, aliases, and body text
 - **Sidebar:** Navigation organized by the categories in `_index.md`
-
-## Feedback and Standards Evolution
-
-**This file auto-updates with every piece of user feedback.** When the user identifies a problem, requests a change, or points out an inconsistency — the relevant principle or standard in this file MUST be updated immediately, in the same response. Do not wait for the user to ask for it. Do not treat feedback as a one-time fix. Every fix becomes a permanent standard so the same issue never recurs.
-
-This is non-negotiable. If the user says "footnotes should scroll to references," update the Rendering Standards section. If the user says "dates should be in references," update the References section. If the user says "images are missing," update the Extraction standards. The feedback loop is: user identifies issue → fix the issue → update AGENTS.md so it never happens again.
-
-### Current Evolved Standards
-
-From feedback during build:
-- **Preserve images from raw sources** — they are content, not decoration. Extract images during scraping. Reference them in wiki articles with markdown image syntax.
-- **Preserve external hyperlinks from source material** — if a source links to a tool, paper, or related post, that link belongs in the wiki article.
-- **Articles must be rich enough to replace reading the source** — if an agent has to follow a source link to understand a point, the article has failed.
-- **People are first-class graph nodes** — create person pages, not just inline mentions.
-- **Directories emerge freely** — don't force content into existing categories.
-- **Graph propagation is mandatory** — every absorption must update all connected nodes. No orphan pages, no broken links, no stale cross-references.
-- **Extract all available metadata during ingestion** — dates, authors, tags, images, links, duration. Store in frontmatter even if not immediately used. Having the data available is better than needing to re-scrape.
-- **Video transcripts: YC page first, YouTube fallback.** Always check the YC library page for a curated transcript before falling back to YouTube auto-captions. YC page transcripts have proper speaker labels ("Dalton Caldwell:", "Michael Seibel:") and are editorially reviewed. YouTube auto-captions lack speaker attribution and have transcription errors. The `transcript_source` field in frontmatter tracks which source was used ("yc_page" or "youtube_auto").
-- **References must include publication dates** — format: `1. [Source Title](URL) — Speaker Name (Month Year)`. Dates provide temporal context for advice that may evolve. This is mandatory, not optional. If the raw source has a date in frontmatter or body text, extract it. If not available, use the year from the source URL or metadata.
-- **Images must be curated, not dumped.** For each image, the agent should decide: can this be conveyed with text? Would a future agent querying this article benefit from seeing this image? Include images that convey information text cannot (diagrams, data visualizations, before/after comparisons, architectural charts). Skip decorative images, redundant illustrations of the same point, and low-information screenshots. There is no hard cap — use judgment. The viewer renders images as small Wikipedia-style thumbnails floated right (max 220px wide).
-- **Navigation must use hash-based URLs (#slug).** The site is served as static files on GitHub Pages. Hash routing (#slug) is the only approach that works with static hosting — query params (?article=slug) fail on reload because there's no server to parse them. Hash URLs persist on reload, work with back/forward, and are shareable. This must not be changed.
-- **Last edited timestamps link to GitHub version history.** The viewer links the "Last edited" date to the GitHub commits page for that file, providing full version history.
-- **Only one citation section per article.** Use `## References` with `[1]` footnotes. Never create a `## Source Talks` table alongside. If both exist, merge into References only.
-- **Every article must have a `last_updated` frontmatter field** set to the date of the most recent edit. The viewer uses this to show "Last edited" timestamps. This is updated every time the article is modified.
-- **Version history is tracked via git.** Every commit to wiki/ is a version. The viewer can reconstruct history from git log for any article path.
-- **Co-speakers share sources.** When a video features multiple speakers (e.g., "Dalton & Michael"), ALL speakers' pages must list that video in their sources. If Dalton's page has a D&M video, Michael's page must too. The Phase 3 propagation pass must check for this.
-- **Viewer must be fully dynamic** — no hardcoded article lists, categories, or slugs. Everything renders from the data. New articles automatically appear everywhere.
-- **Update README.md and AGENTS.md after every absorption run** — article counts, source counts, and any other numbers must reflect the current state. Never leave stale numbers in documentation.
+- **Hash-based navigation (`#slug`) is required.** The site is served as static files on GitHub Pages. Hash routing is the only approach that works with static hosting — query params (`?article=slug`) fail on reload because there is no server to parse them. Hash URLs persist on reload, work with back/forward, and are shareable. Do not change this.
+- **Last edited timestamps link to GitHub.** The "Last edited" date on each article page links to the GitHub commits page for that file, providing full version history. Every commit to `wiki/` is a version; the viewer reconstructs history from `git log`.
+- **Fully dynamic rendering.** No hardcoded article lists, categories, or slugs anywhere in the viewer. Everything renders from `articles.json`, `_index.md`, and `_backlinks.json`. New articles appear automatically after a JSON rebuild — no viewer code edits required.
+- **Image rendering.** Images are rendered as small Wikipedia-style thumbnails floated right, max 220px wide. Curation (see *Depth Standard* under Writing Standards) decides which images to include; the viewer decides how they appear.
 
 ## Source Material
 
 ### Current: Y Combinator Library
 Source: [ycombinator.com/library](https://www.ycombinator.com/library) (416 entries: 345 videos + 71 blog posts).
 Fetched: 310 video transcripts + 69 blog posts.
-Absorbed into wiki: 144 videos + 50 blog posts = 194 sources → 203 articles.
+Absorbed into wiki: 144 videos + 50 blog posts from YC + 1 external blog post (Sam Altman personal blog) = 195 sources → 203 articles.
 Remaining: ~185 fetched but unabsorbed sources in `raw/`.
 
 ### Future Extensions

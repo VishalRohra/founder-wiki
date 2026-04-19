@@ -2,10 +2,10 @@
 title: Growth
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["startup growth", "growth rate", "growing a startup", "growth strategy", "growth team", "scaling growth", "weekly growth rate", "user acquisition", "compound growth", "traction", "user growth"]
+last_updated: 2026-04-19
+aliases: ["startup growth", "growth rate", "growing a startup", "growth strategy", "growth team", "scaling growth", "weekly growth rate", "user acquisition", "compound growth", "traction", "user growth", "compounding exponentials", "emergent properties at scale"]
 related: ["[[Product-Market Fit]]", "[[Doing Things That Don't Scale]]", "[[Default Alive or Default Dead]]", "[[Financial Survival]]", "[[Early-Stage Mistakes]]", "[[Enterprise Sales]]", "[[Seed Fundraising]]", "[[Paul Graham]]", "[[Sam Altman]]", "[[Anu Hariharan]]", "[[Pricing and Monetization]]", "[[Selling to Startups]]"]
-sources: ["8s-startup-growth", "4p-before-growing-your-startup", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "M2-how-to-build-the-future-parker-conrad"]
+sources: ["8s-startup-growth", "4p-before-growing-your-startup", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "M2-how-to-build-the-future-parker-conrad", "sa-what-i-wish-someone-had-told-me"]
 speakers_referenced: ["Paul Graham", "Sam Altman", "Anu Hariharan", "Gustaf Alströmer", "Drew Houston", "Vidit Aatrey", "Parker Conrad"]
 ---
 
@@ -52,6 +52,8 @@ Setting a weekly growth target converts the bewildering problem of starting a st
 Founders often dismiss manual user acquisition because the absolute numbers seem so small. Graham counters with simple math [5]: if you have 100 users and grow 10% a week, after a year you have 14,000 users. After two years, 2 million. The mistake founders make is to underestimate the power of compound growth [5].
 
 Patrick Collison described the transition at Stripe: "At some point, there was a very noticeable change in how Stripe felt. It tipped from being this boulder we had to push to being a train car that in fact had its own momentum" [5].
+
+[[Sam Altman]] adds a structural claim that distinguishes durable compounding from mere growth: "Compounding exponentials are magic. In particular, you really want to build a business that gets a compounding advantage with scale" [11]. The addition is "with scale" -- the math of weekly growth is necessary but not sufficient, because a business that scales cost as fast as it scales revenue is a leaky bucket ([2], see above). The business worth building is the one that gets *harder to compete with* as it grows. Altman pairs this with an observation from both OpenAI and the network-product era: "Scale often has surprising emergent properties" [11]. At sufficient model size, language models exhibited capabilities nobody had predicted from smaller systems; at sufficient user density, marketplaces flip from demand-limited to supply-limited; at sufficient content volume, platforms spawn content categories that did not exist in the smaller version of themselves. Founders underwrite the growth curve and get the emergent behavior as a byproduct -- or not, depending on whether the compounding is structural or cosmetic.
 
 ## Do Not Grow Before the Product Is Loved
 
@@ -224,3 +226,4 @@ The referral program (both sides get free storage) drove 30% of all signups. Sha
 8. [On Starting and Scaling Dropbox (YC W07)](https://ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07) -- [[Drew Houston]], [[Sam Altman]] (2017)
 9. [On Starting and Scaling Indian Shopping Site Meesho](https://ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho) -- [[Vidit Aatrey]], Adora Cheung (2019)
 10. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)
+11. [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) -- [[Sam Altman]] (December 2023)

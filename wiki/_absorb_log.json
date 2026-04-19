@@ -1548,7 +1548,12 @@
       "Sam Altman"
     ],
     "articles_touched": [
-      "wiki/speakers/sam-altman.md"
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/startup-leadership.md",
+      "wiki/topics/hiring-at-early-stage.md",
+      "wiki/topics/founder-productivity.md",
+      "wiki/topics/growth.md"
     ]
   }
 }

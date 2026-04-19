@@ -467,11 +467,13 @@ function showHome(fromPopState) {
     html += '</div>';
   }
 
-  // Recently updated — under Article of the Day
+  // Recently updated — sorted by git commit date (authoritative),
+  // falling back to frontmatter last_updated if git date is missing.
+  const recencyKey = (a) => a.git_last_committed || a.last_updated || '';
   const recentArticles = ARTICLE_LIST
-    .filter(a => a.last_updated)
-    .sort((a, b) => (b.last_updated || '').localeCompare(a.last_updated || ''))
-    .slice(0, 8);
+    .filter(a => recencyKey(a))
+    .sort((a, b) => recencyKey(b).localeCompare(recencyKey(a)))
+    .slice(0, 5);
   if (recentArticles.length) {
     html += '<div style="margin-bottom:16px;">';
     html += '<div style="background:#dde8f0; padding:5px 12px; font-size:13px; font-weight:700; border:1px solid #a2a9b1; border-bottom:none;">Recently updated</div>';
@@ -479,10 +481,12 @@ function showHome(fromPopState) {
     recentArticles.forEach(a => {
       const srcCount = Array.isArray(a.sources) ? a.sources.length : 0;
       const typeLabel = a.dir === 'speakers' ? 'speaker' : a.dir === 'case-studies' ? 'case study' : a.dir === 'frameworks' ? 'framework' : '';
+      const when = (recencyKey(a) || '').slice(0, 10);
       html += '<li style="padding:2px 0; border-bottom:1px solid #f0f0f0;">';
       html += '<a href="#" onclick="navigateTo(\'' + a.slug + '\'); return false;">' + a.title + '</a>';
       if (typeLabel) html += ' <span style="color:#72777d; font-size:11px;">' + typeLabel + '</span>';
       if (srcCount > 0) html += ' <span style="color:#a2a9b1; font-size:11px;">' + srcCount + ' sources</span>';
+      if (when) html += ' <span style="color:#a2a9b1; font-size:11px; float:right;">' + when + '</span>';
       html += '</li>';
     });
     html += '</ul></div></div>';

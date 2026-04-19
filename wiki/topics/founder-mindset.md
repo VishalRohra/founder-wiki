@@ -2,10 +2,10 @@
 title: Founder Mindset
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-18
-aliases: ["determination", "relentlessly resourceful", "founder qualities", "founder traits", "startup mindset", "commitment", "grit", "builder ethos", "counterintuitive", "gaming the system"]
+last_updated: 2026-04-19
+aliases: ["determination", "relentlessly resourceful", "founder qualities", "founder traits", "startup mindset", "commitment", "grit", "builder ethos", "counterintuitive", "gaming the system", "inaction is risk", "optimism obsession self-belief"]
 related: ["Paul Graham", "[[Sam Altman]]", "[[Harj Taggar]]", "[[Why Now]]", "[[Doing Things That Don't Scale]]", "[[Early-Stage Mistakes]]", "[[Starting Young]]", "[[Startup Ideas]]", "[[Recruiting Early Team Members]]", "[[Creating Luck]]", "[[Confronting Reality]]", "[[Dalton Caldwell]]", "[[Garry Tan]]", "[[First-Time Founders]]", "[[Elon Musk]]", "[[Diane Greene]]", "[[Paul Graham]]", "[[Brian Armstrong]]", "[[Building Movements]]", "[[Six Founder Skills]]"]
-sources: ["94-be-relentlessly-resourceful", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "93-a-student-s-guide-to-startups", "5b-how-do-you-convince-someone-to-join-your-startup", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "69-on-starting-and-scaling-meal-kit-company-gobble", "5I-on-starting-and-scaling-healthcare-startup-23andme", "5N-on-starting-and-scaling-bloom-institute-of-technology", "6L-on-starting-and-scaling-construction-startup-plangrid", "89-how-to-succeed-with-a-startup", "GV-should-you-start-a-startup", "Jl-garry-s-channel-6-skills-for-successful-startup-founders", "Jm-garry-s-channel-how-real-movements-start-then-change-the-world", "Jk-garry-s-channel-coinbase-ceo-brian-armstrong-on-cryptocurrency-and-the-future-of-decentralization", "JI-how-to-start-a-startup-before-the-startup"]
+sources: ["94-be-relentlessly-resourceful", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "8t-the-18-mistakes-that-kill-startups", "93-a-student-s-guide-to-startups", "5b-how-do-you-convince-someone-to-join-your-startup", "JG-the-main-function-how-to-go-from-startup-dream-to-reality", "69-on-starting-and-scaling-meal-kit-company-gobble", "5I-on-starting-and-scaling-healthcare-startup-23andme", "5N-on-starting-and-scaling-bloom-institute-of-technology", "6L-on-starting-and-scaling-construction-startup-plangrid", "89-how-to-succeed-with-a-startup", "GV-should-you-start-a-startup", "Jl-garry-s-channel-6-skills-for-successful-startup-founders", "Jm-garry-s-channel-how-real-movements-start-then-change-the-world", "Jk-garry-s-channel-coinbase-ceo-brian-armstrong-on-cryptocurrency-and-the-future-of-decentralization", "JI-how-to-start-a-startup-before-the-startup", "sa-what-i-wish-someone-had-told-me"]
 speakers_referenced: ["Paul Graham", "Dalton Caldwell", "Garry Tan", "Ooshma Garg", "Anne Wojcicki", "Austen Allred", "Tracy Young", "Sam Altman", "Harj Taggar", "Brian Armstrong"]
 ---
 
@@ -51,6 +51,8 @@ The most common type of startup failure is not the spectacular flameout but the 
 
 "Most startups fail because they don't make something people want, and the reason most don't is that they don't try hard enough" [5].
 
+[[Sam Altman]] sharpens the same point in 2023: "Inspiration is perishable and life goes by fast. Inaction is a particularly insidious type of risk" [16]. The framing is specifically about *risk* -- founders underweight it because inaction feels safe, while active mistakes feel costly. Altman's inversion is that the failure mode is almost never moving and being wrong; it is standing still while the window closes.
+
 
 ## Persistence as the Defining Trait: New Case Studies
 
@@ -58,7 +60,7 @@ Four new sources independently reinforce persistence as the defining trait of su
 
 **[[Ooshma Garg]]** spent five and a half years iterating through four product versions of Gobble before finding product-market fit. She nearly ran out of money twice, failed to raise Series A twice, and was publicly mocked by a journalist. [[Paul Graham]] tweeted: "Ooshma Garg does not give up" [9].
 
-**[[Anne Wojcicki]]** persisted with 23andMe for over a decade. [[Sam Altman]] adds: "That is the secret to overnight success is ten years of persistence" [10].
+**[[Anne Wojcicki]]** persisted with 23andMe for over a decade. [[Sam Altman]] adds: "That is the secret to overnight success is ten years of persistence" [10]. In 2023 he compresses the same stance into a single imperative: "Get back up and keep going" [16].
 
 **[[Austen Allred]]** was told by a past investor: "You don't have any marketable skills, you're never going to make more than 60,000 dollars a year." He made sure his next job offer was double that "just out of spite" and went on to build Lambda School [11].
 
@@ -90,7 +92,7 @@ Altman identifies momentum as one of the most critical founder responsibilities.
 
 ## Frugality, Focus, Obsession, and Love
 
-Altman credits Paul Buchheit with distilling the traits of the best YC founders into four words: "frugality, focus, obsession, and love" [13].
+Altman credits Paul Buchheit with distilling the traits of the best YC founders into four words: "frugality, focus, obsession, and love" [13]. Five years later, in his December 2023 essay, Altman gives a slightly different cut at the same question: what it takes to *start* something, as opposed to what makes the best founders. "Optimism, obsession, self-belief, raw horsepower and personal connections are how things get started" [16]. The list swaps frugality and love for optimism, self-belief, raw horsepower, and personal connections -- reflecting a view sharpened by running OpenAI. The through-line is obsession; the additions are about initiating force (self-belief, horsepower, connections) rather than sustained character.
 
 ## Resilience Over Confidence (Harj Taggar)
 
@@ -177,3 +179,4 @@ Graham worries that studying startup mechanics may be "possibly somewhat dangero
 13. [How to Succeed with a Startup](https://ycombinator.com/library/89-how-to-succeed-with-a-startup) -- [[Sam Altman]] (August 2018)
 14. [Should You Start a Startup?](https://ycombinator.com/library/GV-should-you-start-a-startup) -- [[Harj Taggar]] (2022)
 15. [How to Start a Startup: Before the Startup](https://ycombinator.com/library/JI-how-to-start-a-startup-before-the-startup) -- [[Paul Graham]] (2014)
+16. [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) -- [[Sam Altman]] (December 2023)

@@ -2,7 +2,8 @@
 
 Startup knowledge base compiled for AI agents. 200+ synthesized wiki articles covering startup ideas, fundraising, growth, hiring, product, culture, and more — built from YC's library of videos, essays, and founder interviews. No RAG, no embeddings, no vector DB. Just markdown files and an index.
 
-- **[AGENTS.md](AGENTS.md)** — the schema that tells any agent how to navigate the wiki
+- **[QUERY.md](QUERY.md)** — start here if you (or your agent) want to use the wiki to answer questions. Query protocol, content character, citation format.
+- **[AGENTS.md](AGENTS.md)** — the full schema. Read this if you're contributing sources, running absorption, or building tooling on top of the wiki.
 - **[founderwiki.co](https://founderwiki.co)** — a visual wiki for us mere mortals
 
 ![Founder Wiki](docs/screenshot.png)
@@ -50,9 +51,9 @@ cd founder-wiki
 claude  # or cursor, windsurf, codex — any agent that can read files
 ```
 
-The repo includes `CLAUDE.md` and `AGENTS.md` that tell your agent what this is and how to navigate it. It starts at `wiki/_index.md`, follows `[[wikilinks]]`, and cites sources.
+The repo includes `CLAUDE.md`, `QUERY.md`, and `AGENTS.md` that tell your agent what this is and how to navigate it. `QUERY.md` is the quick-start; `AGENTS.md` is the full API. Either way, the agent starts at `wiki/_index.md`, follows `[[wikilinks]]`, and cites sources.
 
-There is no setup. The repo is the product. `AGENTS.md` is the API.
+There is no setup. The repo is the product.
 
 ### 3. Ask anything
 
@@ -130,7 +131,8 @@ wiki/                          # LLM-compiled knowledge graph
   case-studies/                # 32 company deep-dives
   frameworks/                  # 15 named mental models
 
-AGENTS.md                      # Schema — tells any agent how the wiki works
+QUERY.md                       # Quick-start for query agents (read-only use)
+AGENTS.md                      # Full schema — absorption, synthesis, standards, lifecycle
 ```
 
 The wiki is a **knowledge graph in markdown**. Every page is a node. Every `[[wikilink]]` is an edge. The structure follows emergence, not prescription — directories and article types are created as the data demands.
@@ -147,7 +149,8 @@ The primary source is the [YC Startup Library](https://www.ycombinator.com/libra
 |--------|---------|-------------------|
 | YC Library videos | 310 | 144 |
 | YC Library blog posts | 69 | 50 |
-| **Total** | **379** | **194** |
+| External blog posts | 1 | 1 |
+| **Total** | **380** | **195** |
 
 **~185 YC sources remain unabsorbed** — primarily Lightcone Podcast episodes, AI/tech deep-dives, design reviews, and miscellaneous founder interviews. The transcripts are already fetched in `raw/videos/` — they need absorption into the wiki.
 

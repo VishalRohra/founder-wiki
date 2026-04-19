@@ -2,11 +2,11 @@
 title: Startup Leadership
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-18
-aliases: ["leadership", "measuring leadership", "CEO leadership", "building trust", "leadership traits", "how to lead", "authentic leadership"]
-related: ["[[Three Traits of Great Leadership]]", "[[Mission-to-Metrics Framework]]", "[[Startup Management]]", "[[Board Management]]", "[[Ali Rowghani]]", "[[Diane Greene]]", "[[Founder Mindset]]", "[[Hiring at Early Stage]]", "[[Scaling and Later-Stage Operations]]"]
-sources: ["3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "M2-how-to-build-the-future-parker-conrad", "JN-how-to-start-a-startup-building-company-culture-part-i", "JM-how-to-start-a-startup-raising-money-and-succeeding-long-term"]
-speakers_referenced: ["Ali Rowghani", "Ed Catmull", "Steve Jobs", "Jeff Bezos", "Tobi L\u00fctke", "Patrick Collison", "David Rusenko", "Drew Houston", "Vidit Aatrey", "Sarah Nahm", "Parker Conrad", "Brian Chesky"]
+last_updated: 2026-04-19
+aliases: ["leadership", "measuring leadership", "CEO leadership", "building trust", "leadership traits", "how to lead", "authentic leadership", "fight bureaucracy", "outcomes over process", "incentives are superpowers"]
+related: ["[[Three Traits of Great Leadership]]", "[[Mission-to-Metrics Framework]]", "[[Startup Management]]", "[[Board Management]]", "[[Ali Rowghani]]", "[[Diane Greene]]", "[[Founder Mindset]]", "[[Hiring at Early Stage]]", "[[Scaling and Later-Stage Operations]]", "[[Sam Altman]]"]
+sources: ["3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "M2-how-to-build-the-future-parker-conrad", "JN-how-to-start-a-startup-building-company-culture-part-i", "JM-how-to-start-a-startup-raising-money-and-succeeding-long-term", "sa-what-i-wish-someone-had-told-me"]
+speakers_referenced: ["Ali Rowghani", "Ed Catmull", "Steve Jobs", "Jeff Bezos", "Tobi L\u00fctke", "Patrick Collison", "David Rusenko", "Drew Houston", "Vidit Aatrey", "Sarah Nahm", "Parker Conrad", "Brian Chesky", "Sam Altman"]
 ---
 
 # Startup Leadership
@@ -31,7 +31,7 @@ See [[Three Traits of Great Leadership]] for the full framework. In summary:
 
 Great leaders think clearly and describe a compelling vision [1]. Rowghani cites Jeff Bezos's retail strategy as an exemplary case: it was built on three enduring customer preferences (lower prices, bigger selection, faster delivery). As Bezos said: "You can build a business strategy around the things that are stable in time....when you have something that you know is true, even over the long-term, you can afford to put a lot of energy into it" [1].
 
-Clarity of thought always precedes clarity of language. The practical advice: "spend more time thinking about what you believe is truly important for your business. Once you've crystallized what's important for everyone to understand, practice expressing it in simple terms" [1].
+Clarity of thought always precedes clarity of language. The practical advice: "spend more time thinking about what you believe is truly important for your business. Once you've crystallized what's important for everyone to understand, practice expressing it in simple terms" [1]. [[Sam Altman]] distills the same principle into a four-word rule in his 2023 essay: "Communicate clearly and concisely" [9]. The brevity is load-bearing -- Altman's alignment test (ask 10 employees for the top three goals and see if they agree) only works if the founder has done the upstream thinking to name three things in the first place.
 
 As companies scale, preparation becomes critical. Tobi Lütke of Shopify and his senior team spend hundreds of hours preparing for their annual employee Summit. As Lütke describes it: "We want to be a loosely coupled, highly aligned company. The Summit is the main enabler of this because it is a grand sync. We spend countless hours preparing because if we communicate well at the Summit, we achieve great alignment by the end" [1].
 
@@ -72,6 +72,8 @@ The CEO's first job is to "build a great product and find a small group of peopl
 ### Phase 2: Company-Builder-in-Chief (20-500 employees)
 
 When demand exceeds the small team's capacity, the CEO must shift to company-building [2]. This is the critical transition that determines the startup's long-term success. In practice, Phase 2 begins around 20-25 employees and ends around 400-500 [2].
+
+[[Sam Altman]] names the team temperament this phase has to produce: "Cohesive teams, the right combination of calmness and urgency, and unreasonable commitment are how things get finished" [9]. The pairing of calmness *and* urgency is the difficult part -- most teams default to one or the other, and the CEO's job in Phase 2 is to hire, pattern, and incentivize for both at once. Altman pairs this with a specific directive for the same phase: "Fight bullshit and bureaucracy every time you see it and get other people to fight it too. Do not let the org chart get in the way of people working productively together" [9]. Bureaucracy-fighting has to be deputized -- if it stays a CEO-only responsibility, it does not survive the transition to hundreds of employees.
 
 The transition is psychologically difficult: "When you've been a successful Doer-in-Chief, it's hard to stop. It's hard to stop coding, designing product specs, and interacting with customers on a daily basis" [2]. It can also create confusion with the team, who may wonder why the CEO is suddenly delegating tasks they had always done [2].
 
@@ -213,3 +215,4 @@ When asked about the motivations of his four leaders, Rowghani observed that Joh
 6. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)
 7. [How to Start a Startup: Building Company Culture, Part I](https://ycombinator.com/library/JN-how-to-start-a-startup-building-company-culture-part-i) -- [[Brian Chesky]], [[Alfred Lin]] (2014)
 8. [How to Start a Startup: Raising Money and Succeeding Long-Term](https://ycombinator.com/library/JM-how-to-start-a-startup-raising-money-and-succeeding-long-term) -- Jess Lee, Aaron Harris, [[Ali Rowghani]] (2014)
+9. [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) -- [[Sam Altman]] (December 2023)

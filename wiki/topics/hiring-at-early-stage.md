@@ -2,10 +2,10 @@
 title: Hiring at Early Stage
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["early stage hiring", "pre-PMF hiring", "startup hiring mistakes", "when to hire", "don't hire", "overhiring at startups", "hiring before product market fit"]
-related: ["[[Hiring Engineers]]", "[[Financial Survival]]", "[[Default Alive or Default Dead]]", "[[Product-Market Fit]]", "[[Scaling and Later-Stage Operations]]", "[[Co-Founders]]", "[[Company Culture]]"]
-sources: ["J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes", "KF-how-to-not-get-screwed-over-as-a-software-engineer", "6N-vinod-khosla-on-how-to-build-the-future", "6L-on-starting-and-scaling-construction-startup-plangrid", "5I-on-starting-and-scaling-healthcare-startup-23andme", "6a-on-starting-and-scaling-direct-mail-automation-startup-lob", "6I-on-starting-and-scaling-recruiting-software-startup-lever"]
+last_updated: 2026-04-19
+aliases: ["early stage hiring", "pre-PMF hiring", "startup hiring mistakes", "when to hire", "don't hire", "overhiring at startups", "hiring before product market fit", "spend more time recruiting", "superstars net impact"]
+related: ["[[Hiring Engineers]]", "[[Financial Survival]]", "[[Default Alive or Default Dead]]", "[[Product-Market Fit]]", "[[Scaling and Later-Stage Operations]]", "[[Co-Founders]]", "[[Company Culture]]", "[[Sam Altman]]"]
+sources: ["J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes", "KF-how-to-not-get-screwed-over-as-a-software-engineer", "6N-vinod-khosla-on-how-to-build-the-future", "6L-on-starting-and-scaling-construction-startup-plangrid", "5I-on-starting-and-scaling-healthcare-startup-23andme", "6a-on-starting-and-scaling-direct-mail-automation-startup-lob", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "sa-what-i-wish-someone-had-told-me"]
 speakers_referenced: ["Harj Taggar", "Michael Seibel", "Brad Flora", "Dalton Caldwell", "Vinod Khosla", "Sam Altman", "Tracy Young", "Anne Wojcicki", "Harry Zhang", "Sarah Nahm"]
 ---
 
@@ -99,7 +99,7 @@ Seibel's closing advice to technical people: "Know your worth. And if you're a r
 
 [[Vinod Khosla]] argues the most important quality in any hire is rate of learning, not domain experience: "Experience doesn't matter, the rate of learning matters. First principle's thinking matters. Pick for the best athlete, not the person who's the most established wide receiver who knows how to run one pattern" [3].
 
-His evaluation method: give candidates a brand-new problem they have no experience with and observe first-principles thinking. Both Khosla and [[Sam Altman]] identify "how fast did they evolve their plan" as the number one indicator of founder quality [3].
+His evaluation method: give candidates a brand-new problem they have no experience with and observe first-principles thinking. Both Khosla and [[Sam Altman]] identify "how fast did they evolve their plan" as the number one indicator of founder quality [3]. In his 2023 essay, Altman gives the hiring rule its most compressed form: "Spend more time recruiting. Take risks on high-potential people with a fast rate of improvement. Look for evidence of getting stuff done in addition to intelligence" [8]. The ordering matters -- rate of improvement before intelligence, shipped work before credentials. Intelligence is a necessary filter, not a sufficient one.
 
 Khosla's specific interview question: "If I gave you $10 million today, what three startups would you consider, and what are the reasons as an investor you wouldn't want to invest in those?" This reveals how candidates think about novel problems [3].
 
@@ -115,7 +115,7 @@ For leadership hires (post-50 employees), Young looks for authenticity: "If ther
 
 [[Anne Wojcicki]] describes a deliberate choice between two types of smart people: those with humility and those who want to demonstrate their intelligence. 23andMe opted for humility. "It's really important to have people who are constantly open to feedback and constantly open to constructive criticism and learning about other areas" [5].
 
-[[Sam Altman]] adds his framework: evaluate net output on the entire organization. "Even if they do a lot themselves, if they make everybody else miserable," the hire is a failure [5]. Wojcicki reinforces with the Steve Jobs/Sculley example: "If you hire the wrong senior leadership and you don't fix it very quickly, it can sink you" [5]. The first two hires at 23andMe -- founding scientists found through friend-of-friend networks -- set the talent bar for the entire company [5].
+[[Sam Altman]] adds his framework: evaluate net output on the entire organization. "Even if they do a lot themselves, if they make everybody else miserable," the hire is a failure [5]. He returns to the same tension in 2023 with both sides stated explicitly: "Superstars are even more valuable than they seem, but you have to evaluate people on their net impact on the performance of the organization" [8]. The two clauses cut against each other and must be held together -- a single superstar can be worth many competent hires (argument against safely average hiring), but a "superstar" who degrades five teammates is not a superstar, they are a hidden liability (argument against individual-output worship). Wojcicki reinforces with the Steve Jobs/Sculley example: "If you hire the wrong senior leadership and you don't fix it very quickly, it can sink you" [5]. The first two hires at 23andMe -- founding scientists found through friend-of-friend networks -- set the talent bar for the entire company [5].
 
 ## Hiring as Sales (Harry Zhang / Lob)
 
@@ -142,3 +142,4 @@ Young reports that at YC, "almost every single speaker" discussed not firing fas
 5. [On starting and scaling healthcare startup 23andMe](https://ycombinator.com/library/5I-on-starting-and-scaling-healthcare-startup-23andme) -- [[Anne Wojcicki]], [[Sam Altman]] (2018)
 6. [On starting and scaling direct mail automation startup Lob](https://ycombinator.com/library/6a-on-starting-and-scaling-direct-mail-automation-startup-lob) -- [[Harry Zhang]], [[Kevin Hale]] (2019)
 7. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)
+8. [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) -- [[Sam Altman]] (December 2023)

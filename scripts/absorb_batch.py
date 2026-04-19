@@ -408,7 +408,35 @@ def rebuild_backlinks():
 
 
 def rebuild_viewer_json():
-    """Regenerate viewer/articles.json from current wiki state."""
+    """Regenerate viewer/articles.json from current wiki state.
+
+    Includes `last_updated` and `created` from frontmatter, plus
+    `git_last_committed` (ISO 8601) from `git log -1` for each article file.
+    Git is authoritative for the "Recently updated" home page section because
+    frontmatter dates can drift if an editor forgets to bump them.
+    """
+    # Batch-compute git last-commit dates for all wiki files in one pass.
+    # Uses `git log --name-only --format=...` so we traverse history once
+    # rather than running `git log` 200+ times.
+    git_dates = {}
+    try:
+        result = subprocess.run(
+            ["git", "log", "--name-only", "--format=COMMIT %cI", "--", "wiki/"],
+            capture_output=True, text=True, cwd=str(ROOT), check=True,
+        )
+        current_date = None
+        for line in result.stdout.splitlines():
+            if line.startswith("COMMIT "):
+                current_date = line[len("COMMIT "):].strip()
+            elif line.strip() and current_date:
+                # First time we see a file, that's its most recent commit.
+                if line not in git_dates:
+                    git_dates[line] = current_date
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        # If git isn't available or the repo isn't initialized, fall through
+        # with an empty map — articles will use frontmatter last_updated only.
+        pass
+
     articles = []
     for dirpath, dirs, files in os.walk(WIKI_DIR):
         for f in files:
@@ -443,6 +471,9 @@ def rebuild_viewer_json():
             slug = (meta.get("title", f.replace(".md", ""))).lower()
             slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
 
+            # Relative path from repo root for git date lookup.
+            rel_path = os.path.relpath(path, str(ROOT))
+
             articles.append({
                 "title": meta.get("title", ""),
                 "type": meta.get("type", ""),
@@ -451,6 +482,9 @@ def rebuild_viewer_json():
                 "speakers_referenced": meta.get("speakers_referenced", []),
                 "originated_by": meta.get("originated_by", ""),
                 "related": meta.get("related", []),
+                "created": meta.get("created", ""),
+                "last_updated": meta.get("last_updated", ""),
+                "git_last_committed": git_dates.get(rel_path, ""),
                 "body": match.group(2),
                 "dir": dir_type,
                 "slug": slug,
@@ -460,7 +494,13 @@ def rebuild_viewer_json():
     with open(viewer_path, "w") as f:
         json.dump(articles, f)
 
-    print(f"  Rebuilt viewer/articles.json ({len(articles)} articles)")
+    # Keep docs/articles.json in sync for the live GitHub Pages site.
+    docs_path = ROOT / "docs" / "articles.json"
+    if docs_path.parent.exists():
+        with open(docs_path, "w") as f:
+            json.dump(articles, f)
+
+    print(f"  Rebuilt viewer/articles.json and docs/articles.json ({len(articles)} articles)")
 
 
 def checkpoint(batch_num):

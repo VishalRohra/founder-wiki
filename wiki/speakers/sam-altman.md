@@ -21,6 +21,8 @@ He is pragmatic about outcomes. While much of YC culture emphasizes the billion-
 
 In his OpenAI experience, Altman extends this pragmatism to the realm of scientific research. He describes OpenAI's early years as deeply uncertain -- working on robots, video games, and agents before language models emerged as the path. The critical lesson: "Conviction is great until the moment you have data one way or the other. And there are a lot of people who hold on past the moment of data" [4]. You must operate on conviction when data does not yet exist, but fully embrace being wrong when data arrives.
 
+His 2023 formulation of the starting-energy question is terser: "Optimism, obsession, self-belief, raw horsepower and personal connections are how things get started" [9]. None of the five are about skill or domain expertise -- all are about disposition and relationships, which is consistent with his long-running view that the scarcest resource is people willing to run at an ambitious problem. He pairs this with a constraint: "Don't fight the business equivalent of the laws of physics" [9]. Conviction-at-uncertainty is a virtue; conviction-against-physics is a death wish, and separating the two is a core operator skill.
+
 ## Key Frameworks
 
 **The Leaky Bucket**: Growing before the product is loved creates a leaky bucket -- users come in but do not stay. The fix is to build something people love first, then grow [1].
@@ -29,9 +31,11 @@ In his OpenAI experience, Altman extends this pragmatism to the realm of scienti
 
 **Airplane vs. Spaceship**: Most successful startups are airplanes (on track for ~$100M), not spaceships (billion-dollar outcomes). Founders and investors get misaligned when both pretend the airplane is a spaceship [3].
 
-**10-Year Commitment**: Having a strategy that assumes 10 years of work on the company is "an extreme advantage that few founders leverage" [2].
+**10-Year Commitment**: Having a strategy that assumes 10 years of work on the company is "an extreme advantage that few founders leverage" [2]. Altman's 2023 restatement sharpens the cadence: "Plans should be measured in decades, execution should be measured in weeks" [9]. The order-of-magnitude gap between vision horizon and accountability horizon is the point -- it is what makes fast iteration protective rather than chaotic.
 
-**Concentration Over Diversification**: At OpenAI, being less resourced than DeepMind forced a strategic choice: "They're going to try a lot of things, and we've just got to pick one and really concentrate. And that's how we can win here" [4]. This is "totally the right startup takeaway."
+**Concentration Over Diversification**: At OpenAI, being less resourced than DeepMind forced a strategic choice: "They're going to try a lot of things, and we've just got to pick one and really concentrate. And that's how we can win here" [4]. This is "totally the right startup takeaway." Altman gives the same principle its most operational form in 2023: "Concentrate your resources on a small number of high-conviction bets... You can delete more stuff than you think" [9]. The second clause carries the real weight -- founders systematically underestimate what is deletable, and the gap between what is deletable and what they believe is deletable is where diffusion of focus lives.
+
+**Compounding Advantage with Scale**: "Compounding exponentials are magic. In particular, you really want to build a business that gets a compounding advantage with scale" [9]. The "with scale" clause is the distinguishing claim -- it is what separates a business worth building from one that just grows. It is the structural form of his Airplane vs. Spaceship framework: spaceships compound, airplanes do not. Paired with: "Scale often has surprising emergent properties" [9]. At sufficient size, capabilities appear that were not visible in the smaller version of the same system -- a pattern he encountered at OpenAI with language models, and one founders should expect (and underwrite) if the structural compounding is genuine.
 
 **The Five Levels of AI**: A framework to replace the overloaded term "AGI": (1) Chatbots, (2) Reasoners, (3) Agents, (4) Innovators, (5) Organizations. OpenAI believes it reached level 2 with O1 in 2024 [4].
 
@@ -45,6 +49,8 @@ He calls generous early employee equity "the most important piece of advice" fro
 
 On early hire criticality: "If you screw up the first five, seven hires, it's almost impossible to get through that" [6].
 
+His 2023 restatement is more directive: "Spend more time recruiting. Take risks on high-potential people with a fast rate of improvement. Look for evidence of getting stuff done in addition to intelligence" [9]. Time allocated is the input variable (more hours, not better process); trajectory beats current state (rate of improvement over raw intelligence); shipped work beats credentials. He completes the framing with a restatement of the net-impact rule: "Superstars are even more valuable than they seem, but you have to evaluate people on their net impact on the performance of the organization" [9]. Both clauses are load-bearing -- the first argues against safely average hiring, the second against individual-output worship. His 2023 essay closes on the payoff: "Working with great people is one of the best parts of life" [9].
+
 ## On the Current AI Moment
 
 Altman views the AI platform shift as comparable to mobile, internet, and semiconductor revolutions: "Big companies have the edge when things are moving slowly. When something like this happens, that's when upstarts have their edge" [4].
@@ -57,7 +63,7 @@ Altman credits YC with providing the peer group that shaped his ambitions. At St
 
 ## On Persistence and Cross-Domain Learning
 
-Altman frames persistence as compound growth: "It's like compound growth. It's always misunderstood. It always takes longer and then the magnitude in the out years is always bigger than you think" [6]. He and [[Anne Wojcicki]] agree: "That is the secret to overnight success is ten years of persistence" [6].
+Altman frames persistence as compound growth: "It's like compound growth. It's always misunderstood. It always takes longer and then the magnitude in the out years is always bigger than you think" [6]. He and [[Anne Wojcicki]] agree: "That is the secret to overnight success is ten years of persistence" [6]. In 2023 he compresses this into a single imperative: "Get back up and keep going" [9]. Paired with his framing of inaction as risk -- "Inspiration is perishable and life goes by fast. Inaction is a particularly insidious type of risk" [9] -- the position is that founder failure is almost never losing; it is stopping.
 
 Altman shares that he has "learned the most from studying businesses that are not in the technology industry, and I don't think people ever get enough of that" [7]. He mentions visiting the Vatican to think about building YC: "They think on thousand-year time frames, and about a billion people, and it's a very different perspective, but it was really good" [7].
 
@@ -65,7 +71,9 @@ Altman shares that he has "learned the most from studying businesses that are no
 
 Altman is unusual in the YC canon for explicitly addressing what happens when things go well but not spectacularly. Most YC advice assumes either the company will become huge or will fail. Altman fills the gap for the large middle ground: companies that work but are not on a path to massive scale. His advice to be frank with investors about this, rather than deluding them, is uncommon in startup culture.
 
-On management, he is firmly in the "keep it simple" camp -- no innovation on org structure, clear single-manager reporting, compensation bands, and frequent written communication as the highest-leverage management tool.
+On management, he is firmly in the "keep it simple" camp -- no innovation on org structure, clear single-manager reporting, compensation bands, and frequent written communication as the highest-leverage management tool. His 2023 restatement makes the position more directive: "Communicate clearly and concisely" [9], "Fight bullshit and bureaucracy every time you see it and get other people to fight it too. Do not let the org chart get in the way of people working productively together" [9], "Outcomes are what count; don't let good process excuse bad results" [9], and "Incentives are superpowers; set them carefully" [9]. The throughline: organizations do what they reward and tolerate what they leave in place, and bureaucracy-fighting has to be deputized -- if it stays a CEO-only responsibility, it does not survive the transition past a few hundred employees.
+
+He also names the team-level version of the personal discipline he has long emphasized: "Cohesive teams, the right combination of calmness and urgency, and unreasonable commitment are how things get finished" [9]. The pairing of calmness *and* urgency is the difficult part -- most teams default to one. And on ambition as a recruiting and retention lever: "It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn't really matter; audacious ideas motivate people" [9]. The 2023 formulation sharpens the 2018 claim that hard startups are easier to staff because talent follows meaning.
 
 His OpenAI experience adds a dimension missing from his earlier YC-era advice: what it looks like to build a research organization that becomes a product company, how to navigate being badly wrong many times while maintaining forward momentum, and how clarity of direction (once achieved) is the primary determinant of speed.
 
@@ -93,52 +101,6 @@ Three structural advantages for startups: (1) ideas that sound bad but are good 
 - **The Evangelical Founder**: Every startup needs one person who "infects with enthusiasm the whole world" [8].
 - **Frugality, Focus, Obsession, Love**: Paul Buchheit's distillation of the best founder traits [8].
 - **Never Lose Momentum**: "If you lose momentum, it's very difficult to get it back" [8].
-
-## What I Wish Someone Had Told Me (2023 Blog Post)
-
-In December 2023, on his personal blog, Altman published seventeen distilled lessons on building and scaling organizations [9]. The piece lacks introduction or conclusion -- each line stands alone as a compressed, load-bearing claim. It reads as the retrospective notes of an operator who has run both a startup-stage YC and a research-lab-turned-global-platform in OpenAI, and it updates and sharpens several threads from his earlier YC-era writing.
-
-### How Things Start vs. How Things Finish
-
-The opening two items draw a sharp distinction between the energy that initiates a project and the energy that completes one: "Optimism, obsession, self-belief, raw horsepower and personal connections are how things get started" [9]. "Cohesive teams, the right combination of calmness and urgency, and unreasonable commitment are how things get finished" [9]. The first is individual and hot; the second is collective and temperamentally mixed. Most founders have the first and never develop the second. See [[Founder Mindset]] and [[Startup Leadership]].
-
-Altman pairs this with a specific antidote to short-termism: "Long-term orientation is in short supply; try not to worry about what people think in the short term, which will get easier over time" [9]. This echoes his earlier "10-Year Commitment" framework: "Plans should be measured in decades, execution should be measured in weeks" [9].
-
-### Ambition as Recruiting Tool
-
-"It is easier for a team to do a hard thing that really matters than to do an easy thing that doesn't really matter; audacious ideas motivate people" [9]. This is the sharpest form of an argument Altman has made since 2018 (see the Evangelical Founder section above): ambitious visions are easier to staff, not harder, because talent follows meaning. It inverts the conventional intuition that hard problems are hard to recruit against.
-
-### Concentration and Deletion
-
-Two items on focus: "Concentrate your resources on a small number of high-conviction bets; this is easy to say but evidently hard to do. You can delete more stuff than you think" [9]. The last clause -- "you can delete more stuff than you think" -- is the concrete operating directive. It mirrors the lesson he drew from OpenAI's early years against DeepMind: "They're going to try a lot of things, and we've just got to pick one and really concentrate. And that's how we can win here" [4].
-
-### Incentives, Bureaucracy, and Process
-
-"Incentives are superpowers; set them carefully" [9]. "Fight bullshit and bureaucracy every time you see it and get other people to fight it too. Do not let the org chart get in the way of people working productively together" [9]. "Outcomes are what count; don't let good process excuse bad results" [9].
-
-These three items form a single position: organizations reward what they measure and tolerate what they leave in place. Altman frames bureaucracy-fighting as a responsibility that must be deputized, not centralized in the CEO. See [[Startup Leadership]].
-
-### Recruiting and Superstars
-
-"Spend more time recruiting. Take risks on high-potential people with a fast rate of improvement. Look for evidence of getting stuff done in addition to intelligence" [9]. "Superstars are even more valuable than they seem, but you have to evaluate people on their net impact on the performance of the organization" [9].
-
-The "net impact" framing extends the hiring principle Altman articulated during his 23andMe conversation: the best individual performer is a failure if they make everyone else miserable [6]. The new emphasis in 2023 is on "fast rate of improvement" and "evidence of getting stuff done" -- both bias toward trajectory and output over credentials. See [[Hiring at Early Stage]] and [[Recruiting Early Team Members]].
-
-### Iteration, Physics, and Inaction
-
-"Fast iteration can make up for a lot; it's usually ok to be wrong if you iterate quickly" [9]. "Don't fight the business equivalent of the laws of physics" [9]. "Inspiration is perishable and life goes by fast. Inaction is a particularly insidious type of risk" [9].
-
-Altman positions inaction, not wrong action, as the dominant risk. The iteration point permits being wrong; the "laws of physics" point constrains what iteration can recover from. Together they define the operating window: move fast within the bounds that cannot be wished away.
-
-### Scale and Compounding
-
-"Scale often has surprising emergent properties" [9]. "Compounding exponentials are magic. In particular, you really want to build a business that gets a compounding advantage with scale" [9].
-
-These two items state Altman's theory of durable businesses. A compounding advantage at scale is what separates an airplane from a spaceship (see his Airplane vs. Spaceship framework above). The "surprising emergent properties" point echoes his OpenAI research experience: at sufficient scale, language models exhibited capabilities nobody had predicted from smaller systems.
-
-### The Last Three
-
-"Get back up and keep going" [9]. "Working with great people is one of the best parts of life" [9]. The 2023 list ends where his 2018 talk ended -- persistence and peers. Altman has argued across the YC canon that "the secret to overnight success is ten years of persistence" [6]. The 2023 formulation is more compressed but carries the same load: most founder failure is not losing, it is stopping.
 
 ## References
 

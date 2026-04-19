@@ -2,11 +2,11 @@
 title: Founder Productivity
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["founder productivity", "startup productivity", "fake work", "maker schedule", "manager schedule", "time management for founders", "productivity tips", "focus", "prioritization", "maker mode", "manager mode", "getting things done"]
-related: ["[[Founder Mindset]]", "[[Product Development]]", "[[Startup Essentials]]", "[[Paul Graham]]", "[[Startup Management]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]"]
-sources: ["K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done", "Ik-dalton-michael-how-future-billionaires-get-sh-t-done"]
-speakers_referenced: ["Garry Tan", "Aaron Epstein", "Dalton Caldwell", "Michael Seibel", "Paul Graham"]
+last_updated: 2026-04-19
+aliases: ["founder productivity", "startup productivity", "fake work", "maker schedule", "manager schedule", "time management for founders", "productivity tips", "focus", "prioritization", "maker mode", "manager mode", "getting things done", "delete more stuff", "fast iteration"]
+related: ["[[Founder Mindset]]", "[[Product Development]]", "[[Startup Essentials]]", "[[Paul Graham]]", "[[Startup Management]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Sam Altman]]"]
+sources: ["K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done", "Ik-dalton-michael-how-future-billionaires-get-sh-t-done", "sa-what-i-wish-someone-had-told-me"]
+speakers_referenced: ["Garry Tan", "Aaron Epstein", "Dalton Caldwell", "Michael Seibel", "Paul Graham", "Sam Altman"]
 ---
 
 # Founder Productivity
@@ -73,7 +73,7 @@ Many aspiring founders try to keep graduate school, a FAANG job offer, and a sta
 
 ## Stack Ranking
 
-A Group Partner learned from an early board member to stack rank every project. When you have ten projects for the quarter, force yourself to rank them one through ten. "You probably will only do the top three" [1]. Steve Jobs expressed the same idea: "Focus is saying no" [1].
+A Group Partner learned from an early board member to stack rank every project. When you have ten projects for the quarter, force yourself to rank them one through ten. "You probably will only do the top three" [1]. Steve Jobs expressed the same idea: "Focus is saying no" [1]. [[Sam Altman]]'s 2023 version is more operational: "Concentrate your resources on a small number of high-conviction bets... You can delete more stuff than you think" [3]. The "you can delete more than you think" clause is the key -- founders systematically underestimate how much roadmap, calendar, team structure, and product surface can be removed without cost, and the gap between what is actually deletable and what the founder believes is deletable is where [[Founder Productivity|fake work]] accumulates.
 
 ## Manager Mode Productivity
 
@@ -102,9 +102,10 @@ During the YC batch, founders work toward a single demo day goal -- one number. 
 
 ## YC as Productivity Design
 
-Graham designed YC to maximize maker time [2]. There are few events -- no all-day classes. There is a hard deadline (Demo Day). A large portion of the program is simply asking founders what they will accomplish by Demo Day and then asking each week whether they did it. "It turns out that there's a lot of magic in that" [2].
+Graham designed YC to maximize maker time [2]. There are few events -- no all-day classes. There is a hard deadline (Demo Day). A large portion of the program is simply asking founders what they will accomplish by Demo Day and then asking each week whether they did it. "It turns out that there's a lot of magic in that" [2]. [[Sam Altman]] formalizes this cadence as a general rule: "Plans should be measured in decades, execution should be measured in weeks" [3]. The order-of-magnitude gap between vision horizon and accountability horizon is what makes fast iteration actually protective rather than chaotic -- "fast iteration can make up for a lot; it's usually ok to be wrong if you iterate quickly" [3].
 
 ## References
 
 1. [YC's Group Partners Share Productivity Tips and Advice on Actually Getting Things Done](https://ycombinator.com/library/K5-yc-s-group-partners-share-productivity-tips-and-advice-on-actually-getting-things-done) -- [[Garry Tan]] (host), Aaron Epstein, and other YC Group Partners (2022). Note: transcript lacks individual speaker labels beyond "Host" and "Speaker"; per-speaker attribution is limited to cases where a speaker is named in the dialogue itself.
 2. [Dalton & Michael: How Future Billionaires Get Sh*t Done](https://ycombinator.com/library/Ik-dalton-michael-how-future-billionaires-get-sh-t-done) -- [[Dalton Caldwell]], [[Michael Seibel]] (2022)
+3. [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) -- [[Sam Altman]] (December 2023)
