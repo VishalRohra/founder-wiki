@@ -86,16 +86,27 @@
     background: #f8f9fa; border-right: 1px solid #eaecf0;
     min-height: calc(100vh - 40px); padding: 12px 0; font-size: 13px;
   }
-  .sidebar h3 {
+  .sidebar .nav-label { display: block; padding: 10px 14px 3px; font-size: 11px; color: #72777d; font-weight: 700; text-transform: uppercase; }
+  .sidebar .nav-section { margin-bottom: 2px; }
+  .sidebar .nav-section-header {
     font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px;
-    color: #54595d; padding: 10px 14px 3px; margin-top: 4px; font-weight: 700;
+    color: #54595d; padding: 8px 14px 4px; margin-top: 2px; font-weight: 700;
+    cursor: pointer; display: flex; align-items: center; user-select: none;
   }
+  .sidebar .nav-section-header:hover { background: #eef1f4; }
+  .sidebar .nav-section-header .toggle {
+    font-size: 9px; margin-right: 6px; transition: transform 0.15s; color: #a2a9b1;
+  }
+  .sidebar .nav-section-header .toggle.open { transform: rotate(90deg); }
+  .sidebar .nav-section-header .count { font-size: 10px; color: #a2a9b1; margin-left: 4px; font-weight: 400; }
+  .sidebar .nav-section-items { display: none; }
+  .sidebar .nav-section-items.open { display: block; }
   .sidebar a {
-    display: block; padding: 2px 14px; color: #36c; font-size: 13px; line-height: 1.8;
+    display: block; padding: 1px 14px 1px 24px; color: #36c; font-size: 12px; line-height: 1.7;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
   .sidebar a:hover { background: #eaf3ff; text-decoration: none; }
   .sidebar a.active { background: #eaf3ff; font-weight: 600; }
-  .sidebar .nav-label { display: block; padding: 10px 14px 3px; font-size: 11px; color: #72777d; font-weight: 700; text-transform: uppercase; }
 
   /* Content */
   .content {
@@ -310,7 +321,6 @@ async function loadArticles() {
 function buildSidebar() {
   const sidebar = document.getElementById('sidebar');
 
-  // Fully dynamic — group by directory type
   const dirLabels = {
     'topics': 'Topics',
     'frameworks': 'Frameworks',
@@ -327,23 +337,54 @@ function buildSidebar() {
   });
 
   let html = '<span class="nav-label">Navigation</span>';
-  html += `<a href="#" onclick="showHome(); return false;">Main page</a>`;
+  html += `<a href="#" onclick="showHome(); return false;" style="padding-left:14px;">Main page</a>`;
 
   const order = ['topics', 'frameworks', 'case-studies', 'speakers', 'industries'];
-  // Include any dirs not in the predefined order
   Object.keys(groups).forEach(d => { if (!order.includes(d)) order.push(d); });
 
   order.forEach(dir => {
     if (!groups[dir] || !groups[dir].length) return;
     const label = dirLabels[dir] || dir.charAt(0).toUpperCase() + dir.slice(1);
-    html += `<h3>${label}</h3>`;
+    const count = groups[dir].length;
+    html += `<div class="nav-section" data-dir="${dir}">`;
+    html += `<div class="nav-section-header" onclick="toggleNavSection(this)">`;
+    html += `<span class="toggle">&#9654;</span>${label}<span class="count">(${count})</span></div>`;
+    html += `<div class="nav-section-items">`;
     groups[dir].sort((a,b) => (a.title||'').localeCompare(b.title||''));
     groups[dir].forEach(a => {
-      html += `<a href="#" onclick="navigateTo('${a.slug}'); return false;">${a.title}</a>`;
+      html += `<a href="#" onclick="navigateTo('${a.slug}'); return false;" data-slug="${a.slug}">${a.title}</a>`;
     });
+    html += `</div></div>`;
   });
 
   sidebar.innerHTML = html;
+}
+
+function toggleNavSection(header) {
+  const toggle = header.querySelector('.toggle');
+  const items = header.nextElementSibling;
+  const isOpen = items.classList.contains('open');
+  items.classList.toggle('open');
+  toggle.classList.toggle('open');
+}
+
+function openSidebarSection(slug) {
+  // Open the section containing the active article and highlight it
+  document.querySelectorAll('.sidebar a').forEach(a => a.classList.remove('active'));
+  const activeLink = document.querySelector(`.sidebar a[data-slug="${slug}"]`);
+  if (activeLink) {
+    activeLink.classList.add('active');
+    // Open parent section
+    const section = activeLink.closest('.nav-section');
+    if (section) {
+      const items = section.querySelector('.nav-section-items');
+      const toggle = section.querySelector('.toggle');
+      if (items && !items.classList.contains('open')) {
+        items.classList.add('open');
+        toggle.classList.add('open');
+      }
+    }
+  }
 }
 
 function showHome(fromPopState) {
@@ -472,7 +513,7 @@ function navigateTo(slug, fromPopState) {
     h2s.forEach((h, i) => {
       const text = h.replace('## ', '');
       const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-      toc += `<li><a href="#${id}">${text}</a></li>`;
+      toc += `<li><a href="javascript:void(0)" onclick="document.getElementById('${id}')?.scrollIntoView({behavior:'smooth', block:'start'})">${text}</a></li>`;
     });
     toc += '</ol></div>';
   }
@@ -542,10 +583,8 @@ function navigateTo(slug, fromPopState) {
 
   document.getElementById('content').innerHTML = tempDiv.innerHTML;
 
-  // Highlight active sidebar item
-  document.querySelectorAll('.sidebar a').forEach(a => {
-    a.classList.toggle('active', a.textContent === article.title);
-  });
+  // Open sidebar section and highlight active article
+  openSidebarSection(slug);
 
   document.getElementById('searchResults').classList.remove('active');
   document.getElementById('search').value = '';

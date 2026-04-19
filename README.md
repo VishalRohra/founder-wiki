@@ -1,6 +1,8 @@
 # founder-wiki
 
-The compiled startup knowledge base. 168 YC sources (118 videos + 50 blog posts) synthesized into 173 structured wiki articles that any LLM agent can navigate and query. No RAG, no embeddings, no vector DB. Just markdown files and an index.
+The compiled startup knowledge base. 200+ synthesized wiki articles covering startup ideas, fundraising, growth, hiring, product, culture, and more — built from YC's library of videos, essays, and founder interviews. Any AI agent can navigate and query it. No RAG, no embeddings, no vector DB. Just markdown files and an index.
+
+**[Browse the wiki](https://founderwiki.co)** | **[Read AGENTS.md](AGENTS.md)**
 
 ## Inspiration
 
@@ -84,7 +86,7 @@ AGENTS.md                      # Schema — tells any agent how the wiki works
 
 The wiki is a **knowledge graph in markdown**. Every page is a node. Every `[[wikilink]]` is an edge. The structure follows emergence, not prescription — directories and article types are created as the data demands.
 
-**173 articles** compiled from **168 absorbed sources** (118 videos + 50 blog posts). 1,700+ wikilinks connecting them. 0 dead links.
+**200+ articles** compiled from YC's library. Topics, speakers, case studies, and frameworks — all interlinked with 1,700+ wikilinks. 0 dead links.
 
 ## Contributing
 

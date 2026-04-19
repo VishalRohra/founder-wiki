@@ -457,6 +457,7 @@ From feedback during build:
 - **Version history is tracked via git.** Every commit to wiki/ is a version. The viewer can reconstruct history from git log for any article path.
 - **Co-speakers share sources.** When a video features multiple speakers (e.g., "Dalton & Michael"), ALL speakers' pages must list that video in their sources. If Dalton's page has a D&M video, Michael's page must too. The Phase 3 propagation pass must check for this.
 - **Viewer must be fully dynamic** — no hardcoded article lists, categories, or slugs. Everything renders from the data. New articles automatically appear everywhere.
+- **Update README.md and AGENTS.md after every absorption run** — article counts, source counts, and any other numbers must reflect the current state. Never leave stale numbers in documentation.
 
 ## Source Material
 
