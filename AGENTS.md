@@ -74,7 +74,7 @@ Before any commit that touches the `wiki/` folder, re-read the relevant sections
 2. **Synthesis.** Are new contributions woven into existing thematic sections (the default), or is there a per-source block that should have been integrated? If a per-source block exists, does it meet one of the case-by-case exceptions (see *Integration Over Appending* in Writing Standards)?
 3. **Propagation.** Does `_absorb_log.json`'s `articles_touched` list every article that actually received substantive content? Is a multi-topic source enriching every relevant topic article, not just a single hub page?
 4. **Citations and frontmatter.** References numbered correctly, publication dates present, `last_updated` bumped, and `sources` / `aliases` / `related` frontmatter current?
-5. **JSON rebuild.** Are `viewer/articles.json` and `docs/articles.json` regenerated and in sync?
+5. **JSON rebuild.** Are `viewer/articles.json` and `docs/articles.json` regenerated and in sync? The local rebuild in `absorb_batch.py:rebuild_viewer_json` captures git dates as of *before* the pending commit — so freshly edited files will show their previous commit date in the Recently Updated section until the next rebuild. A GitHub Action (`.github/workflows/refresh-articles-json.yml`) handles this automatically: after any push that touches `wiki/**` or `scripts/absorb_batch.py`, it rebuilds the JSON against the just-landed git state and commits a refresh. You should not manually run a second-commit JSON refresh anymore — the Action covers it.
 
 If any check fails, rewrite the staged changes before commit. If the rule is ambiguous in context, ask the user — don't guess.
 

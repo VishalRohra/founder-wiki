@@ -1,0 +1,57 @@
+name: Refresh articles.json git dates
+
+# Runs after any push that touches wiki content (or the rebuild script itself).
+# Rebuilds viewer/articles.json and docs/articles.json so every article's
+# git_last_committed field reflects its actual most-recent commit — required
+# for the home page "Recently updated" section to surface articles edited in
+# the push that just landed.
+#
+# No infinite-loop risk: commits made with the default GITHUB_TOKEN do not
+# trigger further workflow runs. Manual triggering is available via the
+# Actions tab.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'wiki/**'
+      - 'scripts/absorb_batch.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout with full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Rebuild articles.json
+        run: |
+          python -c "
+          import sys
+          sys.path.insert(0, 'scripts')
+          import absorb_batch
+          absorb_batch.rebuild_viewer_json()
+          "
+
+      - name: Commit refresh if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if [[ -n "$(git status --porcelain viewer/articles.json docs/articles.json)" ]]; then
+            git add viewer/articles.json docs/articles.json
+            git commit -m "Refresh articles.json git dates (auto)"
+            git push
+          else
+            echo "No JSON changes — articles.json already reflects the latest git state."
+          fi
