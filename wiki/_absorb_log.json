@@ -1541,5 +1541,14 @@
       "wiki/topics/diversity-and-inclusion.md",
       "wiki/speakers/kat-manalac.md"
     ]
+  },
+  "sa-what-i-wish-someone-had-told-me": {
+    "absorbed_date": "2026-04-19",
+    "speakers": [
+      "Sam Altman"
+    ],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md"
+    ]
   }
 }
