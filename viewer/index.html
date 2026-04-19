@@ -463,7 +463,7 @@ function showHome(fromPopState) {
     html += '<div style="background:#f8f9fa; border:1px solid #36c; padding:16px; margin-bottom:16px;">';
     html += '<div style="background:#36c; padding:5px 12px; margin:-16px -16px 12px; font-size:13px; font-weight:700; color:#fff; border-bottom:1px solid #2a56a5;">Article of the day</div>';
     html += '<div style="font-size:13px; line-height:1.6;">' + renderedSection + '</div>';
-    html += '<p style="margin-top:10px;"><a href="#" onclick="navigateTo(\'' + aotd.slug + '\'); return false;" style="font-size:12px;">Read full article &rarr;</a></p>';
+    html += '<p style="margin-top:10px;"><a href="#' + aotd.slug + '" style="font-size:12px;">Read full article &rarr;</a></p>';
     html += '</div>';
   }
 
@@ -536,7 +536,7 @@ function showHome(fromPopState) {
       html += '<a href="#" onclick="location.reload(); return false;" style="font-size:11px; color:#72777d; text-decoration:none;">&#8635; another</a>';
       html += '</div>';
       html += '<div style="font-size:13px; line-height:1.6;">' + renderedExcerpt + '</div>';
-      html += '<p style="margin-top:10px;"><a href="#" onclick="navigateTo(\'' + excerptArticle.slug + '\'); setTimeout(() => document.getElementById(\'' + sectionId + '\')?.scrollIntoView({behavior:\'smooth\'}), 100); return false;" style="font-size:12px;">from: ' + excerptArticle.title + ' &rarr;</a></p>';
+      html += '<p style="margin-top:10px;"><a href="#' + excerptArticle.slug + '" style="font-size:12px;">from: ' + excerptArticle.title + ' &rarr;</a></p>';
       html += '</div>';
     }
   }
@@ -746,8 +746,23 @@ document.addEventListener('click', e => {
 // Browser history support — back/forward buttons work
 window.addEventListener('popstate', (e) => {
   if (e.state && e.state.slug) {
-    navigateTo(e.state.slug, true); // true = don't push state again
+    navigateTo(e.state.slug, true);
   } else {
+    const hash = window.location.hash.slice(1);
+    if (hash && ARTICLES[hash]) {
+      navigateTo(hash, true);
+    } else {
+      showHome(true);
+    }
+  }
+});
+
+// Handle hash changes (from <a href="#slug"> links)
+window.addEventListener('hashchange', () => {
+  const hash = window.location.hash.slice(1);
+  if (hash && ARTICLES[hash]) {
+    navigateTo(hash, true);
+  } else if (!hash || hash === '') {
     showHome(true);
   }
 });
