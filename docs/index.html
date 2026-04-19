@@ -389,9 +389,7 @@ function openSidebarSection(slug) {
 
 function showHome(fromPopState) {
   if (!fromPopState) {
-    const url = new URL(window.location);
-    url.searchParams.delete('article');
-    history.pushState({}, 'Founder Wiki', url.toString());
+    history.pushState({}, 'Founder Wiki', '#');
   }
   document.title = 'Founder Wiki';
   const content = document.getElementById('content');
@@ -437,6 +435,61 @@ function showHome(fromPopState) {
   const order = ['topics', 'frameworks', 'case-studies', 'speakers', 'industries'];
   Object.keys(groups).forEach(d => { if (!order.includes(d)) order.push(d); });
 
+  // === Exploratory sections ===
+  html += '<div style="display:flex; gap:20px; margin-bottom:24px;">';
+
+  // Article of the day — deterministic based on date
+  const today = new Date();
+  const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000);
+  const allTopics = ARTICLE_LIST.filter(a => a.dir === 'topics');
+  const aotd = allTopics[dayOfYear % allTopics.length];
+  if (aotd) {
+    const preview = aotd.body.replace(/^#.*\n+/, '').replace(/---\n[\s\S]*?\n---\n*/, '').substring(0, 250).replace(/\[\[\w/g, '').replace(/\]\]/g, '').replace(/\[(\d+)\]/g, '');
+    html += `<div style="flex:1; background:#f8f9fa; border:1px solid #a2a9b1; padding:16px;">
+      <div style="background:#dde8f0; padding:4px 10px; margin:-16px -16px 12px; font-size:13px; font-weight:700; border-bottom:1px solid #a2a9b1;">Article of the day</div>
+      <a href="#" onclick="navigateTo('${aotd.slug}'); return false;" style="font-size:16px; font-weight:600;">${aotd.title}</a>
+      <p style="font-size:13px; color:#54595d; margin-top:6px;">${preview}... <a href="#" onclick="navigateTo('${aotd.slug}'); return false;" style="font-size:12px;">Read more</a></p>
+    </div>`;
+  }
+
+  // Random nugget of wisdom
+  const allArticles = ARTICLE_LIST.filter(a => a.dir === 'topics' && a.body.length > 500);
+  const nuggetArticle = allArticles[Math.floor(Math.random() * allArticles.length)];
+  if (nuggetArticle) {
+    // Find a paragraph with a quote or strong claim
+    const paragraphs = nuggetArticle.body.split('\n\n').filter(p => p.length > 80 && p.length < 400 && !p.startsWith('#') && !p.startsWith('|') && !p.startsWith('---'));
+    const nugget = paragraphs[Math.floor(Math.random() * paragraphs.length)] || paragraphs[0] || '';
+    const cleanNugget = nugget.replace(/\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]/g, '$1').replace(/\[(\d+)\]/g, '').substring(0, 300);
+    html += `<div style="flex:1; background:#fff8f0; border:1px solid #e8d5b8; padding:16px; position:relative;">
+      <div style="background:#f0e0c8; padding:4px 10px; margin:-16px -16px 12px; font-size:13px; font-weight:700; border-bottom:1px solid #e8d5b8; display:flex; justify-content:space-between; align-items:center;">
+        <span>Nugget of wisdom</span>
+        <a href="#" onclick="location.reload(); return false;" style="font-size:11px; color:#72777d;">another one</a>
+      </div>
+      <p style="font-size:13px; line-height:1.6; color:#202122;">${cleanNugget}</p>
+      <p style="margin-top:8px;"><a href="#" onclick="navigateTo('${nuggetArticle.slug}'); return false;" style="font-size:12px;">from: ${nuggetArticle.title}</a></p>
+    </div>`;
+  }
+
+  html += '</div>';
+
+  // Recently updated articles
+  const recentArticles = ARTICLE_LIST
+    .filter(a => a.last_updated)
+    .sort((a, b) => (b.last_updated || '').localeCompare(a.last_updated || ''))
+    .slice(0, 8);
+  if (recentArticles.length) {
+    html += `<div style="margin-bottom:20px;">
+      <div style="background:#dde8f0; padding:6px 12px; font-size:13px; font-weight:700; border:1px solid #a2a9b1; border-bottom:none;">Recently updated</div>
+      <div style="border:1px solid #a2a9b1; padding:10px 14px; background:#fff; font-size:13px;">`;
+    recentArticles.forEach(a => {
+      const srcCount = Array.isArray(a.sources) ? a.sources.length : 0;
+      html += `<a href="#" onclick="navigateTo('${a.slug}'); return false;" style="margin-right:8px;">${a.title}</a><span style="color:#72777d; font-size:11px; margin-right:16px;">${srcCount} sources</span>`;
+    });
+    html += `</div></div>`;
+  }
+
+  // === Category browsing ===
+  html += '<h2 style="border:none; margin-bottom:12px;">Browse by category</h2>';
   html += '<div class="home-columns"><div class="home-col">';
   let colSwitch = Math.ceil(order.filter(d => groups[d]?.length).length / 2);
   let catCount = 0;
@@ -466,12 +519,19 @@ function showHome(fromPopState) {
   document.querySelectorAll('.sidebar a').forEach(a => a.classList.remove('active'));
 }
 
-// Handle initial load from URL query param
+// Handle initial load from URL hash — works with static hosting
 function handleInitialRoute() {
+  const hash = window.location.hash.slice(1);
+  if (hash && hash !== '' && ARTICLES[hash]) {
+    navigateTo(hash);
+  }
+  // Also check query params for backwards compat
   const params = new URLSearchParams(window.location.search);
   const slug = params.get('article');
   if (slug && ARTICLES[slug]) {
     navigateTo(slug);
+    // Rewrite to hash URL
+    history.replaceState({ slug }, '', `#${slug}`);
   }
 }
 
@@ -479,11 +539,9 @@ function navigateTo(slug, fromPopState) {
   const article = ARTICLES[slug];
   if (!article) { console.warn('Article not found:', slug); return; }
 
-  // Push browser history with query param (works with real page reload)
+  // Hash-based routing — works with static hosting, persists on reload
   if (!fromPopState) {
-    const url = new URL(window.location);
-    url.searchParams.set('article', slug);
-    history.pushState({ slug }, article.title, url.toString());
+    history.pushState({ slug }, article.title, `#${slug}`);
   }
   document.title = `${article.title} — Founder Wiki`;
 
