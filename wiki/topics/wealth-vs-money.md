@@ -2,11 +2,11 @@
 title: Wealth vs. Money
 type: topic
 created: 2026-04-18
-last_updated: 2026-04-18
-aliases: ["wealth vs money", "wealth creation", "chase wealth not money", "wealth machine", "above the API", "creating wealth", "money vs wealth"]
-related: ["[[Garry Tan]]", "[[Paul Graham]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Product-Market Fit]]", "[[Leaving Big Tech]]", "[[Learn, Earn, or Quit]]"]
-sources: ["Je-garry-s-channel-stop-chasing-money-chase-wealth"]
-speakers_referenced: ["Garry Tan"]
+last_updated: 2026-04-19
+aliases: ["wealth vs money", "wealth creation", "chase wealth not money", "wealth machine", "above the API", "creating wealth", "money vs wealth", "own things", "ownership over salary", "compound yourself"]
+related: ["[[Garry Tan]]", "[[Paul Graham]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Product-Market Fit]]", "[[Leaving Big Tech]]", "[[Learn, Earn, or Quit]]", "[[Sam Altman]]", "[[Founder Productivity]]"]
+sources: ["Je-garry-s-channel-stop-chasing-money-chase-wealth", "sa-how-to-be-successful"]
+speakers_referenced: ["Garry Tan", "Sam Altman"]
 ---
 
 # Wealth vs. Money
@@ -45,6 +45,13 @@ Tan frames his personal career arc through the lens of leverage. At age 14, he g
 
 He uses the Apple founding story to illustrate how leverage emerges naturally: Jobs and Wozniak made computers for themselves, then their friends, then the circle got bigger. "We didn't think about starting a company. We were just doing it for ourselves" [1]. Naval Ravikant frames it as escaping finite games: "Wealth is about positive sum games" and "getting out of the sort of finite games like selling your time" [1].
 
+## Ownership Over Salary (Sam Altman)
+
+[[Sam Altman]]'s 2019 *How to Be Successful* reinforces Tan's wealth-not-money frame with the specific operational claim: "You get truly rich by owning things that increase rapidly in value. This can be a piece of a business, real estate, natural resource, intellectual property, or other similar things. But somehow or other, you need to own equity in something, instead of just selling your time. Time only scales linearly" [2]. The framing is explicitly anti-salary: "The biggest economic misunderstanding of my childhood was that people got rich from high salaries. Though there are some exceptions -- entertainers for example -- almost no one in the history of the Forbes list has gotten there with a salary" [2]. The implied follow-through: "The best way to make things that increase rapidly in value is by making things people want at scale."
+
+Altman's first principle in the same essay gives the compounding argument that makes ownership matter: "A medium-sized business that grows 50% in value every year becomes huge in a very short amount of time ... It's worth a lot of effort to find [compounding businesses] and create them" [2]. Paired with Tan's wealth-machine framing, the synthesis is: salary is linear time-for-money, ownership in a compounding business is exponential, and the entire wealth-vs-money distinction is a rediscovery of the same asymmetry from different angles. See [[Leaving Big Tech]] for Altman's warning about the specific way salary-lifestyle matching destroys risk-taking capacity.
+
 ## References
 
 1. [Stop Chasing Money -- Chase Wealth](https://ycombinator.com/library/Je-garry-s-channel-stop-chasing-money-chase-wealth) -- [[Garry Tan]] (n.d.)
+2. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)

@@ -2,10 +2,10 @@
 title: Why Now
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["why now", "timing", "startup timing", "market timing", "technology timing", "platform shifts", "when to start", "why now question"]
-related: ["[[Startup Ideas]]", "[[Growth]]", "[[Competing with Big Companies]]", "[[Garry Tan]]", "[[Sam Altman]]", "[[Product-Market Fit]]"]
-sources: ["Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas", "89-how-to-succeed-with-a-startup"]
+last_updated: 2026-04-19
+aliases: ["why now", "timing", "startup timing", "market timing", "technology timing", "platform shifts", "when to start", "why now question", "tectonic shifts", "real vs fake trends", "ten-year market size"]
+related: ["[[Startup Ideas]]", "[[Growth]]", "[[Competing with Big Companies]]", "[[Garry Tan]]", "[[Sam Altman]]", "[[Product-Market Fit]]", "[[AI and Startups]]"]
+sources: ["Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas", "89-how-to-succeed-with-a-startup", "sa-idea-generation", "sa-how-to-invest-in-startups"]
 speakers_referenced: ["Garry Tan", "Sam Altman", "Ray Kurzweil"]
 ---
 
@@ -63,9 +63,21 @@ Altman provides a complementary framework for evaluating timing [2]. A real tren
 
 The iPhone was a real trend: early owners "used it for hours every day, it became central to their lives." VR (as of 2018) was a fake trend: "most people that I know that own a VR headset use it never or very rarely" [2].
 
+Altman compresses the same test into a single axis in his 2020 *Idea Generation* essay: "If the new platform is used a lot by a small number of people, or used a little by a lot of people" [3]. And again in his 2020 *How to Invest in Startups* essay, with the iPhone example extended: "For a real trend, even if there aren't many users, they use the new platform a lot and love it. Although the iPhone was derided for not having many users in its first year or two, most people who had an iPhone raved about it in a way that they never did about previous smartphones" [4]. The repetition across three essays over two years makes this one of Altman's most consistently restated diagnostics.
+
 ## Exponentially Growing Markets
 
 Altman argues that one of the biggest mistakes investors make is evaluating a startup's market by its current size rather than its growth rate [2]. "11 years ago, the market for iPhone apps: absolute $0. It's not huge. And I think if you only think about the TAM today, you'll make a big mistake. What you really wanna do is identify a market that's gonna grow every year and be able to ride that up elevator" [2].
+
+His 2020 investor essay calls this out as an exploitable bug: "I don't know why most investors are so obsessed with the current size of a market instead of how big they think it will be in ten years, but it's an opportunity for you" [4]. The ten-year framing is load-bearing -- not five, not two. And paired with his observation that "startups can win wherever costs can be low and cycle time can be fast. Startups do particularly well in industries with rapid technological change, because their fundamental advantages over large competitors are speed and focus. A higher rate of change gives startups more opportunities to be right and the large competitor more opportunities to stumble" [4].
+
+## Tectonic Shifts (Sam Altman)
+
+Altman's 2020 *Idea Generation* essay offers "tectonic shifts" as a second, more aggressive framing of timing [3]. "Think about the most important tectonic shifts happening right now. How is the world changing in fundamental ways? Can you identify a leading edge of change and an opportunity that it unlocks? The mobile phone explosion from 2008-2012 is the most recent significant example of this -- we are overdue for another!" The 2020 asterisk -- "overdue for another" -- turned out to predate the LLM moment by roughly two years and reads as unusually well-timed in retrospect. See [[AI and Startups]].
+
+The tectonic-shift framework includes a behavioral test close to [[Garry Tan]]'s behavior-change category: "In such a tectonic shift, the world changes so fast that the big incumbents usually get beaten by fast-moving and focused startups" [3]. Altman's operational filter: "Any time you can think of something that is possible this year and wasn't possible last year, you should pay attention. You may have the seed of a great startup idea. This is especially true if next year will be too late" [3]. The "next year will be too late" clause is the timing-urgency signal -- the window itself is part of the why-now, not just the capability.
+
+In the closing note of *Idea Generation*, Altman himself applies the paragraphs on tectonic shifts and real-vs-fake trends to AI: "I wrote it when I thought mostly about startups; now I think mostly about AI development. I am struck by how much of it applies, particularly paragraphs 5-9" [3].
 
 ## Platform Shifts and Startups
 
@@ -75,3 +87,5 @@ Both Tan and Altman identify platform shifts as the primary mechanism through wh
 
 1. [Why Now? The Key to Million Dollar Startup Ideas](https://ycombinator.com/library/Jt-garry-s-channel-why-now-the-key-to-million-dollar-startup-ideas) -- [[Garry Tan]] (2022)
 2. [How to Succeed with a Startup](https://ycombinator.com/library/89-how-to-succeed-with-a-startup) -- [[Sam Altman]] (August 2018)
+3. [Idea Generation](https://blog.samaltman.com/idea-generation) -- [[Sam Altman]] (May 2020)
+4. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)

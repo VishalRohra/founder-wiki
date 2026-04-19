@@ -2,11 +2,11 @@
 title: Startup Management
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["management", "new managers", "first-time manager", "managing a team", "management advice", "people management", "delegation", "hiring and firing"]
-related: ["[[Startup Leadership]]", "[[Board Management]]", "[[Company Culture]]"]
-sources: ["2s-advice-for-new-managers"]
-speakers_referenced: ["Aaron Epstein"]
+last_updated: 2026-04-19
+aliases: ["management", "new managers", "first-time manager", "managing a team", "management advice", "people management", "delegation", "hiring and firing", "delegate by preference"]
+related: ["[[Startup Leadership]]", "[[Board Management]]", "[[Company Culture]]", "[[Sam Altman]]", "[[Founder Productivity]]"]
+sources: ["2s-advice-for-new-managers", "sa-productivity"]
+speakers_referenced: ["Aaron Epstein", "Sam Altman"]
 ---
 
 # Startup Management
@@ -24,6 +24,8 @@ Delegation is the foundational management skill for founders. Epstein frames it 
 The practical signal for when to delegate: "If you think you're going to have to work especially late or can't get to the things you need to in a given day, take that as a signal to delegate to your team" [1].
 
 The flip side of delegation is growth opportunity creation. Great employees often value personal growth more than compensation: "Don't hoard [new responsibilities] all for yourself" [1]. This connects to the broader principle from [[Startup Leadership]] that a CEO's role transitions from Doer-in-Chief to Company-Builder-in-Chief.
+
+[[Sam Altman]]'s 2018 *Productivity* essay adds a sharp delegation heuristic: match work to preference. "Remember that everyone else is also most productive when they're doing what they like, and do what you'd want other people to do for you -- try to figure out who likes (and is good at) doing what, and delegate that way" [2]. The claim is dual-purpose: it keeps the delegator efficient (they stop doing work they dislike, which Altman considers "a painful drag on morale and momentum"), and it keeps the delegatee efficient (the work matches their preferences, so output quality and speed rise). The operational discipline is taking seriously that other people's preferences are knowable and worth asking about, not assumed.
 
 ## Investing in Star Employees
 
@@ -114,3 +116,4 @@ The common failure mode: new managers try to do both their old maker work and th
 ## References
 
 1. [Advice for New Managers](https://www.ycombinator.com/library/2s-advice-for-new-managers) — Aaron Epstein (n.d.)
+2. [Productivity](https://blog.samaltman.com/productivity) -- [[Sam Altman]] (April 2018)

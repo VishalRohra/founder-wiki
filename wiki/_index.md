@@ -2,12 +2,12 @@
 title: Wiki Index
 type: index
 created: 2026-04-05
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 # Founder Wiki Index
 
-A compiled knowledge base of startup and founder wisdom from the Y Combinator library. 203 articles synthesized from 194 sources.
+A compiled knowledge base of startup and founder wisdom from the Y Combinator library plus Sam Altman's personal blog. 203 articles synthesized from 202 sources.
 
 ## Topics (99 articles)
 

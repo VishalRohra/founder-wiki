@@ -2,11 +2,11 @@
 title: Startup Ideas
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-18
-aliases: ["idea generation", "finding ideas", "schlep filter", "tarpit ideas", "SISP", "sitcom ideas", "organic ideas", "how to get startup ideas", "startup idea", "well model", "testing ideas", "MVP", "unique experience", "mimetic desire", "umbrella tilting"]
-related: ["[[Paul Graham]]", "[[Doing Things That Don't Scale]]", "[[Founder Mindset]]", "[[Schlep Filter]]", "[[Early-Stage Mistakes]]", "[[Co-Founders]]", "[[Getting First Users]]", "[[Garry Tan]]", "[[Better, Faster, or Cheaper]]", "[[Pivoting]]"]
-sources: ["Ji-garry-s-channel-billion-dollar-startup-ideas", "8z-how-to-get-startup-ideas", "8t-the-18-mistakes-that-kill-startups", "8w-the-hardest-lessons-for-startups-to-learn", "8y-before-the-startup", "91-why-smart-people-have-bad-ideas", "8x-why-to-not-not-start-a-startup", "7x-how-to-get-and-test-ideas", "8g-how-to-get-startup-ideas", "93-a-student-s-guide-to-startups", "8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working", "JI-how-to-start-a-startup-before-the-startup"]
-speakers_referenced: ["Paul Graham", "Michael Seibel", "Jared Friedman", "Garry Tan", "Stewart Butterfield", "Adam D'Angelo"]
+last_updated: 2026-04-19
+aliases: ["idea generation", "finding ideas", "schlep filter", "tarpit ideas", "SISP", "sitcom ideas", "organic ideas", "how to get startup ideas", "startup idea", "well model", "testing ideas", "MVP", "unique experience", "mimetic desire", "umbrella tilting", "founder/company fit", "tectonic shifts", "real vs fake trends", "idea flux", "contrarian correct", "huge if it worked", "20 years out"]
+related: ["[[Paul Graham]]", "[[Doing Things That Don't Scale]]", "[[Founder Mindset]]", "[[Schlep Filter]]", "[[Early-Stage Mistakes]]", "[[Co-Founders]]", "[[Getting First Users]]", "[[Garry Tan]]", "[[Better, Faster, or Cheaper]]", "[[Pivoting]]", "[[Sam Altman]]", "[[Why Now]]", "[[AI and Startups]]", "[[Startup Outcomes and Optionality]]"]
+sources: ["Ji-garry-s-channel-billion-dollar-startup-ideas", "8z-how-to-get-startup-ideas", "8t-the-18-mistakes-that-kill-startups", "8w-the-hardest-lessons-for-startups-to-learn", "8y-before-the-startup", "91-why-smart-people-have-bad-ideas", "8x-why-to-not-not-start-a-startup", "7x-how-to-get-and-test-ideas", "8g-how-to-get-startup-ideas", "93-a-student-s-guide-to-startups", "8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working", "JI-how-to-start-a-startup-before-the-startup", "sa-idea-generation", "sa-how-to-invest-in-startups", "sa-how-to-be-successful"]
+speakers_referenced: ["Paul Graham", "Michael Seibel", "Jared Friedman", "Garry Tan", "Stewart Butterfield", "Adam D'Angelo", "Sam Altman"]
 ---
 
 # Startup Ideas
@@ -196,6 +196,29 @@ The optimal preparation is not entrepreneurship classes but genuine intellectual
 
 Graham's ultimate advice: "Just learn" [10].
 
+## Idea Generation as an Input Skill (Sam Altman)
+
+[[Sam Altman]]'s 2020 essay *Idea Generation* frames idea-production as a founder capability, not a product. "YC once tried an experiment of funding seemingly good founders with no ideas. I think every company in this no-idea track failed. It turns out that good founders have lots of ideas about everything, so if you want to be a founder and can't get an idea for a company, you should probably work on getting good at idea generation first" [12]. This sharpens Graham's "turn your brain into the type that has ideas unconsciously" [10] with a diagnostic: if you cannot produce ideas at all, the diagnosis is upstream of any specific idea.
+
+**The environment for fragile ideas.** Altman locates idea-generation primarily in social context: "You want to be around people who have a good feel for the future, will entertain improbable plans, are optimistic, are smart in a creative way, and have a very high idea flux" [12]. The reason: "The best ideas are fragile; most people don't even start talking about them at all because they sound silly. Perhaps most of all, you want to be around people who don't make you feel stupid for mentioning a bad idea, and who certainly never feel stupid for doing so themselves." The symmetric warning: "Stay away from people who are world-weary and belittle your ambitions. Unfortunately, this is most of the world."
+
+**Two generation methods.** The 20-year-out method: "Project yourself 20 years into the future, and then think backwards from there. Trust yourself -- 20 years is a long time; it's ok if your ideas about it seem pretty radical" [12]. The tectonic-shift method: "Think about the most important tectonic shifts happening right now. How is the world changing in fundamental ways? Can you identify a leading edge of change and an opportunity that it unlocks? The mobile phone explosion from 2008-2012 is the most recent significant example of this -- we are overdue for another!" See [[Why Now]] for the full tectonic-shift treatment.
+
+Altman offers a clean real-vs-fake-trend test he has restated across three sources over six years: "If the new platform is used a lot by a small number of people, or used a little by a lot of people" [12]. Real trends have obsessive early adopters; fake trends have large indifferent ones.
+
+**Four tests for a candidate idea:**
+
+- **Possibility-delta.** "Any time you can think of something that is possible this year and wasn't possible last year, you should pay attention. You may have the seed of a great startup idea. This is especially true if next year will be too late" [12].
+- **Inevitability-without-you.** "When you can say 'I am sure this is going to happen, I'm just not sure if we'll be the ones to do it', that's a good sign. Uber was like this for me -- after the first time I used it, it was clear we weren't going to be calling cabs for that much longer" [12].
+- **Could-this-be-huge.** "Could this be huge if it worked? There are many good ideas in the world, but few of them have the inherent advantages that can make a startup massively successful. Most businesses don't generate a valuable accumulating advantage as they scale. Think early about why an idea might have that property" [12]. This is the same compounding-with-scale lens Altman uses for investing [13] and the structural form of his [[Startup Outcomes and Optionality|airplane-vs-spaceship]] distinction.
+- **Contrarian-correct.** "A good test for an idea is if you can articulate why most people think it's a bad idea, but you understand what makes it good" [12].
+
+**Founder/company fit.** The essay's most novel contribution: "I've come to believe that founder/company fit is as important as product/market fit" [12]. Introspection alone is insufficient -- Altman recommends asking mentors or past colleagues what you are specifically good at. The frame quietly reorders standard ideation advice: the question is not "what is the best idea" but "what is the best idea *for me*."
+
+Altman's 2019 *How to Be Successful* makes the independent-thinking prerequisite more explicit: "Entrepreneurship is very difficult to teach because original thinking is very difficult to teach. School is not set up to teach this -- in fact, it generally rewards the opposite. So you have to cultivate it on your own" [14]. The mindset for idea-correctness: "'I will fail many times, and I will be really right once' is the entrepreneurs' way. You have to give yourself a lot of chances to get lucky." This is the same "many chances for luck" frame Altman uses in his willfulness argument in [[Founder Mindset]], applied here to idea-generation volume.
+
+Altman notes that he wrote *Idea Generation* thinking about startups and now thinks mostly about AI development: "I am struck by how much of it applies, particularly paragraphs 5-9" [12] -- the sections on environment, 20-year projection, tectonic shifts, and real-vs-fake trends. See [[AI and Startups]].
+
 ## References
 
 1. [How to Get Startup Ideas](https://www.ycombinator.com/library/8z-how-to-get-startup-ideas) -- [[Paul Graham]] (November 2012)
@@ -209,3 +232,6 @@ Graham's ultimate advice: "Just learn" [10].
 9. [A Student's Guide to Startups](https://www.ycombinator.com/library/93-a-student-s-guide-to-startups) -- [[Paul Graham]] (October 2006)
 10. [How to Start a Startup: How to Get Ideas and Find What's Working](https://ycombinator.com/library/8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working) -- Stewart Butterfield, Adam D'Angelo (2017)
 11. [How to Start a Startup: Before the Startup](https://ycombinator.com/library/JI-how-to-start-a-startup-before-the-startup) -- [[Paul Graham]] (2014)
+12. [Idea Generation](https://blog.samaltman.com/idea-generation) -- [[Sam Altman]] (May 2020)
+13. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)
+14. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)

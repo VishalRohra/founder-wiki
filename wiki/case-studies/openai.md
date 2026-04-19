@@ -2,11 +2,11 @@
 title: "OpenAI: From Flip Chart to AGI"
 type: case-study
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["OpenAI", "OpenAI case study", "ChatGPT", "GPT", "AGI", "OpenAI origin story"]
-related: ["[[Sam Altman]]", "[[AI and Startups]]", "[[Founder Mindset]]", "[[Hard Tech Startups]]", "[[Competing with Big Companies]]"]
-sources: ["Lp-how-to-build-the-future-sam-altman"]
-speakers_referenced: ["Sam Altman", "Garry Tan"]
+last_updated: 2026-04-19
+aliases: ["OpenAI", "OpenAI case study", "ChatGPT", "GPT", "AGI", "OpenAI origin story", "Greg Brockman", "Chief Optimist", "force of will cofounder"]
+related: ["[[Sam Altman]]", "[[AI and Startups]]", "[[Founder Mindset]]", "[[Hard Tech Startups]]", "[[Competing with Big Companies]]", "[[Co-Founders]]"]
+sources: ["Lp-how-to-build-the-future-sam-altman", "sa-greg"]
+speakers_referenced: ["Sam Altman", "Garry Tan", "Greg Brockman"]
 ---
 
 # OpenAI: From Flip Chart to AGI
@@ -35,6 +35,14 @@ Altman recruited one by one. He found Ilya Sutskever by watching a video online:
 About ten people gathered in Brockman's apartment on January 3, 2016. "It felt like we had done this monumental thing to get it started. And everyone's like, 'So what do we do now?'" Altman compares this to when startup founders raise a round and think they have accomplished something: "That was actually the starting gun, and now we got to run" [1].
 
 An early offsite produced flip charts with three goals: "Figure out how to do unsupervised learning, solve RL, and never get more than 120 people." OpenAI achieved the first two but missed on the third [1].
+
+### Greg Brockman as Founding Force of Will
+
+Altman's 2017 essay *Greg* is written as a profile of Brockman's role in OpenAI's formation and is the fullest statement of what Altman considers the ideal cofounder [2]. Brockman committed during the car ride home from the initial group dinner: "asked me questions for the first half of the drive back to San Francisco, then declared he was in, and started planning logistics for the rest of the drive" [2]. His average email response time from that moment was about 5 minutes. "Elon and I were both busy with day jobs, but Greg kept everything moving forward with imperfect information and a very high-latency connection" [2].
+
+Brockman recruited the founding team and ran the operational work that Altman calls "non-technical cofounder" work even though Brockman is also a world-class engineer — defining culture, making offers, organizing offsites, letting everyone work out of his apartment (the site of the January 3 founding meeting), ordering supplies, cleaning up after meals [2]. When Altman suggested co-leading the organization with Sutskever rather than leading alone, Brockman was "always open-minded and thoughtful" [2]. When Altman flagged that his vision communication wasn't bold enough, "the next time I heard him talk about it (and every time since) it was a perfectly calibrated explanation of how we were going to succeed at something that really mattered" [2].
+
+Altman's structural framing: "Every successful startup I know has at least one person who provides the force of will to make the startup happen ... OpenAI wouldn't have happened without Greg" [2]. He names the role Chief Optimist — the one who "rallies everyone to press on despite the difficulties, and it's always hard on that person because they can't really lean on anyone else in the hardest times" [2]. Without someone dedicated to finding solutions to every problem, "eventually a large problem will come along and kill you while you're still weak." See [[Co-Founders]] for the general framework this profile generates.
 
 ## Concentration as Strategy
 
@@ -110,3 +118,4 @@ On what he would tell his 19-year-old self: "AI was always the thing I most want
 ## References
 
 1. [How To Build The Future: Sam Altman](https://ycombinator.com/library/Lp-how-to-build-the-future-sam-altman) -- Sam Altman, [[Garry Tan]] (2024)
+2. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)

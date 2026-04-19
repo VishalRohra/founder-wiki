@@ -2,11 +2,11 @@
 title: Recruiting Early Team Members
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["convincing people to join", "early hires", "recruiting co-founder", "startup recruiting", "first employees", "joining a startup"]
-related: ["[[Co-Founders]]", "[[Hiring Engineers]]", "[[Founder Mindset]]", "[[Dalton Caldwell]]"]
-sources: ["5b-how-do-you-convince-someone-to-join-your-startup"]
-speakers_referenced: ["Dalton Caldwell"]
+last_updated: 2026-04-19
+aliases: ["convincing people to join", "early hires", "recruiting co-founder", "startup recruiting", "first employees", "joining a startup", "world needs this", "mission recruiting"]
+related: ["[[Co-Founders]]", "[[Hiring Engineers]]", "[[Founder Mindset]]", "[[Dalton Caldwell]]", "[[Sam Altman]]", "[[Hiring at Early Stage]]"]
+sources: ["5b-how-do-you-convince-someone-to-join-your-startup", "sa-hard-startups", "sa-greg"]
+speakers_referenced: ["Dalton Caldwell", "Sam Altman"]
 ---
 
 # Recruiting Early Team Members
@@ -51,6 +51,14 @@ External validation creates a positive feedback loop. When you put something int
 
 This connects to [[Dalton Caldwell]]'s broader advice on [[Creating Luck]] through building things and sharing them with people.
 
+## The Hard-Startup Recruiting Message (Sam Altman)
+
+[[Sam Altman]]'s 2020 *Hard Startups* essay gives Caldwell's conviction-generates-recruiting-pull argument its canonical operational form. The first five or ten hires are gettable with equity and responsibility, but "eventually, what you have to recruit with are the mission of the company, the likelihood of massive success, and the quality of the people there" [2]. The single most powerful recruiting message, when it can be made honestly: "The world needs this, it won't happen any time soon if we don't do it, and we are much less likely to succeed if you don't join" [2]. The three-clause structure is deliberate — necessity (the world needs this), uniqueness (won't happen without us), and contingency (not without you). Dropping any clause weakens the pull.
+
+The 2017 *Greg* profile gives the matching founder-side requirement: "Greg is a world-class recruiter ... someone on the founding team has to be an amazing recruiter" [3]. Caldwell's argument focuses on conviction as the generator of pull; Altman's adds that pull needs an amplifier — someone on the founding team who does recruiting as a primary craft. See [[Hiring at Early Stage]] for the rate-of-improvement hiring heuristic and [[Co-Founders]] for the Chief Optimist role.
+
 ## References
 
 1. [How Do You Convince Someone to Join Your Startup?](https://www.ycombinator.com/library/5b-how-do-you-convince-someone-to-join-your-startup) -- [[Dalton Caldwell]] (n.d.)
+2. [Hard Startups](https://blog.samaltman.com/hard-startups) -- [[Sam Altman]] (February 2020)
+3. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)

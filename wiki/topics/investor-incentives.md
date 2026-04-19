@@ -2,10 +2,10 @@
 title: Investor Incentives
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["investor incentives", "VC incentives", "investor terms", "fundraising terms", "investor misalignment", "participating preferred", "super pro rata", "board control", "seed fund dynamics", "why investors love YC"]
-related: ["[[Seed Fundraising]]", "[[Convincing Investors]]", "[[Series A Term Sheets]]", "[[Financial Survival]]", "[[Startup Outcomes and Optionality]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]"]
-sources: ["DX-dalton-michael-understanding-investor-terms-and-incentives", "Jd-dalton-michael-why-investors-secretly-love-y-combinator", "6N-vinod-khosla-on-how-to-build-the-future", "MJ-how-to-build-the-future-tony-xu"]
+last_updated: 2026-04-19
+aliases: ["investor incentives", "VC incentives", "investor terms", "fundraising terms", "investor misalignment", "participating preferred", "super pro rata", "board control", "seed fund dynamics", "why investors love YC", "power law investing", "three investor jobs", "how to invest in startups", "10 billion companies", "market size in ten years"]
+related: ["[[Seed Fundraising]]", "[[Convincing Investors]]", "[[Series A Term Sheets]]", "[[Financial Survival]]", "[[Startup Outcomes and Optionality]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Sam Altman]]", "[[Investor Advice Pitfalls]]", "[[Why Now]]"]
+sources: ["DX-dalton-michael-understanding-investor-terms-and-incentives", "Jd-dalton-michael-why-investors-secretly-love-y-combinator", "6N-vinod-khosla-on-how-to-build-the-future", "MJ-how-to-build-the-future-tony-xu", "sa-how-to-invest-in-startups"]
 speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Vinod Khosla", "Sam Altman", "Tony Xu"]
 ---
 
@@ -97,9 +97,26 @@ Caldwell's practical test for evaluating investor advice: "Are they offering to 
 
 [[Tony Xu]] offers a founder's perspective on investor rejection. DoorDash's internal metrics moved in the right direction from 2016-2018, yet Xu received hundreds of rejections. His analysis: growth investors struggle with timing. "It's really easy to invest when the numbers are clear... Then there are moments where it's just before that moment" [4]. The resolution: "All you need is one investor to say yes" [4].
 
+## Altman's Three Investor Jobs
+
+[[Sam Altman]]'s 2020 essay *How to Invest in Startups* decomposes investor skill into three jobs: "Get access to good investment opportunities, make good decisions about what to invest in, and get the companies you want to invest in to choose you as an investor. That's it!" [5]. Everything else -- "help them" -- is secondary, and Altman is unusually candid about it: "You can often help the companies you invest in become bigger than they otherwise would have been, but the sad reality is that your best investments will do quite well without you" [5].
+
+Access is where most investors under-perform relative to effort: "It's surprising that most investors don't work hard, but it's true, and a bug that you can exploit" [5]. The operational form is helping other investors and helping founders generously and unprompted: "Ask them if you can spend a day per week helping their best company." Brand is the other lever, built by doing hard things (long-form content) rather than easy ones (tweeting) [5]. Decisions are about predicting founder greatness: "the market rewards finding great but inexperienced people." Close rate turns on reputation, decisiveness, and peer-level treatment of founders -- "if you're picking well, you should be investing in founders that you think of as your peers at least. Founders have a sixth sense for who is going to treat them like a peer and who is going to treat them like a boss" [5]. See [[Investor Advice Pitfalls]] for the peer-vs-boss dynamic in depth.
+
+## Power-Law Discipline
+
+Altman gives power-law investing its most directive form: "You should try to limit yourself to opportunities that could be $10 billion companies if they work ... the failures don't matter much, the small successes don't matter much, and the giant returns are where everything happens" [5]. He acknowledges the principle is easy to state and hard to hold: "I've been guilty of violating the principle many times." The admission is informative -- even seasoned investors systematically underweight the power law, which is why founders targeting outcomes below the $10B threshold routinely confuse investor behavior (see [[Startup Outcomes and Optionality]] for the founder-side mirror).
+
+Two chronic investing mistakes he names: "Bad founders have good ideas too, and investing in them is the chronic investing mistake that has been hardest for me to correct. (My second biggest chronic mistake has been chasing investments primarily because other investors like them.)" [5]. Both mistakes are failures to hold the founder-trait filter above consensus social signals.
+
+## Market-Size-in-Ten-Years
+
+Altman calls out the current-size-of-market fixation as one of the most exploitable investor biases: "I don't know why most investors are so obsessed with the current size of a market instead of how big they think it will be in ten years, but it's an opportunity for you" [5]. See [[Why Now]] for Altman's repeated restatements of this framework across 2018 and 2020.
+
 ## References
 
 1. [Understanding Investor Terms and Incentives](https://www.ycombinator.com/library/DX-dalton-michael-understanding-investor-terms-and-incentives) — [[Dalton Caldwell]], [[Michael Seibel]] (2022)
 2. [Why Investors (Secretly) Love Y Combinator](https://www.ycombinator.com/library/Jd-dalton-michael-why-investors-secretly-love-y-combinator) — [[Dalton Caldwell]], [[Michael Seibel]] (2023)
 3. [Vinod Khosla on How to Build the Future](https://ycombinator.com/library/6N-vinod-khosla-on-how-to-build-the-future) -- [[Vinod Khosla]], [[Sam Altman]] (n.d.)
 4. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], [[Garry Tan]] (2025)
+5. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)

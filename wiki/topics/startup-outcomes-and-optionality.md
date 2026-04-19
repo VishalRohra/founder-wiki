@@ -2,10 +2,10 @@
 title: Startup Outcomes and Optionality
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["startup outcomes", "airplane vs spaceship", "mid-success outcomes", "founder-investor misalignment", "acquisition positioning", "overvaluation trap"]
-related: ["[[Seed Fundraising]]", "[[Growth]]", "[[Scaling and Later-Stage Operations]]"]
-sources: ["4s-navigating-success-for-your-startup"]
+last_updated: 2026-04-19
+aliases: ["startup outcomes", "airplane vs spaceship", "mid-success outcomes", "founder-investor misalignment", "acquisition positioning", "overvaluation trap", "power law venture", "10 billion dollar companies"]
+related: ["[[Seed Fundraising]]", "[[Growth]]", "[[Scaling and Later-Stage Operations]]", "[[Investor Incentives]]", "[[Sam Altman]]"]
+sources: ["4s-navigating-success-for-your-startup", "sa-how-to-invest-in-startups"]
 speakers_referenced: ["Sam Altman"]
 ---
 
@@ -43,6 +43,13 @@ What founders can do: begin developing relationships with potential acquirers ea
 
 The outcome is still worth pride. "Silicon Valley is filled with people who had one or several mid-success companies before eventually hitting it out of the park" [1].
 
+## The Investor Power Law That Drives the Misalignment
+
+Altman's 2020 *How to Invest in Startups* essay states the investor-side arithmetic that makes the airplane-vs-spaceship misalignment structural rather than cultural. "You should try to limit yourself to opportunities that could be $10 billion companies if they work (which means they have, at least, a fast-growing market and some sort of pricing power). The power law is that powerful. This is easy to say and hard to do, and I've been guilty of violating the principle many times. But the data are clear -- the failures don't matter much, the small successes don't matter much, and the giant returns are where everything happens" [2]. Founders reading this should recognize the second half as why even sympathetic investors push spaceship bets onto airplane companies — the failure mode is not malice but rational behavior under the return distribution. A $100M airplane is categorically a "small success" by this math, worth roughly nothing to a venture fund even though it is a life-changing outcome for a founder.
+
+This is also why Altman's "be frank with investors" advice works: once both parties are honest about the underlying outcome distribution, the investor has no rational reason to keep forcing a spaceship strategy onto an airplane company. The pretense that it might still be a spaceship is what sustains the bad advice; dropping it aligns incentives immediately.
+
 ## References
 
 1. [Navigating Success for Your Startup](https://www.ycombinator.com/library/4s-navigating-success-for-your-startup) -- [[Sam Altman]] (n.d.)
+2. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)

@@ -1555,5 +1555,116 @@
       "wiki/topics/founder-productivity.md",
       "wiki/topics/growth.md"
     ]
+  },
+  "sa-idea-generation": {
+    "absorbed_date": "2026-04-19",
+    "speakers": ["Sam Altman"],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/startup-ideas.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/why-now.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/ai-and-startups.md"
+    ]
+  },
+  "sa-hard-startups": {
+    "absorbed_date": "2026-04-19",
+    "speakers": ["Sam Altman"],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/hiring-at-early-stage.md",
+      "wiki/topics/hiring-engineers.md",
+      "wiki/topics/recruiting-early-team-members.md"
+    ]
+  },
+  "sa-how-to-invest-in-startups": {
+    "absorbed_date": "2026-04-19",
+    "speakers": ["Sam Altman"],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/investor-incentives.md",
+      "wiki/topics/investor-advice-pitfalls.md",
+      "wiki/topics/convincing-investors.md",
+      "wiki/topics/hiring-at-early-stage.md",
+      "wiki/topics/why-now.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/startup-outcomes-and-optionality.md",
+      "wiki/topics/startup-ideas.md",
+      "wiki/topics/competing-with-big-companies.md",
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/co-founders.md"
+    ]
+  },
+  "sa-how-to-be-successful": {
+    "absorbed_date": "2026-04-19",
+    "speakers": ["Sam Altman"],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/founder-productivity.md",
+      "wiki/topics/sales-for-founders.md",
+      "wiki/topics/leaving-big-tech.md",
+      "wiki/topics/competing-with-big-companies.md",
+      "wiki/topics/wealth-vs-money.md",
+      "wiki/topics/conformists-vs-nonconformists.md",
+      "wiki/topics/dealing-with-setbacks.md",
+      "wiki/topics/hiring-at-early-stage.md",
+      "wiki/speakers/elon-musk.md",
+      "wiki/speakers/paul-graham.md",
+      "wiki/topics/startup-ideas.md",
+      "wiki/topics/startup-leadership.md"
+    ]
+  },
+  "sa-the-strength-of-being-misunderstood": {
+    "absorbed_date": "2026-04-19",
+    "speakers": ["Sam Altman"],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/conformists-vs-nonconformists.md",
+      "wiki/topics/convincing-investors.md",
+      "wiki/topics/dealing-with-setbacks.md"
+    ]
+  },
+  "sa-greg": {
+    "absorbed_date": "2026-04-19",
+    "speakers": ["Sam Altman", "Greg Brockman"],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/co-founders.md",
+      "wiki/case-studies/openai.md",
+      "wiki/topics/hiring-at-early-stage.md",
+      "wiki/topics/hiring-engineers.md",
+      "wiki/topics/recruiting-early-team-members.md",
+      "wiki/topics/startup-leadership.md",
+      "wiki/topics/dealing-with-setbacks.md",
+      "wiki/topics/company-culture.md",
+      "wiki/speakers/elon-musk.md"
+    ]
+  },
+  "sa-productivity": {
+    "absorbed_date": "2026-04-19",
+    "speakers": ["Sam Altman"],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/founder-productivity.md",
+      "wiki/topics/founder-mindset.md",
+      "wiki/topics/startup-management.md"
+    ]
+  },
+  "sa-before-growth": {
+    "absorbed_date": "2026-04-19",
+    "speakers": ["Sam Altman"],
+    "articles_touched": [
+      "wiki/speakers/sam-altman.md",
+      "wiki/topics/growth.md",
+      "wiki/topics/product-market-fit.md",
+      "wiki/topics/launching.md",
+      "wiki/topics/startup-metrics.md",
+      "wiki/topics/building-products-users-love.md",
+      "wiki/topics/company-culture.md"
+    ]
   }
 }

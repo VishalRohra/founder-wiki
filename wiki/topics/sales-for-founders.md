@@ -2,11 +2,11 @@
 title: Sales for Founders
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["founder sales", "startup sales", "how to sell", "first sales", "sales funnel", "outbound sales", "founder-led sales", "B2B sales for founders", "sales email", "sales CRM"]
-related: ["[[Getting First Users]]", "[[Doing Things That Don't Scale]]", "[[Enterprise Sales]]", "[[Talking to Users]]", "[[Growth]]", "[[Launching]]", "[[Gustaf Alstromer]]", "[[Nicolas Dessaigne]]", "[[Pricing and Monetization]]"]
-sources: ["Ip-how-to-get-your-first-customers", "Lu-how-to-start-a-dev-tools-company"]
-speakers_referenced: ["Gustaf Alstromer", "Nicolas Dessaigne"]
+last_updated: 2026-04-19
+aliases: ["founder sales", "startup sales", "how to sell", "first sales", "sales funnel", "outbound sales", "founder-led sales", "B2B sales for founders", "sales email", "sales CRM", "written communication", "show up in person", "sales as career skill"]
+related: ["[[Getting First Users]]", "[[Doing Things That Don't Scale]]", "[[Enterprise Sales]]", "[[Talking to Users]]", "[[Growth]]", "[[Launching]]", "[[Gustaf Alstromer]]", "[[Nicolas Dessaigne]]", "[[Pricing and Monetization]]", "[[Sam Altman]]"]
+sources: ["Ip-how-to-get-your-first-customers", "Lu-how-to-start-a-dev-tools-company", "sa-how-to-be-successful"]
+speakers_referenced: ["Gustaf Alstromer", "Nicolas Dessaigne", "Sam Altman"]
 ---
 
 # Sales for Founders
@@ -127,7 +127,18 @@ On when to hire a sales team, Dessaigne suggests waiting until approximately $1 
 - *Founding Sales* (book) -- recommended by Alstromer as one of the few good books on startup sales [1]
 - Lenny Rachitsky's newsletter (lennysnewsletter.com) -- recommended by both Alstromer [1] and frequently referenced in YC content
 
+## Sales as a Learnable Skill (Sam Altman)
+
+[[Sam Altman]]'s 2019 *How to Be Successful* treats sales as a general career skill, not just a founder task: "All great careers, to some degree, become sales jobs. You have to evangelize your plans to customers, prospective employees, the press, investors, etc. This requires an inspiring vision, strong communication skills, some degree of charisma, and evidence of execution ability" [3]. The framing consolidates founder-sales (to users, as Alstromer describes) with recruiting, pitching, and press work under a single capability.
+
+Two claims worth extracting:
+
+- **Written communication compounds.** "Getting good at communication -- particularly written communication -- is an investment worth making. My best advice for communicating clearly is to first make sure your thinking is clear and then use plain, concise language" [3]. The ordering matters — unclear writing is almost always unclear thinking.
+- **Belief is the sales multiplier.** "The best way to be good at sales is to genuinely believe in what you're selling. Selling what you truly believe in feels great, and trying to sell snake oil feels awful" [3]. This matches [[Dalton Caldwell]]'s [[Recruiting Early Team Members|self-conviction argument]] — the persuasion primitive is the seller's own belief, not the pitch's polish. And the deliberate-practice claim: "Getting good at sales is like improving at any other skill -- anyone can get better at it with deliberate practice. But for some reason, perhaps because it feels distasteful, many people treat it as something unlearnable."
+- **Show up in person.** "My other big sales tip is to show up in person whenever it's important. When I was first starting out, I was always willing to get on a plane. It was frequently unnecessary, but three times it led to career-making turning points for me that otherwise would have gone the other way" [3]. The expected value is positive because the rare high-variance wins outweigh the routine losses.
+
 ## References
 
 1. [How to Get Your First Customers](https://www.ycombinator.com/library/Ip-how-to-get-your-first-customers) -- [[Gustaf Alstromer]] (2023)
 2. [How To Start A Dev Tools Company](https://www.ycombinator.com/library/Lu-how-to-start-a-dev-tools-company) -- [[Nicolas Dessaigne]] (2024)
+3. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)

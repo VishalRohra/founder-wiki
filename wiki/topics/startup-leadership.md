@@ -3,9 +3,9 @@ title: Startup Leadership
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-19
-aliases: ["leadership", "measuring leadership", "CEO leadership", "building trust", "leadership traits", "how to lead", "authentic leadership", "fight bureaucracy", "outcomes over process", "incentives are superpowers"]
-related: ["[[Three Traits of Great Leadership]]", "[[Mission-to-Metrics Framework]]", "[[Startup Management]]", "[[Board Management]]", "[[Ali Rowghani]]", "[[Diane Greene]]", "[[Founder Mindset]]", "[[Hiring at Early Stage]]", "[[Scaling and Later-Stage Operations]]", "[[Sam Altman]]"]
-sources: ["3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "M2-how-to-build-the-future-parker-conrad", "JN-how-to-start-a-startup-building-company-culture-part-i", "JM-how-to-start-a-startup-raising-money-and-succeeding-long-term", "sa-what-i-wish-someone-had-told-me"]
+aliases: ["leadership", "measuring leadership", "CEO leadership", "building trust", "leadership traits", "how to lead", "authentic leadership", "fight bureaucracy", "outcomes over process", "incentives are superpowers", "openness to feedback", "leadership self-awareness"]
+related: ["[[Three Traits of Great Leadership]]", "[[Mission-to-Metrics Framework]]", "[[Startup Management]]", "[[Board Management]]", "[[Ali Rowghani]]", "[[Diane Greene]]", "[[Founder Mindset]]", "[[Hiring at Early Stage]]", "[[Scaling and Later-Stage Operations]]", "[[Sam Altman]]", "[[Co-Founders]]"]
+sources: ["3j-how-to-measure-leadership", "3k-the-second-job-of-a-startup-ceo", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "M2-how-to-build-the-future-parker-conrad", "JN-how-to-start-a-startup-building-company-culture-part-i", "JM-how-to-start-a-startup-raising-money-and-succeeding-long-term", "sa-what-i-wish-someone-had-told-me", "sa-greg", "sa-how-to-be-successful"]
 speakers_referenced: ["Ali Rowghani", "Ed Catmull", "Steve Jobs", "Jeff Bezos", "Tobi L\u00fctke", "Patrick Collison", "David Rusenko", "Drew Houston", "Vidit Aatrey", "Sarah Nahm", "Parker Conrad", "Brian Chesky", "Sam Altman"]
 ---
 
@@ -205,6 +205,10 @@ When asked how to repair trust after mistakes, Rowghani advises acknowledgment: 
 
 When asked about the motivations of his four leaders, Rowghani observed that John Lasseter was motivated by making great films that would last forever and by squeezing joy out of life. Ed Catmull was motivated by understanding how to build an organization that could repeatedly produce creative success -- "an organizational thinker" who wanted to figure out "how to make Pixar continue its almost impossible streak" [4].
 
+## Openness to Feedback as a Leadership Trait (Sam Altman)
+
+[[Sam Altman]]'s 2017 profile of Greg Brockman names a leadership trait underexplored in the Rowghani and Greene frameworks: the ability to receive feedback quickly without defensiveness. "He's incredibly open to feedback. Large or small, he's always willing to hear it, never gets offended, and processes it very quickly" [10]. Altman illustrates with a specific case: when he told Brockman his communication of the OpenAI vision was not bold enough, "the next time I heard him talk about it (and every time since) it was a perfectly calibrated explanation of how we were going to succeed at something that really mattered" [10]. The turnaround — feedback to recalibrated public articulation — is itself the leadership trait being measured. Altman's 2019 *How to Be Successful* restates this as a general success trait: "I used to hate criticism of any sort and actively avoided it. Now I try to always listen to it with the assumption that it's true, and then decide if I want to act on it or not. Truth-seeking is hard and often painful, but it is what separates self-belief from self-delusion" [11]. Combined with Rowghani's "admitting mistakes builds trust" argument, the synthesis is that leaders who process feedback fast — privately metabolizing it and publicly updating their behavior — generate trust at a rate slower-updating leaders cannot match. See [[Co-Founders]] for the cofounder-scale version of this trait.
+
 ## References
 
 1. [How to Measure Leadership](https://www.ycombinator.com/library/3j-how-to-measure-leadership) — [[Ali Rowghani]] (n.d.)
@@ -216,3 +220,5 @@ When asked about the motivations of his four leaders, Rowghani observed that Joh
 7. [How to Start a Startup: Building Company Culture, Part I](https://ycombinator.com/library/JN-how-to-start-a-startup-building-company-culture-part-i) -- [[Brian Chesky]], [[Alfred Lin]] (2014)
 8. [How to Start a Startup: Raising Money and Succeeding Long-Term](https://ycombinator.com/library/JM-how-to-start-a-startup-raising-money-and-succeeding-long-term) -- Jess Lee, Aaron Harris, [[Ali Rowghani]] (2014)
 9. [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) -- [[Sam Altman]] (December 2023)
+10. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)
+11. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)

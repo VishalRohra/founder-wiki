@@ -2,10 +2,10 @@
 title: Launching
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["launching", "when to launch", "launch strategy", "launching early", "launch timing", "MVP launch", "startup launch", "how to launch", "launch early", "launch often", "first launch", "product launch"]
-related: ["Growth", "[[Kat Manalac]]", "[[Dev Tools]]", "[[Doing Things That Don't Scale]]", "[[Product-Market Fit]]", "[[Startup Essentials]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Getting Press]]", "[[Talking to Users]]"]
-sources: ["J0-inside-the-group-partner-lounge-when-to-launch-your-startup", "LG-why-startup-founders-should-launch-companies-sooner-than-they-think", "Ir-the-best-way-to-launch-your-startup", "6i-how-to-launch-again-and-again"]
+last_updated: 2026-04-19
+aliases: ["launching", "when to launch", "launch strategy", "launching early", "launch timing", "MVP launch", "startup launch", "how to launch", "launch early", "launch often", "first launch", "product launch", "before growth", "growth before love"]
+related: ["Growth", "[[Kat Manalac]]", "[[Dev Tools]]", "[[Doing Things That Don't Scale]]", "[[Product-Market Fit]]", "[[Startup Essentials]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Getting Press]]", "[[Talking to Users]]", "[[Sam Altman]]", "[[Building Products Users Love]]"]
+sources: ["J0-inside-the-group-partner-lounge-when-to-launch-your-startup", "LG-why-startup-founders-should-launch-companies-sooner-than-they-think", "Ir-the-best-way-to-launch-your-startup", "6i-how-to-launch-again-and-again", "sa-before-growth"]
 speakers_referenced: ["Harj Taggar", "Michael Seibel", "Brad Flora", "Diana Hu", "Gustaf Alstromer", "Tom Blomfield", "Kat Manalac", "Garry Tan", "Aaron Epstein", "Pete Koomen", "Serby"]
 ---
 
@@ -181,9 +181,14 @@ Gadi Evron of Cymmetria built an email list before launching by adding every per
 Manalac's position: do not spend a ton of money. "Back in the day, people were spending tens of thousands of dollars on these elaborate launch parties, and it's bananas" [4]. Something small and fun is fine [4].
 
 
+## Don't Chase Growth Before Launching Into Love (Sam Altman)
+
+Altman's 2016 *Before Growth* essay argues the launching-and-growing sequence is most often run in the wrong order. "Startups have a weekly growth goal before they really have any strong idea about what they want to build" -- a fashion he calls unhealthy [5]. The launch objective should not be weekly growth; it should be the binary test of whether any users love the product enough to spontaneously tell others. The order he recommends: figure out what you're doing and why (first few weeks), build a product some users really love (until the binary test passes), *then* focus on growth above all else. Teams that invert this order end up "making a nebulous product that some users sort of like and papering over this with 'growth hacking'" which, he warns, "will fool investors for awhile until they start digging into retention numbers -- but eventually the music stops" [5]. See [[Growth]] for the full argument and [[Product-Market Fit]] for the binary-test as PMF diagnostic.
+
 ## References
 
 1. [Inside the Group Partner Lounge: When to Launch Your Startup](https://www.ycombinator.com/library/J0-inside-the-group-partner-lounge-when-to-launch-your-startup) -- [[Harj Taggar]], [[Michael Seibel]], [[Brad Flora]] (2021)
 2. [Why Startup Founders Should Launch Companies Sooner Than They Think](https://ycombinator.com/library/LG-why-startup-founders-should-launch-companies-sooner-than-they-think) -- [[Michael Seibel]], Diana Hu, Gustaf Alstromer, [[Tom Blomfield]], [[Harj Taggar]], Pete Koomen, Aaron Epstein, Serby, [[Garry Tan]] (2023)
 3. [The Best Way to Launch Your Startup](https://ycombinator.com/library/Ir-the-best-way-to-launch-your-startup) -- Kat Manalac (2020)
 4. [How to Launch (Again and Again)](https://www.ycombinator.com/library/6i-how-to-launch-again-and-again) -- [[Kat Manalac]] (2019)
+5. [Before Growth](https://blog.samaltman.com/before-growth) -- [[Sam Altman]] (January 2016)

@@ -2,11 +2,11 @@
 title: Building Products Users Love
 type: topic
 created: 2026-04-18
-last_updated: 2026-04-18
-aliases: ["products users love", "user love", "delighting users", "support-driven development", "customer delight", "enchanting quality", "first impressions", "Gottman framework", "Wufoo culture"]
-related: ["[[Customer Relationships]]", "[[Talking to Users]]", "[[Growth]]", "[[Conversion Rates]]", "[[Doing Things That Don't Scale]]", "[[Kevin Hale]]", "[[Company Culture]]", "[[Product-Market Fit]]"]
-sources: ["JK-how-to-start-a-startup-building-products-users-love"]
-speakers_referenced: ["Kevin Hale"]
+last_updated: 2026-04-19
+aliases: ["products users love", "user love", "delighting users", "support-driven development", "customer delight", "enchanting quality", "first impressions", "Gottman framework", "Wufoo culture", "spontaneously tell friends", "binary product-love test"]
+related: ["[[Customer Relationships]]", "[[Talking to Users]]", "[[Growth]]", "[[Conversion Rates]]", "[[Doing Things That Don't Scale]]", "[[Kevin Hale]]", "[[Company Culture]]", "[[Product-Market Fit]]", "[[Sam Altman]]"]
+sources: ["JK-how-to-start-a-startup-building-products-users-love", "sa-before-growth", "89-how-to-succeed-with-a-startup"]
+speakers_referenced: ["Kevin Hale", "Sam Altman"]
 ---
 
 # Building Products Users Love
@@ -152,6 +152,14 @@ The 15-minute rule governed the three building days: any discussion between team
 
 Accountability was managed through shared to-do lists in simple text files stored in Dropbox. Every night, each person logged what they did. Every Friday, they reviewed: "This is what you said last week you were going to do. This is what you actually got done" [1].
 
+## Altman's Binary Test
+
+[[Sam Altman]] gives product-love its sharpest diagnostic in his 2016 essay *Before Growth*: "Do any users love our product so much they spontaneously tell other people to use it?" [2]. The test is binary — not a retention curve or an NPS score, just whether *any* user exists who recommends the product unprompted. Until the answer is yes, "founders are generally better off focusing on this instead of a growth target." He restates it in his 2018 lecture as the primary success predictor: "The degree to which you're successful approximates the degree to which you build a product that is so good people spontaneously tell their friends about it" [3].
+
+The operational consequence: product-love is an input, not a result. Hale's dating-and-marriage framework describes the mechanics of generating love; Altman's test tells you when it has been generated. A side observation worth surfacing: "Startups that don't first figure out a product some users love also seem to rarely develop the sense of mission that the best companies have" [2]. Mission is downstream of product-love, not upstream. See [[Product-Market Fit]] for the binary-test as PMF diagnostic and [[Growth]] for why growth sequencing matters.
+
 ## References
 
 1. [How to Start a Startup: Building Products Users Love](https://ycombinator.com/library/JK-how-to-start-a-startup-building-products-users-love) -- [[Kevin Hale]] (2014)
+2. [Before Growth](https://blog.samaltman.com/before-growth) -- [[Sam Altman]] (January 2016)
+3. [How to Succeed with a Startup](https://ycombinator.com/library/89-how-to-succeed-with-a-startup) -- [[Sam Altman]] (August 2018)

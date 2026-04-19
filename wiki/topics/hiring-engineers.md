@@ -2,11 +2,11 @@
 title: Hiring Engineers
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["hiring engineers", "first engineer", "recruiting engineers", "engineering hiring", "convincing engineers", "offer acceptance", "closing candidates"]
-related: [ "[[Becoming a Founder]]", "[[Michael Seibel]]", "[[Harj Taggar]]"]
-sources: ["4G-convincing-engineers-to-join-your-team", "4H-how-to-hire-your-first-engineer", "4l-advice-for-job-seekers-on-resumes-and-reaching-out"]
-speakers_referenced: ["Harj Taggar", "Ryan Choi"]
+last_updated: 2026-04-19
+aliases: ["hiring engineers", "first engineer", "recruiting engineers", "engineering hiring", "convincing engineers", "offer acceptance", "closing candidates", "founding-team recruiter", "mission over salary"]
+related: [ "[[Becoming a Founder]]", "[[Michael Seibel]]", "[[Harj Taggar]]", "[[Sam Altman]]", "[[Hiring at Early Stage]]"]
+sources: ["4G-convincing-engineers-to-join-your-team", "4H-how-to-hire-your-first-engineer", "4l-advice-for-job-seekers-on-resumes-and-reaching-out", "sa-hard-startups", "sa-greg"]
+speakers_referenced: ["Harj Taggar", "Ryan Choi", "Sam Altman"]
 ---
 
 # Hiring Engineers
@@ -122,8 +122,16 @@ For cold outreach, Choi recommends highlighting two to three things you would be
 
 When evaluating startups, Choi advises asking about runway (months the startup can operate on current funds) and burn rate (monthly spend). At Zuora, making it a goal to be "in the black" helped survive the 2009 market crash. Founders should be transparent with this information; wariness is warranted toward those who are not forthcoming [3].
 
+## Why Talented Engineers Follow Mission (Sam Altman)
+
+[[Sam Altman]]'s 2020 *Hard Startups* essay frames the structural reason engineer-recruiting works better for ambitious companies. "The most precious commodity in the startup ecosystem right now is talented people, and for the most part talented people want to work on something they find meaningful" [4]. His recruiting-message template, when honestly applicable: "The world needs this, it won't happen any time soon if we don't do it, and we are much less likely to succeed if you don't join" [4]. Applied to engineering specifically: a candidate choosing between two companies with comparable compensation usually picks the one with higher structural meaning-per-hour, and a hard startup can compete for that candidate even when it cannot match FAANG salary.
+
+The operational corollary from Altman's 2017 *Greg* profile: "Someone on the founding team has to be an amazing recruiter" [5]. For engineering hires, this is the founder who does the work Taggar describes -- the persistent followups, interview-logistics planning, candidate-background research. Altman's stronger claim is that this is not a nice-to-have delegated later; it is structural, at the founding-team level, from day one. Teams missing this role under-ship on hiring during the exact period where hiring determines whether the company becomes fundable.
+
 ## References
 
 1. [How to Hire Your First Engineer](https://www.ycombinator.com/library/4H-how-to-hire-your-first-engineer) — [[Harj Taggar]] (July 2018)
 2. [Convincing Engineers to Join Your Team](https://www.ycombinator.com/library/4G-convincing-engineers-to-join-your-team) — [[Harj Taggar]] (July 2018)
 3. [Advice for Job Seekers on Resumes and Reaching Out](https://www.ycombinator.com/library/4l-advice-for-job-seekers-on-resumes-and-reaching-out) — Ryan Choi (April 2020)
+4. [Hard Startups](https://blog.samaltman.com/hard-startups) -- [[Sam Altman]] (February 2020)
+5. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)

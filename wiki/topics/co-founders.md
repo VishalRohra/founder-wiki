@@ -2,11 +2,11 @@
 title: Co-Founders
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["co-founder", "cofounder", "cofounders", "finding a co-founder", "co-founder matching", "co-founder relationship", "co-founder questions", "meeting co-founders", "co-founder breakups", "business co-founder", "technical co-founder"]
-related: ["[[Convincing Investors]]", "[[Startups for Students]]", "[[Paul Graham]]", "[[Michael Seibel]]", "[[Equity Split]]", "[[Recruiting Early Team Members]]", "[[Dalton Caldwell]]", "[[Harj Taggar]]", "[[Technical Co-Founders]]"]
-sources: ["Cq-does-co-founder-matching-work", "Hj-10-questions-to-discuss-with-a-potential-co-founder", "D0-startups-for-students", "DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them", "JD-founder-faq-how-did-you-meet-your-co-founder", "KV-do-technical-founders-need-a-business-co-founder", "Ld-how-to-find-a-co-founder", "9M-billionaires-build", "7x-how-to-get-and-test-ideas", "6L-on-starting-and-scaling-construction-startup-plangrid", "69-on-starting-and-scaling-meal-kit-company-gobble", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "6S-on-starting-and-scaling-dropbox-yc-w07", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "M2-how-to-build-the-future-parker-conrad"]
-speakers_referenced: ["Catheryn Li", "Y Combinator", "Tamanna Khemani", "Kat Mañalac", "Amy Buechler", "Michael Seibel", "Dalton Caldwell", "Harj Taggar", "Tracy Young", "Ooshma Garg", "Vidit Aatrey", "Drew Houston", "Sarah Nahm", "Parker Conrad"]
+last_updated: 2026-04-19
+aliases: ["co-founder", "cofounder", "cofounders", "finding a co-founder", "co-founder matching", "co-founder relationship", "co-founder questions", "meeting co-founders", "co-founder breakups", "business co-founder", "technical co-founder", "Chief Optimist", "force of will", "Greg Brockman", "ideal cofounder"]
+related: ["[[Convincing Investors]]", "[[Startups for Students]]", "[[Paul Graham]]", "[[Michael Seibel]]", "[[Equity Split]]", "[[Recruiting Early Team Members]]", "[[Dalton Caldwell]]", "[[Harj Taggar]]", "[[Technical Co-Founders]]", "[[Sam Altman]]", "[[OpenAI: From Flip Chart to AGI]]", "[[Dealing with Setbacks]]"]
+sources: ["Cq-does-co-founder-matching-work", "Hj-10-questions-to-discuss-with-a-potential-co-founder", "D0-startups-for-students", "DZ-dalton-michael-co-founder-mistakes-that-kill-companies-and-how-to-avoid-them", "JD-founder-faq-how-did-you-meet-your-co-founder", "KV-do-technical-founders-need-a-business-co-founder", "Ld-how-to-find-a-co-founder", "9M-billionaires-build", "7x-how-to-get-and-test-ideas", "6L-on-starting-and-scaling-construction-startup-plangrid", "69-on-starting-and-scaling-meal-kit-company-gobble", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "6S-on-starting-and-scaling-dropbox-yc-w07", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "M2-how-to-build-the-future-parker-conrad", "sa-greg", "sa-how-to-invest-in-startups"]
+speakers_referenced: ["Catheryn Li", "Y Combinator", "Tamanna Khemani", "Kat Mañalac", "Amy Buechler", "Michael Seibel", "Dalton Caldwell", "Harj Taggar", "Tracy Young", "Ooshma Garg", "Vidit Aatrey", "Drew Houston", "Sarah Nahm", "Parker Conrad", "Sam Altman", "Greg Brockman"]
 ---
 
 # Co-Founders
@@ -162,6 +162,24 @@ Young addresses the challenge of co-founding with a romantic partner. She and Ra
 
 [[Parker Conrad]] and his co-founder Pano had worked together at Zenefits before co-founding Rippling. The relationship was forged through shared experience of building the same product. When Conrad decided to rebuild, Pano shared his conviction: "There's a hundred billion dollar opportunity just sitting right there on the floor, and nobody can see it except for us" [15]. This represents a co-founding pattern where the relationship and the idea are inseparable [15].
 
+## The Force of Will and the Chief Optimist (Sam Altman)
+
+[[Sam Altman]]'s 2017 essay *Greg* is his fullest answer to the question of what to look for in a cofounder, written as a profile of Greg Brockman's role in OpenAI's formation. The central claim, stated up front: "Every successful startup I know has at least one person who provides the force of will to make the startup happen" [16]. The force-of-will trait is not a synonym for energy or charisma; it is the specific capacity to keep a fragile organization moving when nothing else is holding it together.
+
+Five concrete behaviors Altman calls out from the early OpenAI period:
+
+1. **Full commitment, fast.** Greg decided to join mid-drive after a group dinner about what the organization might look like — "asked me questions for the first half of the drive back to San Francisco, then declared he was in, and started planning logistics for the rest of the drive" [16]. From then on his average email response time was about 5 minutes. The emphasis on decision speed matches Altman's 2020 investor-side observation that fast-mover versus slow-mover is a nearly-fixed trait worth diagnosing early [17].
+
+2. **World-class recruiting.** "Greg is a world-class recruiter (he plans every detail of interviews, heavily researches candidates' backgrounds, sends thoughtful and persistent followups, and so on), and I now believe even more strongly that someone on the founding team has to be an amazing recruiter" [16]. Recruiting at OpenAI was a craft practiced with the same discipline as engineering. See [[Hiring at Early Stage]].
+
+3. **Open to feedback, processes it fast.** "Never gets offended, and processes it very quickly." When Altman flagged that his vision communication wasn't bold enough, "the next time I heard him talk about it (and every time since) it was a perfectly calibrated explanation of how we were going to succeed at something that really mattered." Open to non-traditional suggestions too — co-leading the organization with Ilya Sutskever rather than leading alone [16]. See [[Startup Leadership]] for the trust-and-feedback dimension of leadership.
+
+4. **Does the non-technical founder work.** Defining culture, making offers, organizing offsites, letting everyone work out of his apartment, ordering supplies, cleaning up after meals. Altman calls 'non-technical cofounder' a misnomer for Greg — "most people who know him will say something like 'Greg is the most productive engineer I know'" — but the operational point stands: "It's important to have someone great in this role at a small startup — many people gloss over it" [16].
+
+5. **Chief Optimist.** "Founding teams need a Chief Optimist to rally everyone to press on despite the difficulties, and it's always hard on that person because they can't really lean on anyone else in the hardest times" [16]. Without someone dedicated to finding solutions to every problem, "eventually a large problem will come along and kill you while you're still weak." See [[Dealing with Setbacks]].
+
+Altman's structural conclusion: technical talent is necessary but not sufficient. "You for sure need great technical talent on a founding team, but make sure you also have someone like Greg. If they're the same person, then you've hit the jackpot" [16]. This reframes the standard technical/business cofounder split as a technical/chief-optimist split, with the force-of-will trait more diagnostic than the domain-expertise trait.
+
 ## References
 
 1. [Does Co-Founder Matching Work?](https://www.ycombinator.com/library/Cq-does-co-founder-matching-work) -- Catheryn Li (2021)
@@ -179,3 +197,5 @@ Young addresses the challenge of co-founding with a romantic partner. She and Ra
 13. [On Starting and Scaling Dropbox (YC W07)](https://ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07) -- [[Drew Houston]], [[Sam Altman]] (2017)
 14. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)
 15. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)
+16. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)
+17. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)

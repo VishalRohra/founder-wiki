@@ -5,7 +5,7 @@ created: 2026-04-05
 last_updated: 2026-04-19
 aliases: ["startup growth", "growth rate", "growing a startup", "growth strategy", "growth team", "scaling growth", "weekly growth rate", "user acquisition", "compound growth", "traction", "user growth", "compounding exponentials", "emergent properties at scale"]
 related: ["[[Product-Market Fit]]", "[[Doing Things That Don't Scale]]", "[[Default Alive or Default Dead]]", "[[Financial Survival]]", "[[Early-Stage Mistakes]]", "[[Enterprise Sales]]", "[[Seed Fundraising]]", "[[Paul Graham]]", "[[Sam Altman]]", "[[Anu Hariharan]]", "[[Pricing and Monetization]]", "[[Selling to Startups]]"]
-sources: ["8s-startup-growth", "4p-before-growing-your-startup", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "M2-how-to-build-the-future-parker-conrad", "sa-what-i-wish-someone-had-told-me"]
+sources: ["8s-startup-growth", "4p-before-growing-your-startup", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "96-do-things-that-don-t-scale", "8w-the-hardest-lessons-for-startups-to-learn", "95-default-alive-or-default-dead", "8t-the-18-mistakes-that-kill-startups", "6S-on-starting-and-scaling-dropbox-yc-w07", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "M2-how-to-build-the-future-parker-conrad", "sa-what-i-wish-someone-had-told-me", "sa-before-growth"]
 speakers_referenced: ["Paul Graham", "Sam Altman", "Anu Hariharan", "Gustaf Alströmer", "Drew Houston", "Vidit Aatrey", "Parker Conrad"]
 ---
 
@@ -66,6 +66,12 @@ When the product is loved, users become "a free marketing and sales force." Word
 The danger of growing on a mediocre product is that reliance on inorganic means (ads, marketing, PR) becomes unsustainable. The larger the company grows on a weak foundation, the harder it becomes to course correct. "Once your company is a big moving battleship, it becomes really hard to be nimble" [2].
 
 Altman's test for readiness: "When they actively recommend your product to friends, you're in the right place." Net Promoter Score can be a useful measurement [2].
+
+Altman's 2016 *Before Growth* essay tightens the same argument into a sequencing rule and a binary test. The sequencing: "In the first few weeks of a startup's life, the founders really need to figure out what they're doing and why. Then they need to build a product some users really love. Only after that they should focus on growth above all else" [12]. The binary test he recommends as the pre-growth metric: "Do any users love our product so much they spontaneously tell other people to use it?" Until that answer is yes, founders are better off ignoring growth targets entirely.
+
+The warning against premature-growth compensation is sharper than in [2]: "A startup that prematurely targets a growth goal often ends up making a nebulous product that some users sort of like and papering over this with 'growth hacking'. That sort of works -- at least, it will fool investors for awhile until they start digging into retention numbers -- but eventually the music stops" [12]. The operational tell for investors: retention curves reveal growth-hacking even when top-line growth looks healthy. See [[Product-Market Fit]] for the binary-test as PMF diagnostic, and [[Startup Metrics]] for how retention serves as the anti-growth-hacking audit.
+
+Altman also names a structural consequence missed in most of the YC literature: "Startups that don't first figure out a product some users love also seem to rarely develop the sense of mission that the best companies have" [12]. Mission, in this framing, is downstream of product-love — it is what emerges once a founder has watched someone want their product enough to recommend it. Trying to build mission before product-love produces performative mission statements without structural grip.
 
 ## Growth vs. Conversion
 
@@ -227,3 +233,4 @@ The referral program (both sides get free storage) drove 30% of all signups. Sha
 9. [On Starting and Scaling Indian Shopping Site Meesho](https://ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho) -- [[Vidit Aatrey]], Adora Cheung (2019)
 10. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)
 11. [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) -- [[Sam Altman]] (December 2023)
+12. [Before Growth](https://blog.samaltman.com/before-growth) -- [[Sam Altman]] (January 2016)

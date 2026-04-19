@@ -2,11 +2,11 @@
 title: Startup Metrics
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-18
-aliases: ["startup metrics", "key metrics", "KPIs", "vanity metrics", "revenue metrics", "burn rate", "retention metrics", "net dollar retention", "gross margin", "consumer metrics", "B2B metrics", "NPS", "net promoter score", "unit economics", "customer acquisition cost", "CAC", "magic moment", "ring of fire", "exponential growth", "iteration speed"]
-related: ["[[Growth]]", "[[Product-Market Fit]]", "[[Financial Survival]]", "[[Runway Management]]", "[[Tom Blomfield]]", "[[Cohort Retention]]"]
-sources: ["KR-key-startup-metrics", "KT-consumer-startup-metrics", "8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working"]
-speakers_referenced: ["Tom Blomfield", "Adam D'Angelo"]
+last_updated: 2026-04-19
+aliases: ["startup metrics", "key metrics", "KPIs", "vanity metrics", "revenue metrics", "burn rate", "retention metrics", "net dollar retention", "gross margin", "consumer metrics", "B2B metrics", "NPS", "net promoter score", "unit economics", "customer acquisition cost", "CAC", "magic moment", "ring of fire", "exponential growth", "iteration speed", "growth hacking", "binary love test", "pre-growth metrics"]
+related: ["[[Growth]]", "[[Product-Market Fit]]", "[[Financial Survival]]", "[[Runway Management]]", "[[Tom Blomfield]]", "[[Cohort Retention]]", "[[Sam Altman]]"]
+sources: ["KR-key-startup-metrics", "KT-consumer-startup-metrics", "8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working", "sa-before-growth"]
+speakers_referenced: ["Tom Blomfield", "Adam D'Angelo", "Sam Altman"]
 ---
 
 # Startup Metrics
@@ -234,6 +234,12 @@ D'Angelo addresses the tension between metrics and motivation [3]. "The majority
 
 His resolution: "You want to be learning from the past. You want to be totally in touch with the reality of where you are today. But those things are not in tension with being optimistic about the future" [3]. If the current path does not support optimism, the answer is to change the path, not to suppress the metrics. Leaders should not manufacture false optimism but should do the work necessary to genuinely believe in the company's trajectory [3].
 
+## Retention as the Anti-Growth-Hacking Audit (Sam Altman)
+
+Altman's 2016 *Before Growth* essay frames retention metrics as the structural check against premature-growth theater. "A startup that prematurely targets a growth goal often ends up making a nebulous product that some users sort of like and papering over this with 'growth hacking'. That sort of works -- at least, it will fool investors for awhile until they start digging into retention numbers -- but eventually the music stops" [6]. The warning is directional: top-line growth can be manufactured, retention cannot. Investors who skip retention-curve diligence miss a load-bearing signal; founders who do not track retention before chasing growth are setting themselves up for the music to stop.
+
+Altman's recommended pre-growth metric is a binary replacement: "Do any users love our product so much they spontaneously tell other people to use it?" [6]. Only after that answer is yes should conventional growth metrics take primacy. The sequence mirrors Blomfield's "not serious enough / too serious" warning -- before PMF, retention and the binary-love test are the only metrics that matter; obsessing over funnel metrics too early is the "too serious" failure mode applied at the wrong stage. See [[Growth]], [[Product-Market Fit]], and [[Cohort Retention]].
+
 ## References
 
 1. [Key Startup Metrics](https://www.ycombinator.com/library/KR-key-startup-metrics) -- [[Tom Blomfield]] (n.d.)
@@ -241,3 +247,4 @@ His resolution: "You want to be learning from the past. You want to be totally i
 3. [Key Startup Metrics](https://ycombinator.com/library/KR-key-startup-metrics) -- [[Tom Blomfield]] (n.d.)
 4. [Consumer Startup Metrics](https://ycombinator.com/library/KT-consumer-startup-metrics) -- [[Tom Blomfield]] (n.d.)
 5. [How to Start a Startup: How to Get Ideas and Find What's Working](https://ycombinator.com/library/8B-how-to-start-a-startup-how-to-get-ideas-and-find-what-s-working) -- Stewart Butterfield, Adam D'Angelo (2017)
+6. [Before Growth](https://blog.samaltman.com/before-growth) -- [[Sam Altman]] (January 2016)

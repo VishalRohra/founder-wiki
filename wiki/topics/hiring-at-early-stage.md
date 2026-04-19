@@ -3,9 +3,9 @@ title: Hiring at Early Stage
 type: topic
 created: 2026-04-05
 last_updated: 2026-04-19
-aliases: ["early stage hiring", "pre-PMF hiring", "startup hiring mistakes", "when to hire", "don't hire", "overhiring at startups", "hiring before product market fit", "spend more time recruiting", "superstars net impact"]
-related: ["[[Hiring Engineers]]", "[[Financial Survival]]", "[[Default Alive or Default Dead]]", "[[Product-Market Fit]]", "[[Scaling and Later-Stage Operations]]", "[[Co-Founders]]", "[[Company Culture]]", "[[Sam Altman]]"]
-sources: ["J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes", "KF-how-to-not-get-screwed-over-as-a-software-engineer", "6N-vinod-khosla-on-how-to-build-the-future", "6L-on-starting-and-scaling-construction-startup-plangrid", "5I-on-starting-and-scaling-healthcare-startup-23andme", "6a-on-starting-and-scaling-direct-mail-automation-startup-lob", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "sa-what-i-wish-someone-had-told-me"]
+aliases: ["early stage hiring", "pre-PMF hiring", "startup hiring mistakes", "when to hire", "don't hire", "overhiring at startups", "hiring before product market fit", "spend more time recruiting", "superstars net impact", "world-class recruiter", "mission recruiting", "rate of improvement hiring", "force of nature", "Greg Brockman"]
+related: ["[[Hiring Engineers]]", "[[Financial Survival]]", "[[Default Alive or Default Dead]]", "[[Product-Market Fit]]", "[[Scaling and Later-Stage Operations]]", "[[Co-Founders]]", "[[Company Culture]]", "[[Sam Altman]]", "[[Recruiting Early Team Members]]", "[[OpenAI: From Flip Chart to AGI]]"]
+sources: ["J2-inside-the-group-partner-lounge-don-t-make-these-hiring-mistakes", "KF-how-to-not-get-screwed-over-as-a-software-engineer", "6N-vinod-khosla-on-how-to-build-the-future", "6L-on-starting-and-scaling-construction-startup-plangrid", "5I-on-starting-and-scaling-healthcare-startup-23andme", "6a-on-starting-and-scaling-direct-mail-automation-startup-lob", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "sa-what-i-wish-someone-had-told-me", "sa-hard-startups", "sa-greg", "sa-how-to-invest-in-startups", "sa-how-to-be-successful"]
 speakers_referenced: ["Harj Taggar", "Michael Seibel", "Brad Flora", "Dalton Caldwell", "Vinod Khosla", "Sam Altman", "Tracy Young", "Anne Wojcicki", "Harry Zhang", "Sarah Nahm"]
 ---
 
@@ -129,6 +129,18 @@ Many of Lever's hires were people the team met two to three years before the hir
 
 Lever replaced traditional job descriptions with impact descriptions -- what someone would achieve in 1, 3, 6, and 12 months. This attracted more top-tier candidates and diversified the applicant pool because it stopped "broadcasting to the world assumptions about what kind of people should apply" [7].
 
+## Mission as Recruiting Gravity (Sam Altman)
+
+Altman's 2020 *Hard Startups* essay reframes the recruiting problem from tactics to structural gravity. "It's usually reasonably easy to get the first five or ten people to join -- you can offer large equity grants and areas of responsibility. But eventually, what you have to recruit with are the mission of the company, the likelihood of massive success, and the quality of the people there" [9]. The single most powerful recruiting message, when it can be made honestly: "The world needs this, it won't happen any time soon if we don't do it, and we are much less likely to succeed if you don't join" [9].
+
+The Peter-Principle derivative he names: "Your startup will rise to the level where it can no longer attract enough talented people" [9]. The implication inverts the usual calculus — a hard startup is *easier* to staff than an easy startup at the high end of talent, because meaning-seeking talent self-selects into mission-dense environments and avoids lower-ambition ones. See [[Recruiting Early Team Members]] for the founder-mindset version of the same argument.
+
+## World-Class Recruiter as a Founding-Team Requirement (Sam Altman)
+
+Altman's 2017 profile of Greg Brockman makes recruiting capability a founding-team-level requirement, not a nice-to-have. "Greg is a world-class recruiter (he plans every detail of interviews, heavily researches candidates' backgrounds, sends thoughtful and persistent followups, and so on), and I now believe even more strongly that someone on the founding team has to be an amazing recruiter" [10]. The claim is structural: recruiting is as load-bearing as product or sales, and teams without a founding-team-level recruiter under-ship on hiring through the exact phase where hiring is most consequential. See [[Co-Founders]] for the full treatment.
+
+Altman's 2020 investor essay gives the same skill a diagnostic form that maps cleanly onto the rate-of-improvement hiring heuristic: "If you meet someone three times in three months, and notice detectable improvement each time, pay attention to that. The rate of improvement is often more important than the current absolute ability" [11]. Applied to hiring: the interviewer is effectively running the same pattern-match an early-stage investor runs on founders, just at a different granularity. His email-response tell carries over too: "I have almost never made money investing in founders who do not respond quickly to important emails" [11] — the same signal predicts shipping-speed as an employee. His 2019 *How to Be Successful* adds the talent-spotting heuristic: "I try to always ask myself when I meet someone new 'is this person a force of nature?' It's a pretty good heuristic for finding people who are likely to accomplish great things" [12].
+
 ## Firing Fast Enough (Tracy Young)
 
 Young reports that at YC, "almost every single speaker" discussed not firing fast enough [4]. Her framework: time-box it, make expectations explicit, give a clear deadline for improvement, and never let a termination be a surprise [4].
@@ -143,3 +155,7 @@ Young reports that at YC, "almost every single speaker" discussed not firing fas
 6. [On starting and scaling direct mail automation startup Lob](https://ycombinator.com/library/6a-on-starting-and-scaling-direct-mail-automation-startup-lob) -- [[Harry Zhang]], [[Kevin Hale]] (2019)
 7. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)
 8. [What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) -- [[Sam Altman]] (December 2023)
+9. [Hard Startups](https://blog.samaltman.com/hard-startups) -- [[Sam Altman]] (February 2020)
+10. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)
+11. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)
+12. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)

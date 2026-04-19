@@ -2,11 +2,11 @@
 title: Dealing with Setbacks
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["setbacks", "startup setbacks", "dealing with failure", "taking punches", "startup resilience", "founder resilience", "worst case analysis", "handling rejection"]
-related: ["[[Founder Mindset]]", "[[Co-Founders]]", "[[Convincing Investors]]", "[[Series A Fundraising]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]"]
-sources: ["IX-dalton-michael-how-to-deal-with-setbacks", "M2-how-to-build-the-future-parker-conrad", "KY-backstory-tom-blomfield", "6S-on-starting-and-scaling-dropbox-yc-w07"]
-speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Parker Conrad", "Tom Blomfield", "Drew Houston"]
+last_updated: 2026-04-19
+aliases: ["setbacks", "startup setbacks", "dealing with failure", "taking punches", "startup resilience", "founder resilience", "worst case analysis", "handling rejection", "Chief Optimist", "willfulness", "Airbnb credit cards", "being misunderstood"]
+related: ["[[Founder Mindset]]", "[[Co-Founders]]", "[[Convincing Investors]]", "[[Series A Fundraising]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Sam Altman]]"]
+sources: ["IX-dalton-michael-how-to-deal-with-setbacks", "M2-how-to-build-the-future-parker-conrad", "KY-backstory-tom-blomfield", "6S-on-starting-and-scaling-dropbox-yc-w07", "sa-greg", "sa-how-to-be-successful", "sa-the-strength-of-being-misunderstood"]
+speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Parker Conrad", "Tom Blomfield", "Drew Houston", "Sam Altman"]
 ---
 
 # Dealing with Setbacks
@@ -117,9 +117,20 @@ This adds a dimension absent from most setback advice: sometimes the right respo
 
 [[Drew Houston]] describes managing constant external negativity. From the Hacker News commenter who called Dropbox "the stupidest thing I've ever heard of" to investors saying "Google's going to do this" [4]. Houston's framework: founders need thick skin (to tune out noise) and thin skin (to respond to customer and team unhappiness) simultaneously. "That's a weird dynamic that you have to handle" [4].
 
+## The Chief Optimist Role (Sam Altman)
+
+Altman's 2017 profile of Greg Brockman frames setback-absorption as a specific founding-team role. "Founding teams need a Chief Optimist to rally everyone to press on despite the difficulties, and it's always hard on that person because they can't really lean on anyone else in the hardest times" [5]. The structural consequence of not filling this role: "Without someone dedicated to finding a solution to all problems, no matter how difficult, eventually a large problem will come along and kill you while you're still weak" [5]. The Chief Optimist is the person who operates the inventory-and-respond loop Seibel describes, even when the rest of the team is frozen.
+
+Altman's 2019 *How to Be Successful* gives the willfulness side of setback response its canonical benchmark in Airbnb. "There are so many stories they tell that I wouldn't recommend trying to reproduce (keeping maxed-out credit cards in those nine-slot three-ring binder pages kids use for baseball cards, eating dollar store cereal for every meal, battle after battle with powerful entrenched interest, and on and on) but they managed to survive long enough for luck to go their way" [6]. The through-line: "Almost always, the people who say 'I am going to keep going until this works, and no matter what the challenges are I'm going to figure them out', and mean it, go on to succeed. They are persistent long enough to give themselves a chance for luck to go their way" [6]. And the personality floor: "To be willful, you have to be optimistic. I have never met a very successful pessimistic person" [6].
+
+Altman's 2020 *Strength of Being Misunderstood* adds a timescale dimension to setback absorption that is absent from most YC advice: setbacks are also public-opinion events, and the founder who holds a long-horizon social frame survives them better. "As long as you are right, being misunderstood by most people is a strength not a weakness" [7]. Several of the setback cases on this page — Parker Conrad's public ouster at Zenefits, Drew Houston's "stupidest thing I've ever heard of" dismissals — are exactly the short-term low-status events Altman argues founders must be willing to absorb in exchange for long-term high-status outcomes. See [[Founder Mindset]] for the full treatment of both frames.
+
 ## References
 
 1. [Dalton & Michael: How to Deal with Setbacks](https://www.ycombinator.com/library/IX-dalton-michael-how-to-deal-with-setbacks) -- [[Dalton Caldwell]], [[Michael Seibel]] (n.d.)
 2. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)
 3. [Backstory: Tom Blomfield](https://ycombinator.com/library/KY-backstory-tom-blomfield) -- [[Tom Blomfield]] (2024)
 4. [On Starting and Scaling Dropbox (YC W07)](https://ycombinator.com/library/6S-on-starting-and-scaling-dropbox-yc-w07) -- [[Drew Houston]], [[Sam Altman]] (2017)
+5. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)
+6. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)
+7. [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood) -- [[Sam Altman]] (December 2020)

@@ -2,10 +2,10 @@
 title: Product-Market Fit
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-18
-aliases: ["PMF", "product market fit", "finding PMF", "product-market fit", "stepping on a land mine", "false hope"]
-related: ["[[Growth]]", "[[Startup Ideas]]", "[[Doing Things That Don't Scale]]", "[[Series A Fundraising]]", "[[Startup Essentials]]", "[[Enterprise Sales]]", "[[Getting First Users]]", "[[Pivoting]]", "[[Peter Reinhardt]]", "[[Segment: From Classroom Tool to Customer Data Platform]]"]
-sources: ["4p-before-growing-your-startup", "8t-the-18-mistakes-that-kill-startups", "8z-how-to-get-startup-ideas", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "8p-how-to-prioritize-features", "8d-how-to-build-a-great-series-a-pitch-and-deck", "5z-the-real-product-market-fit", "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps", "MJ-how-to-build-the-future-tony-xu", "MC-how-to-build-the-future-aravind-srinivas", "M2-how-to-build-the-future-parker-conrad", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "86-how-to-start-a-startup-finding-product-market-fit"]
+last_updated: 2026-04-19
+aliases: ["PMF", "product market fit", "finding PMF", "product-market fit", "stepping on a land mine", "false hope", "spontaneously tell friends", "founder/company fit", "spectral signatures"]
+related: ["[[Growth]]", "[[Startup Ideas]]", "[[Doing Things That Don't Scale]]", "[[Series A Fundraising]]", "[[Startup Essentials]]", "[[Enterprise Sales]]", "[[Getting First Users]]", "[[Pivoting]]", "[[Peter Reinhardt]]", "[[Segment: From Classroom Tool to Customer Data Platform]]", "[[Sam Altman]]", "[[Building Products Users Love]]"]
+sources: ["4p-before-growing-your-startup", "8t-the-18-mistakes-that-kill-startups", "8z-how-to-get-startup-ideas", "59-how-to-set-up-hire-and-scale-a-growth-strategy-and-team", "8p-how-to-prioritize-features", "8d-how-to-build-a-great-series-a-pitch-and-deck", "5z-the-real-product-market-fit", "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps", "MJ-how-to-build-the-future-tony-xu", "MC-how-to-build-the-future-aravind-srinivas", "M2-how-to-build-the-future-parker-conrad", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "6M-on-starting-and-scaling-indian-shopping-site-meesho", "86-how-to-start-a-startup-finding-product-market-fit", "sa-before-growth", "89-how-to-succeed-with-a-startup", "sa-how-to-invest-in-startups", "sa-idea-generation"]
 speakers_referenced: ["Sam Altman", "Paul Graham", "Anu Hariharan", "Emmett Shear", "Michael Seibel", "Marc Andreessen", "David Lieb", "Tony Xu", "Aravind Srinivas", "Parker Conrad", "Sarah Nahm", "Vidit Aatrey", "Peter Reinhardt"]
 ---
 
@@ -127,6 +127,24 @@ PMF is increasingly the threshold for [[Series A Fundraising]]. Compared to the 
 
 Bump represents a cautionary case: 150 million downloads and 10 million MAU, but Lieb does not describe it as having achieved PMF. Long-term retention was good but usage frequency was very low. The business could extract roughly $1 per user per year. Viral growth and PMF are not the same thing [8].
 
+## Altman's Binary Test: Do Users Spontaneously Tell Friends?
+
+Altman's 2016 essay *Before Growth* gives PMF its simplest diagnostic: "Do any users love our product so much they spontaneously tell other people to use it? Until that's a 'yes', founders are generally better off focusing on this instead of a growth target" [15]. The test is binary — not a retention curve, not a growth rate, not NPS — just whether *any* user exists who loves the product enough to recommend it unprompted.
+
+He restates the same test in his 2018 lecture: "The degree to which you're successful approximates the degree to which you build a product that is so good people spontaneously tell their friends about it" [16]. And in his 2020 investor essay, it appears as one of the seven "spectral signatures" of his best investments: "A product so good that people spontaneously tell their friends about it" [17]. Three sources, one test, restated across six years.
+
+The implication Altman draws in *Before Growth*: "A startup that prematurely targets a growth goal often ends up making a nebulous product that some users sort of like and papering over this with 'growth hacking'. That sort of works -- at least, it will fool investors for awhile until they start digging into retention numbers -- but eventually the music stops" [15]. See [[Growth]] for the full argument about sequencing.
+
+A side observation with structural consequences: "Startups that don't first figure out a product some users love also seem to rarely develop the sense of mission that the best companies have" [15]. Mission, in Altman's model, follows product-love rather than preceding it.
+
+## The Seven Signatures of Best Investments (Sam Altman)
+
+In *How to Invest in Startups*, Altman lists seven properties his best investments share — effectively a PMF checklist from the investor side: "Compelling founders, a mission that attracts talented people into the startup's orbit, a product so good that people spontaneously tell their friends about it, a rapidly growing market, a network effect and low marginal costs, the ability to grow fast, and a product that is either fundamentally new or 10x better than existing options" [17]. The list is useful as a diagnostic for founders too: if a candidate product misses several of these, PMF may not unlock even if the current metrics improve.
+
+## Founder/Company Fit as Companion to PMF (Sam Altman)
+
+Altman's 2020 essay *Idea Generation* adds a complementary frame: "I've come to believe that founder/company fit is as important as product/market fit" [18]. The claim is that the same product can reach PMF under one founding team and fail to reach it under another, because the founder's specific strengths and obsessions shape which iteration paths get explored. See [[Startup Ideas]] for the operational form of this.
+
 ## References
 
 1. [Before Growing Your Startup](https://www.ycombinator.com/library/4p-before-growing-your-startup) -- [[Sam Altman]] (n.d.)
@@ -143,3 +161,7 @@ Bump represents a cautionary case: 150 million downloads and 10 million MAU, but
 12. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)
 13. [On Starting and Scaling Indian Shopping Site Meesho](https://ycombinator.com/library/6M-on-starting-and-scaling-indian-shopping-site-meesho) -- [[Vidit Aatrey]], Adora Cheung (2019)
 14. [How to Start a Startup: Finding Product-Market Fit](https://ycombinator.com/library/86-how-to-start-a-startup-finding-product-market-fit) -- [[Peter Reinhardt]] (2017)
+15. [Before Growth](https://blog.samaltman.com/before-growth) -- [[Sam Altman]] (January 2016)
+16. [How to Succeed with a Startup](https://ycombinator.com/library/89-how-to-succeed-with-a-startup) -- [[Sam Altman]] (August 2018)
+17. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)
+18. [Idea Generation](https://blog.samaltman.com/idea-generation) -- [[Sam Altman]] (May 2020)

@@ -2,11 +2,11 @@
 title: Company Culture
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-18
-aliases: ["company culture", "startup culture", "culture building", "core values", "no assholes", "culture vs perks", "transparency in startups", "building culture at scale", "missionaries vs mercenaries"]
-related: ["[[Startup Leadership]]", "[[Startup Management]]", "[[Scaling and Later-Stage Operations]]", "[[Founder Mindset]]", "[[Hiring at Early Stage]]", "[[Diversity and Inclusion]]", "[[Ben Silbermann]]", "[[Patrick Collison]]", "[[John Collison]]", "[[Brian Chesky]]", "[[Alfred Lin]]", "[[Startup Culture]]"]
-sources: ["5p-creating-good-company-culture-and-sticking-to-it", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "JO-how-to-start-a-startup-building-company-culture-part-ii", "JN-how-to-start-a-startup-building-company-culture-part-i"]
-speakers_referenced: ["Kathryn Minshew", "Sarah Nahm", "Ben Silbermann", "Patrick Collison", "John Collison", "Brian Chesky", "Alfred Lin"]
+last_updated: 2026-04-19
+aliases: ["company culture", "startup culture", "culture building", "core values", "no assholes", "culture vs perks", "transparency in startups", "building culture at scale", "missionaries vs mercenaries", "mission follows product love"]
+related: ["[[Startup Leadership]]", "[[Startup Management]]", "[[Scaling and Later-Stage Operations]]", "[[Founder Mindset]]", "[[Hiring at Early Stage]]", "[[Diversity and Inclusion]]", "[[Ben Silbermann]]", "[[Patrick Collison]]", "[[John Collison]]", "[[Brian Chesky]]", "[[Alfred Lin]]", "[[Startup Culture]]", "[[Sam Altman]]", "[[Co-Founders]]"]
+sources: ["5p-creating-good-company-culture-and-sticking-to-it", "6I-on-starting-and-scaling-recruiting-software-startup-lever", "JO-how-to-start-a-startup-building-company-culture-part-ii", "JN-how-to-start-a-startup-building-company-culture-part-i", "sa-before-growth", "sa-greg"]
+speakers_referenced: ["Kathryn Minshew", "Sarah Nahm", "Ben Silbermann", "Patrick Collison", "John Collison", "Brian Chesky", "Alfred Lin", "Sam Altman"]
 ---
 
 # Company Culture
@@ -293,9 +293,19 @@ Lin references "The Five Dysfunctions of a Team" to illustrate how culture failu
 4. Avoidance of accountability follows from weak commitment
 5. Inattention to results follows from no accountability
 
+## Mission Follows Product-Love (Sam Altman)
+
+[[Sam Altman]]'s 2016 *Before Growth* essay names a structural observation about mission that cuts against the standard cultural-values-first playbook: "Startups that don't first figure out a product some users love also seem to rarely develop the sense of mission that the best companies have" [5]. The ordering is load-bearing — mission, in this framing, is downstream of product-love, not upstream. Chesky and Lin's argument that culture must be set deliberately in the first year assumes the product side is functional; Altman's observation is that culture statements authored before the team has experienced users loving the product tend to be performative. The synthesis: build the thing users love first, then codify the culture that produced the love. See [[Product-Market Fit]] and [[Growth]].
+
+## Defining Culture Is a Founding-Team Role (Sam Altman)
+
+Altman's 2017 profile of Greg Brockman frames culture-definition as one of the non-technical founder-level responsibilities, alongside making offers, organizing offsites, letting everyone work out of his apartment, and cleaning up after meals [6]. "It's important to have someone great in this role at a small startup -- many people gloss over it" [6]. The structural claim is the same as Alfred Lin's — culture is not downstream of the first engineering hire, it is set by the founder who does the role and the behaviors that role models early. See [[Co-Founders]] for the Chief Optimist framing of the same role.
+
 ## References
 
 1. [Creating Good Company Culture (and Sticking to It)](https://ycombinator.com/library/5p-creating-good-company-culture-and-sticking-to-it) -- Kathryn Minshew (2016)
 2. [On Starting and Scaling Recruiting Software Startup Lever](https://ycombinator.com/library/6I-on-starting-and-scaling-recruiting-software-startup-lever) -- [[Sarah Nahm]], Holly Liu (2019)
 3. [How to Start a Startup: Building Company Culture, Part II](https://ycombinator.com/library/JO-how-to-start-a-startup-building-company-culture-part-ii) -- [[Ben Silbermann]], [[Patrick Collison]], [[John Collison]] (2014)
 4. [How to Start a Startup: Building Company Culture, Part I](https://ycombinator.com/library/JN-how-to-start-a-startup-building-company-culture-part-i) -- [[Brian Chesky]], [[Alfred Lin]] (2014)
+5. [Before Growth](https://blog.samaltman.com/before-growth) -- [[Sam Altman]] (January 2016)
+6. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)

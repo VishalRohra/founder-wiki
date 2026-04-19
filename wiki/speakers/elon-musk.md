@@ -2,11 +2,11 @@
 title: Elon Musk
 type: speaker
 created: 2026-04-05
-last_updated: 2026-04-05
-sources: ["6W-elon-musk-on-how-to-build-the-future", "MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful"]
-aliases: ["Elon Musk", "Musk", "Elon"]
-related: ["[[Hard Tech Startups]]", "[[Founder Mindset]]", "[[Sam Altman]]", "[[AI and Startups]]", "[[Dealing with Setbacks]]", "[[Garry Tan]]"]
-speakers_referenced: ["Elon Musk"]
+last_updated: 2026-04-19
+sources: ["6W-elon-musk-on-how-to-build-the-future", "MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful", "sa-how-to-be-successful", "sa-greg"]
+aliases: ["Elon Musk", "Musk", "Elon", "Mars conviction benchmark", "self-belief benchmark"]
+related: ["[[Hard Tech Startups]]", "[[Founder Mindset]]", "[[Sam Altman]]", "[[AI and Startups]]", "[[Dealing with Setbacks]]", "[[Garry Tan]]", "[[OpenAI: From Flip Chart to AGI]]"]
+speakers_referenced: ["Elon Musk", "Sam Altman"]
 ---
 
 # Elon Musk
@@ -97,7 +97,15 @@ Asked whether people who want to be useful should get PhDs, Musk answers: "Mostl
 
 As of 2016, Musk spent 80% of his time on "engineering and design" and "developing next-generation product" at SpaceX and Tesla [1]. At SpaceX, Gwynne Shotwell manages legal, finance, sales, and general business while Musk works with engineering. His biggest realization that year: "What really matters is the machine that builds the machine -- the factory. And that is at least two orders of magnitude harder than the vehicle itself" [1].
 
+## External Profile: Musk as Altman's Self-Belief Benchmark
+
+[[Sam Altman]]'s 2019 *How to Be Successful* uses Musk as the canonical illustration of near-delusional self-belief. Altman describes a SpaceX factory tour: "He talked in detail about manufacturing every part of the rocket, but the thing that sticks in memory was the look of absolute certainty on his face when he talked about sending large rockets to Mars. I left thinking 'huh, so that's the benchmark for what conviction looks like'" [3]. The observation matches Musk's own account on this page -- he accepted less-than-10% odds on SpaceX and proceeded anyway -- but the external frame is what Altman uses to calibrate other founders. Altman's broader claim: "Most highly successful people have been really right about the future at least once at a time when people thought they were wrong. If not, they would have faced much more competition" [3]. Musk is the stylized case.
+
+Musk also appears in Altman's 2017 *Greg* essay as one of the busy-day-job founders during OpenAI's formation: "Elon and I were both busy with day jobs, but Greg kept everything moving forward with imperfect information and a very high-latency connection" [4]. The detail matters structurally -- the essay's argument is that high-bandwidth operational commitment from at least one founding team member is load-bearing, and the founders providing the vision cannot do this work alone. See [[OpenAI: From Flip Chart to AGI]].
+
 ## References
 
 1. [Elon Musk on How to Build the Future](https://www.ycombinator.com/library/6W-elon-musk-on-how-to-build-the-future) -- Elon Musk, [[Sam Altman]] (2016)
 2. [Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful](https://ycombinator.com/library/MX-elon-musk-digital-superintelligence-multiplanetary-life-how-to-be-useful) -- Elon Musk, [[Garry Tan]] (June 2025)
+3. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)
+4. [Greg](https://blog.samaltman.com/greg) -- [[Sam Altman]] (March 2017)

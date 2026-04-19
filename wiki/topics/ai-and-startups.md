@@ -2,10 +2,10 @@
 title: AI and Startups
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["AI startups", "OpenAI", "LLMs and startups", "AI hype", "platform shifts", "will AI kill startups", "cargo culting AI", "AI opportunity", "using AI", "LLMs in startups", "AI pivot", "vibe coding", "AI tools for founders", "AI coding", "AI for startups", "AI in Startups"]
-related: ["[[Startup Ideas]]", "[[Growth]]", "[[Hard Tech Startups]]", "[[Founder Mindset]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Product Development]]", "[[Founder Productivity]]", "[[Tom Blomfield]]"]
-sources: ["Ie-dalton-michael-will-openai-kill-all-startups", "M3-how-to-use-ai-in-your-startup", "MN-how-to-get-the-most-out-of-vibe-coding", "Lp-how-to-build-the-future-sam-altman", "MC-how-to-build-the-future-aravind-srinivas", "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps", "M2-how-to-build-the-future-parker-conrad"]
+last_updated: 2026-04-19
+aliases: ["AI startups", "OpenAI", "LLMs and startups", "AI hype", "platform shifts", "will AI kill startups", "cargo culting AI", "AI opportunity", "using AI", "LLMs in startups", "AI pivot", "vibe coding", "AI tools for founders", "AI coding", "AI for startups", "AI in Startups", "tectonic shifts", "ideation for AI"]
+related: ["[[Startup Ideas]]", "[[Growth]]", "[[Hard Tech Startups]]", "[[Founder Mindset]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Product Development]]", "[[Founder Productivity]]", "[[Tom Blomfield]]", "[[Sam Altman]]", "[[Why Now]]"]
+sources: ["Ie-dalton-michael-will-openai-kill-all-startups", "M3-how-to-use-ai-in-your-startup", "MN-how-to-get-the-most-out-of-vibe-coding", "Lp-how-to-build-the-future-sam-altman", "MC-how-to-build-the-future-aravind-srinivas", "5f-on-starting-and-scaling-one-of-the-biggest-ios-apps", "M2-how-to-build-the-future-parker-conrad", "sa-idea-generation"]
 speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "[[Brad Flora]]", "Gustaf Alstromer", "Pete Koomen", "Tom Blomfield"]
 ---
 
@@ -196,6 +196,12 @@ Conrad's contrarian take: AI SDRs currently do not work. But "the second that it
 
 [[Aravind Srinivas]] chose search because it sits on the "AI completeness path" -- the company improves as AI improves, creating a flywheel. Perplexity's approach was deliberately simple: take top-K search results, feed cached snippets to an LLM, generate answers with citations [6]. See [[Perplexity: Building the Next Search Engine]].
 
+## Ideation Frameworks Apply Directly to AI (Sam Altman)
+
+Altman closes his 2020 *Idea Generation* essay with a note added on re-reading: "I wrote it when I thought mostly about startups; now I think mostly about AI development. I am struck by how much of it applies, particularly paragraphs 5-9" [8]. The paragraphs he flags are on environment for fragile ideas, 20-year-out projection, tectonic shifts, and real-vs-fake trends. The implication: the cognitive tools for seeing a startup opportunity and the cognitive tools for seeing an AI research direction are the same tools. Founders applying his frameworks to pick AI companies are using frameworks Altman himself now uses to prioritize at OpenAI. See [[Startup Ideas]] and [[Why Now]] for the full frameworks.
+
+The timing claim in the essay reads as prescient in hindsight: "The mobile phone explosion from 2008-2012 is the most recent significant example of this -- we are overdue for another!" [8]. In May 2020, the LLM moment was roughly two years away. The real-vs-fake-trend test he gives -- "if the new platform is used a lot by a small number of people, or used a little by a lot of people" -- is also the cleanest diagnostic available for which AI applications have real pull versus which are hype-driven [8].
+
 ## References
 
 1. [Will OpenAI Kill All Startups?](https://www.ycombinator.com/library/Ie-dalton-michael-will-openai-kill-all-startups) -- [[Dalton Caldwell]], [[Michael Seibel]] (2023)
@@ -205,3 +211,4 @@ Conrad's contrarian take: AI SDRs currently do not work. But "the second that it
 5. [On Starting and Scaling One of the Biggest iOS Apps](https://ycombinator.com/library/5f-on-starting-and-scaling-one-of-the-biggest-ios-apps) -- [[David Lieb]], Gustaf Alstromer (n.d.)
 6. [How To Build The Future: Aravind Srinivas](https://ycombinator.com/library/MC-how-to-build-the-future-aravind-srinivas) -- [[Aravind Srinivas]], [[David Lieb]] (2025)
 7. [How To Build The Future: Parker Conrad](https://ycombinator.com/library/M2-how-to-build-the-future-parker-conrad) -- [[Parker Conrad]], [[Garry Tan]] (2025)
+8. [Idea Generation](https://blog.samaltman.com/idea-generation) -- [[Sam Altman]] (May 2020)

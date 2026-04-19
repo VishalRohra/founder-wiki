@@ -2,11 +2,11 @@
 title: Investor Advice Pitfalls
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["investor advice", "why investors can't fix your company", "bad investor advice", "investor types", "magical thinking investors", "founder accountability", "silver bullet"]
-related: ["[[Convincing Investors]]", "[[Financial Survival]]", "[[Product-Market Fit]]", "[[Early-Stage Mistakes]]", "[[Founder Mindset]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]"]
-sources: ["IT-dalton-michael-why-investors-can-t-fix-your-company"]
-speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Patrick Collison"]
+last_updated: 2026-04-19
+aliases: ["investor advice", "why investors can't fix your company", "bad investor advice", "investor types", "magical thinking investors", "founder accountability", "silver bullet", "peer not boss", "ambitious goals", "investor emotional support", "sui generis idea generator"]
+related: ["[[Convincing Investors]]", "[[Financial Survival]]", "[[Product-Market Fit]]", "[[Early-Stage Mistakes]]", "[[Founder Mindset]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Sam Altman]]", "[[Paul Graham]]", "[[Investor Incentives]]"]
+sources: ["IT-dalton-michael-why-investors-can-t-fix-your-company", "sa-how-to-invest-in-startups"]
+speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Patrick Collison", "Sam Altman", "Paul Graham"]
 ---
 
 # Investor Advice Pitfalls
@@ -111,6 +111,22 @@ Seibel describes the YC kickoff: "The first thing we say is that we're experts i
 
 Seibel frames the success attribution: "You're going to be able to deserve 99.9% of the credit if you figure it out because you figured it out. All the rest of the people around who helped you, they didn't figure it out" [1].
 
+## What Good Investor Help Looks Like (Sam Altman)
+
+[[Sam Altman]]'s 2020 essay *How to Invest in Startups* is unusually frank from the investor side about what actually helps founders and what does not [2]. The ranked list:
+
+1. **Ambition.** "The most important way to help founders is to get them to be more ambitious -- to think bigger and to have more self-belief. Help them set ambitious but achievable goals. Momentum is important and self-reinforcing -- most people set goals that they expect to be just out of reach, which is usually demotivating. It's better to continuously set goals that you can just barely hit" [2]. The pairing is deliberate — stretch-but-reachable goals compound into momentum; unreachable goals produce demoralization and then retreat.
+2. **Specific, tactical advice.** "Good tactical advice is something like 'it seems like you've figured out yourself how to do sales for this company, so here is where to look and what to look for in your first sales hire, and here is the sales tool you should use'" [2]. Altman contrasts this with general strategic advice, which is usually worse than useless.
+3. **Introductions, hiring help, office-finding, etc.** -- but usually on demand, not proactive. The exception worth being proactive about: "Proactively let them know when you have very high conviction that they're about to make a big mistake, especially once things are working and they aren't setting themselves up to scale" [2].
+4. **Emotional support.** "Most of the time when founders call asking for vague help, what they are really asking for is emotional support from a friend. Invite them over to your house, make them tea or pour them a drink, and start listening to their struggles" [2]. The recognition that vague-help requests are friendship requests is a piece of investor-craft that this article's Seibel-Caldwell framework does not surface — most investors respond to the surface question instead of the underlying need.
+
+Altman explicitly warns against one common pattern: trying to generate new ideas for founders. "In theory, another big exception is actually helping founders come up with good new ideas. The first investor I ever watched in action was PG and so I assumed this was something all investors were fantastic at. But it turns out he is a sui generis idea generator, and even most great investors are usually still bad at telling founders what to work on. It's worth trying to be self-aware" [2]. See [[Paul Graham]] for the unique-as-idea-generator characterization.
+
+## Peer, Not Boss
+
+Altman's single most load-bearing heuristic for investor behavior: "The best way to have a poor close rate is to not treat founders like peers. If you're picking well, you should be investing in founders that you think of as your peers at least. Founders have a sixth sense for who is going to treat them like a peer and who is going to treat them like a boss. And if they're good, they know you're failing an intelligence test if you act like their boss" [2]. This sharpens Seibel and Caldwell's seven-types framing — the systematic failure across most investor types is not the wrong advice but the wrong relational frame. Founders following advice from someone who treats them like a subordinate are already in the failure mode Seibel describes. See [[Investor Incentives]] for the three-jobs framework that situates this.
+
 ## References
 
 1. [Dalton & Michael: Why Investors Can't Fix Your Company](https://www.ycombinator.com/library/IT-dalton-michael-why-investors-can-t-fix-your-company) -- [[Dalton Caldwell]], [[Michael Seibel]] (n.d.)
+2. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)

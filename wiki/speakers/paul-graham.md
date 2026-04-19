@@ -2,8 +2,8 @@
 title: Paul Graham
 type: speaker
 created: 2026-04-05
-last_updated: 2026-04-18
-sources: ["8z-how-to-get-startup-ideas", "8t-the-18-mistakes-that-kill-startups", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "94-be-relentlessly-resourceful", "91-why-smart-people-have-bad-ideas", "95-default-alive-or-default-dead", "8u-the-equity-equation", "96-do-things-that-don-t-scale", "93-a-student-s-guide-to-startups", "8s-startup-growth", "98-how-to-convince-investors", "9M-billionaires-build", "JI-how-to-start-a-startup-before-the-startup"]
+last_updated: 2026-04-19
+sources: ["8z-how-to-get-startup-ideas", "8t-the-18-mistakes-that-kill-startups", "8w-the-hardest-lessons-for-startups-to-learn", "8x-why-to-not-not-start-a-startup", "8y-before-the-startup", "94-be-relentlessly-resourceful", "91-why-smart-people-have-bad-ideas", "95-default-alive-or-default-dead", "8u-the-equity-equation", "96-do-things-that-don-t-scale", "93-a-student-s-guide-to-startups", "8s-startup-growth", "98-how-to-convince-investors", "9M-billionaires-build", "JI-how-to-start-a-startup-before-the-startup", "sa-how-to-invest-in-startups", "sa-how-to-be-successful"]
 aliases: ["PG", "pg", "Graham", "Paul Graham"]
 related: ["[[Startup Ideas]]", "[[Doing Things That Don't Scale]]", "[[Founder Mindset]]", "[[Financial Survival]]", "[[Early-Stage Mistakes]]", "[[Growth]]", "[[Starting Young]]", "[[Equity Equation]]", "[[Default Alive or Default Dead]]", "[[Schlep Filter]]", "[[Convincing Investors]]", "[[Co-Founders]]", "[[Startups for Students]]"]
 speakers_referenced: ["Paul Graham"]
@@ -48,6 +48,8 @@ What makes Graham's lens distinctive:
 **Historical perspective.** Graham frequently places startups in deep historical context. Getting a job is only a hundred years old as the default way to make a living [4]. The shift to startups may be comparable to the shift from farming to manufacturing. Medieval serfs would have found it insanely risky to move to a city of three thousand strangers [4].
 
 **The theoretical voice.** Graham is the most theoretical voice in the YC canon. Where others offer tactical advice, Graham provides the conceptual architecture. His "Startup = Growth" essay is one of the most referenced pieces in the YC library because it provides the definition that everything else builds on. His writing style is distinctive for its use of mathematical reasoning and analogies to other domains (scientific research, evolution, optimization) [12].
+
+**Sui generis idea generator.** [[Sam Altman]] names Graham as the singular exception to the rule that investors should not try to generate ideas for founders: "The first investor I ever watched in action was PG and so I assumed this was something all investors were fantastic at. But it turns out he is a sui generis idea generator, and even most great investors are usually still bad at telling founders what to work on" [16]. The designation is structural — idea-generation-for-others is not a learnable investor skill, it is a rare individual trait, and Graham is the canonical instance. This reframes the YC library's idea essays as not just advice from a good writer but operational output from the specific cognitive mode Altman is flagging. In the same essay, Altman frames [[Jessica Livingston]] and Graham together as his benchmarks for internally-driven motivation: "YC was widely mocked for the first few years, and almost no one thought it would be a big success when they first started. But they thought it would be great for the world if it worked, and they love helping people, and they were convinced their new model was better than the existing model" [17]. See [[Investor Advice Pitfalls]] and [[Founder Mindset]].
 
 ## Key Frameworks
 
@@ -170,3 +172,5 @@ Asked whether hiring people you like creates dangerous monoculture, Graham dismi
 13. [How to Convince Investors](https://www.ycombinator.com/library/98-how-to-convince-investors) -- Paul Graham (August 2013)
 14. [Billionaires Build](https://www.ycombinator.com/library/9M-billionaires-build) -- Paul Graham (December 2020)
 15. [How to Start a Startup: Before the Startup](https://ycombinator.com/library/JI-how-to-start-a-startup-before-the-startup) -- Paul Graham (2014)
+16. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)
+17. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)

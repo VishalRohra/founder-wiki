@@ -2,11 +2,11 @@
 title: Convincing Investors
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-05
-aliases: ["fundraising pitch", "investor pitch", "how to convince investors", "pitching investors", "raising money", "formidable founders"]
-related: ["[[Seed Fundraising]]", "[[Paul Graham]]", "[[Startup Ideas]]", "[[Product-Market Fit]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Fundraising Mistakes]]", "[[Applying to YC]]"]
-sources: ["98-how-to-convince-investors", "9M-billionaires-build", "5b-how-do-you-convince-someone-to-join-your-startup"]
-speakers_referenced: ["Paul Graham", "Alfred Lin", "Dalton Caldwell"]
+last_updated: 2026-04-19
+aliases: ["fundraising pitch", "investor pitch", "how to convince investors", "pitching investors", "raising money", "formidable founders", "founder traits investors look for", "willing to be misunderstood", "spectral signature", "would I work for them"]
+related: ["[[Seed Fundraising]]", "[[Paul Graham]]", "[[Startup Ideas]]", "[[Product-Market Fit]]", "[[Cold Emailing Investors]]", "[[Silicon Valley Fundraising]]", "[[Fundraising Mistakes]]", "[[Applying to YC]]", "[[Sam Altman]]", "[[Founder Mindset]]", "[[Investor Advice Pitfalls]]"]
+sources: ["98-how-to-convince-investors", "9M-billionaires-build", "5b-how-do-you-convince-someone-to-join-your-startup", "sa-how-to-invest-in-startups", "sa-the-strength-of-being-misunderstood"]
+speakers_referenced: ["Paul Graham", "Alfred Lin", "Dalton Caldwell", "Sam Altman"]
 ---
 
 # Convincing Investors
@@ -55,8 +55,29 @@ Dropbox was part of a YC Boston batch. All the Boston investors passed. A couple
 
 The defining quality of founders who build billion-dollar companies is that they are genuinely interested in what they are building. The company is their project. Every billionaire founder could have stopped sooner. They kept working because there was nothing else they would rather do [2].
 
+## What Investors Actually Look For: Sam Altman's Trait List
+
+[[Sam Altman]]'s 2020 *How to Invest in Startups* essay lists the specific founder traits he uses to decide whether to invest: "Scrappy and formidable at the same time (a rarer combination than it sounds); mission-oriented, obsessed with their companies, relentless, and determined; extremely smart (necessary but certainly not sufficient); decisive, fast-moving, and willful; courageous, high-conviction, and willing to be misunderstood; strong communicators and infectious evangelists; and capable of becoming tough and ambitious" [4]. Graham's "formidable" is one clause in Altman's list; Altman adds the explicit requirement that founders be "willing to be misunderstood" — a direct link to his [[Founder Mindset|long-horizon social calibration]] argument.
+
+His two internal questions when meeting a founder: "If I'd work for that person. [And] if I can imagine them taking over their industry" [4]. Note the first question — *would I work for them* — is a peer-level test, not an investor-level test. It presupposes the found­er is someone Altman respects enough to take direction from, which is the same frame he names in [[Investor Advice Pitfalls]] as the peer-not-boss requirement.
+
+Some traits are mutable; some are nearly fixed. Toughness and ambition "can become much tougher and more ambitious rapidly." Movement speed is harder to change: "People tend to be either slow movers or fast movers and that seems harder to change. Being a fast mover is a big thing" [4]. The operational tell he names: "I have almost never made money investing in founders who do not respond quickly to important emails" [4]. Email response time is a proxy for the underlying speed trait.
+
+The belief-in-self requirement: "It sounds obvious, but the successful founders I've funded believe they are eventually certain to be successful" [4]. This is the 2020 restatement of what his 2019 *How to Be Successful* called near-delusional self-belief — investors are not skilled at faking-belief detection, but they read self-belief reliably over a few meetings, and absence is disqualifying.
+
+## The Spectral Signature
+
+Altman also shares a checklist of properties his best investments share, useful as a mirror for founders preparing to pitch: "Compelling founders, a mission that attracts talented people into the startup's orbit, a product so good that people spontaneously tell their friends about it, a rapidly growing market, a network effect and low marginal costs, the ability to grow fast, and a product that is either fundamentally new or 10x better than existing options" [4]. Each item the pitch can honestly claim is a point of leverage; each it cannot is a point to either strengthen pre-raise or explicitly address.
+
+## Non-Consensus-Correct as a Strength
+
+Altman's 2020 *Strength of Being Misunderstood* gives the willing-to-be-misunderstood trait its canonical argument: "As long as you are right, being misunderstood by most people is a strength not a weakness. You and a small group of rebels get the space to solve an important problem that might otherwise not get solved" [5]. Paired with the power-law structure of investor returns, this means the pitch that everyone immediately agrees with is often the pitch that is not worth funding — the best investments are the ones that most investors pass on. Graham's observation that "all the Boston investors passed" on Dropbox is the Altman framework's canonical case: short-term low-status (every rejection) turned into long-term high-status (Sequoia Series A, IPO, 500M users).
+
 ## References
 
 1. [How to Convince Investors](https://www.ycombinator.com/library/98-how-to-convince-investors) -- [[Paul Graham]] (August 2013)
 2. [Billionaires Build](https://www.ycombinator.com/library/9M-billionaires-build) -- [[Paul Graham]] (December 2020)
 3. [How Do You Convince Someone to Join Your Startup?](https://www.ycombinator.com/library/5b-how-do-you-convince-someone-to-join-your-startup) -- [[Dalton Caldwell]] (n.d.)
+4. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)
+5. [The Strength of Being Misunderstood](https://blog.samaltman.com/the-strength-of-being-misunderstood) -- [[Sam Altman]] (December 2020)
+

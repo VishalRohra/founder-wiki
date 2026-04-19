@@ -2,10 +2,10 @@
 title: Competing with Big Companies
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-18
-aliases: ["competing with big companies", "competition", "startup competition", "competing with Google", "competing with Amazon", "land grab", "structural advantage", "startup vs big company", "innovation complacency"]
+last_updated: 2026-04-19
+aliases: ["competing with big companies", "competition", "startup competition", "competing with Google", "competing with Amazon", "land grab", "structural advantage", "startup vs big company", "innovation complacency", "hard to compete with", "personal moat", "rate of change advantage"]
 related: ["Growth", "[[Sam Altman]]", "[[Why Now]]", "[[Founder Mindset]]", "[[Startup Ideas]]", "[[Harj Taggar]]", "[[Michael Seibel]]", "[[Brad Flora]]", "[[Growth]]", "[[Garry Tan]]", "[[Better, Faster, or Cheaper]]"]
-sources: ["Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google", "MC-how-to-build-the-future-aravind-srinivas", "MJ-how-to-build-the-future-tony-xu", "Lp-how-to-build-the-future-sam-altman", "89-how-to-succeed-with-a-startup", "Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how"]
+sources: ["Iz-inside-the-group-partner-lounge-how-to-compete-with-amazon-and-google", "MC-how-to-build-the-future-aravind-srinivas", "MJ-how-to-build-the-future-tony-xu", "Lp-how-to-build-the-future-sam-altman", "89-how-to-succeed-with-a-startup", "Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how", "sa-how-to-be-successful", "sa-how-to-invest-in-startups"]
 speakers_referenced: ["Michael Seibel", "Harj Taggar", "Brad Flora", "Aravind Srinivas", "Tony Xu", "Sam Altman", "Garry Tan"]
 ---
 
@@ -126,9 +126,13 @@ Tan contrasts this with Google's approach: "$5 to $20 billion per year in profit
 
 Tan includes a 1990 Steve Jobs clip where Jobs predicted that electronic organizations would replace management hierarchies because they can be formed in "literally fifteen minutes worth of setup" and can "live for as long as they're needed and then vanish" [6]. Tan frames this as the computer revolution creating "a new kind of management, a new type of hiring, a new type of company, and a new way to come together to create" [6].
 
-## References (new)
+## Individual-Level Competitive Moat (Sam Altman)
 
-6. [YOU Can Beat Google the Way Amazon Does. Here's How.](https://ycombinator.com/library/Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how) -- [[Garry Tan]] (n.d.)
+[[Sam Altman]]'s 2019 *How to Be Successful* extends the corporate competitive-moat argument to individual careers. "Most people understand that companies are more valuable if they are difficult to compete with. This is important, and obviously true. But this holds true for you as an individual as well. If what you do can be done by someone else, it eventually will be, and for less money" [7]. The moat-builders he names: personal relationships, a strong personal brand, or expertise at the intersection of multiple fields. "Most people do whatever most people they hang out with do. This mimetic behavior is usually a mistake -- if you're doing the same thing everyone else is doing, you will not be hard to compete with" [7]. Applied to founders, this means the competitive advantage stance is lived at the individual level before it is instantiated at the company level — the kind of person the founder is already determines the kind of company they can build.
+
+## Rate of Change as Structural Advantage (Sam Altman)
+
+[[Sam Altman]]'s 2020 *How to Invest in Startups* names the structural mechanism underlying the three-structural-advantages framework above: "Startups are likely to happen in many more industries -- startups can win wherever costs can be low and cycle time can be fast. Startups do particularly well in industries with rapid technological change, because their fundamental advantages over large competitors are speed and focus. A higher rate of change gives startups more opportunities to be right and the large competitor more opportunities to stumble" [8]. The implicit corollary: picking startup markets partly means picking markets where the rate of change is high enough that incumbents cannot amortize stability. Slow-changing markets favor incumbents regardless of quality; fast-changing markets systematically favor the startup mode. See [[Why Now]] for the timing side of this.
 
 ## References
 
@@ -137,3 +141,6 @@ Tan includes a 1990 Steve Jobs clip where Jobs predicted that electronic organiz
 3. [How To Build The Future: Tony Xu](https://ycombinator.com/library/MJ-how-to-build-the-future-tony-xu) -- [[Tony Xu]], [[Garry Tan]] (2025)
 4. [How To Build The Future: Sam Altman](https://ycombinator.com/library/Lp-how-to-build-the-future-sam-altman) -- [[Sam Altman]], [[Garry Tan]] (2024)
 5. [How to Succeed with a Startup](https://ycombinator.com/library/89-how-to-succeed-with-a-startup) -- [[Sam Altman]] (August 2018)
+6. [YOU Can Beat Google the Way Amazon Does. Here's How.](https://ycombinator.com/library/Jj-garry-s-channel-you-can-beat-google-the-way-amazon-does-here-s-how) -- [[Garry Tan]] (n.d.)
+7. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)
+8. [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) -- [[Sam Altman]] (January 2020)

@@ -2,11 +2,11 @@
 title: Leaving Big Tech
 type: topic
 created: 2026-04-05
-last_updated: 2026-04-18
-aliases: ["leaving FAANG", "leaving big tech", "quitting Google", "FAANG to startup", "big tech to startup", "golden handcuffs", "breaking out of FAANG"]
-related: ["[[Becoming a Founder]]", "[[Founder Mindset]]", "[[Starting Young]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Garry Tan]]", "[[Wealth vs. Money]]"]
-sources: ["Ih-dalton-michael-why-you-should-leave-your-faang-job", "Jh-garry-s-channel-my-200-million-startup-mistake"]
-speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Garry Tan"]
+last_updated: 2026-04-19
+aliases: ["leaving FAANG", "leaving big tech", "quitting Google", "FAANG to startup", "big tech to startup", "golden handcuffs", "breaking out of FAANG", "lifestyle matching", "1x 100x bet"]
+related: ["[[Becoming a Founder]]", "[[Founder Mindset]]", "[[Starting Young]]", "[[Dalton Caldwell]]", "[[Michael Seibel]]", "[[Garry Tan]]", "[[Wealth vs. Money]]", "[[Sam Altman]]"]
+sources: ["Ih-dalton-michael-why-you-should-leave-your-faang-job", "Jh-garry-s-channel-my-200-million-startup-mistake", "sa-how-to-be-successful"]
+speakers_referenced: ["Dalton Caldwell", "Michael Seibel", "Garry Tan", "Sam Altman"]
 ---
 
 # Leaving Big Tech
@@ -103,10 +103,14 @@ Tan identifies what small companies offer that large ones cannot: "Very direct a
 
 His advice: "I'm not really saying that you shouldn't go work at a big tech company. I am saying you should probably leave before it makes you soft. Don't make my mistake. Make all new mistakes" [2].
 
-## References (new)
+## Altman on the Lifestyle-Matching Trap
 
-2. [My $200 Million Startup Mistake](https://ycombinator.com/library/Jh-garry-s-channel-my-200-million-startup-mistake) -- [[Garry Tan]] (n.d.)
+[[Sam Altman]]'s 2019 *How to Be Successful* gives the big-tech risk-capacity problem its sharpest framing: "At YC, we've often noticed a problem with founders that have spent a lot of time working at Google or Facebook. When people get used to a comfortable life, a predictable job, and a reputation of succeeding at whatever they do, it gets very hard to leave that behind (and people have an incredible ability to always match their lifestyle to next year's salary). Even if they do leave, the temptation to return is great" [3]. The parenthetical names the precise mechanism Caldwell describes — salary inflation absorbs into lifestyle automatically unless actively resisted.
+
+His prescription: "Keep your life cheap and flexible for as long as you can ... it's a powerful way [to take risks], but obviously comes with tradeoffs" [3]. And the underlying claim: "Most people overestimate risk and underestimate reward. Taking risks is important because it's impossible to be right all the time -- you have to try many things and adapt quickly as you learn more. It's often easier to take risks early in your career; you don't have much to lose, and you potentially have a lot to gain" [3]. The 1x/100x bet framework he recommends — "look for small bets you can make where you lose 1x if you're wrong but make 100x if it works" — only functions if you have preserved the capacity to lose 1x without catastrophe, which is what big-tech lifestyle-matching silently eliminates. This reinforces [[Dalton Caldwell]] and Tan's accounts with a structural explanation of why the trap feels irresistible from inside.
 
 ## References
 
 1. [Dalton & Michael: Why You Should Leave Your FAANG Job](https://ycombinator.com/library/Ih-dalton-michael-why-you-should-leave-your-faang-job) -- [[Dalton Caldwell]], [[Michael Seibel]] (2022)
+2. [My $200 Million Startup Mistake](https://ycombinator.com/library/Jh-garry-s-channel-my-200-million-startup-mistake) -- [[Garry Tan]] (n.d.)
+3. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful) -- [[Sam Altman]] (January 2019)
