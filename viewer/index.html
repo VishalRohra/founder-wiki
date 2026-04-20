@@ -330,8 +330,15 @@ async function loadArticles() {
     data.forEach(a => { ARTICLES[a.slug] = a; ARTICLE_LIST.push(a); });
   } catch(e) { console.error('Failed to load articles.json', e); }
   buildSidebar();
-  showHome();
-  handleInitialRoute();
+  // Check if URL has an article hash BEFORE showing home
+  const initialHash = window.location.hash.slice(1);
+  const initialParam = new URLSearchParams(window.location.search).get('article');
+  const initialSlug = initialHash || initialParam;
+  if (initialSlug && ARTICLES[initialSlug]) {
+    navigateTo(initialSlug);
+  } else {
+    showHome(true); // true = don't push history state
+  }
 }
 
 function buildSidebar() {
@@ -590,20 +597,7 @@ function showHome(fromPopState) {
 }
 
 // Handle initial load from URL hash — works with static hosting
-function handleInitialRoute() {
-  const hash = window.location.hash.slice(1);
-  if (hash && hash !== '' && ARTICLES[hash]) {
-    navigateTo(hash);
-  }
-  // Also check query params for backwards compat
-  const params = new URLSearchParams(window.location.search);
-  const slug = params.get('article');
-  if (slug && ARTICLES[slug]) {
-    navigateTo(slug);
-    // Rewrite to hash URL
-    history.replaceState({ slug }, '', `#${slug}`);
-  }
-}
+// handleInitialRoute is now inline in loadArticles() to avoid race condition
 
 function navigateTo(slug, fromPopState) {
   const article = ARTICLES[slug];
