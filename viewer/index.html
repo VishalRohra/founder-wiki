@@ -263,10 +263,17 @@
   .home-columns { display: flex; gap: 20px; }
   .home-col { flex: 1; }
 
+  .home-two-col { display: flex; gap: 20px; align-items: flex-start; }
+  .home-two-col > div { flex: 1; }
+
   @media (max-width: 768px) {
     .sidebar { display: none; }
-    .search-bar input { width: 160px; }
+    .search-bar input { width: 140px; }
+    .site-tagline { display: none; }
     .home-columns { flex-direction: column; }
+    .home-two-col { flex-direction: column; }
+    .home-two-col > div { max-width: 100% !important; }
+    .content { padding: 16px; }
   }
 </style>
 </head>
@@ -467,7 +474,7 @@ function showHome(fromPopState) {
   }
 
   // === Two-column layout for everything ===
-  html += '<div style="display:flex; gap:20px; align-items:flex-start;">';
+  html += '<div class="home-two-col">';
 
   // LEFT COLUMN
   html += '<div style="flex:1;">';
