@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script>
+  // GitHub Pages SPA redirect: converts path-based URLs to hash URLs
+  // founderwiki.co/startup-ideas → founderwiki.co/#startup-ideas
+  var path = window.location.pathname;
+  // Strip leading slash and any trailing slash
+  var slug = path.replace(/^\//, '').replace(/\/$/, '');
+  if (slug) {
+    window.location.replace('/' + '#' + slug);
+  } else {
+    window.location.replace('/');
+  }
+</script>
+</head>
+<body></body>
+</html>

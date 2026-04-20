@@ -14,6 +14,7 @@
 <meta name="twitter:title" content="Founder Wiki">
 <meta name="twitter:description" content="Startup knowledge base compiled for AI agents. YC's library of videos, essays, and founder interviews — grounded, cited, and interlinked.">
 <meta name="twitter:image" content="https://founderwiki.co/og-image.png?v=2">
+<script src="analytics.js"></script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -613,6 +614,17 @@ function navigateTo(slug, fromPopState) {
     history.pushState({ slug }, article.title, `#${slug}`);
   }
   document.title = `${article.title} — Founder Wiki`;
+
+  // Track article view in PostHog
+  if (window.posthog) {
+    posthog.capture('article_viewed', {
+      article_title: article.title,
+      article_type: article.type,
+      article_dir: article.dir,
+      article_slug: slug,
+      source_count: Array.isArray(article.sources) ? article.sources.length : 0,
+    });
+  }
 
   // Article meta line
   let metaLine = '<div class="article-meta-line">';
